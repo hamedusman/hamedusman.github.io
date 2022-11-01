@@ -91,7 +91,7 @@ h1, h2, h3, h4, h5 {
     padding-left:20px;
     padding-right:20px;
     background-color:#fafafa;
-    background-image:-moz-linear-gradient(top, #edffff, #e3ffff);
+    background-image:-moz-linear-gradient(top, #D3D3D3, #e3ffff);
     background-image:-webkit-gradient(linear, 0 0, 0 100%, from(#edffff), to(#f2f2f2));
     background-image:-webkit-linear-gradient(top, #edffff, #e3ffff);
     background-image:-o-linear-gradient(top, #edffff, #e3ffff);
