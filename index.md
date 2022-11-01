@@ -1,3 +1,8 @@
+layout: frontpage
+title: Hamed Usman
+description: Hamed Usman is a graduate research assistant at Saint Louis University. 
+keywords: operations management, supply chain management, logistics
+
 <div class="container">
 <h4><a name="contact"></a>Hamed Usman</h4>
 
@@ -14,11 +19,6 @@
     </div>
 </div>
 
----
-layout: frontpage
-title: Hamed Usman
-description: Hamed Usman is a graduate research assistant at Saint Louis University. 
-keywords: operations management, supply chain management, logistics
 ---
 
 <p>Hamed Usman is a graduate research assistant at <a href="https://www.slu.edu/business">Richard A. Chaifetz School of Business</a>, Saint Louis University, MO, USA.</p>
