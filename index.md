@@ -20,12 +20,12 @@ keywords: operations management, supply chain management, logistics
 <h4><a name="contact"></a>Contact</h4>
 
     <div class="row-fluid">
-        <div class="span5">
+        <div class="span2">
             Hamed Usman<br/>
             Email: hamedusman@live.com<br/>
         </div>
 
-        <div class="span2">
+        <div class="span1">
         <a href="../assets/headshot.jpg">
             <img src="../assets/headshot.jpg"
                   title="Hamed Usman" alt="Hamed Usman"/></a>
