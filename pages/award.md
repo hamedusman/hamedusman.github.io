@@ -3,6 +3,7 @@ layout: page
 title: Award
 description: List of Awards
 
+#### <u>List of Awards*
 -	2019 MS-SCM Outstanding Student Award | Saint Louis University	May 2019
 -	Ranked 1st among graduate students in MS-SCM | Saint Louis University	2017 – 2019
 -	Honorable Mention at Commencement Ceremony | Saint Louis University	May 2019
@@ -13,11 +14,6 @@ description: List of Awards
 -	Vice Rector’s List | Forman Christian College	Summer 2010
 
 ---
-
-#### <u>Paper abstract*
-
-[click here for the most recent version of the paper]({{ BASE_PATH}}/pages/working_papers/sample-working-paper.pdf)
-
 
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
 
