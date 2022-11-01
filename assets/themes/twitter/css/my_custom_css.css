@@ -16,7 +16,7 @@ a {
 
 a:hover {
     color: darkslateblue;
-    background-color: #e3e4fa;
+    background-color: #DEB887;
     text-decoration: none;
 }
 
@@ -26,9 +26,9 @@ a img {
 
 a:hover img {
     color: darkslateblue;
-    background-color: #e3e4fa;
+    background-color: #DEB887;
     text-decoration: none;
-    border: solid 2px #e3e4fa;
+    border: solid 2px #DEB887;
 }
 
 p.center {
