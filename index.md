@@ -6,7 +6,7 @@ keywords: operations management, supply chain management, logistics
 ---  
 <div class="span1">
         <a href="../assets/headshot.jpg">
-            <img src="../assets/headshot.jpg" align="left" hspace="50" vspace="50"
+            <img src="../assets/headshot.jpg" alt="" width="200" height="200" id="headshot"/>
                   title="Hamed Usman" alt="Hamed Usman"/></a>
 </div>
 
