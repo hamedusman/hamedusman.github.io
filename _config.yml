@@ -14,7 +14,7 @@ author : Hamed Usman
   email : hamedusman@live.com
   github : hamedusman
 
-production_url : http://hamedusman.github.io
+production_url : https://hamedusman.github.io
 
 # Tell Github to use the kramdown markdown interpreter
 # (see https://help.github.com/articles/migrating-your-pages-site-from-maruku)
