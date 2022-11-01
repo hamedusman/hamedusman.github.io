@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Award
-description: List of Awards
+title: award
+description: list of awards
 
 #### <u>List of Awards*
 -	2019 MS-SCM Outstanding Student Award | Saint Louis University	May 2019
