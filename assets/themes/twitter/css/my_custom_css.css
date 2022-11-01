@@ -65,15 +65,6 @@ ul {
   list-style-type: square;
 }
 
-.container {
-  &__image {
-    width: 250px;
-    float: left;
-  }
-  &__text {
-    display: inline;
-}
-
 .danger {
     background-color: #ffdddd;
     border-left: 6px solid #f44336;
