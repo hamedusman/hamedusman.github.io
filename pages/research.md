@@ -1,12 +1,12 @@
 ---
 layout: page
 title: Research
-description: Hamed Usman's research
+description: selected research
 ---
 
 
 
-#### <u>Paper abstract*
+#### <u>Selected Articles
 <ul>
 <li>Ik-Whan G. Kwon, Nina Shin, Sung-Ho Kim, Hamed Usman (2021). Trust and commitment in supply chain during digital transformation: A case in Korea. American Institute of Mathematical Sciences - Volume 8, Issue 6: 641-655</li>
 
