@@ -1,3 +1,19 @@
+<div class="container">
+<h4><a name="contact"></a>Hamed Usman</h4>
+
+    <div class="row-fluid">
+        <div class="span5">
+            Hamed Usman<br/>
+        </div>
+
+        <div class="span2">
+        <a href="../assets/headshot.jpg">
+            <img src="../assets/headshot.jpg"
+                  title="Hamed Usman" alt="Hamed Usman"/></a>
+        </div>
+    </div>
+</div>
+
 ---
 layout: frontpage
 title: Hamed Usman
