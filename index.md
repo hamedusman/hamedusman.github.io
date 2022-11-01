@@ -12,7 +12,7 @@ keywords: operations management, supply chain management, logistics
             Hamed Usman<br/>
         </div>
 
-        <div class="span1">
+        <div class="span0.5">
         <a href="../assets/headshot.jpg">
             <img src="../assets/headshot.jpg"
                   title="Hamed Usman" alt="Hamed Usman"/></a>
