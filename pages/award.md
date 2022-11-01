@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research
+title: Award
 description: Hamed Usman's research
 ---
 
