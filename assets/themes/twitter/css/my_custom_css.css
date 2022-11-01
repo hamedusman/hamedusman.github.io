@@ -65,9 +65,13 @@ ul {
   list-style-type: square;
 }
 
-#headshot {
-float: left;    
- margin: 0 15px 0 0;
+.container {
+  &__image {
+    width: 250px;
+    float: left;
+  }
+  &__text {
+    display: inline;
 }
 
 .danger {
