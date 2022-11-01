@@ -93,7 +93,7 @@ h1, h2, h3, h4, h5 {
     background-color:#fafafa;
     background-image:-moz-linear-gradient(top, #D3D3D3, #D3D3D3);
     background-image:-webkit-gradient(linear, 0 0, 0 100%, from(#D3D3D3), to(#f2f2f2));
-    background-image:-webkit-linear-gradient(top, #edffff, #e3ffff);
+    background-image:-webkit-linear-gradient(top, #D3D3D3, #D3D3D3);
     background-image:-o-linear-gradient(top, #D3D3D3, #D3D3D3);
     background-image:linear-gradient(to bottom, #edffff, #e3ffff);
     background-repeat:repeat-x;filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffffff', endColorstr='#fff2f2f2', GradientType=0);
