@@ -1,6 +1,8 @@
+---
 layout: page
-title: award
-description: list of awards
+title: Research
+description: Hamed Usman's research
+---
 
 #### <u>List of Awards
 -	2019 MS-SCM Outstanding Student Award | Saint Louis University (May 2019)
