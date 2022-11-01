@@ -6,7 +6,7 @@
             Hamed Usman<br/>
         </div>
 
-        <div class="span2">
+        <div class="span1">
         <a href="../assets/headshot.jpg">
             <img src="../assets/headshot.jpg"
                   title="Hamed Usman" alt="Hamed Usman"/></a>
