@@ -42,14 +42,12 @@ Hamed Usman is a graduate research assistant at Richard A. Chaifetz School of Bu
 <html>
 <head>
 <style>
-h1 {text-align: center;}
-p {text-align: center;}
 div {text-align: center;}
 </style>
 </head>
 <body>
     
-<div>Ⓒ Hamed Usman 2022 ∙ Website last updated on 11/01/2011</div>
+<div>Ⓒ Hamed Usman 2022</div>
 
 </body>
 </html>
