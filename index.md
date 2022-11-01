@@ -15,8 +15,8 @@ keywords: operations management, supply chain management, logistics
 <h4><a name="contact"></a>Contact</h4>
 
     <div class="row-fluid">
-        <div class="span6">
-            Hamed Usman<br/>
+        <div class="span7">
+<p>Hamed Usman is a graduate research assistant at <a href="https://www.slu.edu/business">Richard A. Chaifetz School of Business</a>, Saint Louis University, MO, USA.</p<>
             Email: hamedusman@live.com<br/>
         </div>
 
