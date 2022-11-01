@@ -58,7 +58,7 @@ td.right {
 
 
 h1, h2, h3, h4 {
-    color: darkslateblue;
+    color: black;
 }
 
 .danger {
@@ -86,7 +86,6 @@ h1, h2, h3, h4 {
     padding-left: 10px;
 }
 
-
 .navbar-inner {
     min-height:40px;
     padding-left:20px;
@@ -106,8 +105,3 @@ h1, h2, h3, h4 {
     -moz-box-shadow:0 1px 4px rgba(0, 0, 0, 0.065);
     box-shadow:0 1px 4px rgba(0, 0, 0, 0.065);*zoom:1;
 }
-
-
-
-
-
