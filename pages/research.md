@@ -19,7 +19,3 @@ To decrease the size of the title, use more #.
 To remove the italics, remove the * before and after the description
 To remove the underline from the title, remove the <u> tags (<u> and </u>)
 -->
-  
-<div class="footer">
-  <p>Ⓒ 2022 Hamed Usman ∙ <a href="{{ BASE_PATH }}/assets/CV.pdf">CV</a> ∙ <a href="https://linkedin.com/in/hamedusman">LinkedIn</a> </p>
-</div>
