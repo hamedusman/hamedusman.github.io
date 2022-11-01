@@ -30,5 +30,5 @@ keywords: operations management, supply chain management, logistics
 
 
 <div class="footer">
-  <p>Ⓒ 2022 Hamed Usman ∙ <a href="{{ BASE_PATH }}/assets/CV.pdf">CV</a> ∙ <a href="https://linkedin.com/in/hamedusman">LinkedIn</a></p>
+  <p>Ⓒ 2022 Hamed Usman ∙ <a href="{{ BASE_PATH }}/assets/CV.pdf">CV</a> ∙ <a href="https://linkedin.com/in/hamedusman">LinkedIn</a> ∙ <a href="mailto:hamedusman@live.com">Email</a></p>
 </div>
