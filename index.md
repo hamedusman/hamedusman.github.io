@@ -28,15 +28,4 @@ Hamed Usman is a graduate research assistant at Richard A. Chaifetz School of Bu
     </div>
 </div>
 
-<div class="navbar">
-  <div class="navbar-inner">
-      <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/assets/CV.pdf">CV</a></li>
-          <li><a href="https://linkedin.com/in/hamedusman">LinkedIn</a></li>
-      </ul>
-  </div>
-</div>
-
----
-
 Ⓒ 2022 Hamed Usman
