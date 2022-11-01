@@ -19,3 +19,7 @@ To decrease the size of the title, use more #.
 To remove the italics, remove the * before and after the description
 To remove the underline from the title, remove the <u> tags (<u> and </u>)
 -->
+  
+<div class="footer">
+  <p>Ⓒ 2022 Hamed Usman</p>
+</div>
