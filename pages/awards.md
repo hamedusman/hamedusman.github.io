@@ -1,5 +1,5 @@
 ---
-layout: Page
+layout: page
 title: Awards
 description: List of Selected Awards
 ---
