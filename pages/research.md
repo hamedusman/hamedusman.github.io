@@ -1,12 +1,9 @@
 ---
-layout: page
+layout: Page
 title: Research
-description: selected research
+description: List of Research Articles and Book Chapters
 ---
 
-
-
-#### <u>Selected Articles
 <ul>
 <li>Ik-Whan G. Kwon, Nina Shin, Sung-Ho Kim, Hamed Usman (2021). Trust and commitment in supply chain during digital transformation: A case in Korea. American Institute of Mathematical Sciences - Volume 8, Issue 6: 641-655</li>
 
