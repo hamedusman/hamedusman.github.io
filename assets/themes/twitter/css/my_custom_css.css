@@ -123,7 +123,7 @@ ul {
     background-image:-webkit-gradient(linear, 0 0, 0 100%, from(#000000), to(#000000));
     background-image:-webkit-linear-gradient(top, #FCE373, #FCE373);
     background-image:-o-linear-gradient(top, #FCE373, #FCE373);
-    background-image:linear-gradient(to bottom, #000000, #000000); /* This changes icon-bar color */ 
+    background-image:linear-gradient(to bottom, #ffffff, #ffffff); /* This changes icon-bar color */ 
     background-repeat:repeat-x;filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#000000', endColorstr='#000000', GradientType=0);
     border:0px solid black;
     -webkit-border-radius:4px;
