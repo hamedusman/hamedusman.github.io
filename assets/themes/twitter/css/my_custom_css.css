@@ -100,7 +100,7 @@ ul {
     background-image:-webkit-linear-gradient(top, #FCE373, #FCE373);
     background-image:-o-linear-gradient(top, #FCE373, #FCE373);
     background-image:linear-gradient(to bottom, #FCE373, #FCE373);
-    background-repeat:repeat-x;filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffffff', endColorstr='#fff2f2f2', GradientType=0);
+    background-repeat:repeat-x;filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#000000', endColorstr='#000000', GradientType=0);
     border:1px solid none;
     -webkit-border-radius:4px;
     -moz-border-radius:4px;
