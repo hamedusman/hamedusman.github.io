@@ -9,5 +9,5 @@ keywords: operations management, supply chain management, logistics
 <p>He received his <a href="https://www.slu.edu/business/graduate/supply-chain-management">Master of Science in Supply Chain Management</a> from Richard A. Chaifetz School of Business, Saint Louis University and <a href="https://www.fccollege.edu.pk/baccalaureate-in-business/">Baccalaureate in Business (Operations Management)</a> from School of Management, Forman Christian College (A Chartered University).</p>
 
 <div class="footer">
-  <p><a href="{{ BASE_PATH }}/assets/CV.pdf"><p class="hover-underline-animation">CV</p></a> ∙ <a href="https://linkedin.com/in/hamedusman"><p class="hover-underline-animation">LinkedIn</p></a> ∙ <a href="mailto:hamedusman@live.com"><p class="hover-underline-animation">Email</p></a></p><p>Ⓒ 2022 Hamed Usman<br></p>
+  <a href="{{ BASE_PATH }}/assets/CV.pdf"><p class="hover-underline-animation">CV</p></a> ∙ <a href="https://linkedin.com/in/hamedusman"><p class="hover-underline-animation">LinkedIn</p></a> ∙ <a href="mailto:hamedusman@live.com"><p class="hover-underline-animation">Email</p></a><p>Ⓒ 2022 Hamed Usman<br></p>
 </div>
