@@ -76,7 +76,7 @@ ul {
   position: absolute;
   width: 100%;
   transform: scaleX(0);
-  height: 0px;
+  height: 2px;
   bottom: 0;
   left: 0;
   background-color: #000000;
