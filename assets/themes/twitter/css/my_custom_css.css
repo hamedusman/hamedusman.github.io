@@ -28,7 +28,7 @@ a:hover img {
     color: black;
     background-color: none;
     text-decoration: none;
-    border: solid 1px white;
+    border: solid 0px white;
 }
 
 p.center {
