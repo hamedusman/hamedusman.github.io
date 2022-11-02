@@ -121,7 +121,7 @@ ul {
     background-color:#000000;
     background-image:-moz-linear-gradient(top, #FCE373, #FCE373);
     background-image:-webkit-gradient(linear, 0 0, 0 100%, from(#000000), to(#000000));
-    background-image:-webkit-linear-gradient(top, #FCE373, #FCE373);
+    background-image:-webkit-linear-gradient(top, #000000, #000000);
     background-image:-o-linear-gradient(top, #000000, #000000);
     background-image:linear-gradient(to bottom, #ffffff, #ffffff); /* This changes color of icon-bar on the top */ 
     background-repeat:repeat-x;filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#000000', endColorstr='#000000', GradientType=0);
