@@ -64,20 +64,24 @@
   border: 1px solid #4c964d;
   color: #FFF; }
 
-*{
+* {
   margin: 0;
   padding: 0;
 }
+
 html, body {
-  height: 100px;
+  height: 100%;
 }
+
 #container-footer {
   min-height: 100%;
 }
+
 #main {
   overflow: auto;
   padding-bottom: 100px;
 }
+
 #footer {
   background-color: #000;
   position: relative;
