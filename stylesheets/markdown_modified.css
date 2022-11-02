@@ -8,12 +8,11 @@ a
 {
   color: purple;
   text-decoration: none;
-  background-color: transparent;
+  background-color: black;
 }
 
 a:hover
 {
   color: purple;
-  background: #CAFFFF;
+  background: black;
 }
-
