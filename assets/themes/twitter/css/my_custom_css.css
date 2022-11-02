@@ -106,7 +106,7 @@ h1, h2, h3, h4, h5 {
     box-shadow:0 1px 4px rgba(0, 0, 0, 0.065);*zoom:1;
 }
 .footer {
-   position: static;
+   position: absolute;
    left: 0;
    bottom: 0;
    width: 100%;
