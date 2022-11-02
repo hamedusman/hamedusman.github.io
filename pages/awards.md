@@ -1,6 +1,6 @@
 ---
 layout: page
-title: awards
+title: Awards
 description: list of selected awards
 ---
 <ul>
