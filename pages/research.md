@@ -23,5 +23,5 @@ To remove the underline from the title, remove the <u> tags (<u> and </u>)
 -->
   
 <div class="footer">
-  <p>Ⓒ 2022 Hamed Usman ∙ <a href="{{ BASE_PATH }}/assets/CV.pdf">CV</a> ∙ <a href="https://linkedin.com/in/hamedusman">LinkedIn</a> ∙ <a href="mailto:hamedusman@live.com">Email</a></p>
+  <a href="{{ BASE_PATH }}/assets/CV.pdf">CV</a> ∙ <a href="https://linkedin.com/in/hamedusman">LinkedIn</a> ∙ <a href="mailto:hamedusman@live.com">Email</a> <p>Ⓒ 2022 Hamed Usman<br></p>
 </div>
