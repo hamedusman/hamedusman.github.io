@@ -2,6 +2,7 @@
 layout: page
 title: awards
 description: List of Selected Awards
+---
 <ul>
 <li>2019 MS-SCM Outstanding Student Award | Saint Louis University (May 2019)</li>
 <li>Ranked 1st among graduate students in MS-SCM | Saint Louis University	(2017 – 2019)</li>
