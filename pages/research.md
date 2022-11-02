@@ -1,12 +1,13 @@
 ---
-layout: Page
+layout: page
 title: Research
 description: List of Research Articles and Book Chapters
 ---
-# List of Research Articles and Book Chapters
+<h4>Research Article</h4>
 <ul>
 <li>Ik-Whan G. Kwon, Nina Shin, Sung-Ho Kim, Hamed Usman (2021). Trust and commitment in supply chain during digital transformation: A case in Korea. American Institute of Mathematical Sciences - Volume 8, Issue 6: 641-655</li>
 
+<h4>Book Chapter</h4>
 <li>Ik-Whan G. Kwon, Nina Shin, Sung-Ho Kim, Hamed Usman (2021). Vaccine Supply Chain Distribution under Covid-19 Pandemic: Stressed, Resourceful and Resilient – Lesson Learned from the United States Experiences. Proud Pen Limited, London</li>
 </ul>
 
