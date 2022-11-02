@@ -119,11 +119,11 @@ ul {
     padding-left:20px;
     padding-right:20px;
     background-color:#000000;
-    background-image:-moz-linear-gradient(top, #edffff, #e3ffff);
+    background-image:-moz-linear-gradient(top, #FCE373, #FCE373);
     background-image:-webkit-gradient(linear, 0 0, 0 100%, from(#edffff), to(#f2f2f2));
-    background-image:-webkit-linear-gradient(top, #edffff, #e3ffff);
-    background-image:-o-linear-gradient(top, #edffff, #e3ffff);
-    background-image:linear-gradient(to bottom, #edffff, #e3ffff);
+    background-image:-webkit-linear-gradient(top, #FCE373, #FCE373);
+    background-image:-o-linear-gradient(top, #FCE373, #FCE373);
+    background-image:linear-gradient(to bottom, #FCE373, #FCE373);
     background-repeat:repeat-x;filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffffff', endColorstr='#fff2f2f2', GradientType=0);
     border:0px solid white;
     -webkit-border-radius:4px;
