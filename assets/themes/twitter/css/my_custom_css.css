@@ -28,7 +28,7 @@ a:hover img {
     color: black;
     background-color: #CCA69A;
     text-decoration: none;
-    border: solid 2px white;
+    border: solid 1px white;
 }
 
 p.center {
@@ -76,8 +76,8 @@ ul {
   position: absolute;
   width: 100%;
   transform: scaleX(0);
-  height: 3px;
-  bottom: 2;
+  height: 2px;
+  bottom: 0;
   left: 0;
   background-color: #CCA69A;
   transform-origin: bottom right;
@@ -125,7 +125,7 @@ ul {
     background-image:-o-linear-gradient(top, #edffff, #e3ffff);
     background-image:linear-gradient(to bottom, #edffff, #e3ffff);
     background-repeat:repeat-x;filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffffff', endColorstr='#fff2f2f2', GradientType=0);
-    border:1px solid white;
+    border:0px solid white;
     -webkit-border-radius:4px;
     -moz-border-radius:4px;
     border-radius:4px;
