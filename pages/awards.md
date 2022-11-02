@@ -1,7 +1,7 @@
 ---
 layout: page
 title: awards
-description: List of Selected Awards
+description: list of selected awards
 ---
 <ul>
 <li>2019 MS-SCM Outstanding Student Award | Saint Louis University (May 2019)</li>
