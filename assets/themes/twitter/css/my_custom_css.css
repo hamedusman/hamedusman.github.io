@@ -68,7 +68,7 @@ ul {
 .hover-underline-animation {
   display: inline-block;
   position: relative;
-  color: #CCA69A;
+  color: #000000;
 }
 
 .hover-underline-animation:after {
@@ -79,7 +79,7 @@ ul {
   height: 2px;
   bottom: 0;
   left: 0;
-  background-color: #000000;
+  background-color: #CCA69A;
   transform-origin: bottom right;
   transition: transform 0.25s ease-out;
 }
