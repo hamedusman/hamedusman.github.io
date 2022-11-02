@@ -1,9 +1,9 @@
 code {
   padding: 0;
   font-size: 100%;
-  color: black;
-  background-color: black;
-  border: 0px solid black;
+  color: #000000;
+  background-color: #000000;
+  border: 0px solid #000000;
 }
 
 a code {
