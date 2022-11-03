@@ -1,6 +1,6 @@
 ---
 layout: frontpage
-title: Hamed Usman
+title: Hamed Usman - Researcher and Teacher
 description: Hamed Usman is a graduate research assistant at Saint Louis University. 
 keywords: operations management, supply chain management, logistics
 ---
