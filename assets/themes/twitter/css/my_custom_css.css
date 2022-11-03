@@ -142,7 +142,7 @@ ul {
   height: 2px;
   bottom: 0;
   left: 0;
-  background-color: #CCA69A; /* To change the color of hover-underline-animation */
+  background-color: #f5f5f5; /* To change the color of hover-underline-animation */
   transform-origin: bottom right;
   transition: transform 0.25s ease-out;
 }
