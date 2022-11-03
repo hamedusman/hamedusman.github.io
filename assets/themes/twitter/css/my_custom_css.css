@@ -124,7 +124,7 @@ ul {
   color: black;
   font-size: 10o%;
   text-align: center;
-  line-height: 0px; /* Keep it same with footer height */
+  /*line-height: 0px;*/ /* Keep it same with footer height */
   margin-top: auto;
   margin-bottom: auto;
 }
