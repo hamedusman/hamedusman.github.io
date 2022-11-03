@@ -90,8 +90,8 @@ h1, h2, h3, h4, h5 {
 }
 
 .navbar-inner {
-    height: 30px;
-    min-height:30px;
+    height: 25px;
+    min-height:25px;
     padding-left:20px;
     padding-right:20px;
     background-color:none;
