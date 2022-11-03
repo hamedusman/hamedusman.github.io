@@ -150,5 +150,5 @@ ul {
 
 .hover-underline-animation:hover:after {
   transform: scaleX(1);
-  transform-origin: bottom left;
+  transform-origin: bottom left; /* add this to deafault.html <p class="hover-underline-animation">editable text</p> */
 }
