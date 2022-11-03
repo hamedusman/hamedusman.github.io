@@ -122,4 +122,15 @@ h1, h2, h3, h4, h5 {
   font-size: 10px;
   text-align: center;
   line-height: 50px;
-  
+  margin-top: auto;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+html {
+  height: 100%;
+}
