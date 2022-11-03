@@ -71,10 +71,12 @@
 
 html, body {
   height: 100%;
+  box-sizing: border-box;
 }
 
 #container {
   min-height: 100%;
+  box-sizing: inherit;
 }
 
 #main {
