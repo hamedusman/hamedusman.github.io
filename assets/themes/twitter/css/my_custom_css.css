@@ -13,11 +13,11 @@ code {
 
 a code {
     color: #slateblue;
-   background-color: #000000;
 }
 
 a {
     color: #slateblue;
+  background-color: #000000;
 }
 
 a:hover {
