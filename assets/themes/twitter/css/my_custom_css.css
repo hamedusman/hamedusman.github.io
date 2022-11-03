@@ -101,7 +101,7 @@ h1, h2, h3, h4, h5 {
     background-image:-o-linear-gradient(top, #edffff, #e3ffff);
     background-image:linear-gradient(to bottom, #ffffff, #ffffff); /* To change the color of icon-bar on the top */
     background-repeat:repeat-x;filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffffff', endColorstr='#ffffff', GradientType=0);
-    border:0px solid #ffffff;
+    border:1px solid #000000;
     -webkit-border-radius:4px;
     -moz-border-radius:4px;
     border-radius:4px;
