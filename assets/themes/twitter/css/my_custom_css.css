@@ -130,7 +130,7 @@ h1, h2, h3, h4, h5 {
   color:#ffffff;
   font-size: 10px;
   text-align: center;
-  line-height: 50px;
+  line-height: 50px; /* Keep it same with footer height */
   margin-top: auto;
   margin-bottom: auto;
 }
