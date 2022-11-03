@@ -17,7 +17,8 @@ a code {
 
 a {
     color: #slateblue;
-  background-color: #000000;
+    background-color: none;
+    text-decoration: black;
 }
 
 a:hover {
