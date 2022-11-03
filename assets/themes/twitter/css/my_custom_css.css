@@ -130,7 +130,7 @@ ul {
 .hover-underline-animation {
   display: inline-block;
   position: relative;
-  color: #000000; /* To change the color of text with hover-underline-animation */
+  color: #c0c0c0; /* To change the color of text with hover-underline-animation */
 }
 
 .hover-underline-animation:after {
