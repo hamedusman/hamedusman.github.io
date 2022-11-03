@@ -8,12 +8,11 @@ highlighter: rouge
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : HAMED USMAN
+title : Hamed Usman
 author :
   name : Hamed Usman
   email : hamedusman@live.com
-  github : hamedusman
-  twitter :
+  github : 
 
 production_url : https://hamedusman.github.io
 
