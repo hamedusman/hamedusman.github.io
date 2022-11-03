@@ -17,12 +17,11 @@ a code {
 
 a {
     color: #slateblue;
-    background-color: none;
 }
 
 a:hover {
     color: darkslateblue;
-    background-color: #000000; /* To change the hover color of page title */
+    background-color: none; /* To change the hover color of hyperlinked text */
     text-decoration: none;
 }
 
