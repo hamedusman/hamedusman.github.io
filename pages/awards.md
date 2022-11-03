@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Awards | Hamed Usman
+title: Awards
 description: List of Selected Awards
 ---
 <ul>
