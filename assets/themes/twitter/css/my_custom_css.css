@@ -126,3 +126,27 @@ ul {
   margin-top: auto;
   margin-bottom: auto;
 }
+
+.hover-underline-animation {
+  display: inline-block;
+  position: relative;
+  color: #000000; /* To change the color of text with hover-underline-animation */
+}
+
+.hover-underline-animation:after {
+  content: '';
+  position: absolute;
+  width: 100%;
+  transform: scaleX(0);
+  height: 2px;
+  bottom: 0;
+  left: 0;
+  background-color: #CCA69A; /* To change the color of hover-underline-animation */
+  transform-origin: bottom right;
+  transition: transform 0.25s ease-out;
+}
+
+.hover-underline-animation:hover:after {
+  transform: scaleX(1);
+  transform-origin: bottom left; /* Add this to default.html --> <p class="hover-underline-animation">add text here</p> */
+}
