@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research
+title: Research | Hamed Usman
 description: List of Research Articles and Book Chapters
 ---
 <h5>Research Article</h5>
