@@ -32,11 +32,11 @@ a img {
 #hu {
   display: block;
   margin-top: 0px;
-  margin-right: -10px;
+  margin-right: 0px;
   margin-bottom: 0px;
-  margin-left: 0px;
-  width: 30px;
-  height: 30px;
+  margin-left: -50px;
+  width: 39px;
+  height: 39px;
   float: none;  
   /*margin: 0 12px auto auto;*/
 }
