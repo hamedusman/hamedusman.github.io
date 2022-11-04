@@ -8,7 +8,7 @@ keywords: operations management, supply chain management, logistics
 <div id="container-hu">
 
     <div id="hu">
-        <img src="../assets/hu.ai"/>
+        <img src="../assets/hu.svg"/>
     </div>
 
 
