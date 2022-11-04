@@ -29,6 +29,11 @@ a img {
     border: solid 0px white;
 }
 
+#hu  {
+float: none;    
+ margin: 0 15px 0 0;
+}
+
 a:hover img {
     color: darkslateblue;
     background-color: none;
