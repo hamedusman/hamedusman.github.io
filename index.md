@@ -18,10 +18,5 @@ keywords: operations management, supply chain management, logistics
             Email: hamedusman@live.com<br/>
         </div>
 
-        <div class="span2">
-        <a href="../assets/headshot.jpg">
-            <img src="../assets/headshot.jpg"
-                  title="Hamed Usman" alt="Hamed Usman"/></a>
-        </div>
     </div>
 </div>
