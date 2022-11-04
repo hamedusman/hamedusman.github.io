@@ -5,7 +5,7 @@ description: List of Research Articles and Book Chapters
 ---
 <h5>Article</h5>
 <ul>
-<li>Kwon, I. W. G., Shin, N., Kim, S. H., & Usman, H. (2021). Trust and commitment in supply chain during digital transformation: A case in Korea. <i>AIMS Environmental Science</i>, 8(6), 641-655.</li>
+<li>Kwon, I. W. G., Shin, N., Kim, S. H., & Usman, H. (2021). Trust and commitment in supply chain during digital transformation: A case in Korea. <i>American Institute of Mathematical Sciences, Environmental Science</i>, 8(6), 641-655.</li>
 <div class="summary"><p><strong>Abstract:</strong> The study reaffirms that the fundamentals of the supply chain relationships have not changed during the digital transformation period in Korea between 2006 and 2018. The supply chain professionals in 2006 regarded trust building process as the most important construct for the successful supply chain operations while in the 2018, trust-based commitment became the most important construct. See the full article <a href="https://doi.org/10.3934/environsci.2021040">here</a></p></div>
 </ul>
 
