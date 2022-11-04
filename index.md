@@ -7,6 +7,14 @@ keywords: operations management, supply chain management, logistics
 
 <img class="hu" src="../assets/headshot.jpg" width="50" height="50" align="center"><br>
 
+
+<div id="container">
+
+    <div id="image" style="float:left;">
+        <img src="../assets/headshot.jpg" width="50" height="50" align="center"/>
+    </div>
+
+
 <p>Hamed Usman is a graduate research assistant at <a href="https://www.slu.edu/business">Richard A. Chaifetz School of Business</a>, Saint Louis University, MO, USA.</p>
 <p>His research interests are supply chain management, logistics, and operations management. His research has been published in journals including <a href="https://www.aimsciences.org">American Institute of Mathematical Sciences</a>.</p>
 <p>His academic achievements have also been recognized by various awards including 2019 Supply Chain Management Outstanding Graduate Student Award at Saint Louis University; honorable mention at Saint Louis University's Commencement Ceremony; and lifetime induction in <a href="https://www.betagammasigma.org">Beta Gamma Sigma Honor Society</a>. He has also accomplished many academic scholarships such as <a href="https://www.slu.edu/business/centers/supply-chain-excellence/index.php">Center for Supply Chain Excellence</a> Scholarship at Saint Louis University and Full Talent Scholarship at <a href="https://www.fccollege.edu.pk">Forman Christian College (A Chartered University)</a>.</p>
