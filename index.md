@@ -5,9 +5,6 @@ description: Hamed Usman is a graduate research assistant at Saint Louis Univers
 keywords: operations management, supply chain management, logistics
 ---
 
-<img class="hu" src="../assets/headshot.jpg" width="50" height="50" align="center"><br>
-
-
 <div id="container-hu">
 
     <div id="hu">
