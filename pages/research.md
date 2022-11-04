@@ -6,8 +6,7 @@ description: List of Research Articles and Book Chapters
 <h5>Article</h5>
 <ul>
 <li>Kwon, I. W. G., Shin, N., Kim, S. H., & Usman, H. (2021). Trust and commitment in supply chain during digital transformation: A case in Korea. <i>AIMS Environmental Science</i>, 8(6), 641-655.</li>
-<div class="summary"><p><strong>Abstract:</strong> The study reaffirms that the fundamentals of the supply chain relationships have not changed during the digital transformation period in Korea between 2006 and 2018. The supply chain professionals in 2006 regarded trust building process as the most important construct for the successful supply chain operations while in the 2018, trust-based commitment became the most important construct.</p>
-<p>See the full article <a href="https://doi.org/10.3934/environsci.2021040">here</a></p></div>
+<div class="summary"><p><strong>Abstract:</strong> The study reaffirms that the fundamentals of the supply chain relationships have not changed during the digital transformation period in Korea between 2006 and 2018. The supply chain professionals in 2006 regarded trust building process as the most important construct for the successful supply chain operations while in the 2018, trust-based commitment became the most important construct. See the full article <a href="https://doi.org/10.3934/environsci.2021040">here</a></p></div>
 </ul>
 
 <br>
@@ -23,6 +22,6 @@ description: List of Research Articles and Book Chapters
 <br>
 <h5>Book Chapter</h5>
 <ul>
-<li>Ik-Whan G. Kwon, Nina Shin, Sung-Ho Kim, Hamed Usman (2021). <a href="https://doi.org/10.51432/978-1-8381524-2-0-6">Vaccine Supply Chain Distribution under Covid-19 Pandemic: Stressed, Resourceful and Resilient – Lesson Learned from the United States Experiences.</a> <a href="https://www.proudpen.com">Proud Pen Limited, London</a></li>
-<div class="summary"><p><strong>Abstract:</strong> This study found that once information filtered through the local level, the pandemic supply chain functioned well as it should have performed. Therefore, a pandemic supply chain infrastructure should be in place at the local level for future emergency deployment.</p></div>
+<li>Kwon, I. W. G., Kim, S. H., & Usman, H. (2021). Vaccine Supply Chain Distribution under Covid-19 Pandemic: Stressed, Resourceful and Resilient – Lesson Learned from the United States Experiences. <i>Proud Pen Limited, London</i></li>
+<div class="summary"><p><strong>Abstract:</strong> This study found that once information filtered through the local level, the pandemic supply chain functioned well as it should have performed. Therefore, a pandemic supply chain infrastructure should be in place at the local level for future emergency deployment. See the full article <a href="https://doi.org/10.51432/978-1-8381524-2-0-6">here</a></p></div>
 </ul>
