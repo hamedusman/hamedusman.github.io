@@ -37,7 +37,7 @@ a img {
   margin-left: 0px;
   width: 40px;
   height: 40px;
-  float: right;  
+  float: inherit;  
   /*margin: 0 12px auto auto;*/
 }
 
