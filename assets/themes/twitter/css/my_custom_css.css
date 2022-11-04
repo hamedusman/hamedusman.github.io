@@ -76,6 +76,12 @@ h1, h2, h3, h4, h5 {
     color: ##000000;
 }
 
+.summary {
+    background-color: #dcdcdc;
+    border-left: 6px solid #808080;
+    padding-left: 10px;
+}
+
 .danger {
     background-color: #ffdddd;
     border-left: 6px solid #f44336;
