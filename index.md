@@ -10,7 +10,7 @@ keywords: operations management, supply chain management, logistics
 
 <div id="container">
 
-    <div id="image" style="float:none;">
+    <div id="image">
         <img src="../assets/headshot.jpg" width="50" height="50" align="center"/>
     </div>
 
