@@ -8,13 +8,11 @@ keywords: operations management, supply chain management, logistics
 <img class="hu" src="../assets/headshot.jpg" width="50" height="50" align="center"><br>
 
 
-<div id="container">
+<div id="container-hu">
 
-    <div id="image">
+    <div id="hu">
         <img src="../assets/headshot.jpg" width="50" height="50" align="center"/>
     </div>
-
-<div style="text-align: center;"><img src="../assets/hu.jpg" width="100" alt="My Image" id="hu"/></div>
 
 
 <p>Hamed Usman is a graduate research assistant at <a href="https://www.slu.edu/business">Richard A. Chaifetz School of Business</a>, Saint Louis University, MO, USA.</p>
