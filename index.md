@@ -5,7 +5,7 @@ description: Hamed Usman is a graduate research assistant at Saint Louis Univers
 keywords: operations management, supply chain management, logistics
 ---
 
-<img class="hu" src="../assets/headshot.jpg" width="200" height="200"><br>
+<img class="hu" src="../assets/headshot.jpg" width="50" height="50" align="center"><br>
 
 <p>Hamed Usman is a graduate research assistant at <a href="https://www.slu.edu/business">Richard A. Chaifetz School of Business</a>, Saint Louis University, MO, USA.</p>
 <p>His research interests are supply chain management, logistics, and operations management. His research has been published in journals including <a href="https://www.aimsciences.org">American Institute of Mathematical Sciences</a>.</p>
