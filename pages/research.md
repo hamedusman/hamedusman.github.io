@@ -19,6 +19,6 @@ description: List of Research Articles and Book Chapters
 <br>
 <h5>Book Chapter(s)</h5>
 <ul>
-<li>Ik-Whan G. Kwon, Nina Shin, Sung-Ho Kim, Hamed Usman (2021). Vaccine Supply Chain Distribution under Covid-19 Pandemic: Stressed, Resourceful and Resilient – Lesson Learned from the United States Experiences. Proud Pen Limited, London</li>
+<li>Ik-Whan G. Kwon, Nina Shin, Sung-Ho Kim, Hamed Usman (2021). <a href="https://doi.org/10.51432/978-1-8381524-2-0-6">Vaccine Supply Chain Distribution under Covid-19 Pandemic: Stressed, Resourceful and Resilient – Lesson Learned from the United States Experiences.</a> Proud Pen Limited, London</li>
   <p><b>Abstract:</b> This study found that once information filtered through the local level, the pandemic supply chain functioned well as it should have performed. Therefore, a pandemic supply chain infrastructure should be in place at the local level for future emergency deployment.</p>
 </ul>
