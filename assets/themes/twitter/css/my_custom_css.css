@@ -25,14 +25,6 @@ a:hover {
     text-decoration: none;
 }
 
-.logo-image{
-    width: 46px;
-    height: 46px;
-    border-radius: 50%;
-    overflow: hidden;
-    margin-top: -6px;
-}
-
 a img {
     border: solid 0px white;
 }
