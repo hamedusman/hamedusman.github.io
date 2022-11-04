@@ -32,7 +32,8 @@ a img {
 #hu  {
  width: 40px;
  height: 40px;
- float: left;    
+ align: center;
+ float: inherit;    
  margin: 0 10px 10px 0;
 }
 
