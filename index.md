@@ -52,7 +52,7 @@ keywords: hanedusman, hamed usman, hamed, usman, operations management, supply c
 </section>
 
 <div class="container">
-<h4><a name="contact"></a>contact</h4>
+<h4><a name="awards"></a>Selected Awards</h4>
 <div class="row-fluid">
 <div class="span5">
 <ul>
