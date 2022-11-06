@@ -5,9 +5,41 @@ description: Hamed Usman is a graduate research assistant at Saint Louis Univers
 keywords: hanedusman, hamed usman, hamed, usman, operations management, supply chain management, logistics
 ---
 <p>Hamed Usman is a graduate research assistant at <a href="https://www.slu.edu/business">Richard A. Chaifetz School of Business</a>, Saint Louis University, MO, USA.</p>
+
+<script type="text/javascript">
+                     function toggle(obj) {
+                     var obj=document.getElementById(obj);
+                     if (obj.style.display == "block") obj.style.display = "none";
+                     else obj.style.display = "block";
+                     }
+                     </script>
+                    <a href="javascript: void(0);" onclick="toggle('q1')"><u>click here to show</u></a>
+                     <div id="q1" style="display:none;"></div>
+                    <script language="javascript"> 
+                    function toggle() {
+                        var ele = document.getElementById("toggleText");
+                        var text = document.getElementById("displayText");
+                        if(ele.style.display == "block") {
+                                ele.style.display = "none";
+                            text.innerHTML = "(...more)";
+                          }
+                        else {
+                            ele.style.display = "block";
+                            text.innerHTML = "(less)";
+                        }
+                    } 
+                    </script>
+                     
+                    <a id="displayText"="javascript:toggle();" style='text-decoration: none;'>(...more)</a>
+                    <div id="toggleText" style="display: none">
+                    <p></p>
+
 <p>His research interests are supply chain management, logistics, and operations management. His research has been published in journals including <a href="https://www.aimsciences.org">American Institute of Mathematical Sciences</a>.</p>
 <p>His academic achievements have also been recognized by various awards including 2019 Supply Chain Management Outstanding Graduate Student Award at Saint Louis University; honorable mention at Saint Louis University's Commencement Ceremony; and lifetime induction in <a href="https://www.betagammasigma.org">Beta Gamma Sigma Honor Society</a>. He has also accomplished many academic scholarships such as <a href="https://www.slu.edu/business/centers/supply-chain-excellence/index.php">Center for Supply Chain Excellence</a> Scholarship at Saint Louis University and Full Talent Scholarship at <a href="https://www.fccollege.edu.pk">Forman Christian College (A Chartered University)</a>.</p>
-<p>He received his <a href="https://www.slu.edu/business/graduate/supply-chain-management">Master of Science in Supply Chain Management</a> from Richard A. Chaifetz School of Business, Saint Louis University and <a href="https://www.fccollege.edu.pk/baccalaureate-in-business/">Baccalaureate in Business (Operations Management)</a> from School of Management, Forman Christian College (A Chartered University).</p><br/>
+<p>He received his <a href="https://www.slu.edu/business/graduate/supply-chain-management">Master of Science in Supply Chain Management</a> from Richard A. Chaifetz School of Business, Saint Louis University and <a href="https://www.fccollege.edu.pk/baccalaureate-in-business/">Baccalaureate in Business (Operations Management)</a> from School of Management, Forman Christian College (A Chartered University).</p>
+</span></div></div>
+
+<br/>
 
 ---
 
@@ -33,7 +65,9 @@ keywords: hanedusman, hamed usman, hamed, usman, operations management, supply c
 <ul>
 <li>Kwon, I. W. G., Kim, S. H., & Usman, H. (2021). Vaccine Supply Chain Distribution under Covid-19 Pandemic: Stressed, Resourceful and Resilient – Lesson Learned from the United States Experiences. <i>Proud Pen Limited</i>, London, UK</li>
 <div class="summary"><p><strong>Summary:</strong> This study found that once information filtered through the local level, the pandemic supply chain functioned well as it should have performed. Therefore, a pandemic supply chain infrastructure should be in place at the local level for future emergency deployment. See the full article <a href="https://doi.org/10.51432/978-1-8381524-2-0-6">here</a></p></div>
-</ul><br/>
+</ul>
+
+<br/>
 
 ---
 
