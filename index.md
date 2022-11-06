@@ -9,8 +9,8 @@ keywords: hanedusman, hamed usman, hamed, usman, operations management, supply c
 <p>His academic achievements have also been recognized by various awards including 2019 Supply Chain Management Outstanding Graduate Student Award at Saint Louis University; honorable mention at Saint Louis University's Commencement Ceremony; and lifetime induction in <a href="https://www.betagammasigma.org">Beta Gamma Sigma Honor Society</a>. He has also accomplished many academic scholarships such as <a href="https://www.slu.edu/business/centers/supply-chain-excellence/index.php">Center for Supply Chain Excellence</a> Scholarship at Saint Louis University and Full Talent Scholarship at <a href="https://www.fccollege.edu.pk">Forman Christian College (A Chartered University)</a>.</p>
 <p>He received his <a href="https://www.slu.edu/business/graduate/supply-chain-management">Master of Science in Supply Chain Management</a> from Richard A. Chaifetz School of Business, Saint Louis University and <a href="https://www.fccollege.edu.pk/baccalaureate-in-business/">Baccalaureate in Business (Operations Management)</a> from School of Management, Forman Christian College (A Chartered University).</p>
 
-<div class="container">
-<h4><a name="contact"></a>Research</h4>
+<br>
+</a>Research</h4>
 <h5>Article</h5>
 <ul>
 <li>Kwon, I. W. G., Shin, N., Kim, S. H., & Usman, H. (2021). Trust and commitment in supply chain during digital transformation: A case in Korea. <i>American Institute of Mathematical Sciences, Environmental Science</i>, 8(6), 641-655.</li>
@@ -33,7 +33,6 @@ keywords: hanedusman, hamed usman, hamed, usman, operations management, supply c
 <li>Kwon, I. W. G., Kim, S. H., & Usman, H. (2021). Vaccine Supply Chain Distribution under Covid-19 Pandemic: Stressed, Resourceful and Resilient – Lesson Learned from the United States Experiences. <i>Proud Pen Limited</i>, London, UK</li>
 <div class="summary"><p><strong>Summary:</strong> This study found that once information filtered through the local level, the pandemic supply chain functioned well as it should have performed. Therefore, a pandemic supply chain infrastructure should be in place at the local level for future emergency deployment. See the full article <a href="https://doi.org/10.51432/978-1-8381524-2-0-6">here</a></p></div>
 </ul>
-</div>
 
 <br>
 <h4>Selected Awards</h4>
