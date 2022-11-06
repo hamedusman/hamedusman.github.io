@@ -1,0 +1,170 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+code {
+  padding: 0;
+  font-size: 100%;
+  color: black;
+  background-color: white;
+  border: 0px solid white;
+}
+
+a code {
+    color: #slateblue;
+}
+
+a {
+    color: #slateblue;
+}
+
+a:hover {
+    color: #000000;
+    background-color: #f5f5f5; /* To change the hover color of hyperlinked text */
+    text-decoration: none;
+}
+
+a img {
+    border: solid 0px white;
+}
+
+#hu {
+  *display: block;
+  margin-top: 0px;
+  margin-right: auto;
+  margin-bottom: 0px;
+  margin-left: auto;
+  width: 39px;
+  height: 39px;
+  /*float: left;*/
+}
+
+a:hover img {
+    color: darkslateblue;
+    background-color: none;
+    text-decoration: none;
+    border: solid 0px #ffffff;
+}
+
+p.center {
+    text-align: center;
+}
+
+table.wide {
+    width: 100%;
+}
+
+table.wide td {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+td.left {
+    text-align: left;
+}
+
+td.right {
+    text-align: right;
+}
+
+#hide_email b {
+    display: none;
+}
+
+h1, h2, h3, h4, h5 {
+    color: ##000000;
+}
+
+.summary {
+    background-color: #dcdcdc;
+    border-left: 6px solid #808080;
+    padding-left: 10px;
+}
+
+.danger {
+    background-color: #ffdddd;
+    border-left: 6px solid #f44336;
+    padding-left: 10px;
+}
+
+.success {
+    background-color: #ddffdd;
+    border-left: 6px solid #4CAF50;
+    padding-left: 10px;
+}
+
+.info {
+    background-color: #e7f3fe;
+    border-left: 6px solid #2196F3;
+    padding-left: 10px;
+}
+
+.warning {
+    background-color: #ffffcc;
+    border-left: 6px solid #ffeb3b;
+    padding-left: 10px;
+}
+
+.navbar-inner {
+    height: 39px;
+    min-height:39px;
+    padding-left:20px;
+    padding-right:20px;
+    background-color:none;
+    background-image:-moz-linear-gradient(top, #edffff, #e3ffff);
+    background-image:-webkit-gradient(linear, 0 0, 0 100%, from(#edffff), to(#f2f2f2));
+    background-image:-webkit-linear-gradient(top, #edffff, #e3ffff);
+    background-image:-o-linear-gradient(top, #edffff, #e3ffff);
+    background-image:linear-gradient(to bottom, #edffff, #e3ffff); /* To change the color of icon-bar on the top */
+    background-repeat:repeat-x;filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffffff', endColorstr='#ffffff', GradientType=0);
+    border:0px solid #ffffff; /* To change the border around icon bar at the top */
+    -webkit-border-radius:4px;
+    -moz-border-radius:4px;
+    border-radius:4px;
+    -webkit-box-shadow:0 1px 4px rgba(0, 0, 0, 0.065);
+    -moz-box-shadow:0 1px 4px rgba(0, 0, 0, 0.065);
+    box-shadow:0 1px 4px rgba(0, 0, 0, 0.065);*zoom:1;
+}
+
+ul {
+  list-style-type: square;
+}
+
+.footer {
+  width: 100%;
+  height: 0px;
+  background-color: none;
+}
+.footer p {
+  color: black;
+  font-size: 10o%;
+  text-align: center;
+  /*line-height: 0px;*/ /* Keep it same with footer height - Disabled to correct the hover-underline-animation */
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+.hover-underline-animation {
+  display: inline-block;
+  position: relative;
+  color: #777777; /* To change the color of text with hover-underline-animation */
+}
+
+.hover-underline-animation:after {
+  content: '';
+  position: absolute;
+  width: 100%;
+  transform: scaleX(0);
+  height: 2px;
+  bottom: 0;
+  left: 0;
+  background-color: #777777; /* To change the color of hover-underline-animation */
+  transform-origin: bottom right;
+  transition: transform 0.25s ease-out;
+}
+
+.hover-underline-animation:hover:after {
+  transform: scaleX(1);
+  transform-origin: bottom left; /* Add this to default.html --> <p class="hover-underline-animation">add text here</p> */
+}

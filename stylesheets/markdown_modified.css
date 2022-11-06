@@ -1,0 +1,18 @@
+/* Modifications to http://kevinburke.bitbucket.org/markdowncss/markdown.css */
+
+ul,ol {
+    margin: 0 0 0 35px;
+}
+
+a
+{
+  color: black;
+  text-decoration: none;
+  background-color: black;
+}
+
+a:hover
+{
+  color: black;
+  background: black;
+}
