@@ -39,9 +39,8 @@ keywords: hanedusman, hamed usman, hamed, usman, operations management, supply c
 
 
 <footer class ="footer">
-<div id="hu">
 <h4>Selected Awards</h4>
-<ul>
+<ul><p>
 <li>2019 MS-SCM Outstanding Student Award | Saint Louis University (May 2019)</li>
 <li>Ranked 1st among graduate students in MS-SCM | Saint Louis University	(2017 – 2019)</li>
 <li>Honorable Mention at Commencement Ceremony | Saint Louis University	(May 2019)</li>
@@ -50,7 +49,7 @@ keywords: hanedusman, hamed usman, hamed, usman, operations management, supply c
 <li>Merit Scholarship for graduate program | Saint Louis University	(Fall 2017)</li>
 <li>Talent Scholarship for undergraduate studies | Forman Christian College	(2007 – 2011)</li>
 <li>Vice Rector’s List | Forman Christian College	(Summer 2010)</li>
-</ul>
+</p></ul>
 </footer>
 
 <h4>Selected Awards</h4>
