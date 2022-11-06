@@ -32,6 +32,7 @@ keywords: hanedusman, hamed usman, hamed, usman, operations management, supply c
 <li>Kwon, I. W. G., Kim, S. H., & Usman, H. (2021). Vaccine Supply Chain Distribution under Covid-19 Pandemic: Stressed, Resourceful and Resilient – Lesson Learned from the United States Experiences. <i>Proud Pen Limited</i>, London, UK</li>
 <div class="summary"><p><strong>Summary:</strong> This study found that once information filtered through the local level, the pandemic supply chain functioned well as it should have performed. Therefore, a pandemic supply chain infrastructure should be in place at the local level for future emergency deployment. See the full article <a href="https://doi.org/10.51432/978-1-8381524-2-0-6">here</a></p></div>
 </ul><br/>
+
 ---
 
 <h4>Selected Awards</h4>
