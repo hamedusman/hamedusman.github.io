@@ -10,7 +10,7 @@ keywords: hanedusman, hamed usman, hamed, usman, operations management, supply c
 <p>He received his <a href="https://www.slu.edu/business/graduate/supply-chain-management">Master of Science in Supply Chain Management</a> from Richard A. Chaifetz School of Business, Saint Louis University and <a href="https://www.fccollege.edu.pk/baccalaureate-in-business/">Baccalaureate in Business (Operations Management)</a> from School of Management, Forman Christian College (A Chartered University).</p>
 
 <br>
-</a>Research</h4>
+<h4>Research</h4>
 <h5>Article</h5>
 <ul>
 <li>Kwon, I. W. G., Shin, N., Kim, S. H., & Usman, H. (2021). Trust and commitment in supply chain during digital transformation: A case in Korea. <i>American Institute of Mathematical Sciences, Environmental Science</i>, 8(6), 641-655.</li>
