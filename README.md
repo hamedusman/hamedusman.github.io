@@ -1,6 +1,6 @@
 # hamedusman.github.io
 
-Uses [jekyll](http://jekyllrb.com/), [poole](http://getpoole.com/) and the [hyde](http://andhyde.com/) theme.
+Used [jekyll](http://jekyllrb.com/), [poole](http://getpoole.com/) and the [hyde](http://andhyde.com/) theme.
 
 Hosted on [Github Pages](https://pages.github.com/). Domain registered with [iwantmyname](https://iwantmyname.com/)
 
