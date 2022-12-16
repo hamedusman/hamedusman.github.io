@@ -10,6 +10,7 @@ keywords: hanedusman, hamed usman, hamed, usman, operations management, supply c
 <p>He received his <a href="https://www.slu.edu/business/graduate/supply-chain-management">Master of Science in Supply Chain Management</a> from Richard A. Chaifetz School of Business, Saint Louis University and <a href="https://www.fccollege.edu.pk/baccalaureate-in-business/">Baccalaureate in Business (Operations Management)</a> from School of Management, Forman Christian College (A Chartered University).</p>
 
 <br/>
+
 ---
 
 <h4>Research</h4>
@@ -23,6 +24,8 @@ keywords: hanedusman, hamed usman, hamed, usman, operations management, supply c
 </ul>
 
 <br/>
+
+---
 
 <h4>Selected Awards</h4>
 <ul>
