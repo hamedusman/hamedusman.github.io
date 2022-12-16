@@ -13,8 +13,7 @@ keywords: hanedusman, hamed usman, hamed, usman, operations management, supply c
 
 ---
 
-<h4>Research</h4>
-<h5>Projects</h5>
+<h4>Research Projects</h4>
 <ul>
 <li>Product A Delivery Cost Reduction · Novus International</li>
 <div class="summary"><p><strong>Summary:</strong> <a href="http://www.novusint.com">Novus International</a> delivered 3M lbs of Product A in 2018, with a total of 95,000 miles driven to make the deliveries. The contracted cost of mileage increased in 2019, making it more essential to reduce the overall mileage needed to deliver the product and study the delivery cost from current distribution point with the goal of determining the placement of a secondary distribution location to reduce the cost.</p></div>
