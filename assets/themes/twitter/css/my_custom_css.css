@@ -81,7 +81,7 @@ h1, h2, h3, h4, h5 {
     border-left: 6px solid #808080;
     padding-left: 10px;
     padding-top:10px;
-    padding-bottom:10px;
+    padding-bottom:5px;
 }
 
 .danger {
@@ -186,6 +186,6 @@ ul {
  width:97.5%;
  border:0px;
  background-color: #ffffff;
- padding:0px;
+ padding-top:10px;
  text-align: center;
 }
