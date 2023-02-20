@@ -168,3 +168,8 @@ ul {
   transform: scaleX(1);
   transform-origin: bottom left; /* Add this to default.html --> <p class="hover-underline-animation">add text here</p> */
 }
+
+#icon  {
+float: left;    
+ margin: 0 15px 0 0;
+}
