@@ -169,9 +169,13 @@ ul {
   transform-origin: bottom left; /* Add this to default.html --> <p class="hover-underline-animation">add text here</p> */
 }
 
-#icon  {
-float: left;    
-margin: 0 15px 0 0;
-width: 20px;
-height: 20px;
+#profile_picture {
+  *display: block;
+  margin-top: 0px;
+  margin-right: auto;
+  margin-bottom: 0px;
+  margin-left: auto;
+  width: 50px;
+  height: 50px;
+  /*float: left;*/
 }
