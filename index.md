@@ -10,9 +10,9 @@ keywords: hanedusman, hamed usman, hamed, usman, operations management, supply c
 <p>He received his <a href="https://www.slu.edu/business/graduate/supply-chain-management">Master of Science in Supply Chain Management</a> from Richard A. Chaifetz School of Business, Saint Louis University and <a href="https://www.fccollege.edu.pk/baccalaureate-in-business/">Baccalaureate in Business (Operations Management)</a> from School of Management, Forman Christian College (A Chartered University).</p>
 <p>His research interests are supplier portfolio management, supply chain complexity, and supply chain sustainability. His teaching interests are supply chain management, operations management, quality management, logistics, strategic sourcing, and business analytics.</p>
 <ul>
-<li>ORCiD: https://orcid.org/0000-0003-3755-9345</li>
-<li>Google Scholar: https://scholar.google.com/citations?user=wVuB9pAAAAAJ</li>
-<li>Web of Science: https://www.webofscience.com/wos/author/record/HKO-5681-2023</li>
+  <li><a href="https://orcid.org/0000-0003-3755-9345">ORCiD</a></li>
+  <li><a href="https://scholar.google.com/citations?user=wVuB9pAAAAAJ">Google Scholar</a></li>
+  <li><a href="https://www.webofscience.com/wos/author/record/HKO-5681-2023">Web of Science</a></li>
 </ul>
 
 
