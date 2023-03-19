@@ -4,7 +4,7 @@ title: Hamed Usman | Researcher and Teacher
 description: Hamed Usman is a graduate research assistant at Saint Louis University. 
 keywords: hanedusman, hamed usman, hamed, usman, operations management, supply chain management, logistics
 ---
-<div class="headline">Click <a href="https://teaching101.github.io" target="_blank" rel="noopener noreferrer">here &#x29c9;</a> to view the courses taught by Hamed Usma at Bahria Business School, Bahria University, Islamabad, PK. He can be reached at <a href="mailto:hamed.buic@bahria.edu.pk">hamed.buic@bahria.edu.pk</a>.
+<div class="headline">Click <a href="https://teaching101.github.io" target="_blank" rel="noopener noreferrer">here &#x29c9;</a> to view the courses taught by Hamed Usman at Bahria Business School, Bahria University, Islamabad, PK. He can be reached at <a href="mailto:hamed.buic@bahria.edu.pk">hamed.buic@bahria.edu.pk</a>.
 </div>
 
 <br/>
