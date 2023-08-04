@@ -33,9 +33,10 @@ keywords: hanedusman, hamed usman, hamed, usman, operations management, supply c
 
 <h4>Contact</h4>
 Hamed Usman, MS <br/>
-Email: hamed.buic@bahri.edu.pk <br/>
-Tel Office: +92-51-9260002 (Ext. 1424) <br/>
-Address: Bahria Business School, Bahria University, E-8 Campus, Islamabad <br/>
+Official Email: hamed.buic@bahria.edu.pk <br/>
+Office Phone: +92-51-9260002 (Ext. 1424) <br/>
+Office Location: Room 3, Basement of XC Building <br/>
+Address: Bahria University, E-8 Campus, Islamabad <br/>
 
 <ul>
   <li><a href="https://orcid.org/0000-0003-3755-9345" target="_blank" rel="noopener noreferrer">ORCiD &#x29c9;</a></li>
