@@ -8,3 +8,16 @@ Bahria University | Islamabad, Pakistan
 <ul>
   <li>Hira Waris (MS in SCM; expected to graduate in Spring 2023)</li>
 </ul>
+
+<br/>
+
+---
+
+<h4>Research Projects</h4>
+<ul>
+<li>Product A Delivery Cost Reduction · Novus International</li>
+<div class="summary"><p><strong>Summary:</strong> <a href="http://www.novusint.com" target="_blank" rel="noopener noreferrer">Novus International &#x29c9;</a> delivered 3M lbs of Product A in 2018, with a total of 95,000 miles driven to make the deliveries. The contracted cost of mileage increased in 2019, making it more essential to reduce the overall mileage needed to deliver the product and study the delivery cost from current distribution point with the goal of determining the placement of a secondary distribution location to reduce the cost.</p></div>
+<br/>
+<li>Managing Donated Goods Inventory · International Institute of Saint Louis</li>
+<div class="summary"><p><strong>Summary:</strong> <a href="https://www.iistl.org" target="_blank" rel="noopener noreferrer">International Institute of Saint Louis &#x29c9;</a> receives donations from several sources and purchases the items which don’t come as donated goods. There was always a mismatch between actual value and expected value of the stock, making it more essential to reduce inefficiencies and errors, and to enhance inventory control and tracking, customer service and overall productivity.</p></div>
+</ul>
