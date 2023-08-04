@@ -25,7 +25,7 @@ Bahria University | Islamabad, Pakistan
 
 ---
 
-<h5>International Projects</h5>
+<h5>Research Projects</h5>
 <ul>
 <li>Product A Delivery Cost Reduction · Novus International</li>
 <div class="summary"><p><a href="http://www.novusint.com" target="_blank" rel="noopener noreferrer">Novus International (USA) &#x29c9;</a> delivered 3M lbs of Product A in 2018, with a total of 95,000 miles driven to make the deliveries. The contracted cost of mileage increased in 2019, making it more essential to reduce the overall mileage needed to deliver the product and study the delivery cost from current distribution point with the goal of determining the placement of a secondary distribution location to reduce the cost.</p></div>
