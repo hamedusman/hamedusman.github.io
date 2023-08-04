@@ -3,6 +3,14 @@ layout: page
 title: RESEARCH
 description: list of research activities
 ---
+
+<h5>Research Interests</h5>
+<ul>
+<li>Supplier portfolio management</ul>li>
+<li>Supply chain complexity</li>
+<li>Supply chain sustainability</li>
+</ul>
+
 <h5>Master's Thesis Advising</h5>
 Bahria University | Islamabad, Pakistan
 <ul>
