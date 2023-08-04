@@ -32,4 +32,7 @@ keywords: hanedusman, hamed usman, hamed, usman, operations management, supply c
 ---
 
 <h4>Contact</h4>
-
+Hamed Usman, MS
+Email: hamed.buic@bahri.edu.pk
+Tel Office: +92-51-9260002 (Ext. 1424)
+Address: Bahria Business School, Bahria University, E-8 Campus, Islamabad
