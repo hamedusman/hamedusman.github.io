@@ -3,6 +3,21 @@ layout: page
 title: TEACHING
 description: list of academic courses taught by Hamed Usman
 ---
+<h5>Teaching Interests</h5>
+<ul>
+<li>Supply chain management</li>
+<li>Operations management</li>
+<li>Six sigma quality management</li>
+<li>Logistics</li>
+<li>Strategic sourcing</li>
+<li>Business analytics</li>
+</ul>
+
+
+<br/>
+
+---
+
 <h5>Academic Courses</h5>
 <ul><li>Bahria Business School, Bahria University, Islamabad, Pakistan</li>
 <ol>
