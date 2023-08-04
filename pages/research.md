@@ -28,11 +28,11 @@ description: list of research activities
 ---
 
 <h5>Master's Thesis Advising</h5>
-Bahria University | Islamabad, Pakistan
+<ul><li>Bahria Business School, Bahria University, Islamabad, Pakistan</li>
 <ul style="list-style-type:circle;">
   <li>Hira Waris (MS (SCM); expected to graduate in Spring 2023)</li>
 </ul>
-
+</ul>
 
 <br/>
 
