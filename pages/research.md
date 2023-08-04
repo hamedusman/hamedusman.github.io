@@ -11,6 +11,10 @@ description: list of research activities
 <li>Supply chain sustainability</li>
 </ul>
 
+<br/>
+
+---
+
 <h5>Master's Thesis Advising</h5>
 Bahria University | Islamabad, Pakistan
 <ul>
