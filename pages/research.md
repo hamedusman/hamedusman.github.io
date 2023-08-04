@@ -5,11 +5,22 @@ description: list of research activities
 ---
 
 <h5>Research Interests</h5>
-<ol>
+<ul>
 <li>Supplier portfolio management</li>
 <li>Supply chain complexity</li>
 <li>Supply chain sustainability</li>
-</ol>
+</ul>
+
+
+<br/>
+
+---
+
+<ol>
+  <li>Trust and commitment in supply chain during digital transformation: A case in Korea (2021). American Institute of Mathematical Sciences, Environmental Science - Volume 8, Issue 6: 641-655 – Joint with Ik-Whan G. Kwon, Nina Shin, and Sung-Ho Kim – Scopus indexed; Web of Science indexed; Impact factor: 1.80</li>
+  <li>Vaccine Supply Chain Distribution under Covid-19 Pandemic: Stressed, Resourceful and Resilient – Lesson Learned from the United States Experiences (2021). Proud Pen Limited, London, UK – Joint with Ik-Whan G. Kwon, and Sung-Ho Kim</li>
+<ol>
+
 
 <br/>
 
