@@ -8,16 +8,6 @@ keywords: hanedusman, hamed usman, hamed, usman, operations management, supply c
 <p>His academic achievements have also been recognized by various awards including 2019 Supply Chain Management Outstanding Graduate Student Award at Saint Louis University; honorable mention at Saint Louis University's Commencement Ceremony; and lifetime induction in <a href="https://www.betagammasigma.org">Beta Gamma Sigma Honor Society</a>. He has also accomplished many academic scholarships such as <a href="https://www.slu.edu/business/centers/supply-chain-excellence/index.php">Center for Supply Chain Excellence</a> Scholarship at Saint Louis University and Full Talent Scholarship at <a href="https://www.fccollege.edu.pk">Forman Christian College (A Chartered University)</a>.</p>
 <p>He received his <a href="https://www.slu.edu/business/graduate/supply-chain-management">Master of Science in Supply Chain Management</a> from Richard A. Chaifetz School of Business, Saint Louis University and <a href="https://www.fccollege.edu.pk/baccalaureate-in-business/">Baccalaureate in Business (Operations Management)</a> from School of Management, Forman Christian College (A Chartered University).</p>
 <p>His research interests are supplier portfolio management, supply chain complexity, and supply chain sustainability. His teaching interests are supply chain management, operations management, quality management, logistics, strategic sourcing, and business analytics.</p>
-<ul>
-  <li><a href="https://orcid.org/0000-0003-3755-9345" target="_blank" rel="noopener noreferrer">ORCiD &#x29c9;</a></li>
-  <li><a href="https://scholar.google.com/citations?user=wVuB9pAAAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar &#x29c9;</a></li>
-  <li><a href="https://www.webofscience.com/wos/author/record/HKO-5681-2023" target="_blank" rel="noopener noreferrer">Web of Science &#x29c9;</a></li>
-</ul>
-
-
-<br/>
-
----
 
 <h4>Selected Awards</h4>
 <ul>
@@ -30,3 +20,16 @@ keywords: hanedusman, hamed usman, hamed, usman, operations management, supply c
 <li>Talent Scholarship for undergraduate studies | Forman Christian College	(2007 – 2011)</li>
 <li>Vice Rector’s List | Forman Christian College	(Summer 2010)</li>
 </ul>
+
+<ul>
+  <li><a href="https://orcid.org/0000-0003-3755-9345" target="_blank" rel="noopener noreferrer">ORCiD &#x29c9;</a></li>
+  <li><a href="https://scholar.google.com/citations?user=wVuB9pAAAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar &#x29c9;</a></li>
+  <li><a href="https://www.webofscience.com/wos/author/record/HKO-5681-2023" target="_blank" rel="noopener noreferrer">Web of Science &#x29c9;</a></li>
+</ul>
+
+<br/>
+
+---
+
+<h4>Contact</h4>
+
