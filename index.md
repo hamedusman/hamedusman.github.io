@@ -9,6 +9,11 @@ keywords: hanedusman, hamed usman, hamed, usman, operations management, supply c
 <p>He received his <a href="https://www.slu.edu/business/graduate/supply-chain-management">Master of Science in Supply Chain Management</a> from Richard A. Chaifetz School of Business, Saint Louis University and <a href="https://www.fccollege.edu.pk/baccalaureate-in-business/">Baccalaureate in Business (Operations Management)</a> from School of Management, Forman Christian College (A Chartered University).</p>
 <p>His research interests are supplier portfolio management, supply chain complexity, and supply chain sustainability. His teaching interests are supply chain management, operations management, quality management, logistics, strategic sourcing, and business analytics.</p>
 
+
+<br/>
+
+---
+
 <h4>Selected Awards</h4>
 <ul>
 <li>2019 MS-SCM Outstanding Student Award | Saint Louis University (May 2019)</li>
@@ -21,18 +26,19 @@ keywords: hanedusman, hamed usman, hamed, usman, operations management, supply c
 <li>Vice Rector’s List | Forman Christian College	(Summer 2010)</li>
 </ul>
 
-<ul>
-  <li><a href="https://orcid.org/0000-0003-3755-9345" target="_blank" rel="noopener noreferrer">ORCiD &#x29c9;</a></li>
-  <li><a href="https://scholar.google.com/citations?user=wVuB9pAAAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar &#x29c9;</a></li>
-  <li><a href="https://www.webofscience.com/wos/author/record/HKO-5681-2023" target="_blank" rel="noopener noreferrer">Web of Science &#x29c9;</a></li>
-</ul>
 
 <br/>
 
 ---
 
 <h4>Contact</h4>
-Hamed Usman, MS
-Email: hamed.buic@bahri.edu.pk
-Tel Office: +92-51-9260002 (Ext. 1424)
-Address: Bahria Business School, Bahria University, E-8 Campus, Islamabad
+Hamed Usman, MS <br/>
+Email: hamed.buic@bahri.edu.pk <br/>
+Tel Office: +92-51-9260002 (Ext. 1424) <br/>
+Address: Bahria Business School, Bahria University, E-8 Campus, Islamabad <br/>
+
+<ul>
+  <li><a href="https://orcid.org/0000-0003-3755-9345" target="_blank" rel="noopener noreferrer">ORCiD &#x29c9;</a></li>
+  <li><a href="https://scholar.google.com/citations?user=wVuB9pAAAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar &#x29c9;</a></li>
+  <li><a href="https://www.webofscience.com/wos/author/record/HKO-5681-2023" target="_blank" rel="noopener noreferrer">Web of Science &#x29c9;</a></li>
+</ul>
