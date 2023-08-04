@@ -40,7 +40,7 @@ Address: Bahria University, E-8 Campus, Islamabad <br/>
 
 <ul>
   <li><a href="https://orcid.org/0000-0003-3755-9345" target="_blank" rel="noopener noreferrer">ORCiD &#x29c9;</a></li>
-  <li><a href="https://linkedin/in/hamedusman" target="_blank" rel="noopener noreferrer">LinkedIn &#x29c9;</a></li>
+  <li><a href="https://www.linkedin.com/in/hamedusman" target="_blank" rel="noopener noreferrer">LinkedIn &#x29c9;</a></li>
   <li><a href="https://scholar.google.com/citations?user=wVuB9pAAAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar &#x29c9;</a></li>
   <li><a href="https://www.webofscience.com/wos/author/record/HKO-5681-2023" target="_blank" rel="noopener noreferrer">Web of Science &#x29c9;</a></li>
 </ul>
