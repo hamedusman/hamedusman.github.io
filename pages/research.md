@@ -18,7 +18,7 @@ description: list of research activities
 
 <h5>Research Publications</h5>
 <ol>
-  <li>Trust and commitment in supply chain during digital transformation: A case in Korea (2021). American Institute of Mathematical Sciences, Environmental Science - Volume 8, Issue 6: 641-655 – Joint with Ik-Whan G. Kwon, Nina Shin, and Sung-Ho Kim – Scopus indexed; Web of Science indexed; Impact factor: 1.80</li>
+  <li>Trust and commitment in supply chain during digital transformation: A case in Korea (2021). American Institute of Mathematical Sciences, Environmental Science - Volume 8, Issue 6: 641-655 – Joint with Ik-Whan G. Kwon, Nina Shin, and Sung-Ho Kim</li>
   <li>Vaccine Supply Chain Distribution under Covid-19 Pandemic: Stressed, Resourceful and Resilient – Lesson Learned from the United States Experiences (2021). Proud Pen Limited, London, UK – Joint with Ik-Whan G. Kwon, and Sung-Ho Kim</li>
 </ol>
 
