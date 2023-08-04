@@ -6,7 +6,7 @@ description: list of research activities
 
 <h5>Research Interests</h5>
 <ul>
-<li>Supplier portfolio management</ul>li>
+<li>Supplier portfolio management</li>
 <li>Supply chain complexity</li>
 <li>Supply chain sustainability</li>
 </ul>
