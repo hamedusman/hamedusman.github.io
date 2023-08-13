@@ -177,9 +177,9 @@ ul {
   margin-right: auto;
   margin-bottom: 0px;
   margin-left: auto;
-  width: 200px;
-  height: 200px;
-  /*float: left;*/
+  width: 100px;
+  height: 100px;
+  float: left;
 }
 
 .headline {
