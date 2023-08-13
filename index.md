@@ -38,6 +38,9 @@ keywords: hanedusman, hamed usman, hamed, usman, operations management, supply c
 ---
 
 <h4>Contact</h4>
+<div id="profile_picture">
+     <img src="../assets/hu.png"/>
+    </div>
 Hamed Usman, MS <br/>
 Senior Lecturer · SCM <br/>
 Email: hamed.buic@bahria.edu.pk <br/>
