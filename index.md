@@ -37,7 +37,6 @@ keywords: hanedusman, hamed usman, hamed, usman, operations management, supply c
 
 ---
 
-<br/>
 <div id="profile_picture">
      <img src="../assets/hu.png"/>
     </div>
