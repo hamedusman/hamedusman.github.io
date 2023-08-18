@@ -1,6 +1,6 @@
 ---
 layout: page
-title: RESEARCH
+title: 
 description: list of research activities
 ---
 
