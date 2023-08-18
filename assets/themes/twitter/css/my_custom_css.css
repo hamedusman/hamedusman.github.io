@@ -180,6 +180,7 @@ ul {
   width: 200px;
   height: 200px;
   float: right;
+  border-radius: 50%;
 }
 
 .headline {
