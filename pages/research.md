@@ -1,8 +1,3 @@
----
-layout: page
-title: 
-description: list of research activities
-
 <h5>Research Interests</h5>
 <ul>
 <li>Supplier portfolio management</li>
