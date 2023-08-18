@@ -172,15 +172,15 @@ ul {
 }
 
 #profile_picture {
-  display: block;
+  /*display: block;*/
   margin-top: 0px;
   margin-right: auto;
   margin-bottom: 0px;
   margin-left: auto;
-  width: 200px;
-  height: 200px;
+  width: 150px;
+  height: 150px;
   float: right;
-  border-radius: 50%;
+  border-radius: 50px;
 }
 
 .headline {
