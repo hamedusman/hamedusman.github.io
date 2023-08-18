@@ -36,7 +36,7 @@ keywords: hanedusman, hamed usman, hamed, usman, operations management, supply c
 ---
 
 <div id="profile_picture">
-     <img src="../assets/hu.png"/>
+     <img src="../assets/hu.png"/ alt="Avatar">
     </div>
 <h4>Contact</h4>
 Hamed Usman, MS <br/>
