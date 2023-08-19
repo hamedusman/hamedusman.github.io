@@ -4,10 +4,10 @@ title: HAMED USMAN | Researcher and Teacher
 description: Hamed Usman is a Senior Lecturer at Bahria University, Islamabad, Pakistan. 
 keywords: hanedusman, hamed usman, hamed, usman, operations management, supply chain management, logistics
 ---
-<div class="headline"><strong>Howdy! </strong> If you are registered to one of my courses at Bahria Business School, please click <a href="https://101scm.github.io" target="_blank" rel="noopener noreferrer">here &#x29c9;</a>.
+<!--<div class="headline"><strong>Howdy! </strong> If you are registered to one of my courses at Bahria Business School, please click <a href="https://101scm.github.io" target="_blank" rel="noopener noreferrer">here &#x29c9;</a>.
 </div>
 
-<br/>
+<br/>-->
 
 <p><i><strong>Howdy! </strong>If you are registered to one of my courses at Bahria Business School, please click <a href="https://101scm.github.io" target="_blank" rel="noopener noreferrer">here &#x29c9;</a> to view the information.</i></p>
 <p>Hamed Usman is a Senior Lecturer at <a href="https://www.bahria.edu.pk/buic/bbs">Bahria Business School</a>, <a href="https://www.bahria.edu.pk">Bahria University</a>, Islamabad, Pakistan. Prior to joining Bahria Business School, he was a Junior Researcher at <a href="https://www.slu.edu/business">Richard A. Chaifetz School of Business</a>, <a href="https://www.slu.edu">Saint Louis University</a>.</p>
