@@ -40,7 +40,7 @@ keywords: hanedusman, hamed usman, hamed, usman, operations management, supply c
 Hamed Usman, MS <br/>
 Senior Lecturer · SCM <br/>
 Email: hamed.buic@bahria.edu.pk <br/>
-Phone: +92-51-9260002 (Ext. 1424) <br/>
+&#9743; +92-51-9260002 (Ext. 1424) <br/>
 <br/>
 <ul>
   <li><a href="https://orcid.org/0000-0003-3755-9345" target="_blank" rel="noopener noreferrer">ORCiD &#x29c9;</a></li>
