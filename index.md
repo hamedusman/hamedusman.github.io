@@ -47,4 +47,4 @@ Phone: +92-51-9260002 (Ext. 1424) <br/>
   <li><a href="https://scholar.google.com/citations?user=wVuB9pAAAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar &#x29c9;</a></li>
   <li><a href="https://www.webofscience.com/wos/author/record/HKO-5681-2023" target="_blank" rel="noopener noreferrer">Web of Science &#x29c9;</a></li>
 </ul>
-<p><strong>Note: </strong> If you are registered to one of my courses at Bahria Business School, please click <a href="https://101scm.github.io" target="_blank" rel="noopener noreferrer">here &#x29c9;</a></p>.
+<strong>Note: </strong> If you are registered to one of my courses at Bahria Business School, please click <a href="https://101scm.github.io" target="_blank" rel="noopener noreferrer">here &#x29c9;</a>
