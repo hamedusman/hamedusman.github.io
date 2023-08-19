@@ -1,3 +1,8 @@
+---
+layout: page
+title: RESEARCH
+description: list of academic courses taught by Hamed Usman
+---
 <h5>Research Interests</h5>
 <ul>
 <li>Supplier portfolio management</li>
