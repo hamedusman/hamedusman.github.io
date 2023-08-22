@@ -30,11 +30,11 @@ Phone: +92-51-9260002 (Ext. 1424)
 RICHARD A. CHAIFETZ SCHOOL OF BUSINESS, SAINT LOUIS UNIVERSITY | SAINT LOUIS, MO, USA<br/>
 Master of Science (MS), Supply Chain Management (SCM)
 
-
 `2007 - 2011`<br/>
 SCHOOL OF MANAGEMENT, FORMAN CHRISTIAN COLLEGE | LAHORE, PAKISTAN<br/>
 Bachelor of Science, Business; Emphasis: Operations Management (OM)
 
+``
 
 <br/>
 
@@ -42,11 +42,19 @@ Bachelor of Science, Business; Emphasis: Operations Management (OM)
 
 
 ## AWARDS / HONORS / SCHOLARSHIPS
-<ul>
-<li>2019 MS-SCM Outstanding Student Award | Saint Louis University (May 2019)</li>
-<li>Ranked 1st among graduate students in MS-SCM | Saint Louis University	(2017 – 2019)</li>
-<li>Honorable Mention at Commencement Ceremony | Saint Louis University	(May 2019)</li>
-<li>Center for Supply Chain Excellence Scholarship | Saint Louis University	(Spring 2019)</li>
+`May 2019`<br/>
+2019 MS-SCM Outstanding Student Award | Saint Louis University
+
+`2017 – 2019`
+Ranked 1st among graduate students in MS-SCM | Saint Louis University
+
+`May 2019`
+Honorable Mention at Commencement Ceremony | Saint Louis University
+
+`Spring 2019`
+Center for Supply Chain Excellence Scholarship | Saint Louis University
+
+
 <li>Beta Gamma Sigma Honor Society Induction | Saint Louis University Chapter (Mar 2019)</li>
 <li>Merit Scholarship for graduate program | Saint Louis University	(Fall 2017)</li>
 <li>Talent Scholarship for undergraduate studies | Forman Christian College	(2007 – 2011)</li>
