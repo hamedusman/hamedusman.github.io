@@ -65,3 +65,20 @@ Bachelor of Science, Business; Emphasis: Operations Management (OM)
 <li>Supply chain complexity</li>
 <li>Supply chain sustainability</li>
 </ul>
+
+
+<br/>
+
+---
+
+
+## Teaching Interests
+<ul>
+<li>Supply chain management</li>
+<li>Operations management</li>
+<li>Six sigma quality management</li>
+<li>Logistics</li>
+<li>Strategic sourcing</li>
+<li>Business analytics</li>
+</ul>
+
