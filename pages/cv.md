@@ -2,7 +2,7 @@
 layout: cv
 title: Hamed Usman
 ---
-# Hamed Usman
+<h4>Hamed Usman</h4>
 Senior Lecturer, Bahria University
 
 Bahria Business School, Department of Management Sciences<br/>
