@@ -12,9 +12,9 @@ Email: <a href="mailto:hamed.buic@hbahria.edu.pk">hamed.buic@hbahria.edu.pk</a><
 Phone: +92-51-9260002 (Ext. 1424)
 
 <div id="webaddress">
-  <a href="https://hamedusman.github.io"><i class="fas fa-home"></i> hamedusman.github.io</a> - 
-  <a href="http://101scm.github.io"><i class="fas fa-users"></i>101SCM (Course Web)</a> -
-  <a href="https://github.com/hamedusman"><i class="fab fa-github"></i> Hamed Usman</a> - 
+  <a href="https://hamedusman.github.io"><i class="fas fa-home"></i> hamedusman.github.io </a> 
+  <a href="http://101scm.github.io"><i class="fas fa-users"></i>101SCM (Course Web) </a>
+  <a href="https://github.com/hamedusman"><i class="fab fa-github"></i> Hamed Usman </a>
   <a href="https://orcid.org/0000-0003-3755-9345"><i class="ai ai-orcid"></i> 0000-0003-3755-9345</a>
 </div>
 
