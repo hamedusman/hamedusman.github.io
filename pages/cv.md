@@ -31,8 +31,10 @@ Address: Shangrilla Road, Sector E-8 Islamabad, Bahria University, Islamabad Pak
 </ul>
 
 `2007 - 2011`<br/>
-SCHOOL OF MANAGEMENT, FORMAN CHRISTIAN COLLEGE | LAHORE, PAKISTAN<br/>
-Bachelor of Science, *Business*; Emphasis: *Operations Management (OM)*
+<ul style="list-style-type:none;">
+<li>SCHOOL OF MANAGEMENT, FORMAN CHRISTIAN COLLEGE | LAHORE, PAKISTAN</li>
+<li>Bachelor of Science, Business; Emphasis: Operations Management (OM)</i></li>
+</ul>
 
 
 <br/>
