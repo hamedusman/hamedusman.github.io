@@ -28,7 +28,7 @@ Phone: +92-51-9260002 (Ext. 1424)
 
 `2017 - 2019`<br/>
 RICHARD A. CHAIFETZ SCHOOL OF BUSINESS, SAINT LOUIS UNIVERSITY | SAINT LOUIS, MO, USA<br/>
-Master of Science (MS), **Supply Chain Management (SCM)**
+Master of Science (MS), *Supply Chain Management (SCM)*
 
 
 `2007 - 2011`<br/>
