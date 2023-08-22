@@ -30,11 +30,11 @@ Phone: +92-51-9260002 (Ext. 1424)
 RICHARD A. CHAIFETZ SCHOOL OF BUSINESS, SAINT LOUIS UNIVERSITY | SAINT LOUIS, MO, USA<br/>
 Master of Science (MS), Supply Chain Management (SCM)
 
+
 `2007 - 2011`<br/>
 SCHOOL OF MANAGEMENT, FORMAN CHRISTIAN COLLEGE | LAHORE, PAKISTAN<br/>
 Bachelor of Science, Business; Emphasis: Operations Management (OM)
 
-``
 
 <br/>
 
@@ -72,7 +72,7 @@ Bachelor of Science, Business; Emphasis: Operations Management (OM)
 ---
 
 
-## Teaching Interests
+## TEACHING INTERESTS
 <ul>
 <li>Supply chain management</li>
 <li>Operations management</li>
@@ -82,3 +82,26 @@ Bachelor of Science, Business; Emphasis: Operations Management (OM)
 <li>Business analytics</li>
 </ul>
 
+
+<br/>
+
+---
+
+
+## RESEARCH AND TEACHING EXPERIENCE
+
+`February 2023 - present`<br/>
+BAHRIA BUSINESS SCHOOL, BAHRIA UNIVERSITY, ISLAMABAD CAMPUS | ISLAMABAD, PAKISTAN<br/>
+Senior Lecturer - Permanent Faculty Member | Management Sciences (Supply Chain Management)
+
+# Academic Teaching
+Contemporary Issues in Supply Chain (SCM 707; graduate level)
+Spring 2023 (4.8/5.0)
+Fundamentals of Supply Chain Management (SCM 701; graduate level)
+Spring 2023 (4.0/5.0)
+Import and Export Management (SCM 320; undergraduate level)
+Spring 2023 (4.2/5.0)
+Introduction to Supply Chain Management (SCM 101; Undergraduate level)
+Spring 2023 (4.4/50)
+# Research Advising
+Hira Waris (MS in SCM; graduate in Spring 2023)
