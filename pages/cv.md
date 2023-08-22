@@ -32,7 +32,7 @@ Phone: +92-51-9260002 (Ext. 1424)
 **Master of Science, Supply Chain Management**, *Saint Louis University*, MO, USA.
 
 `2007-2011`<br/>
-**Bachelor of Science, Business (Operations Management minor)**, *Forman Christian College University (A Chattered University)*, Lahore, Pakistan.
+**Bachelor of Science, Business (Operations Management)**, *Forman Christian College University (A Chattered University)*, Lahore, Pakistan.
 
 
 <br/>
