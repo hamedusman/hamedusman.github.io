@@ -23,7 +23,7 @@ Address: Shangrilla Road, Sector E-8 Islamabad, Bahria University, Islamabad Pak
 
 
 #### EDUCATION
-<ul style="list-style-type:square;">
+<ul style="list-style-type:none;">
 <li></li>`2017 - 2019`</li>
 <li>RICHARD A. CHAIFETZ SCHOOL OF BUSINESS, SAINT LOUIS UNIVERSITY | SAINT LOUIS, MO, USA</li>
 <li></li>Master of Science (MS), *Supply Chain Management (SCM)*</li>
