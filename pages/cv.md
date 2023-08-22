@@ -28,12 +28,12 @@ Phone: +92-51-9260002 (Ext. 1424)
 
 `2017 - 2019`<br/>
 RICHARD A. CHAIFETZ SCHOOL OF BUSINESS, SAINT LOUIS UNIVERSITY | SAINT LOUIS, MO, USA<br/>
-Master of Science (MS), Supply Chain Management (SCM)
+Master of Science (MS), *Supply Chain Management (SCM)*
 
 
 `2007 - 2011`<br/>
 SCHOOL OF MANAGEMENT, FORMAN CHRISTIAN COLLEGE | LAHORE, PAKISTAN<br/>
-Bachelor of Science, Business; Emphasis: Operations Management (OM)
+Bachelor of Science, *Business*; Emphasis: *Operations Management (OM)*
 
 
 <br/>
@@ -45,8 +45,8 @@ Bachelor of Science, Business; Emphasis: Operations Management (OM)
 
 `February 2023 - present`<br/>
 BAHRIA BUSINESS SCHOOL, BAHRIA UNIVERSITY, ISLAMABAD CAMPUS | ISLAMABAD, PAKISTAN<br/>
-Senior Lecturer - Permanent Faculty Member | Management Sciences (Supply Chain Management)
+*Senior Lecturer* | Management Sciences (Supply Chain Management)
 
 `September 2019 – January 2023`<br/>
 RICHARD A. CHAIFETZ SCHOOL OF BUSINESS, SAINT LOUIS UNIVERSITY | SAINT LOUIS, MO, USA<br/>
-Junior Researcher | Center for Supply Chain Excellence (Mentor: Ik-Whan Kwon, Ph.D.)
+*Junior Researcher* | Center for Supply Chain Excellence (Mentor: Ik-Whan Kwon, Ph.D.)
