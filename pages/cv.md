@@ -34,11 +34,12 @@ Phone: +92-51-9260002 (Ext. 1424)
 
 `2017 - 2019`<br/>
 RICHARD A. CHAIFETZ SCHOOL OF BUSINESS, SAINT LOUIS UNIVERSITY | SAINT LOUIS, MO, USA<br/>
-Master of Science (MS), Supply Chain Management (SCM) – CGPA: 3.91 out of 4.00 (98%)
+Master of Science (MS), Supply Chain Management (SCM)
 
 
 `2007 - 2011`<br/>
-**Bachelor of Science, Business (Operations Management)**, *Forman Christian College University (A Chattered University)*, Lahore, Pakistan.
+SCHOOL OF MANAGEMENT, FORMAN CHRISTIAN COLLEGE | LAHORE, PAKISTAN<br/>
+Bachelor of Science, Business; Emphasis: Operations Management (OM)
 
 
 <br/>
@@ -46,19 +47,4 @@ Master of Science (MS), Supply Chain Management (SCM) – CGPA: 3.91 out of 4.00
 ---
 
 
-## Academic Experience
-
-`2023 ⎯⎯⎯⎯⎯ present`<br/>
-**Senior Lecturer**, *Supply Chain Management, Department of Management Sciences, Bahria Business School, Bahria University*, Islamabad, Pakistan.
-
-`2019 ⎯⎯⎯⎯⎯ 2022`<br/>
-**Junior Researcher**, *Center for Supply Chain Excellence, Saint Louis University*, MO, USA.
-
-
-
-<br/>
-
----
-
-
-## Publications
+## AWARDS / HONORS / SCHOLARSHIPS
