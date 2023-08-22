@@ -18,14 +18,14 @@ Address: Shangrilla Road, Sector E-8 Islamabad, Bahria University, Islamabad Pak
 
 `2017 - 2019`<br/>
 <ul style="list-style-type:none;">
-<li>RICHARD A. CHAIFETZ SCHOOL OF BUSINESS, SAINT LOUIS UNIVERSITY | SAINT LOUIS, MO, USA</li>
-<li>Master of Science (MS), <i>Supply Chain Management (SCM)</i></li>
+  <li>RICHARD A. CHAIFETZ SCHOOL OF BUSINESS, SAINT LOUIS UNIVERSITY | SAINT LOUIS, MO, USA</li>
+  <li>Master of Science (MS), <i>Supply Chain Management (SCM)</i></li>
 </ul>
 
 `2007 - 2011`<br/>
 <ul style="list-style-type:none;">
-<li>SCHOOL OF MANAGEMENT, FORMAN CHRISTIAN COLLEGE | LAHORE, PAKISTAN</li>
-<li>Bachelor of Science, Business; Emphasis: <i>Operations Management (OM)</i></li>
+  <li>SCHOOL OF MANAGEMENT, FORMAN CHRISTIAN COLLEGE | LAHORE, PAKISTAN</li>
+  <li>Bachelor of Science, Business; Emphasis: <i>Operations Management (OM)</i></li>
 </ul>
 
 
@@ -34,12 +34,16 @@ Address: Shangrilla Road, Sector E-8 Islamabad, Bahria University, Islamabad Pak
 ---
 
 
-#### ACADEMIC EXPERIENCE
+<h3 style="font-family:courier; color:#b31b1b">ACADEMIC EXPERIENCE</h3>
 
 `February 2023 - present`<br/>
-BAHRIA BUSINESS SCHOOL, BAHRIA UNIVERSITY, ISLAMABAD CAMPUS | ISLAMABAD, PAKISTAN<br/>
-*Senior Lecturer*, Management Sciences (Supply Chain Management)
+<ul style="list-style-type:none;">
+  <li>BAHRIA BUSINESS SCHOOL, BAHRIA UNIVERSITY, ISLAMABAD CAMPUS | ISLAMABAD, PAKISTAN</li>
+  <li><i>Senior Lecturer</i>, Management Sciences (Supply Chain Management)</li>
+</ul>
 
 `September 2019 – January 2023`<br/>
-RICHARD A. CHAIFETZ SCHOOL OF BUSINESS, SAINT LOUIS UNIVERSITY | SAINT LOUIS, MO, USA<br/>
-*Junior Researcher*, Center for Supply Chain Excellence (Mentor: Ik-Whan Kwon, Ph.D.)
+<ul style="list-style-type:none;">
+  <li>RICHARD A. CHAIFETZ SCHOOL OF BUSINESS, SAINT LOUIS UNIVERSITY | SAINT LOUIS, MO, USA</li>
+  <li><i>Junior Researcher</i>, Center for Supply Chain Excellence (Mentor: Ik-Whan Kwon, Ph.D.)</li>
+</ul>
