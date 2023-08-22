@@ -73,6 +73,37 @@ keywords: hanedusman, hamed usman, hamed, usman, operations management, supply c
 <li>Managing Donated Goods Inventory · International Institute of Saint Louis</li>
 <div class="summary"><p><a href="https://www.iistl.org" target="_blank" rel="noopener noreferrer">International Institute of Saint Louis (USA) &#x29c9;</a> receives donations from several sources and purchases the items which don’t come as donated goods. There was always a mismatch between actual value and expected value of the stock, making it more essential to reduce inefficiencies and errors, and to enhance inventory control and tracking, customer service and overall productivity.</p></div>
 
+
+<h5>Teaching Interests</h5>
+<ul>
+<li>Supply chain management</li>
+<li>Operations management</li>
+<li>Six sigma quality management</li>
+<li>Logistics</li>
+<li>Strategic sourcing</li>
+<li>Business analytics</li>
+</ul>
+
+
+<br/>
+
+---
+
+<h5>Academic Courses</h5>
+<ul><li>Bahria Business School, Bahria University, Islamabad, Pakistan</li>
+<ol>
+<li>Contemporary Issues in Supply Chain (SCM 707; graduate level)</li>
+    <ul style="list-style-type:circle;"><li>Spring 2023</li></ul>
+<li>Fundamentals of Supply Chain Management (SCM 701; graduate level)</li>
+    <ul style="list-style-type:circle;"><li>Spring 2023</li></ul>
+<li>Import and Export Management (SCM 320; undergraduate level)</li>
+    <ul style="list-style-type:circle;"><li>Spring 2023</li></ul>
+<li>Introduction to Supply Chain Management (SCM 101; undergraduate level)</li>
+    <ul style="list-style-type:circle;"><li>Spring 2023</li></ul>
+</ol>
+</ul>
+
+
 <br/>
 
 ---
