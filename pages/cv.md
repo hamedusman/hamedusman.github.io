@@ -94,6 +94,6 @@ Bachelor of Science, Business; Emphasis: Operations Management (OM)
 BAHRIA BUSINESS SCHOOL, BAHRIA UNIVERSITY, ISLAMABAD CAMPUS | ISLAMABAD, PAKISTAN<br/>
 Senior Lecturer - Permanent Faculty Member | Management Sciences (Supply Chain Management)
 
-`September 2019 – January 2023`
+`September 2019 – January 2023`<br/>
 RICHARD A. CHAIFETZ SCHOOL OF BUSINESS, SAINT LOUIS UNIVERSITY | SAINT LOUIS, MO, USA<br/>
 Junior Researcher | Center for Supply Chain Excellence (Mentor: Ik-Whan Kwon, Ph.D.)
