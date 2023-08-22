@@ -2,7 +2,7 @@
 layout: cv
 title: HAMED USMAN
 ---
-# HAMED USMAN - CV
+## HAMED USMAN - CV
 Senior Lecturer, Bahria University
 
 Bahria Business School, Department of Management Sciences<br/>
@@ -41,7 +41,7 @@ Bachelor of Science, *Business*; Emphasis: *Operations Management (OM)*
 ---
 
 
-## ACADEMIC EXPERIENCE
+### ACADEMIC EXPERIENCE
 
 `February 2023 - present`<br/>
 BAHRIA BUSINESS SCHOOL, BAHRIA UNIVERSITY, ISLAMABAD CAMPUS | ISLAMABAD, PAKISTAN<br/>
