@@ -54,6 +54,11 @@ Bachelor of Science, Business; Emphasis: Operations Management (OM)
 </ol>
 
 
+<br/>
+
+---
+
+
 ## RESEARCH INTERESTS
 <ul>
 <li>Supplier portfolio management</li>
