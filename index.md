@@ -106,11 +106,10 @@ keywords: hanedusman, hamed usman, hamed, usman, operations management, supply c
 </ol>
 </ul>
 
-
-
 <br/>
 
 ---
+
 
 <h4>Contact</h4>
 Hamed Usman, MS <br/>
