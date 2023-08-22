@@ -2,7 +2,7 @@
 layout: cv
 title: HAMED USMAN
 ---
-<h2 style="font-family:arial; color:#808080">HAMED USMAN</h2>
+<h1 style="font-family:arial; color:#808080">HAMED USMAN</h1>
 Senior Lecturer, Supply Chain Management<br/>
 Bahria Business School, Bahria University, Islamabad<br/>
 Email: hamed.buic@bahria.edu.pk | Phone: +92-51-9260002 (Ext. 1424)<br/>
