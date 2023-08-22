@@ -52,3 +52,11 @@ Bachelor of Science, Business; Emphasis: Operations Management (OM)
 <li>Talent Scholarship for undergraduate studies | Forman Christian College	(2007 – 2011)</li>
 <li>Vice Rector’s List | Forman Christian College	(Summer 2010)</li>
 </ol>
+
+
+## RESEARCH INTERESTS
+<ul>
+<li>Supplier portfolio management</li>
+<li>Supply chain complexity</li>
+<li>Supply chain sustainability</li>
+</ul>
