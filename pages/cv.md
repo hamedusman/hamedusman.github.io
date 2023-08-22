@@ -1,8 +1,8 @@
 ---
 layout: cv
-title: Hamed Usman
+title: Hamed Usman's CV
 ---
-<h4>Hamed Usman</h4>
+# Hamed Usman
 Senior Lecturer, Bahria University
 
 Bahria Business School, Department of Management Sciences<br/>
@@ -21,18 +21,33 @@ Phone: +92-51-9260002 (Ext. 1424)
   <a href="https://twitter.com/dave_whipp"><i class="fab fa-twitter"></i> @dave_whipp</a>
 </div>
 
+
+<br/>
+
+---
+
+
 ## Education
 
 `2017-2019`<br/>
 **Master of Science, Supply Chain Management**, *Saint Louis University*, MO, USA.
 
-`1998-2002`<br/>
+`2007-2011`<br/>
 **Bachelor of Science, Business (Operations Management minor)**, *Forman Christian College University (A Chattered University)*, Lahore, Pakistan.
 
-## Experience
+## Academic Experience
 
 `2023-present`<br/>
 **Senior Lecturer**, *Supply Chain Management, Department of Management Sciences, Bahria Business School, Bahria University*, Islamabad, Pakistan.
 
 `2019-2022`<br/>
 **Junior Researcher**, *Center for Supply Chain Excellence, Saint Louis University*, MO, USA.
+
+
+
+<br/>
+
+---
+
+
+## Publications
