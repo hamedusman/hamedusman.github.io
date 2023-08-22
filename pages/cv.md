@@ -1,9 +1,15 @@
 ---
 layout: cv
-title: Hamed Usman
+title: HAMED USMAN
 ---
-# Hamed Usman
+# HAMED USMAN
 Senior Lecturer, Bahria University
+
+Bahria Business School, Department of Management Sciences<br/>
+Shangrilla Road, Sector E-8 Islamabad, Bahria University, Islamabad Pakistan<br/>
+
+Email: <a href="mailto:hamed.buic@hbahria.edu.pk">hamed.buic@hbahria.edu.pk</a><br/>
+Phone: +92-51-9260002 (Ext. 1424)
 
 Bahria Business School, Department of Management Sciences<br/>
 Shangrilla Road, Sector E-8 Islamabad, Bahria University, Islamabad Pakistan<br/>
@@ -24,12 +30,14 @@ Phone: +92-51-9260002 (Ext. 1424)
 ---
 
 
-## Education
+## EDUCATION
 
-`2017 ⎯⎯⎯⎯⎯ 2019`<br/>
-**Master of Science, Supply Chain Management**, *Saint Louis University*, MO, USA.
+`2017 - 2019`<br/>
+RICHARD A. CHAIFETZ SCHOOL OF BUSINESS, SAINT LOUIS UNIVERSITY | SAINT LOUIS, MO, USA
+Master of Science (MS), Supply Chain Management (SCM) – CGPA: 3.91 out of 4.00 (98%)
 
-`2007 ⎯⎯⎯⎯⎯ 2011`<br/>
+
+`2007 - 2011`<br/>
 **Bachelor of Science, Business (Operations Management)**, *Forman Christian College University (A Chattered University)*, Lahore, Pakistan.
 
 
