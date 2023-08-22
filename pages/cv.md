@@ -5,7 +5,7 @@ title: HAMED USMAN
 <h2 style="font-family:arial; color:#808080">HAMED USMAN</h2>
 Senior Lecturer, Supply Chain Management<br/>
 Bahria Business School, Department of Management Sciences<br/>
-Email: <a href="mailto:hamed.buic@bahria.edu.pk">hamed.buic@bahria.edu.pk</a> | Phone: +92-51-9260002 (Ext. 1424)<br/>
+Email: hamed.buic@bahria.edu.pk | Phone: +92-51-9260002 (Ext. 1424)<br/>
 Address: Shangrilla Road, Sector E-8 Islamabad, Bahria University, Islamabad Pakistan
 
 
@@ -22,7 +22,7 @@ Address: Shangrilla Road, Sector E-8 Islamabad, Bahria University, Islamabad Pak
 ---
 
 
-<h3 style="color:maroon; font-family:courier">EDUCATION</h3>
+<h3 style="font-family:courier; color:#b31b1b">EDUCATION</h3>
 
 `2017 - 2019`<br/>
 <ul style="list-style-type:none;">
