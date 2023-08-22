@@ -1,8 +1,8 @@
 ---
 layout: cv
-title: HAMED USMAN - CV
+title: HAMED USMAN
 ---
-# HAMED USMAN
+# HAMED USMAN - CV
 Senior Lecturer, Bahria University
 
 Bahria Business School, Department of Management Sciences<br/>
