@@ -73,14 +73,10 @@ keywords: hanedusman, hamed usman, hamed, usman, operations management, supply c
 <li>Managing Donated Goods Inventory · International Institute of Saint Louis</li>
 <div class="summary"><p><a href="https://www.iistl.org" target="_blank" rel="noopener noreferrer">International Institute of Saint Louis (USA) &#x29c9;</a> receives donations from several sources and purchases the items which don’t come as donated goods. There was always a mismatch between actual value and expected value of the stock, making it more essential to reduce inefficiencies and errors, and to enhance inventory control and tracking, customer service and overall productivity.</p></div>
 
-
-
-
 <br/>
 
+
 ---
-
-
 
 
 <h4>Teaching</h4>
