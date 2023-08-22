@@ -3,7 +3,7 @@ layout: cv
 title: HAMED USMAN
 ---
 ## HAMED USMAN - CV
-Senior Lecturer, Bahria University
+<a href="mailto:hamed.buic@hbahria.edu.pk">hamed.buic@hbahria.edu.pk</a> | +92-51-9260002 (Ext. 1424) | Department of Management Sciences, Bahria Business School, Bahria University, Islamabad Pakistan<br/>
 
 Bahria Business School, Department of Management Sciences<br/>
 Shangrilla Road, Sector E-8 Islamabad, Bahria University, Islamabad Pakistan<br/>
