@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: HAMED USMAN
+title: HAMED USMAN - CV
 ---
 # HAMED USMAN
 Senior Lecturer, Bahria University
@@ -41,54 +41,7 @@ Bachelor of Science, Business; Emphasis: Operations Management (OM)
 ---
 
 
-## AWARDS / HONORS / SCHOLARSHIPS
-<ol>
-<li>2019 MS-SCM Outstanding Student Award | Saint Louis University (May 2019)</li>
-<li>Ranked 1st among graduate students in MS-SCM | Saint Louis University	(2017 – 2019)</li>
-<li>Honorable Mention at Commencement Ceremony | Saint Louis University	(May 2019)</li>
-<li>Center for Supply Chain Excellence Scholarship | Saint Louis University	(Spring 2019)</li>
-<li>Beta Gamma Sigma Honor Society Induction | Saint Louis University Chapter (Mar 2019)</li>
-<li>Merit Scholarship for graduate program | Saint Louis University	(Fall 2017)</li>
-<li>Talent Scholarship for undergraduate studies | Forman Christian College	(2007 – 2011)</li>
-<li>Vice Rector’s List | Forman Christian College	(Summer 2010)</li>
-</ol>
-
-
-<br/>
-
----
-
-
-## RESEARCH INTERESTS
-<ul>
-<li>Supplier portfolio management</li>
-<li>Supply chain complexity</li>
-<li>Supply chain sustainability</li>
-</ul>
-
-
-<br/>
-
----
-
-
-## TEACHING INTERESTS
-<ul>
-<li>Supply chain management</li>
-<li>Operations management</li>
-<li>Six sigma quality management</li>
-<li>Logistics</li>
-<li>Strategic sourcing</li>
-<li>Business analytics</li>
-</ul>
-
-
-<br/>
-
----
-
-
-## RESEARCH AND TEACHING EXPERIENCE
+## ACADEMIC EXPERIENCE
 
 `February 2023 - present`<br/>
 BAHRIA BUSINESS SCHOOL, BAHRIA UNIVERSITY, ISLAMABAD CAMPUS | ISLAMABAD, PAKISTAN<br/>
