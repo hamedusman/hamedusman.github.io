@@ -26,10 +26,10 @@ Phone: +92-51-9260002 (Ext. 1424)
 
 ## Education
 
-`2017-2019`<br/>
+`2017 ⎯⎯⎯⎯⎯ 2019`<br/>
 **Master of Science, Supply Chain Management**, *Saint Louis University*, MO, USA.
 
-`2007-2011`<br/>
+`2007 ⎯⎯⎯⎯⎯ 2011`<br/>
 **Bachelor of Science, Business (Operations Management)**, *Forman Christian College University (A Chattered University)*, Lahore, Pakistan.
 
 
@@ -40,10 +40,10 @@ Phone: +92-51-9260002 (Ext. 1424)
 
 ## Academic Experience
 
-`2023-present`<br/>
+`2023 ⎯⎯⎯⎯⎯ present`<br/>
 **Senior Lecturer**, *Supply Chain Management, Department of Management Sciences, Bahria Business School, Bahria University*, Islamabad, Pakistan.
 
-`2019-2022`<br/>
+`2019 ⎯⎯⎯⎯⎯ 2022`<br/>
 **Junior Researcher**, *Center for Supply Chain Excellence, Saint Louis University*, MO, USA.
 
 
