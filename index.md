@@ -19,7 +19,7 @@ keywords: hanedusman, hamed usman, hamed, usman, operations management, supply c
 
 ---
 
-<h4>SELECTED AWARDS</h4>
+<h4>Selected Awards</h4>
 <ol>
 <li>2019 MS-SCM Outstanding Student Award | Saint Louis University (May 2019)</li>
 <li>Ranked 1st among graduate students in MS-SCM | Saint Louis University	(2017 – 2019)</li>
@@ -36,7 +36,7 @@ keywords: hanedusman, hamed usman, hamed, usman, operations management, supply c
 
 ---
 
-<h4>RESEARCH</h4>
+<h4>Research</h4>
 <h5>Research Interests</h5>
 <ul>
 <li>Supplier portfolio management</li>
@@ -74,7 +74,12 @@ keywords: hanedusman, hamed usman, hamed, usman, operations management, supply c
 <div class="summary"><p><a href="https://www.iistl.org" target="_blank" rel="noopener noreferrer">International Institute of Saint Louis (USA) &#x29c9;</a> receives donations from several sources and purchases the items which don’t come as donated goods. There was always a mismatch between actual value and expected value of the stock, making it more essential to reduce inefficiencies and errors, and to enhance inventory control and tracking, customer service and overall productivity.</p></div>
 
 
-<h4>TEACHING</h4>
+<br/>
+
+---
+
+
+<h4>Teaching</h4>
 <h5>Teaching Interests</h5>
 <ul>
 <li>Supply chain management</li>
@@ -85,10 +90,7 @@ keywords: hanedusman, hamed usman, hamed, usman, operations management, supply c
 <li>Business analytics</li>
 </ul>
 
-
 <br/>
-
----
 
 <h5>Academic Courses</h5>
 <ul><li>Bahria Business School, Bahria University, Islamabad, Pakistan</li>
