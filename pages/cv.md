@@ -6,8 +6,7 @@ title: Hamed Usman
 Senior Lecturer, Bahria University
 
 Bahria Business School, Department of Management Sciences<br/>
-Shangrilla Road, Sector E-8 Islamabad<br/>
-Bahria University, Islamabad Pakistan<br/>
+Shangrilla Road, Sector E-8 Islamabad, Bahria University, Islamabad Pakistan<br/>
 
 Email: <a href="mailto:hamed.buic@hbahria.edu.pk">hamed.buic@hbahria.edu.pk</a><br/>
 Phone: +92-51-9260002 (Ext. 1424)
