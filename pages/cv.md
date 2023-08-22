@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Hamed Usman's CV
+title: Hamed Usman
 ---
 # Hamed Usman
 Senior Lecturer, Bahria University
