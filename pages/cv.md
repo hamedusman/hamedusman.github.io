@@ -3,13 +3,12 @@ layout: cv
 title: HAMED USMAN
 ---
 ## HAMED USMAN - CV
-<a href="mailto:hamed.buic@hbahria.edu.pk">hamed.buic@hbahria.edu.pk</a> | +92-51-9260002 (Ext. 1424) | Department of Management Sciences, Bahria Business School, Bahria University, Islamabad Pakistan<br/>
-
+Senior Lecturer, Supply Chain Management<br/>
 Bahria Business School, Department of Management Sciences<br/>
-Shangrilla Road, Sector E-8 Islamabad, Bahria University, Islamabad Pakistan<br/>
-
 Email: <a href="mailto:hamed.buic@hbahria.edu.pk">hamed.buic@hbahria.edu.pk</a><br/>
-Phone: +92-51-9260002 (Ext. 1424)
+Phone: +92-51-9260002 (Ext. 1424)<br/>
+Address: Shangrilla Road, Sector E-8 Islamabad, Bahria University, Islamabad Pakistan
+
 
 <div id="webaddress">
   <a href="https://hamedusman.github.io"><i class="fas fa-home"></i> hamedusman.github.io</a> - 
