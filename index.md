@@ -78,7 +78,6 @@ keywords: hanedusman, hamed usman, hamed, usman, operations management, supply c
 
 ---
 
-
 <h4>Teaching</h4>
 <h5>Teaching Interests</h5>
 <ul>
@@ -110,7 +109,6 @@ keywords: hanedusman, hamed usman, hamed, usman, operations management, supply c
 <br/>
 
 ---
-
 
 <h4>Contact</h4>
 Hamed Usman, MS <br/>
