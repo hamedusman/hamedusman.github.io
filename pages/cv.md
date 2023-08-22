@@ -14,7 +14,7 @@ Address: Shangrilla Road, Sector E-8 Islamabad, Bahria University, Islamabad Pak
 ---
 
 
-<h3 style="font-family:courier; color:#b31b1b">EDUCATION</h3>
+<h3 style="font-family:courier; color:#808080">EDUCATION</h3>
 
 `2017 - 2019`<br/>
 <ul style="list-style-type:none;">
@@ -34,7 +34,7 @@ Address: Shangrilla Road, Sector E-8 Islamabad, Bahria University, Islamabad Pak
 ---
 
 
-<h3 style="font-family:courier; color:#b31b1b">ACADEMIC EXPERIENCE</h3>
+<h3 style="font-family:courier; color:#808080">ACADEMIC EXPERIENCE</h3>
 
 `February 2023 - present`<br/>
 <ul style="list-style-type:none;">
