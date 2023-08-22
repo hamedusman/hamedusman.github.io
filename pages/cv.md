@@ -38,12 +38,12 @@ Address: Shangrilla Road, Sector E-8 Islamabad, Bahria University, Islamabad Pak
 
 `February 2023 - present`<br/>
 <ul style="list-style-type:none;">
-  <li>BAHRIA BUSINESS SCHOOL, BAHRIA UNIVERSITY, ISLAMABAD CAMPUS | ISLAMABAD, PAKISTAN</li>
+  <li>Bahria Business School, Bahria University, Islamabad Campus, Islamabad, Pakistan</li>
   <li><i>Senior Lecturer</i>, Management Sciences (Supply Chain Management)</li>
 </ul>
 
 `September 2019 – January 2023`<br/>
 <ul style="list-style-type:none;">
-  <li>RICHARD A. CHAIFETZ SCHOOL OF BUSINESS, SAINT LOUIS UNIVERSITY | SAINT LOUIS, MO, USA</li>
+  <li>Richard A. Chaifetz School of Business, Saint Louis University, Saint Louis, MO, USA</li>
   <li><i>Junior Researcher</i>, Center for Supply Chain Excellence (Mentor: Ik-Whan Kwon, Ph.D.)</li>
 </ul>
