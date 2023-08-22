@@ -11,12 +11,6 @@ Shangrilla Road, Sector E-8 Islamabad, Bahria University, Islamabad Pakistan<br/
 Email: <a href="mailto:hamed.buic@hbahria.edu.pk">hamed.buic@hbahria.edu.pk</a><br/>
 Phone: +92-51-9260002 (Ext. 1424)
 
-Bahria Business School, Department of Management Sciences<br/>
-Shangrilla Road, Sector E-8 Islamabad, Bahria University, Islamabad Pakistan<br/>
-
-Email: <a href="mailto:hamed.buic@hbahria.edu.pk">hamed.buic@hbahria.edu.pk</a><br/>
-Phone: +92-51-9260002 (Ext. 1424)
-
 <div id="webaddress">
   <a href="https://hamedusman.github.io"><i class="fas fa-home"></i> hamedusman.github.io</a> - 
   <a href="http://101scm.github.io"><i class="fas fa-users"></i>101SCM (Course Web)</a> -
