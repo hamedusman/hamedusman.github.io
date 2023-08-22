@@ -30,6 +30,8 @@ Address: Shangrilla Road, Sector E-8 Islamabad, Bahria University, Islamabad Pak
 <li>Master of Science (MS), <i>Supply Chain Management (SCM)</i></li>
 </ul>
 
+<br/>
+
 `2007 - 2011`<br/>
 <ul style="list-style-type:none;">
 <li>SCHOOL OF MANAGEMENT, FORMAN CHRISTIAN COLLEGE | LAHORE, PAKISTAN</li>
