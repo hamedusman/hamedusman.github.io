@@ -41,7 +41,7 @@ Bachelor of Science, *Business*; Emphasis: *Operations Management (OM)*
 ---
 
 
-### ACADEMIC EXPERIENCE
+#### ACADEMIC EXPERIENCE
 
 `February 2023 - present`<br/>
 BAHRIA BUSINESS SCHOOL, BAHRIA UNIVERSITY, ISLAMABAD CAMPUS | ISLAMABAD, PAKISTAN<br/>
