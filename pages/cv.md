@@ -5,7 +5,7 @@ title: HAMED USMAN
 <h1 style="font-family:arial; color:#808080">HAMED USMAN</h1>
 Senior Lecturer, Supply Chain Management<br/>
 Bahria Business School, Bahria University, Islamabad<br/>
-Email: hamed.buic@bahria.edu.pk | Phone: +92-51-9260002 (Ext. 1424)<br/>
+Email: hamed.buic@bahria.edu.pk and Phone: +92-51-9260002 (Ext. 1424)<br/>
 Address: Shangrilla Road, Sector E-8 Islamabad, Bahria University, Islamabad Pakistan
 
 
@@ -18,7 +18,7 @@ Address: Shangrilla Road, Sector E-8 Islamabad, Bahria University, Islamabad Pak
 
 `2017 - 2019`<br/>
 <ul style="list-style-type:none;">
-  <li>RICHARD A. CHAIFETZ SCHOOL OF BUSINESS, SAINT LOUIS UNIVERSITY | SAINT LOUIS, MO, USA</li>
+  <li>Richard A. Chaifetz School of Business, Saint Louis University, Saint Louis, MO, USA</li>
   <li>Master of Science (MS), <i>Supply Chain Management (SCM)</i></li>
 </ul>
 
