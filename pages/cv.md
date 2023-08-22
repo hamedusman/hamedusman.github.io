@@ -23,16 +23,16 @@ Phone: +92-51-9260002 (Ext. 1424)
 
 ## Education
 
-`2017-2019`
+`2017-2019`<br/>
 **Master of Science, Supply Chain Management**, *Saint Louis University*, MO, USA.
 
-`1998-2002`
+`1998-2002`<br/>
 **Bachelor of Science, Business (Operations Management minor)**, *University of Michigan*, Ann Arbor, MI, USA.
 
 ## Experience
 
-`2021-present`
-**Professor**, *Department of Geosciences and Geography, and Helsinki Institute of Sustainability Science (HELSUS), University of Helsinki*, Helsinki, Finland.
+`2021-present`<br/>
+**Senior Lecturer**, *Supply Chain Management, Department of Management Sciences, Bahria Business School, Bahria University*, Islamabad, Pakistan.
 
 `2013-2023`
 **Adjunct of the Faculty of Graduate Studies**, *Department of Earth Sciences, Dalhousie University*, Halifax, NS, Canada.
