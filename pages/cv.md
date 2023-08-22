@@ -45,18 +45,23 @@ Bachelor of Science, Business; Emphasis: Operations Management (OM)
 `May 2019`<br/>
 2019 MS-SCM Outstanding Student Award | Saint Louis University
 
-`2017 – 2019`
+`2017 – 2019`<br/>
 Ranked 1st among graduate students in MS-SCM | Saint Louis University
 
-`May 2019`
+`May 2019`<br/>
 Honorable Mention at Commencement Ceremony | Saint Louis University
 
-`Spring 2019`
+`Spring 2019`<br/>
 Center for Supply Chain Excellence Scholarship | Saint Louis University
 
+`March 2019`<br/>
+Beta Gamma Sigma Honor Society Induction | Saint Louis University Chapter
 
-<li>Beta Gamma Sigma Honor Society Induction | Saint Louis University Chapter (Mar 2019)</li>
-<li>Merit Scholarship for graduate program | Saint Louis University	(Fall 2017)</li>
-<li>Talent Scholarship for undergraduate studies | Forman Christian College	(2007 – 2011)</li>
-<li>Vice Rector’s List | Forman Christian College	(Summer 2010)</li>
-</ul>
+`Fall 2017`<br/>
+Merit Scholarship for graduate program | Saint Louis University
+
+`2007 – 2011`<br/>
+Talent Scholarship for undergraduate studies | Forman Christian College
+
+`Summer 2010`<br/>
+Vice Rector’s List | Forman Christian College
