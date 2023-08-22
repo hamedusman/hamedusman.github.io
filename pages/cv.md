@@ -22,7 +22,7 @@ Address: Shangrilla Road, Sector E-8 Islamabad, Bahria University, Islamabad Pak
 ---
 
 
-<h4 style="color:maroon; font-family:courier">EDUCATION</h4>
+<h3 style="color:maroon; font-family:courier">EDUCATION</h3>
 
 `2017 - 2019`<br/>
 <ul style="list-style-type:none;">
