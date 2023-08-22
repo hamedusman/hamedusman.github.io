@@ -94,14 +94,6 @@ Bachelor of Science, Business; Emphasis: Operations Management (OM)
 BAHRIA BUSINESS SCHOOL, BAHRIA UNIVERSITY, ISLAMABAD CAMPUS | ISLAMABAD, PAKISTAN<br/>
 Senior Lecturer - Permanent Faculty Member | Management Sciences (Supply Chain Management)
 
-# Academic Teaching
-Contemporary Issues in Supply Chain (SCM 707; graduate level)
-Spring 2023 (4.8/5.0)
-Fundamentals of Supply Chain Management (SCM 701; graduate level)
-Spring 2023 (4.0/5.0)
-Import and Export Management (SCM 320; undergraduate level)
-Spring 2023 (4.2/5.0)
-Introduction to Supply Chain Management (SCM 101; Undergraduate level)
-Spring 2023 (4.4/50)
-# Research Advising
-Hira Waris (MS in SCM; graduate in Spring 2023)
+`September 2019 – January 2023`
+RICHARD A. CHAIFETZ SCHOOL OF BUSINESS, SAINT LOUIS UNIVERSITY | SAINT LOUIS, MO, USA<br/>
+Junior Researcher | Center for Supply Chain Excellence (Mentor: Ik-Whan Kwon, Ph.D.)
