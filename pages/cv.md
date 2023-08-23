@@ -39,7 +39,7 @@ Address: Shangrilla Road, Sector E-8 Islamabad, Bahria University, Islamabad Pak
 <h3 style="font-family:courier; color:#808080">ACADEMIC EXPERIENCE</h3>
 
 <ul style="list-style-type:none;">
- <a style="font-family:courier; font-size:13px">2023 - present`</a>
+ <a style="font-family:courier; font-size:13px">2023 - present</a>
   <ul style="list-style-type:none;">
    <li>Bahria Business School, Bahria University, Islamabad Campus, Islamabad, Pakistan</li>
    <li><i>Senior Lecturer (SCM)</i>, Department of Management Sciences</li></ul>
