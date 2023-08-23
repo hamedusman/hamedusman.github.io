@@ -47,3 +47,19 @@ Address: Shangrilla Road, Sector E-8 Islamabad, Bahria University, Islamabad Pak
   <li>Richard A. Chaifetz School of Business, Saint Louis University, Saint Louis, MO, USA</li>
   <li><i>Junior Researcher (SCM)</i>, Center for Supply Chain Excellence (Mentor: Ik-Whan Kwon, Ph.D.)</li>
 </ul>
+
+ACADEMIC TEACHING
+`Spring 2023`
+  <ul style="list-style-type:none;">
+    <li>Contemporary Issues in Supply Chain (SCM 707; graduate level)</li></ul>
+`Spring 2023`
+  <ul style="list-style-type:none;">
+    <li>Fundamentals of Supply Chain Management (SCM 701; graduate level)</li></ul>
+`Spring 2023`
+  <ul style="list-style-type:none;">
+    <li>Import and Export Management (SCM 320; undergraduate level)</li></ul>
+`Spring 2023`
+  <ul style="list-style-type:none;">
+    <li>Introduction to Supply Chain Management (SCM 101; Undergraduate level)</li></ul>
+
+
