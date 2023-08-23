@@ -80,7 +80,7 @@ Address: Shangrilla Road, Sector E-8 Islamabad, Bahria University, Islamabad Pak
   </ol>
  </ul>
 
-<h3 style="font-family:courier; color:#808080">PROFESSIONAL PROJECTS</h3>
+<h3 style="font-family:courier; color:#808080">PROJECTS</h3>
 
  <ul style="list-style-type:none;">
   <a style="font-family:courier; font-size:13px">January 2019 – May 2019</a>
