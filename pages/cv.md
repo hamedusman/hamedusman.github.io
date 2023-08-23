@@ -59,23 +59,25 @@ Address: Shangrilla Road, Sector E-8 Islamabad, Bahria University, Islamabad Pak
 
 
 <h3 style="font-family:courier; color:#808080">TEACHING</h3>
- <ul style="list-style-type:none;"><b>Bahria Business School, Bahria University, Islamabad Campus, Islamabad, Pakistan</b>
+ <ul style="list-style-type:none;">Bahria Business School, Bahria University, Islamabad Campus, Islamabad, Pakistan
   
-   <ul style="list-style-type:none;">1. Contemporary Issues in Supply Chain (SCM 707; graduate level)
-    <ul style="list-style-type:none;"><a style="font-family:courier; font-size:13px">Spring 2023</a>
-     </ul></ul>
+   <ol type="1">
+    <li>Contemporary Issues in Supply Chain (SCM 707; graduate level)</li>
+     <ul style="list-style-type:none;"><a style="font-family:courier; font-size:13px">Spring 2023</a>
+      </ul>
    
-   <ul style="list-style-type:none;">2. Fundamentals of Supply Chain Management (SCM 701; graduate level)
-    <ul style="list-style-type:none;"><a style="font-family:courier; font-size:13px">Spring 2023</a>
-     </ul></ul>
+    <li>Fundamentals of Supply Chain Management (SCM 701; graduate level)</li>
+     <ul style="list-style-type:none;"><a style="font-family:courier; font-size:13px">Spring 2023</a>
+      </ul>
    
-   <ul style="list-style-type:none;">3. Import and Export Management (SCM 320; undergraduate level)
-    <ul style="list-style-type:none;"><a style="font-family:courier; font-size:13px">Spring 2023</a>
-     </ul></ul>
+    <li>Import and Export Management (SCM 320; undergraduate level)</li>
+     <ul style="list-style-type:none;"><a style="font-family:courier; font-size:13px">Spring 2023</a>
+      </ul>
    
-   <ul style="list-style-type:none;">4. Introduction to Supply Chain Management (SCM 101; Undergraduate level)
-    <ul style="list-style-type:none;"><a style="font-family:courier; font-size:13px">Spring 2023</a>
-     </ul></ul>
+    <li>Introduction to Supply Chain Management (SCM 101; Undergraduate level)</li>
+     <ul style="list-style-type:none;"><a style="font-family:courier; font-size:13px">Spring 2023</a>
+      </ul>
+  </ol>
  </ul>
 
 
