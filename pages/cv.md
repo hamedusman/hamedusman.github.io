@@ -153,7 +153,7 @@ Address: Shangrilla Road, Sector E-8 Islamabad, Bahria University, Islamabad Pak
 <h3 style="font-family:courier">SKILLS AND TOOLS</h3>
 
  <ul style="list-style-type:none;">
-  <a style="font-family:courier; font-size:13px">Econometric Research Methods using Panel Data:</a>
+  <a style="font-family:courier; font-size:13px">Econometric Research Methods using Panel Data</a>
    <ul style="list-style-type:none;">
     <li>Regression, instrument variable analysis, and differences-in-differences</li>
     </ul>
