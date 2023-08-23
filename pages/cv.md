@@ -100,7 +100,7 @@ Address: Shangrilla Road, Sector E-8 Islamabad, Bahria University, Islamabad Pak
 <h3 style="font-family:courier">CERTIFICATIONS</h3>
 
  <ul style="list-style-type:none;">
-  <a style="font-family:courier; font-size:13px">May 2019
+  <a style="font-family:courier; font-size:13px">May 2019</a>
    <ul style="list-style-type:none;">
     <li>Center for Supply Chain Excellence, Saint Louis University</li>
      <li><i>Integrated Supply Chain Management Certificate</i></li></ul>
