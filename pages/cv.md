@@ -98,4 +98,35 @@ Address: Shangrilla Road, Sector E-8 Islamabad, Bahria University, Islamabad Pak
    </ul>
  </ul>
 
+<h3 style="font-family:courier; color:#808080">INDUSTRIAL EXPERIENCE</h3>
+
+ <ul style="list-style-type:none;">
+  <a style="font-family:courier; font-size:13px">July 2013 – July 2017</a>
+   <ul style="list-style-type:none;">
+    <li>Bajwa Agro Industries, Lahore, Pakistan</li>
+     <li><i>Assistant Manager Operations, Materials Management</i></li>
+   </ul>
+ </ul>
+
+  <ul style="list-style-type:none;">
+  <a style="font-family:courier; font-size:13px">April 2012 – April 2013</a>
+   <ul style="list-style-type:none;">
+    <li>CCL Pharmaceuticals, Lahore, Pakistan</li>
+     <li><i>Management Training Officer, Supply Chain Management Division</i></li>
+   </ul>
+ </ul>
+
+ <ul style="list-style-type:none;">
+  <a style="font-family:courier; font-size:13px">October 2011 – March 2012</a>
+   <ul style="list-style-type:none;">
+    <li>UTi (DSV Global Transport And Logistics), Lahore, Pakistan</li>
+     <li><i>Operations Trainee, Ocean Export</i></li>
+   </ul>
+ </ul>
+
+
+
+
+
+
 
