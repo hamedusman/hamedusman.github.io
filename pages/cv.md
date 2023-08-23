@@ -48,19 +48,19 @@ Address: Shangrilla Road, Sector E-8 Islamabad, Bahria University, Islamabad Pak
   
   <ul style="list-style-type:none;"><a style="font-family:courier; font-size:13px">Journal Articles</a>
    
-   <ul style="list-style-type:none;">Kwon, I. W. G., Shin, N., Kim, S. H., & <b>Usman, H.</b> (2021). Trust and commitment in supply chain during digital transformation: A case in Korea. <i>AIMS Environmental Science</i>, (6).
+   <ul style="list-style-type:none;"><li>Kwon, I. W. G., Shin, N., Kim, S. H., & <b>Usman, H.</b> (2021). Trust and commitment in supply chain during digital transformation: A case in Korea. <i>AIMS Environmental Science</i>, (6).</li>
  
   </ul>
  </ul>
 
  <ul style="list-style-type:none;"><a style="font-family:courier; font-size:13px">Book Chapter</a>
-  <ul style="list-style-type:none;">Kwon, I. W. G., Kim, S. H., & <b>Usman, H.</b> (2021). Vaccine Supply Chain Distribution under Covid-19 Pandemic: Stressed, Resourceful and Resilient - Lesson Learned from the United States Experiences (2021). <i>Proud Pen Limited, London, UK</i>
+  <ul style="list-style-type:none;"><li>Kwon, I. W. G., Kim, S. H., & <b>Usman, H.</b> (2021). Vaccine Supply Chain Distribution under Covid-19 Pandemic: Stressed, Resourceful and Resilient - Lesson Learned from the United States Experiences (2021). <i>Proud Pen Limited, London, UK</i></li>
   </ul>
  </ul></ul>
 
  <ul style="list-style-type:none;">Research Advising
-  <ul style="list-style-type:none;">Bahria Business School, Bahria University, Islamabad Campus, Islamabad, Pakistan
-   <ul style="list-style-type:none;">Hira Waris (MS in SCM; graduated in Spring 2023)</ul>
+  <ul style="list-style-type:none;"><a style="font-family:courier; font-size:13px">Master's Thesis</a>
+    <ul style="list-style-type:none;"><li>Hira Waris (MS in SCM, Bahria University, Islamabad, Pakistan; graduated in Spring 2023)</li></ul>
   </ul>
  </ul>
 
