@@ -8,6 +8,8 @@ Bahria Business School, Bahria University, Islamabad<br/>
 Email: hamed.buic@bahria.edu.pk and Phone: +92-51-9260002 (Ext. 1424)<br/>
 Address: Shangrilla Road, Sector E-8 Islamabad, Bahria University, Islamabad Pakistan
 
+<br/>
+
 <h3 style="font-family:courier; color:#808080">EDUCATION</h3>
 
 <ul style="list-style-type:none;">
