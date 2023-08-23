@@ -52,7 +52,9 @@ Address: Shangrilla Road, Sector E-8 Islamabad, Bahria University, Islamabad Pak
  </ul>
 
  <ul style="list-style-type:none;">Research Advising
-  <ul style="list-style-type:none;">Hira Waris (MS in SCM; graduated in Spring 2023)</ul>
+  <ul style="list-style-type:none;">Bahria Business School, Bahria University, Islamabad Campus, Islamabad, Pakistan
+   <ul style="list-style-type:none;">Hira Waris (MS in SCM; graduated in Spring 2023)</ul>
+  </ul>
  </ul>
 
 <h3 style="font-family:courier; color:#808080">TEACHING</h3>
