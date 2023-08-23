@@ -48,6 +48,12 @@ Address: Shangrilla Road, Sector E-8 Islamabad, Bahria University, Islamabad Pak
   <li><i>Junior Researcher (SCM)</i>, Center for Supply Chain Excellence (Mentor: Ik-Whan Kwon, Ph.D.)</li>
 </ul>
 
+
+<br/>
+
+---
+
+
 <h3 style="font-family:courier; color:#808080">ACADEMIC TEACHING</h3>
 `Spring 2023`<br/>
   <ul style="list-style-type:none;">
