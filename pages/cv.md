@@ -57,6 +57,37 @@ Address: Shangrilla Road, Sector E-8 Islamabad, Bahria University, Islamabad Pak
     <ul style="list-style-type:none;"><li>Hira Waris (MS in SCM, Bahria University, Islamabad, Pakistan; graduated in Spring 2023)</li>   </ul>
  </ul>
 
+<h3 style="font-family:courier">TEACHING</h3>
+ <ul style="list-style-type:none;">Bahria Business School, Bahria University, Islamabad Campus, Islamabad, Pakistan
+  
+   <ul style="list-style-type:none;">
+    <a style="font-family:courier; font-size:13px">Spring 2023</a>
+     <ul style="list-style-type:none;">
+      <li>Contemporary Issues in Supply Chain (SCM 707; graduate level)</li>
+    </ul>
+ </ul>
+   
+   <ul style="list-style-type:none;">
+    <a style="font-family:courier; font-size:13px">Spring 2023</a>
+     <ul style="list-style-type:none;">
+      <li>Fundamentals of Supply Chain Management (SCM 701; graduate level)</li>
+    </ul>
+ </ul>
+   
+   <ul style="list-style-type:none;">
+    <a style="font-family:courier; font-size:13px">Spring 2023</a>
+     <ul style="list-style-type:none;">
+      <li>Import and Export Management (SCM 320; undergraduate level)</li>
+    </ul>
+ </ul>
+   
+   <ul style="list-style-type:none;">
+    <a style="font-family:courier; font-size:13px">Spring 2023</a>
+     <ul style="list-style-type:none;">
+      <li>Introduction to Supply Chain Management (SCM 101; Undergraduate level)</li>
+    </ul>
+ </ul></ul>
+
 <h3 style="font-family:courier">PROJECTS</h3>
 
  <ul style="list-style-type:none;">
@@ -165,34 +196,3 @@ Address: Shangrilla Road, Sector E-8 Islamabad, Bahria University, Islamabad Pak
     <li>Stata, Tableau, SAS, R, SPSS (AMOS), VBA, SQL database, Microsoft Excel, Access, Project, and Visio</li>
     </ul>
  </ul>
-
-<h3 style="font-family:courier">TEACHING</h3>
- <ul style="list-style-type:none;">Bahria Business School, Bahria University, Islamabad Campus, Islamabad, Pakistan
-  
-   <ul style="list-style-type:none;">
-    <a style="font-family:courier; font-size:13px">Spring 2023</a>
-     <ul style="list-style-type:none;">
-      <li>Contemporary Issues in Supply Chain (SCM 707; graduate level)</li>
-    </ul>
- </ul>
-   
-   <ul style="list-style-type:none;">
-    <a style="font-family:courier; font-size:13px">Spring 2023</a>
-     <ul style="list-style-type:none;">
-      <li>Fundamentals of Supply Chain Management (SCM 701; graduate level)</li>
-    </ul>
- </ul>
-   
-   <ul style="list-style-type:none;">
-    <a style="font-family:courier; font-size:13px">Spring 2023</a>
-     <ul style="list-style-type:none;">
-      <li>Import and Export Management (SCM 320; undergraduate level)</li>
-    </ul>
- </ul>
-   
-   <ul style="list-style-type:none;">
-    <a style="font-family:courier; font-size:13px">Spring 2023</a>
-     <ul style="list-style-type:none;">
-      <li>Introduction to Supply Chain Management (SCM 101; Undergraduate level)</li>
-    </ul>
- </ul></ul>
