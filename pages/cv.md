@@ -113,8 +113,15 @@ Address: Shangrilla Road, Sector E-8 Islamabad, Bahria University, Islamabad Pak
      <li><i>Certified Six Sigma Green Belt</i></li></ul>
  </ul>
 
-<h3 style="font-family:courier">LEADERSHIP ROLES AND SERVICE</h3>
+<h3 style="font-family:courier">SERVICE AND LEADERSHIP ROLES</h3>
 
+ <ul style="list-style-type:none;">
+  <a style="font-family:courier; font-size:13px">Spring 2023</a>
+   <ul style="list-style-type:none;">
+    <li>Internal Examiner, Master Thesis Final Defence, Bahria University, Islamabad, Pakistan</li>
+    </ul>
+ </ul>
+ 
  <ul style="list-style-type:none;">
   <a style="font-family:courier; font-size:13px">April 2018 – May 2019</a>
    <ul style="list-style-type:none;">
