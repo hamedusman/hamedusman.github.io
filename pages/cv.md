@@ -64,29 +64,6 @@ Address: Shangrilla Road, Sector E-8 Islamabad, Bahria University, Islamabad Pak
   </ul>
  </ul>
 
-<h3 style="font-family:courier; color:#808080">TEACHING</h3>
- <ul style="list-style-type:none;">Bahria Business School, Bahria University, Islamabad Campus, Islamabad, Pakistan
-  
-   <ol>
-    <li>Contemporary Issues in Supply Chain (SCM 707; graduate level)</li>
-     <ul style="list-style-type:none;"><a style="font-family:courier; font-size:13px">Spring 2023</a>
-      </ul>
-   
-    <li>Fundamentals of Supply Chain Management (SCM 701; graduate level)</li>
-     <ul style="list-style-type:none;"><a style="font-family:courier; font-size:13px">Spring 2023</a>
-      </ul>
-   
-    <li>Import and Export Management (SCM 320; undergraduate level)</li>
-     <ul style="list-style-type:none;"><a style="font-family:courier; font-size:13px">Spring 2023</a>
-      </ul>
-   
-    <li>Introduction to Supply Chain Management (SCM 101; Undergraduate level)</li>
-     <ul style="list-style-type:none;"><a style="font-family:courier; font-size:13px">Spring 2023</a>
-      </ul>
-
-  </ol>
- </ul>
-
 <h3 style="font-family:courier; color:#808080">PROJECTS</h3>
 
  <ul style="list-style-type:none;">
@@ -112,14 +89,12 @@ Address: Shangrilla Road, Sector E-8 Islamabad, Bahria University, Islamabad Pak
      <li><i>Assistant Manager Operations, Materials Management</i></li></ul>
  </ul>
 
-
   <ul style="list-style-type:none;">
   <a style="font-family:courier; font-size:13px">April 2012 - April 2013</a>
    <ul style="list-style-type:none;">
     <li>CCL Pharmaceuticals, Lahore, Pakistan</li>
      <li><i>Management Training Officer, Supply Chain Management Division</i></li></ul>
  </ul>
-
 
  <ul style="list-style-type:none;">
   <a style="font-family:courier; font-size:13px">October 2011 - March 2012</a>
@@ -128,9 +103,25 @@ Address: Shangrilla Road, Sector E-8 Islamabad, Bahria University, Islamabad Pak
      <li><i>Operations Trainee, Ocean Export</i></li></ul>
  </ul>
 
+<h3 style="font-family:courier; color:#808080">TEACHING</h3>
+ <ul style="list-style-type:none;">Bahria Business School, Bahria University, Islamabad Campus, Islamabad, Pakistan
+  
+   <ol>
+    <li>Contemporary Issues in Supply Chain (SCM 707; graduate level)</li>
+     <ul style="list-style-type:none;"><a style="font-family:courier; font-size:13px">Spring 2023</a>
+      </ul>
+   
+    <li>Fundamentals of Supply Chain Management (SCM 701; graduate level)</li>
+     <ul style="list-style-type:none;"><a style="font-family:courier; font-size:13px">Spring 2023</a>
+      </ul>
+   
+    <li>Import and Export Management (SCM 320; undergraduate level)</li>
+     <ul style="list-style-type:none;"><a style="font-family:courier; font-size:13px">Spring 2023</a>
+      </ul>
+   
+    <li>Introduction to Supply Chain Management (SCM 101; Undergraduate level)</li>
+     <ul style="list-style-type:none;"><a style="font-family:courier; font-size:13px">Spring 2023</a>
+      </ul>
 
-
-
-
-
-
+  </ol>
+ </ul>
