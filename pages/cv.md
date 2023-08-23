@@ -8,12 +8,6 @@ Bahria Business School, Bahria University, Islamabad<br/>
 Email: hamed.buic@bahria.edu.pk and Phone: +92-51-9260002 (Ext. 1424)<br/>
 Address: Shangrilla Road, Sector E-8 Islamabad, Bahria University, Islamabad Pakistan
 
-
-<br/>
-
----
-
-
 <h3 style="font-family:courier; color:#808080">EDUCATION</h3>
 
 <ul style="list-style-type:none;">
@@ -29,12 +23,6 @@ Address: Shangrilla Road, Sector E-8 Islamabad, Bahria University, Islamabad Pak
    <li>School of Management, Forman Christian College, Lahore, Pakistan</li>
    <li>Bachelor of Science, Business; Emphasis: <i>Operations Management (OM)</i></li></ul>
 </ul>
-
-
-<br/>
-
----
-
 
 <h3 style="font-family:courier; color:#808080">ACADEMIC EXPERIENCE</h3>
 
@@ -52,12 +40,6 @@ Address: Shangrilla Road, Sector E-8 Islamabad, Bahria University, Islamabad Pak
    <li><i>Junior Researcher (SCM)</i>, Center for Supply Chain Excellence (Mentor: Ik-Whan Kwon, Ph.D.)</li></ul>
 </ul>
 
-
-<br/>
-
----
-
-
 <h3 style="font-family:courier; color:#808080">RESEARCH</h3>
 
  <ul style="list-style-type:none;">Peer-reviewed Publications
@@ -70,12 +52,6 @@ Address: Shangrilla Road, Sector E-8 Islamabad, Bahria University, Islamabad Pak
  <ul style="list-style-type:none;">Research Advising
   <ul style="list-style-type:none;">Hira Waris (MS in SCM; graduated in Spring 2023)</ul>
  </ul>
-
-
-<br/>
-
----
-
 
 <h3 style="font-family:courier; color:#808080">TEACHING</h3>
  <ul style="list-style-type:none;">Bahria Business School, Bahria University, Islamabad Campus, Islamabad, Pakistan
@@ -100,10 +76,6 @@ Address: Shangrilla Road, Sector E-8 Islamabad, Bahria University, Islamabad Pak
   </ol>
  </ul>
 
-
-<br/>
-
----
 
 
 
