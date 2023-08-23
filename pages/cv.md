@@ -116,17 +116,31 @@ Address: Shangrilla Road, Sector E-8 Islamabad, Bahria University, Islamabad Pak
 <h3 style="font-family:courier">LEADERSHIP ROLES AND SERVICE</h3>
 
  <ul style="list-style-type:none;">
-  <a style="font-family:courier; font-size:13px">April 2018 – May 2019
+  <a style="font-family:courier; font-size:13px">April 2018 – May 2019</a>
    <ul style="list-style-type:none;">
-    <li>Center for Supply Chain Excellence, Saint Louis University</li>
-     <li><i>Integrated Supply Chain Management Certificate</i></li></ul>
+    <li>President, Council of Supply Chain Management Professionals (CSCMP), Saint Louis University	</li>
+    </ul>
  </ul>
 
-  <ul style="list-style-type:none;">
-  <a style="font-family:courier; font-size:13px">December 2017</a>
+ <ul style="list-style-type:none;">
+  <a style="font-family:courier; font-size:13px">March 2018 – May 2019</a>
    <ul style="list-style-type:none;">
-    <li>American Society for Quality</li>
-     <li><i>Certified Six Sigma Green Belt</i></li></ul>
+    <li>SCM Students Representative, CSCMP Saint Louis Roundtable, Saint Louis, MO, USA</li>
+    </ul>
+ </ul>
+
+ <ul style="list-style-type:none;">
+  <a style="font-family:courier; font-size:13px">August 2018 – May 2019</a>
+   <ul style="list-style-type:none;">
+    <li>Student Board Member (SCM), Dean’s Student Advisory Board, Saint Louis University, Saint Louis, MO, USA</li>
+    </ul>
+ </ul>
+
+ <ul style="list-style-type:none;">
+  <a style="font-family:courier; font-size:13px">January 2018 – December 2018</a>
+   <ul style="list-style-type:none;">
+    <li>International Students Ambassador, Office of International Services, Saint Louis University, Saint Louis, MO, USA</li>
+    </ul>
  </ul>
 
 <h3 style="font-family:courier">TEACHING</h3>
