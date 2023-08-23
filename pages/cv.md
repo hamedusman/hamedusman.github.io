@@ -118,7 +118,7 @@ Address: Shangrilla Road, Sector E-8 Islamabad, Bahria University, Islamabad Pak
  <ul style="list-style-type:none;">
   <a style="font-family:courier; font-size:13px">Spring 2023</a>
    <ul style="list-style-type:none;">
-    <li>Internal Examiner, Master Thesis Final Defence, Bahria University, Islamabad, Pakistan</li>
+    <li>Internal Examiner, Master's Thesis Final Defence, Bahria University, Islamabad, Pakistan</li>
     </ul>
  </ul>
  
