@@ -42,6 +42,28 @@ Address: Shangrilla Road, Sector E-8 Islamabad, Bahria University, Islamabad Pak
    <li><i>Junior Researcher (SCM), Center for Supply Chain Excellence (Mentor: Ik-Whan Kwon, Ph.D.)</i></li></ul>
 </ul>
 
+<h3 style="font-family:courier; color:#808080">RESEARCH</h3>
+
+ <ul style="list-style-type:none;">Publications
+  
+  <ul style="list-style-type:none;">Journal Articles
+   
+   <ul style="list-style-type:none;">Kwon, I. W. G., Shin, N., Kim, S. <b>H., & Usman</b>, H. (2021). Trust and commitment in supply chain during digital transformation: A case in Korea. <i>AIMS Environmental Science</i>, (6).
+ 
+  </ul>
+ </ul>
+
+ <ul style="list-style-type:none;">Book Chapter
+  <ul style="list-style-type:none;">Kwon, I. W. G., Kim, S. <b>H., & Usman</b>, H. (2021). Vaccine Supply Chain Distribution under Covid-19 Pandemic: Stressed, Resourceful and Resilient - Lesson Learned from the United States Experiences (2021). <i>Proud Pen Limited, London, UK</i>
+  </ul>
+ </ul></ul>
+
+ <ul style="list-style-type:none;">Research Advising
+  <ul style="list-style-type:none;">Bahria Business School, Bahria University, Islamabad Campus, Islamabad, Pakistan
+   <ul style="list-style-type:none;">Hira Waris (MS in SCM; graduated in Spring 2023)</ul>
+  </ul>
+ </ul>
+
 <h3 style="font-family:courier; color:#808080">PROJECTS</h3>
 
  <ul style="list-style-type:none;">
