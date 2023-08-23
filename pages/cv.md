@@ -54,7 +54,7 @@ Address: Shangrilla Road, Sector E-8 Islamabad, Bahria University, Islamabad Pak
  </ul>
 
  <ul style="list-style-type:none;">Book Chapter
-  <ul style="list-style-type:none;">Kwon, I. W. G., Kim, S. <b>H., & Usman</b>, H. (2021).Vaccine Supply Chain Distribution under Covid-19 Pandemic: Stressed, Resourceful and Resilient - Lesson Learned from the United States Experiences (2021). <i>Proud Pen Limited, London, UK</i>
+  <ul style="list-style-type:none;">Kwon, I. W. G., Kim, S. <b>H., & Usman</b>, H. (2021). Vaccine Supply Chain Distribution under Covid-19 Pandemic: Stressed, Resourceful and Resilient - Lesson Learned from the United States Experiences (2021). <i>Proud Pen Limited, London, UK</i>
   </ul>
  </ul>
 
@@ -93,16 +93,14 @@ Address: Shangrilla Road, Sector E-8 Islamabad, Bahria University, Islamabad Pak
   <a style="font-family:courier; font-size:13px">January 2019 - May 2019</a>
    <ul style="list-style-type:none;">
     <li>Novus International, Saint Louis, MO, USA</li>
-    <li><i>Project Team Member, Product “A” Delivery Cost Reduction - Supply Chain Optimization</i></li>
-   </ul> 
+    <li><i>Project Team Member, Product “A” Delivery Cost Reduction - Supply Chain Optimization</i></li></ul> 
  </ul>
 
  <ul style="list-style-type:none;">
   <a style="font-family:courier; font-size:13px">August 2017 - December 2017</a>
    <ul style="list-style-type:none;">
     <li>International Institute of Saint Louis, Saint Louis, MO, USA</li>
-    <li><i>Project Team Leader, Managing Donated Goods Inventory - Community Service Project</i></li>
-   </ul>
+    <li><i>Project Team Leader, Managing Donated Goods Inventory - Community Service Project</i></li></ul>
  </ul>
 
 <h3 style="font-family:courier; color:#808080">INDUSTRIAL EXPERIENCE</h3>
@@ -111,24 +109,21 @@ Address: Shangrilla Road, Sector E-8 Islamabad, Bahria University, Islamabad Pak
   <a style="font-family:courier; font-size:13px">July 2013 - July 2017</a>
    <ul style="list-style-type:none;">
     <li>Bajwa Agro Industries, Lahore, Pakistan</li>
-     <li><i>Assistant Manager Operations, Materials Management</i></li>
-   </ul>
+     <li><i>Assistant Manager Operations, Materials Management</i></li></ul>
  </ul>
 
   <ul style="list-style-type:none;">
   <a style="font-family:courier; font-size:13px">April 2012 - April 2013</a>
    <ul style="list-style-type:none;">
     <li>CCL Pharmaceuticals, Lahore, Pakistan</li>
-     <li><i>Management Training Officer, Supply Chain Management Division</i></li>
-   </ul>
+     <li><i>Management Training Officer, Supply Chain Management Division</i></li></ul>
  </ul>
 
  <ul style="list-style-type:none;">
   <a style="font-family:courier; font-size:13px">October 2011 - March 2012</a>
    <ul style="list-style-type:none;">
     <li>UTi (DSV Global Transport And Logistics), Lahore, Pakistan</li>
-     <li><i>Operations Trainee, Ocean Export</i></li>
-   </ul>
+     <li><i>Operations Trainee, Ocean Export</i></li></ul>
  </ul>
 
 
