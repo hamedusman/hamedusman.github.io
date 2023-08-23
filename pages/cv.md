@@ -36,7 +36,7 @@ Address: Shangrilla Road, Sector E-8 Islamabad, Bahria University, Islamabad Pak
 </ul>
 
 <ul style="list-style-type:none;">
- <a style="font-family:courier; font-size:13px">2019 – 2023</a>
+ <a style="font-family:courier; font-size:13px">2019 - 2023</a>
   <ul style="list-style-type:none;">
    <li>Richard A. Chaifetz School of Business, Saint Louis University, Saint Louis, MO, USA</li>
    <li><i>Junior Researcher (SCM), Center for Supply Chain Excellence (Mentor: Ik-Whan Kwon, Ph.D.)</i></li></ul>
@@ -46,8 +46,8 @@ Address: Shangrilla Road, Sector E-8 Islamabad, Bahria University, Islamabad Pak
 
  <ul style="list-style-type:none;">Peer-reviewed Publications
   <ol>
-   <li>Trust and commitment in supply chain during digital transformation: A case in Korea (2021). American Institute of Mathematical Sciences, Environmental Science - Volume 8, Issue 6: 641-655 – Joint with Ik-Whan G. Kwon, Nina Shin, and Sung-Ho Kim</li>
-   <li>Vaccine Supply Chain Distribution under Covid-19 Pandemic: Stressed, Resourceful and Resilient – Lesson Learned from the United States Experiences (2021). Proud Pen Limited, London, UK – Joint with Ik-Whan G. Kwon, and Sung-Ho Kim</li>
+   <li>Trust and commitment in supply chain during digital transformation: A case in Korea (2021). American Institute of Mathematical Sciences, Environmental Science - Volume 8, Issue 6: 641-655 - Joint with Ik-Whan G. Kwon, Nina Shin, and Sung-Ho Kim</li>
+   <li>Vaccine Supply Chain Distribution under Covid-19 Pandemic: Stressed, Resourceful and Resilient - Lesson Learned from the United States Experiences (2021). Proud Pen Limited, London, UK - Joint with Ik-Whan G. Kwon, and Sung-Ho Kim</li>
  </ol>
  </ul>
 
@@ -83,15 +83,15 @@ Address: Shangrilla Road, Sector E-8 Islamabad, Bahria University, Islamabad Pak
 <h3 style="font-family:courier; color:#808080">PROJECTS</h3>
 
  <ul style="list-style-type:none;">
-  <a style="font-family:courier; font-size:13px">January 2019 – May 2019</a>
+  <a style="font-family:courier; font-size:13px">January 2019 - May 2019</a>
    <ul style="list-style-type:none;">
     <li>Novus International, Saint Louis, MO, USA</li>
-    <li><i>Project Team Member, Product “A” Delivery Cost Reduction – Supply Chain Optimization</i></li>
+    <li><i>Project Team Member, Product “A” Delivery Cost Reduction - Supply Chain Optimization</i></li>
    </ul> 
  </ul>
 
  <ul style="list-style-type:none;">
-  <a style="font-family:courier; font-size:13px">August 2017 – December 2017</a>
+  <a style="font-family:courier; font-size:13px">August 2017 - December 2017</a>
    <ul style="list-style-type:none;">
     <li>International Institute of Saint Louis, Saint Louis, MO, USA</li>
     <li><i>Project Team Leader, Managing Donated Goods Inventory - Community Service Project</i></li>
@@ -101,7 +101,7 @@ Address: Shangrilla Road, Sector E-8 Islamabad, Bahria University, Islamabad Pak
 <h3 style="font-family:courier; color:#808080">INDUSTRIAL EXPERIENCE</h3>
 
  <ul style="list-style-type:none;">
-  <a style="font-family:courier; font-size:13px">July 2013 – July 2017</a>
+  <a style="font-family:courier; font-size:13px">July 2013 - July 2017</a>
    <ul style="list-style-type:none;">
     <li>Bajwa Agro Industries, Lahore, Pakistan</li>
      <li><i>Assistant Manager Operations, Materials Management</i></li>
@@ -109,7 +109,7 @@ Address: Shangrilla Road, Sector E-8 Islamabad, Bahria University, Islamabad Pak
  </ul>
 
   <ul style="list-style-type:none;">
-  <a style="font-family:courier; font-size:13px">April 2012 – April 2013</a>
+  <a style="font-family:courier; font-size:13px">April 2012 - April 2013</a>
    <ul style="list-style-type:none;">
     <li>CCL Pharmaceuticals, Lahore, Pakistan</li>
      <li><i>Management Training Officer, Supply Chain Management Division</i></li>
@@ -117,7 +117,7 @@ Address: Shangrilla Road, Sector E-8 Islamabad, Bahria University, Islamabad Pak
  </ul>
 
  <ul style="list-style-type:none;">
-  <a style="font-family:courier; font-size:13px">October 2011 – March 2012</a>
+  <a style="font-family:courier; font-size:13px">October 2011 - March 2012</a>
    <ul style="list-style-type:none;">
     <li>UTi (DSV Global Transport And Logistics), Lahore, Pakistan</li>
      <li><i>Operations Trainee, Ocean Export</i></li>
