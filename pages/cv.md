@@ -46,12 +46,10 @@ Address: Shangrilla Road, Sector E-8 Islamabad, Bahria University, Islamabad Pak
 
  <ul style="list-style-type:none;">Publications
   
-  <ul style="list-style-type:none;"><a style="font-family:courier; font-size:13px">Journal Articles</a>
-   
+  <ul style="list-style-type:none;"><a style="font-family:courier; font-size:13px">Journal Article</a>
    <ul style="list-style-type:none;"><li>Kwon, I. W. G., Shin, N., Kim, S. H., & <b>Usman, H.</b> (2021). Trust and commitment in supply chain during digital transformation: A case in Korea. <i>AIMS Environmental Science</i>, (6).</li>
- 
+   <i>doi: 10.3934/environsci.2021040</i></ul>
   </ul>
- </ul>
 
  <ul style="list-style-type:none;"><a style="font-family:courier; font-size:13px">Book Chapter</a>
   <ul style="list-style-type:none;"><li>Kwon, I. W. G., Kim, S. H., & <b>Usman, H.</b> (2021). Vaccine Supply Chain Distribution under Covid-19 Pandemic: Stressed, Resourceful and Resilient - Lesson Learned from the United States Experiences (2021). <i>Proud Pen Limited, London, UK</i></li>
