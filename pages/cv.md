@@ -64,19 +64,21 @@ Address: Shangrilla Road, Sector E-8 Islamabad, Bahria University, Islamabad Pak
    <ol>
     <li>Contemporary Issues in Supply Chain (SCM 707; graduate level)</li>
      <ul style="list-style-type:none;"><a style="font-family:courier; font-size:13px">Spring 2023</a>
-      </ul></ol>
+      </ul>
    
     <ol><li>Fundamentals of Supply Chain Management (SCM 701; graduate level)</li>
      <ul style="list-style-type:none;"><a style="font-family:courier; font-size:13px">Spring 2023</a>
-      </ul></ol>
+      </ul>
    
     <ol><li>Import and Export Management (SCM 320; undergraduate level)</li>
      <ul style="list-style-type:none;"><a style="font-family:courier; font-size:13px">Spring 2023</a>
-      </ul></ol>
+      </ul>
    
     <ol><li>Introduction to Supply Chain Management (SCM 101; Undergraduate level)</li>
      <ul style="list-style-type:none;"><a style="font-family:courier; font-size:13px">Spring 2023</a>
-      </ul></ol>
+      </ul>
+
+  </ol>
  </ul>
 
 
