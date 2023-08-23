@@ -123,28 +123,28 @@ Address: Shangrilla Road, Sector E-8 Islamabad, Bahria University, Islamabad Pak
  </ul>
  
  <ul style="list-style-type:none;">
-  <a style="font-family:courier; font-size:13px">April 2018 – May 2019</a>
+  <a style="font-family:courier; font-size:13px">April 2018 - May 2019</a>
    <ul style="list-style-type:none;">
     <li>President, Council of Supply Chain Management Professionals (CSCMP), Saint Louis University	</li>
     </ul>
  </ul>
 
  <ul style="list-style-type:none;">
-  <a style="font-family:courier; font-size:13px">March 2018 – May 2019</a>
+  <a style="font-family:courier; font-size:13px">March 2018 - May 2019</a>
    <ul style="list-style-type:none;">
     <li>SCM Students Representative, CSCMP Saint Louis Roundtable, Saint Louis, MO, USA</li>
     </ul>
  </ul>
 
  <ul style="list-style-type:none;">
-  <a style="font-family:courier; font-size:13px">August 2018 – May 2019</a>
+  <a style="font-family:courier; font-size:13px">August 2018 - May 2019</a>
    <ul style="list-style-type:none;">
     <li>Student Board Member (SCM), Dean’s Student Advisory Board, Saint Louis University, Saint Louis, MO, USA</li>
     </ul>
  </ul>
 
  <ul style="list-style-type:none;">
-  <a style="font-family:courier; font-size:13px">January 2018 – December 2018</a>
+  <a style="font-family:courier; font-size:13px">January 2018 - December 2018</a>
    <ul style="list-style-type:none;">
     <li>International Students Ambassador, Office of International Services, Saint Louis University, Saint Louis, MO, USA</li>
     </ul>
@@ -169,22 +169,30 @@ Address: Shangrilla Road, Sector E-8 Islamabad, Bahria University, Islamabad Pak
 <h3 style="font-family:courier">TEACHING</h3>
  <ul style="list-style-type:none;">Bahria Business School, Bahria University, Islamabad Campus, Islamabad, Pakistan
   
-   <ol>
-    <li>Contemporary Issues in Supply Chain (SCM 707; graduate level)</li>
-     <ul style="list-style-type:none;"><a style="font-family:courier; font-size:13px">Spring 2023</a>
-      </ul>
+   <ul style="list-style-type:none;">
+    <a style="font-family:courier; font-size:13px">Spring 2023</a>
+     <ul style="list-style-type:none;">
+      <li>Contemporary Issues in Supply Chain (SCM 707; graduate level)</li>
+    </ul>
+ </ul>
    
-    <li>Fundamentals of Supply Chain Management (SCM 701; graduate level)</li>
-     <ul style="list-style-type:none;"><a style="font-family:courier; font-size:13px">Spring 2023</a>
-      </ul>
+   <ul style="list-style-type:none;">
+    <a style="font-family:courier; font-size:13px">Spring 2023</a>
+     <ul style="list-style-type:none;">
+      <li>Fundamentals of Supply Chain Management (SCM 701; graduate level)</li>
+    </ul>
+ </ul>
    
-    <li>Import and Export Management (SCM 320; undergraduate level)</li>
-     <ul style="list-style-type:none;"><a style="font-family:courier; font-size:13px">Spring 2023</a>
-      </ul>
+   <ul style="list-style-type:none;">
+    <a style="font-family:courier; font-size:13px">Spring 2023</a>
+     <ul style="list-style-type:none;">
+      <li>Import and Export Management (SCM 320; undergraduate level)</li>
+    </ul>
+ </ul>
    
-    <li>Introduction to Supply Chain Management (SCM 101; Undergraduate level)</li>
-     <ul style="list-style-type:none;"><a style="font-family:courier; font-size:13px">Spring 2023</a>
-      </ul>
-
-  </ol>
+   <ul style="list-style-type:none;">
+    <a style="font-family:courier; font-size:13px">Spring 2023</a>
+     <ul style="list-style-type:none;">
+      <li>Introduction to Supply Chain Management (SCM 101; Undergraduate level)</li>
+    </ul>
  </ul>
