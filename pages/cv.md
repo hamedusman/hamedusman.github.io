@@ -81,14 +81,21 @@ Address: Shangrilla Road, Sector E-8 Islamabad, Bahria University, Islamabad Pak
  </ul>
 
 <h3 style="font-family:courier; color:#808080">PROFESSIONAL PROJECTS</h3>
+
  <ul style="list-style-type:none;">
-  <li>Novus International, Saint Louis, MO, USA</li>
-  <li><i>Project Team Member, Product “A” Delivery Cost Reduction – Supply Chain Optimization</i></li>
+  <a style="font-family:courier; font-size:13px">January 2019 – May 2019</a>
+   <ul style="list-style-type:none;">
+    <li>Novus International, Saint Louis, MO, USA</li>
+    <li><i>Project Team Member, Product “A” Delivery Cost Reduction – Supply Chain Optimization</i></li>
+   </ul> 
  </ul>
 
  <ul style="list-style-type:none;">
-  <li>International Institute of Saint Louis, Saint Louis, MO, USA</li>
-  <li><i>Project Team Leader, Managing Donated Goods Inventory (Community service project)</i></li>
+  <a style="font-family:courier; font-size:13px">August 2017 – December 2017</a>
+   <ul style="list-style-type:none;">
+    <li>International Institute of Saint Louis, Saint Louis, MO, USA</li>
+    <li><i>Project Team Leader, Managing Donated Goods Inventory (Community service project)</i></li>
+   </ul>
  </ul>
 
 
