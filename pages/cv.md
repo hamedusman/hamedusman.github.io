@@ -96,6 +96,39 @@ Address: Shangrilla Road, Sector E-8 Islamabad, Bahria University, Islamabad Pak
      <li><i>Operations Trainee, Ocean Export</i></li></ul>
  </ul>
 
+
+<h3 style="font-family:courier">CERTIFICATIONS</h3>
+
+ <ul style="list-style-type:none;">
+  <a style="font-family:courier; font-size:13px">May 2019
+   <ul style="list-style-type:none;">
+    <li>Center for Supply Chain Excellence, Saint Louis University</li>
+     <li><i>Integrated Supply Chain Management Certificate</i></li></ul>
+ </ul>
+
+  <ul style="list-style-type:none;">
+  <a style="font-family:courier; font-size:13px">December 2017</a>
+   <ul style="list-style-type:none;">
+    <li>American Society for Quality</li>
+     <li><i>Certified Six Sigma Green Belt</i></li></ul>
+ </ul>
+
+<h3 style="font-family:courier">LEADERSHIP ROLES AND SERVICE</h3>
+
+ <ul style="list-style-type:none;">
+  <a style="font-family:courier; font-size:13px">April 2018 – May 2019
+   <ul style="list-style-type:none;">
+    <li>Center for Supply Chain Excellence, Saint Louis University</li>
+     <li><i>Integrated Supply Chain Management Certificate</i></li></ul>
+ </ul>
+
+  <ul style="list-style-type:none;">
+  <a style="font-family:courier; font-size:13px">December 2017</a>
+   <ul style="list-style-type:none;">
+    <li>American Society for Quality</li>
+     <li><i>Certified Six Sigma Green Belt</i></li></ul>
+ </ul>
+
 <h3 style="font-family:courier">TEACHING</h3>
  <ul style="list-style-type:none;">Bahria Business School, Bahria University, Islamabad Campus, Islamabad, Pakistan
   
