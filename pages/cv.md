@@ -60,20 +60,22 @@ Address: Shangrilla Road, Sector E-8 Islamabad, Bahria University, Islamabad Pak
 
 <h3 style="font-family:courier; color:#808080">ACADEMIC TEACHING</h3>
  <ul style="list-style-type:none;">Bahria Business School, Bahria University, Islamabad Campus, Islamabad, Pakistan
+  
    <ul style="list-style-type:none;"><li>1. Contemporary Issues in Supply Chain (SCM 707; graduate level)</li>
-     <ul style="list-style-type:none;"font-family:courier; font-size:13px"><li>Spring 2023</li></ul></ul>
-   <ul style="list-style-type:none;">
-    <a style="font-family:courier; font-size:13px">2. Fundamentals of Supply Chain Management (SCM 701; graduate level)</a>
-     <ul style="list-style-type:none;">
-      <li>Spring 2023</li></ul></ul>
-   <ul style="list-style-type:none;">
-    <a style="font-family:courier; font-size:13px">Spring 2023</a>
-     <ul style="list-style-type:none;">
-      <li>3. Import and Export Management (SCM 320; undergraduate level)</li></ul></ul>
-   <ul style="list-style-type:none;">
-    <a style="font-family:courier; font-size:13px">Spring 2023</a>
-     <ul style="list-style-type:none;">
-      <li>4. Introduction to Supply Chain Management (SCM 101; Undergraduate level)</li></ul></ul>
+    <ul style="list-style-type:none;"><a style="font-family:courier; font-size:13px">Spring 2023</a>
+     </ul></ul>
+   
+   <ul style="list-style-type:none;"><li>2. Fundamentals of Supply Chain Management (SCM 701; graduate level)</li>
+    <ul style="list-style-type:none;"><a style="font-family:courier; font-size:13px">Spring 2023</a>
+     </ul></ul>
+   
+   <ul style="list-style-type:none;"><li>3. Import and Export Management (SCM 320; undergraduate level)</li>
+    <ul style="list-style-type:none;"><a style="font-family:courier; font-size:13px">Spring 2023</a>
+     </ul></ul>
+   
+   <ul style="list-style-type:none;"><li>4. Introduction to Supply Chain Management (SCM 101; Undergraduate level)</li>
+    <ul style="list-style-type:none;"><a style="font-family:courier; font-size:13px">Spring 2023</a>
+     </ul></ul>
 </ul>
 
 
