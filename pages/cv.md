@@ -90,6 +90,8 @@ Address: Shangrilla Road, Sector E-8 Islamabad, Bahria University, Islamabad Pak
 <h3 style="font-family:courier; color:#808080">RESEARCH</h3>
 
  <ul style="list-style-type:none;"><b>Peer-reviewed Publications</b>
-  <ul style="list-style-type:none;">1. Trust and commitment in supply chain during digital transformation: A case in Korea (2021). American Institute of Mathematical Sciences, Environmental Science - Volume 8, Issue 6: 641-655 – Joint with Ik-Whan G. Kwon, Nina Shin, and Sung-Ho Kim</ul>
-  <ul style="list-style-type:none;">2. Vaccine Supply Chain Distribution under Covid-19 Pandemic: Stressed, Resourceful and Resilient – Lesson Learned from the United States Experiences (2021). Proud Pen Limited, London, UK – Joint with Ik-Whan G. Kwon, and Sung-Ho Kim</ul>
+  <ol>
+   <li>Trust and commitment in supply chain during digital transformation: A case in Korea (2021). American Institute of Mathematical Sciences, Environmental Science - Volume 8, Issue 6: 641-655 – Joint with Ik-Whan G. Kwon, Nina Shin, and Sung-Ho Kim</li>
+   <li>Vaccine Supply Chain Distribution under Covid-19 Pandemic: Stressed, Resourceful and Resilient – Lesson Learned from the United States Experiences (2021). Proud Pen Limited, London, UK – Joint with Ik-Whan G. Kwon, and Sung-Ho Kim</li>
+ </ol>
  </ul>
