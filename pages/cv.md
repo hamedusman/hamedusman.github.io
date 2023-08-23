@@ -16,14 +16,14 @@ Address: Shangrilla Road, Sector E-8 Islamabad, Bahria University, Islamabad Pak
  <a style="font-family:courier; font-size:13px">2017 - 2019</a>
   <ul style="list-style-type:none;">
    <li>Richard A. Chaifetz School of Business, Saint Louis University, Saint Louis, MO, USA</li>
-   <li>Master of Science (MS), <i>Supply Chain Management (SCM)</i></li></ul>
+   <li><i>Master of Science (MS), Supply Chain Management (SCM)</i></li></ul>
 </ul>
 
 <ul style="list-style-type:none;">
  <a style="font-family:courier; font-size:13px">2007 - 2011</a>
   <ul style="list-style-type:none;">
    <li>School of Management, Forman Christian College, Lahore, Pakistan</li>
-   <li>Bachelor of Science, Business; Emphasis: <i>Operations Management (OM)</i></li></ul>
+   <li><i>Bachelor of Science, Business; Emphasis: Operations Management (OM)</i></li></ul>
 </ul>
 
 <h3 style="font-family:courier; color:#808080">ACADEMIC EXPERIENCE</h3>
@@ -32,14 +32,14 @@ Address: Shangrilla Road, Sector E-8 Islamabad, Bahria University, Islamabad Pak
  <a style="font-family:courier; font-size:13px">2023 - present</a>
   <ul style="list-style-type:none;">
    <li>Bahria Business School, Bahria University, Islamabad Campus, Islamabad, Pakistan</li>
-   <li><i>Senior Lecturer (SCM)</i>, Department of Management Sciences</li></ul>
+   <li><i>Senior Lecturer (SCM), Department of Management Sciences</i></li></ul>
 </ul>
 
 <ul style="list-style-type:none;">
  <a style="font-family:courier; font-size:13px">2019 – 2023</a>
   <ul style="list-style-type:none;">
    <li>Richard A. Chaifetz School of Business, Saint Louis University, Saint Louis, MO, USA</li>
-   <li><i>Junior Researcher (SCM)</i>, Center for Supply Chain Excellence (Mentor: Ik-Whan Kwon, Ph.D.)</li></ul>
+   <li><i>Junior Researcher (SCM), Center for Supply Chain Excellence (Mentor: Ik-Whan Kwon, Ph.D.)</i></li></ul>
 </ul>
 
 <h3 style="font-family:courier; color:#808080">RESEARCH</h3>
@@ -80,6 +80,15 @@ Address: Shangrilla Road, Sector E-8 Islamabad, Bahria University, Islamabad Pak
   </ol>
  </ul>
 
+<h3 style="font-family:courier; color:#808080">PROFESSIONAL PROJECTS</h3>
+ <ul style="list-style-type:none;">
+  <li>Novus International, Saint Louis, MO, USA</li>
+  <li><i>Project Team Member, Product “A” Delivery Cost Reduction – Supply Chain Optimization</i></li>
+ </ul>
 
+ <ul style="list-style-type:none;">
+  <li>International Institute of Saint Louis, Saint Louis, MO, USA</li>
+  <li><i>Project Team Leader, Managing Donated Goods Inventory (Community service project)</i></li>
+ </ul>
 
 
