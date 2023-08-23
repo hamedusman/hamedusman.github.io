@@ -48,7 +48,7 @@ Address: Shangrilla Road, Sector E-8 Islamabad, Bahria University, Islamabad Pak
   
   <ul style="list-style-type:none;"><a style="font-family:courier; font-size:13px">Journal Article</a>
    <ul style="list-style-type:none;"><li>Kwon, I. W. G., Shin, N., Kim, S. H., & <b>Usman, H.</b> (2021). Trust and commitment in supply chain during digital transformation: A case in Korea. <i>AIMS Environmental Science</i>, (6).</li>
-   <i>doi: 10.3934/environsci.2021040</i></ul>
+   <li>doi: 10.3934/environsci.2021040</li></ul>
   </ul>
 
  <ul style="list-style-type:none;"><a style="font-family:courier; font-size:13px">Book Chapter</a>
