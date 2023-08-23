@@ -94,7 +94,7 @@ Address: Shangrilla Road, Sector E-8 Islamabad, Bahria University, Islamabad Pak
   <a style="font-family:courier; font-size:13px">August 2017 – December 2017</a>
    <ul style="list-style-type:none;">
     <li>International Institute of Saint Louis, Saint Louis, MO, USA</li>
-    <li><i>Project Team Leader, Managing Donated Goods Inventory (Community service project)</i></li>
+    <li><i>Project Team Leader, Managing Donated Goods Inventory - Community Service Project</i></li>
    </ul>
  </ul>
 
