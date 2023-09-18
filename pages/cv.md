@@ -91,7 +91,7 @@ Address: Shangrilla Road, Sector E-8 Islamabad, Bahria University, Islamabad Pak
    <ul style="list-style-type:none;">
     <a style="font-family:courier; font-size:13px">Fall 2023; Spring 2023</a>
      <ul style="list-style-type:none;">
-      <li>Introduction to Supply Chain Management (SCM 101; Undergraduate level)</li>
+      <li>Introduction to Supply Chain Management (SCM 101; undergraduate level)</li>
     </ul>
  </ul></ul>
 
