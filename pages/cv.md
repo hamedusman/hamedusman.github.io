@@ -61,16 +61,23 @@ Address: Shangrilla Road, Sector E-8 Islamabad, Bahria University, Islamabad Pak
  <ul style="list-style-type:none;">Bahria Business School, Bahria University, Islamabad Campus, Islamabad, Pakistan
   
    <ul style="list-style-type:none;">
-    <a style="font-family:courier; font-size:13px">Spring 2023</a>
+    <a style="font-family:courier; font-size:13px">Fall 2023; Spring 2023</a>
      <ul style="list-style-type:none;">
       <li>Contemporary Issues in Supply Chain (SCM 707; graduate level)</li>
     </ul>
  </ul>
    
    <ul style="list-style-type:none;">
-    <a style="font-family:courier; font-size:13px">Spring 2023</a>
+    <a style="font-family:courier; font-size:13px">Fall 2023; Spring 2023</a>
      <ul style="list-style-type:none;">
       <li>Fundamentals of Supply Chain Management (SCM 701; graduate level)</li>
+    </ul>
+ </ul>
+
+<ul style="list-style-type:none;">
+    <a style="font-family:courier; font-size:13px">Fall 2023</a>
+     <ul style="list-style-type:none;">
+      <li>Globalization and Outsourcing Strategies (SCM 421; undergraduate level)</li>
     </ul>
  </ul>
    
@@ -82,7 +89,7 @@ Address: Shangrilla Road, Sector E-8 Islamabad, Bahria University, Islamabad Pak
  </ul>
    
    <ul style="list-style-type:none;">
-    <a style="font-family:courier; font-size:13px">Spring 2023</a>
+    <a style="font-family:courier; font-size:13px">Fall 2022; Spring 2023</a>
      <ul style="list-style-type:none;">
       <li>Introduction to Supply Chain Management (SCM 101; Undergraduate level)</li>
     </ul>
