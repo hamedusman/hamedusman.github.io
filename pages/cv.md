@@ -54,7 +54,10 @@ Address: Shangrilla Road, Sector E-8 Islamabad, Bahria University, Islamabad Pak
  </ul>
 
   <ul style="list-style-type:none;"><a style="font-family:courier; font-size:13px">Master's Thesis Advising</a>
-    <ul style="list-style-type:none;"><li>Hira Waris (Title: The Relationship between Inventory Leanness, Dynamism and Sustainability of Firm: In context of US based Clean 200 companies; MS in SCM, Bahria University, Islamabad, Pakistan; graduated in Spring 2023)</li>
+    <ul style="list-style-type:none;"><li>Hira Waris (MS in SCM, Bahria University, Islamabad, Pakistan; graduated in Spring 2023)</li>
+      <ul style="list-style-type:none;">
+      <li>Title: The Relationship between Inventory Leanness, Dynamism and Sustainability of Firm: In context of US based Clean 200 companies</li>
+    </ul>
   </ul>
  </ul>
 
