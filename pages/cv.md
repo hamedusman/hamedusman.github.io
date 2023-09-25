@@ -10,7 +10,7 @@ Address: Shangrilla Road, Sector E-8 Islamabad, Bahria University, Islamabad, PK
 
 <br/>
 
-<h3 style="font-family:courier">SELECTED AWARDS</h3>
+<h3 style="font-family:courier">AWARDS AND HONORS</h3>
   <ul style="list-style-type:none;">
    <li><i>2019 MS-SCM Outstanding Student Award</i>, Saint Louis University, MO, USA</li>
    <li><i>Honorable Mention at Commencement Ceremony</i>, Saint Louis University, MO, USA)</li>
