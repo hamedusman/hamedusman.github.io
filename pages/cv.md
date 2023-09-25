@@ -26,17 +26,6 @@ Address: Shangrilla Road, Sector E-8 Islamabad, Bahria University, Islamabad, PK
    <li><i>Bachelor of Science, Business; Emphasis: Operations Management (OM)</i></li></ul>
 </ul>
 
-<h3 style="font-family:courier">AWARDS AND HONORS</h3>
-  <ul style="list-style-type:none;">
-   <li><i>2019 MS (SCM) Outstanding Student Award</i>, Saint Louis University, MO, USA</li>
-   <li><i>Honorable Mention at Commencement Ceremony</i>, Saint Louis University, MO, USA</li>
-   <li><i>Center for Supply Chain Excellence Scholarship</i>, Saint Louis University, MO, USA</li>
-   <li><i>Beta Gamma Sigma Honor Society Induction</i>, Saint Louis University Chapter, MO, USA</li>
-   <li><i>Merit Scholarship for graduate program</i>, Saint Louis University, MO, USA</li>
-   <li><i>Talent Scholarship for undergraduate studies</i>, Forman Christian College, Lahore, PK</li>
-   <li><i>Vice Rector’s List</i>, Forman Christian College, Lahore, PK</li>
-  </ul>
-
 <h3 style="font-family:courier">ACADEMIC EXPERIENCE</h3>
 
 <ul style="list-style-type:none;">
