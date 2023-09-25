@@ -12,14 +12,13 @@ Address: Shangrilla Road, Sector E-8 Islamabad, Bahria University, Islamabad, PK
 
 <h3 style="font-family:courier">SELECTED AWARDS</h3>
   <ul style="list-style-type:none;">
-   <li>2019 MS-SCM Outstanding Student Award, Saint Louis University, MO, USA</li>
-   <li>Ranked 1st among graduate students in MS-SCM, Saint Louis University, MO, USA</li>
-   <li>Honorable Mention at Commencement Ceremony, Saint Louis University, MO, USA)</li>
-   <li>Center for Supply Chain Excellence Scholarship, Saint Louis University, MO, USA</li>
-   <li>Beta Gamma Sigma Honor Society Induction, Saint Louis University Chapter, MO, USA</li>
-   <li>Merit Scholarship for graduate program, Saint Louis University, MO, USA</li>
-   <li>Talent Scholarship for undergraduate studies, Forman Christian College, Lahore, PK</li>
-   <li>Vice Rector’s List | Forman Christian College, Lahore, PK</li>
+   <li><i>2019 MS-SCM Outstanding Student Award</i>, Saint Louis University, MO, USA</li>
+   <li><i>Honorable Mention at Commencement Ceremony</i>, Saint Louis University, MO, USA)</li>
+   <li><i>Center for Supply Chain Excellence Scholarship</i>, Saint Louis University, MO, USA</li>
+   <li><i>Beta Gamma Sigma Honor Society Induction</i>, Saint Louis University Chapter, MO, USA</li>
+   <li><i>Merit Scholarship for graduate program</i>, Saint Louis University, MO, USA</li>
+   <li><i>Talent Scholarship for undergraduate studies</i>, Forman Christian College, Lahore, PK</li>
+   <li><i>Vice Rector’s List | Forman Christian College, Lahore, PK</li>
   </ul>
 
 <h3 style="font-family:courier">EDUCATION</h3>
