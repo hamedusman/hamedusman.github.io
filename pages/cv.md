@@ -140,7 +140,7 @@ Address: Shangrilla Road, Sector E-8 Islamabad, Bahria University, Islamabad Pak
  <ul style="list-style-type:none;">
   <a style="font-family:courier; font-size:13px">May 2019</a>
    <ul style="list-style-type:none;">
-    <li>Center for Supply Chain Excellence, Saint Louis University</li>
+    <li>Center for Supply Chain Excellence, Saint Louis University, MO, USA</li>
      <li><i>Integrated Supply Chain Management Certificate</i></li></ul>
  </ul>
 
@@ -163,7 +163,7 @@ Address: Shangrilla Road, Sector E-8 Islamabad, Bahria University, Islamabad Pak
  <ul style="list-style-type:none;">
   <a style="font-family:courier; font-size:13px">April 2018 - May 2019</a>
    <ul style="list-style-type:none;">
-    <li>President, Council of Supply Chain Management Professionals (CSCMP), Saint Louis University	</li>
+    <li>President, Council of Supply Chain Management Professionals (CSCMP), Saint Louis University, MO USA	</li>
     </ul>
  </ul>
 
