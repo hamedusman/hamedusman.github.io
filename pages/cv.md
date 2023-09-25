@@ -200,6 +200,6 @@ Address: Shangrilla Road, Sector E-8 Islamabad, Bahria University, Islamabad Pak
 <ul style="list-style-type:none;">
   <a style="font-family:courier; font-size:13px">Programs and Packages</a>
    <ul style="list-style-type:none;">
-    <li>Stata, Tableau, SAS, R, SPSS (AMOS), VBA, SQL database, Microsoft Excel, Access, Project, and Visio</li>
+    <li>Stata, Tableau, SAS, R, SPSS (AMOS), VBA, and SQL database</li>
     </ul>
  </ul>
