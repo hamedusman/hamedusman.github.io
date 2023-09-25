@@ -6,20 +6,20 @@ title: HAMED USMAN
 Senior Lecturer, Supply Chain Management<br/>
 Bahria Business School, Bahria University, Islamabad<br/>
 Email: hamed.buic@bahria.edu.pk and Phone: +92-51-9260002 (Ext. 1424)<br/>
-Address: Shangrilla Road, Sector E-8 Islamabad, Bahria University, Islamabad Pakistan
+Address: Shangrilla Road, Sector E-8 Islamabad, Bahria University, Islamabad, PK
 
 <br/>
 
 <h3 style="font-family:courier">SELECTED AWARDS</h3>
-  <ul style="list-style-type:decimal;">
-   <li>2019 MS-SCM Outstanding Student Award, Saint Louis University, MO, USA (May 2019)</li>
-   <li>Ranked 1st among graduate students in MS-SCM, Saint Louis University, MO, USA (2017 – 2019)</li>
-   <li>Honorable Mention at Commencement Ceremony, Saint Louis University, MO, USA (May 2019)</li>
-   <li>Center for Supply Chain Excellence Scholarship, Saint Louis University, MO, USA (Spring 2019)</li>
-   <li>Beta Gamma Sigma Honor Society Induction, Saint Louis University Chapter, MO, USA (Mar 2019)</li>
-   <li>Merit Scholarship for graduate program, Saint Louis University, MO, USA (Fall 2017)</li>
-   <li>Talent Scholarship for undergraduate studies, Forman Christian College, Lahore, PK (2007 – 2011)</li>
-   <li>Vice Rector’s List | Forman Christian College, Lahore, PK (Summer 2010)</li>
+  <ul style="list-style-type:none;">
+   <li>2019 MS-SCM Outstanding Student Award, Saint Louis University, MO, USA</li>
+   <li>Ranked 1st among graduate students in MS-SCM, Saint Louis University, MO, USA</li>
+   <li>Honorable Mention at Commencement Ceremony, Saint Louis University, MO, USA)</li>
+   <li>Center for Supply Chain Excellence Scholarship, Saint Louis University, MO, USA</li>
+   <li>Beta Gamma Sigma Honor Society Induction, Saint Louis University Chapter, MO, USA</li>
+   <li>Merit Scholarship for graduate program, Saint Louis University, MO, USA</li>
+   <li>Talent Scholarship for undergraduate studies, Forman Christian College, Lahore, PK</li>
+   <li>Vice Rector’s List | Forman Christian College, Lahore, PK</li>
   </ul>
 
 <h3 style="font-family:courier">EDUCATION</h3>
