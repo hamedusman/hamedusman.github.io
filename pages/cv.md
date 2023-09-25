@@ -32,14 +32,14 @@ Address: Shangrilla Road, Sector E-8 Islamabad, Bahria University, Islamabad Pak
  <a style="font-family:courier; font-size:13px">2023 - present</a>
   <ul style="list-style-type:none;">
    <li>Bahria Business School, Bahria University, Islamabad Campus, Islamabad, Pakistan</li>
-   <li><i>Senior Lecturer (SCM), Department of Management Sciences</i></li></ul>
+   <li><i>Senior Lecturer, SCM, Department of Management Sciences</i></li></ul>
 </ul>
 
 <ul style="list-style-type:none;">
  <a style="font-family:courier; font-size:13px">2019 - 2023</a>
   <ul style="list-style-type:none;">
    <li>Richard A. Chaifetz School of Business, Saint Louis University, Saint Louis, MO, USA</li>
-   <li><i>Junior Researcher (SCM), Center for Supply Chain Excellence (Mentor: Ik-Whan Kwon, Ph.D.)</i></li></ul>
+   <li><i>Junior Researcher, SCM, Center for Supply Chain Excellence (Mentor: Ik-Whan Kwon, Ph.D.)</i></li></ul>
 </ul>
 
 <h3 style="font-family:courier">RESEARCH</h3>
@@ -58,7 +58,7 @@ Address: Shangrilla Road, Sector E-8 Islamabad, Bahria University, Islamabad Pak
  </ul>
 
 <h3 style="font-family:courier">TEACHING</h3>
- <ul style="list-style-type:none;">Bahria Business School, Bahria University, Islamabad Campus, Islamabad, Pakistan
+ <ul style="list-style-type:none;">Bahria Business School, Bahria University, Islamabad, Pakistan
   
    <ul style="list-style-type:none;">
     <a style="font-family:courier; font-size:13px">Fall 2023; Spring 2023</a>
@@ -130,7 +130,7 @@ Address: Shangrilla Road, Sector E-8 Islamabad, Bahria University, Islamabad Pak
  <ul style="list-style-type:none;">
   <a style="font-family:courier; font-size:13px">October 2011 - March 2012</a>
    <ul style="list-style-type:none;">
-    <li>UTi (DSV Global Transport And Logistics), Lahore, Pakistan</li>
+    <li>DSV Global Transport And Logistics (Formerly UTi Pakistan), Lahore, Pakistan</li>
      <li><i>Operations Trainee, Ocean Export</i></li></ul>
  </ul>
 
