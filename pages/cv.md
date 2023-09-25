@@ -18,7 +18,7 @@ Address: Shangrilla Road, Sector E-8 Islamabad, Bahria University, Islamabad, PK
    <li><i>Beta Gamma Sigma Honor Society Induction</i>, Saint Louis University Chapter, MO, USA</li>
    <li><i>Merit Scholarship for graduate program</i>, Saint Louis University, MO, USA</li>
    <li><i>Talent Scholarship for undergraduate studies</i>, Forman Christian College, Lahore, PK</li>
-   <li><i>Vice Rector’s List | Forman Christian College, Lahore, PK</li>
+   <li><i>Vice Rector’s List, Forman Christian College, Lahore, PK</li>
   </ul>
 
 <h3 style="font-family:courier">EDUCATION</h3>
