@@ -12,15 +12,15 @@ Address: Shangrilla Road, Sector E-8 Islamabad, Bahria University, Islamabad Pak
 
 <h3 style="font-family:courier">SELECTED AWARDS</h3>
   <ul style="list-style-type:decimal;">
-   2019 MS-SCM Outstanding Student Award | Saint Louis University (May 2019)
-   Ranked 1st among graduate students in MS-SCM | Saint Louis University (2017 – 2019)
-   Honorable Mention at Commencement Ceremony | Saint Louis University (May 2019)
-   Center for Supply Chain Excellence Scholarship | Saint Louis University (Spring 2019)
-   Beta Gamma Sigma Honor Society Induction | Saint Louis University Chapter (Mar 2019)
-   Merit Scholarship for graduate program | Saint Louis University (Fall 2017)
-   Talent Scholarship for undergraduate studies | Forman Christian College (2007 – 2011)
-   Vice Rector’s List | Forman Christian College (Summer 2010)
-   </ul>
+   <li>2019 MS-SCM Outstanding Student Award, Saint Louis University, MO, USA (May 2019)</li>
+   <li>Ranked 1st among graduate students in MS-SCM, Saint Louis University, MO, USA (2017 – 2019)</li>
+   <li>Honorable Mention at Commencement Ceremony, Saint Louis University, MO, USA (May 2019)</li>
+   <li>Center for Supply Chain Excellence Scholarship, Saint Louis University, MO, USA (Spring 2019)</li>
+   <li>Beta Gamma Sigma Honor Society Induction, Saint Louis University Chapter, MO, USA (Mar 2019)</li>
+   <li>Merit Scholarship for graduate program, Saint Louis University, MO, USA (Fall 2017)</li>
+   <li>Talent Scholarship for undergraduate studies, Forman Christian College, Lahore, PK (2007 – 2011)</li>
+   <li>Vice Rector’s List | Forman Christian College, Lahore, PK (Summer 2010)</li>
+  </ul>
 
 <h3 style="font-family:courier">EDUCATION</h3>
 
@@ -34,7 +34,7 @@ Address: Shangrilla Road, Sector E-8 Islamabad, Bahria University, Islamabad Pak
 <ul style="list-style-type:none;">
  <a style="font-family:courier; font-size:13px">2007 - 2011</a>
   <ul style="list-style-type:none;">
-   <li>School of Management, Forman Christian College, Lahore, Pakistan</li>
+   <li>School of Management, Forman Christian College, Lahore, PK</li>
    <li><i>Bachelor of Science, Business; Emphasis: Operations Management (OM)</i></li></ul>
 </ul>
 
@@ -43,7 +43,7 @@ Address: Shangrilla Road, Sector E-8 Islamabad, Bahria University, Islamabad Pak
 <ul style="list-style-type:none;">
  <a style="font-family:courier; font-size:13px">2023 - present</a>
   <ul style="list-style-type:none;">
-   <li>Bahria Business School, Bahria University, Islamabad Campus, Islamabad, Pakistan</li>
+   <li>Bahria Business School, Bahria University, Islamabad Campus, Islamabad, PK</li>
    <li><i>Senior Lecturer, SCM, Department of Management Sciences</i></li></ul>
 </ul>
 
@@ -74,7 +74,7 @@ Address: Shangrilla Road, Sector E-8 Islamabad, Bahria University, Islamabad Pak
  </ul>
 
 <h3 style="font-family:courier">TEACHING</h3>
- <ul style="list-style-type:none;">Bahria Business School, Bahria University, Islamabad, Pakistan
+ <ul style="list-style-type:none;">Bahria Business School, Bahria University, Islamabad, PK
   
    <ul style="list-style-type:none;">
     <a style="font-family:courier; font-size:13px">Fall 2023; Spring 2023</a>
@@ -132,21 +132,21 @@ Address: Shangrilla Road, Sector E-8 Islamabad, Bahria University, Islamabad Pak
  <ul style="list-style-type:none;">
   <a style="font-family:courier; font-size:13px">July 2013 - July 2017</a>
    <ul style="list-style-type:none;">
-    <li>Bajwa Agro Industries, Lahore, Pakistan</li>
+    <li>Bajwa Agro Industries, Lahore, PK</li>
      <li><i>Assistant Manager Operations, Materials Management</i></li></ul>
  </ul>
 
   <ul style="list-style-type:none;">
   <a style="font-family:courier; font-size:13px">April 2012 - April 2013</a>
    <ul style="list-style-type:none;">
-    <li>CCL Pharmaceuticals, Lahore, Pakistan</li>
+    <li>CCL Pharmaceuticals, Lahore, PK</li>
      <li><i>Management Training Officer, Supply Chain Management Division</i></li></ul>
  </ul>
 
  <ul style="list-style-type:none;">
   <a style="font-family:courier; font-size:13px">October 2011 - March 2012</a>
    <ul style="list-style-type:none;">
-    <li>DSV Global Transport And Logistics (Formerly UTi Pakistan), Lahore, Pakistan</li>
+    <li>DSV Global Transport And Logistics (Formerly UTi Worldwide), Lahore, PK</li>
      <li><i>Operations Trainee, Ocean Export</i></li></ul>
  </ul>
 
@@ -172,7 +172,7 @@ Address: Shangrilla Road, Sector E-8 Islamabad, Bahria University, Islamabad Pak
  <ul style="list-style-type:none;">
   <a style="font-family:courier; font-size:13px">Spring 2023</a>
    <ul style="list-style-type:none;">
-    <li>Internal Examiner, Master's Thesis Final Defence, Bahria University, Islamabad, Pakistan</li>
+    <li>Internal Examiner, Master's Thesis Final Defence, Bahria University, Islamabad, PK</li>
     </ul>
  </ul>
  
