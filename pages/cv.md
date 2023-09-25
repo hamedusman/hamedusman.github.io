@@ -10,6 +10,18 @@ Address: Shangrilla Road, Sector E-8 Islamabad, Bahria University, Islamabad Pak
 
 <br/>
 
+<h3 style="font-family:courier">SELECTED AWARDS</h3>
+  <ol>
+   2019 MS-SCM Outstanding Student Award | Saint Louis University (May 2019)
+   Ranked 1st among graduate students in MS-SCM | Saint Louis University (2017 – 2019)
+   Honorable Mention at Commencement Ceremony | Saint Louis University (May 2019)
+   Center for Supply Chain Excellence Scholarship | Saint Louis University (Spring 2019)
+   Beta Gamma Sigma Honor Society Induction | Saint Louis University Chapter (Mar 2019)
+   Merit Scholarship for graduate program | Saint Louis University (Fall 2017)
+   Talent Scholarship for undergraduate studies | Forman Christian College (2007 – 2011)
+   Vice Rector’s List | Forman Christian College (Summer 2010)
+   </ol>
+
 <h3 style="font-family:courier">EDUCATION</h3>
 
 <ul style="list-style-type:none;">
