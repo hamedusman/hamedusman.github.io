@@ -158,6 +158,13 @@ Address: Shangrilla Road, Sector E-8 Islamabad, Bahria University, Islamabad, PK
 
 <h3 style="font-family:courier">SERVICE AND LEADERSHIP ROLES</h3>
 
+<ul style="list-style-type:none;">
+  <a style="font-family:courier; font-size:13px">Fall 2023</a>
+   <ul style="list-style-type:none;">
+    <li>Student Mentor, SCM, Bahria University, Islamabad, PK</li>
+    </ul>
+ </ul>
+ 
  <ul style="list-style-type:none;">
   <a style="font-family:courier; font-size:13px">Spring 2023</a>
    <ul style="list-style-type:none;">
