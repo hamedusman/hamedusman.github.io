@@ -161,14 +161,14 @@ Address: Shangrilla Road, Sector E-8 Islamabad, Bahria University, Islamabad, PK
 <ul style="list-style-type:none;">
   <a style="font-family:courier; font-size:13px">Fall 2023</a>
    <ul style="list-style-type:none;">
-    <li>Student Mentor, BS (SCM), Bahria University, Islamabad, PK</li>
+    <li>Student Mentor for Undergraduate Students, BS (SCM), Bahria University, Islamabad, PK</li>
     </ul>
  </ul>
  
  <ul style="list-style-type:none;">
   <a style="font-family:courier; font-size:13px">Spring 2023</a>
    <ul style="list-style-type:none;">
-    <li>Internal Examiner, Master's Thesis Final Defence, Bahria University, Islamabad, PK</li>
+    <li>Internal Examiner for Research Thesis Final Defence, MS (SCM) and MS (PM), Bahria University, Islamabad, PK</li>
     </ul>
  </ul>
  
