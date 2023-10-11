@@ -55,10 +55,10 @@ Address: Shangrilla Road, Sector E-8 Islamabad, Bahria University, Islamabad, PK
 
   <ul style="list-style-type:none;"><a style="font-family:courier; font-size:13px">Master's Thesis Advising</a>
     <ul style="list-style-type:none;">
-     <li><p>Hira Waris, <i>MS in SCM, Bahria University, Islamabad, Pakistan; graduated in Spring 2023</i></p></li>
+     <li><p>Hira Waris, <i>MS in SCM, Bahria University, Islamabad, Pakistan; Graduated in Spring 2023</i></p></li>
       <ul style="list-style-type:none;"><li>- Thesis Title: <i>The relationship between inventory leanness, dynamism, and sustainability of firms: In context of US-based clean 200 companies</i></li></ul>
-     <li><p>Kanwal Iftikhar, <i>MS in SCM, Bahria University, Islamabad, Pakistan; expected to graduate in Fall 2023</i></p></li>
-     <li><p>Naida Arif, <i>MS in SCM, Bahria University, Islamabad, Pakistan; expected to graduate in Fall 2023</i></p></li>
+     <li><p>Kanwal Iftikhar, <i>MS in SCM, Bahria University, Islamabad, Pakistan; Expected to graduate in Fall 2023</i></p></li>
+     <li><p>Naida Arif, <i>MS in SCM, Bahria University, Islamabad, Pakistan; Expected to graduate in Fall 2023</i></p></li>
     </ul>
   </ul>
 
