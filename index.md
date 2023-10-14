@@ -21,15 +21,15 @@ keywords: hanedusman, hamed usman, hamed, usman, operations management, supply c
 
 
 <h4>Contact</h4>
-Hamed Usman, MS <br/>
-Senior Lecturer · SCM <br/>
-Email: hamed.buic@bahria.edu.pk <br/>
-Phone: +92-51-9260002 (Ext. 1424) <br/>
+Hamed Usman, MS<br/>
+Senior Lecturer · SCM<br/>
+Email: hamed.buic@bahria.edu.pk<br/>
+Phone: +92-51-9260002 (Ext. 1424)<br/>
+View my <a href="https://hamedusnan.github.io/cv">Curriculum Vitae</a><br/>
 <br/>
 <ul>
   <li><a href="https://orcid.org/0000-0003-3755-9345" target="_blank" rel="noopener noreferrer">ORCiD &#x29c9;</a></li>
   <li><a href="https://www.linkedin.com/in/hamedusman" target="_blank" rel="noopener noreferrer">LinkedIn &#x29c9;</a></li>
-  <li><a href="https://hamedusnan.github.io/cv">Curriculum Vitae</a></li>
   <li><a href="https://scholar.google.com/citations?user=wVuB9pAAAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar &#x29c9;</a></li>
   <li><a href="https://www.webofscience.com/wos/author/record/HKO-5681-2023" target="_blank" rel="noopener noreferrer">Web of Science &#x29c9;</a></li>
 </ul>
