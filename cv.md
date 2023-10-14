@@ -74,7 +74,7 @@ E: hamed.buic@bahria.edu.pk; P: +92-51-9260002 (Ext. 1424); A: Shangrilla Road, 
  <a style="font-family:courier; font-size:13px">Richard A. Chaifetz School of Business, Saint Louis University, Saint Louis, MO, USA</a>
   <ul style="list-style-type:none;">
    <li>Junior Researcher, SCM, Center for Supply Chain Excellence (2019 - 2023)</li>
-   <li><i>Mentor: Ik-Whan Kwon, Ph.D.</i></li>
+    <ul style="list-style-type:none;"><i>Mentor: Ik-Whan Kwon, Ph.D.</i>
     </ul>
   </ul>
 </ul>
