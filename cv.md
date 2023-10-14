@@ -276,7 +276,7 @@ E: hamed.buic@bahria.edu.pk; P: +92-51-9260002 (Ext. 1424); A: Shangrilla Road, 
  <ul style="list-style-type:none;">
   <a style="font-family:courier; font-size:13px">Spring 2023</a>
    <ul style="list-style-type:none;">
-    <li>Internal Examiner for Research Thesis Final Defence, MS (SCM) and MS (PM), Bahria University, Islamabad, PK</li>
+    <li>Internal Examiner for Research Thesis Final Defence, Bahria University, Islamabad, PK</li>
     </ul>
  </ul>
  
