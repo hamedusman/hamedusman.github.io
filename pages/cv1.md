@@ -1,6 +1,6 @@
 ---
 layout: page
-title: HAMED USMAN
+title: CV
 ---
 <h1 style="font-family:arial; color:#808080">HAMED USMAN</h1>
 Senior Lecturer, Supply Chain Management<br/>
