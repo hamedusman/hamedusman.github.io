@@ -17,14 +17,14 @@ E: hamed.buic@bahria.edu.pk; P: +92-51-9260002 (Ext. 1424); A: Shangrilla Road, 
 <ul style="list-style-type:none;">
  <a style="font-family:courier; font-size:13px">Richard A. Chaifetz School of Business, Saint Louis University, Saint Louis, MO, USA</a>
   <ul style="list-style-type:none;">
-   <li><i>Master of Science (MS), Supply Chain Management (SCM) (2017 - 2019)</i></li>
+   <li>Master of Science (MS), <i>Supply Chain Management (SCM)</i> (2017 - 2019)</li>
   </ul>
 </ul>
 
 <ul style="list-style-type:none;">
  <a style="font-family:courier; font-size:13px">School of Management, Forman Christian College, Lahore, PK</a>
   <ul style="list-style-type:none;">
-   <li><i>Bachelor of Science, Business; Emphasis: Operations Management (OM) (2007 - 2011)</i></li>
+   <li>Bachelor of Science, <i>Business; Emphasis: Operations Management</i> (2007 - 2011)</li>
   </ul>
 </ul>
 
@@ -74,7 +74,7 @@ E: hamed.buic@bahria.edu.pk; P: +92-51-9260002 (Ext. 1424); A: Shangrilla Road, 
  <a style="font-family:courier; font-size:13px">Richard A. Chaifetz School of Business, Saint Louis University, Saint Louis, MO, USA</a>
   <ul style="list-style-type:none;">
    <li>Junior Researcher, SCM, Center for Supply Chain Excellence (2019 - 2023)</li>
-    <ul style="list-style-type:none;">Mentor: Ik-Whan Kwon, Ph.D.
+   <li><i>Mentor: Ik-Whan Kwon, Ph.D.</i></li>
     </ul>
   </ul>
 </ul>
