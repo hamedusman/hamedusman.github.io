@@ -35,50 +35,16 @@ E: hamed.buic@bahria.edu.pk; P: +92-51-9260002 (Ext. 1424); A: Shangrilla Road, 
 
 
 <h4 style="font-family:courier">AWARDS AND HONORS</h4>
- <ul style="list-style-type:none;">
-  Richard A. Chaifetz School of Business, Saint Louis University, Saint Louis, MO, USA
-   <ul style="list-style-type:none;">
-    <a style="font-family:courier; font-size:13px">May 2019</a>
-     <ul style="list-style-type:none;">
-      <li>2019 MS-SCM Outstanding Student Award, Saint Louis University, Saint Louis, MO, USA (May 2019)</li>
+ <ul style="list-style-type:none;">Richard A. Chaifetz School of Business, Saint Louis University, Saint Louis, MO, USA
+  <ul style="list-style-type:none;">
+   <li>2019 MS-SCM Outstanding Student Award (May 2019)</li>
+   <li>Ranked 1st among graduate students in MS-SCM (2017 – 2019)</li>
+   <li>Honorable Mention at Commencement Ceremony (May 2019)</li>
+   <li>Center for Supply Chain Excellence Scholarship (Spring 2019)</li>
+   <li>Beta Gamma Sigma Honor Society Induction (March 2019)</li>
+   <li>Merit Scholarship for graduate program (Fall 2017)</li>
     </ul>
  </ul>
-   
-   <ul style="list-style-type:none;">
-    <a style="font-family:courier; font-size:13px">2017 – 2019</a>
-     <ul style="list-style-type:none;">
-      <li>Ranked 1st among graduate students in MS-SCM</li>
-    </ul>
- </ul>
-
-   <ul style="list-style-type:none;">
-    <a style="font-family:courier; font-size:13px">May 2019</a>
-     <ul style="list-style-type:none;">
-      <li>Honorable Mention at Commencement Ceremony</li>
-    </ul>
- </ul>
-
-   <ul style="list-style-type:none;">
-    <a style="font-family:courier; font-size:13px">Spring 2019</a>
-     <ul style="list-style-type:none;">
-      <li>Center for Supply Chain Excellence Scholarship</li>
-    </ul>
- </ul>
-
-
-   <ul style="list-style-type:none;">
-    <a style="font-family:courier; font-size:13px">March 2019</a>
-     <ul style="list-style-type:none;">
-      <li>Beta Gamma Sigma Honor Society Induction</li>
-    </ul>
- </ul>
-
-   <ul style="list-style-type:none;">
-    <a style="font-family:courier; font-size:13px">Fall 2017</a>
-     <ul style="list-style-type:none;">
-      <li>Merit Scholarship for graduate program</li>
-    </ul>
- </ul></ul>
 
   <ul style="list-style-type:none;">School of Management, Forman Christian College, Lahore, PK
    <ul style="list-style-type:none;">
