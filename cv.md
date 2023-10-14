@@ -110,42 +110,16 @@ E: hamed.buic@bahria.edu.pk; P: +92-51-9260002 (Ext. 1424); A: Shangrilla Road, 
 
 
 <h4 style="font-family:courier">TEACHING</h4>
- <ul style="list-style-type:none;">Bahria Business School, Bahria University, Islamabad, PK
-  
+ <ul style="list-style-type:none;">
+  <a style="font-family:courier; font-size:13px">Bahria Business School, Bahria University</a>
    <ul style="list-style-type:none;">
-    <a style="font-family:courier; font-size:13px">Fall 2023; Spring 2023</a>
-     <ul style="list-style-type:none;">
-      <li>Contemporary Issues in Supply Chain (SCM 707; graduate level)</li>
-    </ul>
+    <li>Contemporary Issues in Supply Chain (SCM 707; Fall & Spring 2023; graduate level)</li>
+    <li>Fundamentals of Supply Chain Management (SCM 701; Fall & Spring 2023; graduate level)</li>
+    <li>Globalization and Outsourcing Strategies (SCM 421; Fall 2023; undergraduate level)</li>
+    <li>Import and Export Management (SCM 320; Spring 2023; undergraduate level)</li>
+    <li>Introduction to Supply Chain Management (SCM 101; Fall & Spring 2023; undergraduate level)</li>
+   </ul>
  </ul>
-   
-   <ul style="list-style-type:none;">
-    <a style="font-family:courier; font-size:13px">Fall 2023; Spring 2023</a>
-     <ul style="list-style-type:none;">
-      <li>Fundamentals of Supply Chain Management (SCM 701; graduate level)</li>
-    </ul>
- </ul>
-
-<ul style="list-style-type:none;">
-    <a style="font-family:courier; font-size:13px">Fall 2023</a>
-     <ul style="list-style-type:none;">
-      <li>Globalization and Outsourcing Strategies (SCM 421; undergraduate level)</li>
-    </ul>
- </ul>
-   
-   <ul style="list-style-type:none;">
-    <a style="font-family:courier; font-size:13px">Spring 2023</a>
-     <ul style="list-style-type:none;">
-      <li>Import and Export Management (SCM 320; undergraduate level)</li>
-    </ul>
- </ul>
-   
-   <ul style="list-style-type:none;">
-    <a style="font-family:courier; font-size:13px">Fall 2023; Spring 2023</a>
-     <ul style="list-style-type:none;">
-      <li>Introduction to Supply Chain Management (SCM 101; undergraduate level)</li>
-    </ul>
- </ul></ul>
 
 
 <br/>
