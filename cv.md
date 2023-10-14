@@ -113,11 +113,11 @@ E: hamed.buic@bahria.edu.pk; P: +92-51-9260002 (Ext. 1424); A: Shangrilla Road, 
  <ul style="list-style-type:none;">
   <a style="font-family:courier; font-size:13px">Bahria Business School, Bahria University</a>
    <ul style="list-style-type:none;">
-    <li>Contemporary Issues in Supply Chain (SCM 707; Fall & Spring 2023; graduate level)</li>
-    <li>Fundamentals of Supply Chain Management (SCM 701; Fall & Spring 2023; graduate level)</li>
-    <li>Globalization and Outsourcing Strategies (SCM 421; Fall 2023; undergraduate level)</li>
-    <li>Import and Export Management (SCM 320; Spring 2023; undergraduate level)</li>
-    <li>Introduction to Supply Chain Management (SCM 101; Fall & Spring 2023; undergraduate level)</li>
+    <li>SCM 707 Contemporary Issues in Supply Chain (Fall & Spring 2023; graduate level)</li>
+    <li>SCM 701 Fundamentals of Supply Chain Management (Fall & Spring 2023; graduate level)</li>
+    <li>SCM 421 Globalization and Outsourcing Strategies (Fall 2023; undergraduate level)</li>
+    <li>SCM 320 Import and Export Management (Spring 2023; undergraduate level)</li>
+    <li>SCM 101 Introduction to Supply Chain Management (Fall & Spring 2023; undergraduate level)</li>
    </ul>
  </ul>
 
