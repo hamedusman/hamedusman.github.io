@@ -48,7 +48,7 @@ E: hamed.buic@bahria.edu.pk; P: +92-51-9260002 (Ext. 1424); A: Shangrilla Road, 
  </ul>
 
   <ul style="list-style-type:none;">
-   <a style="font-family:courier; font-size:13px">School of Management, Forman Christian College</a>
+   <a style="font-family:courier; font-size:13px">School of Management, Forman Christian College, Lahore, PK</a>
     <ul style="list-style-type:none;">
      <li>Talent Scholarship for undergraduate program (2007 – 2011)</li>
      <li>Vice Rector’s List (Summer 2010)</li>
@@ -205,8 +205,8 @@ E: hamed.buic@bahria.edu.pk; P: +92-51-9260002 (Ext. 1424); A: Shangrilla Road, 
 <ul style="list-style-type:none;">
   <a style="font-family:courier; font-size:13px">Bahria Business School, Bahria University, Islamabad Campus, Islamabad, PK</a>
    <ul style="list-style-type:none;">
-    <li>Student Mentor for Undergraduate Student in SCM (Fall 2023)</li>
-    <li>Internal Examiner for Research Thesis Final Defence (Spring 2023 - present)</li>
+    <li>Student Mentor for Undergraduate Students in SCM (Fall 2023)</li>
+    <li>Internal Examiner for Master's Research Thesis Final Defence (Spring 2023 - present)</li>
     </ul>
  </ul>
 
