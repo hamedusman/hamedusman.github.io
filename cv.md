@@ -132,17 +132,21 @@ E: hamed.buic@bahria.edu.pk; P: +92-51-9260002 (Ext. 1424); A: Shangrilla Road, 
 <h4 style="font-family:courier">PROJECTS</h4>
 
  <ul style="list-style-type:none;">
-  <a style="font-family:courier; font-size:13px">January 2019 - May 2019</a>
+  <a style="font-family:courier; font-size:13px">Novus International, Saint Louis, MO, USA</a>
    <ul style="list-style-type:none;">
-    <li>Novus International, Saint Louis, MO, USA</li>
-    <li><i>Project Team Member, Product “A” Delivery Cost Reduction - Supply Chain Optimization</i></li></ul> 
+    <li>Project Team Member, Product “A” Delivery Cost Reduction (January 2019 - May 2019)</li>
+     <ul style="list-style-type:none;"><i>Supply Chain Optimization</i>
+     </ul>
+    </ul> 
  </ul>
 
  <ul style="list-style-type:none;">
-  <a style="font-family:courier; font-size:13px">August 2017 - December 2017</a>
+  <a style="font-family:courier; font-size:13px">International Institute of Saint Louis, Saint Louis, MO, USA</a>
    <ul style="list-style-type:none;">
-    <li>International Institute of Saint Louis, Saint Louis, MO, USA</li>
-    <li><i>Project Team Leader, Managing Donated Goods Inventory - Community Service Project</i></li></ul>
+    <li>Project Team Leader, Managing Donated Goods Inventory (August 2017 - December 2017)</li>
+     <ul style="list-style-type:none;"><i>Community Service Project</i>
+     </ul>
+   </ul>
  </ul>
 
 
