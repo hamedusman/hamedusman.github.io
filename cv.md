@@ -154,24 +154,24 @@ E: hamed.buic@bahria.edu.pk; P: +92-51-9260002 (Ext. 1424); A: Shangrilla Road, 
 <h4 style="font-family:courier">INDUSTRIAL EXPERIENCE</h4>
 
  <ul style="list-style-type:none;">
-  <a style="font-family:courier; font-size:13px">July 2013 - July 2017</a>
+  <a style="font-family:courier; font-size:13px">Bajwa Agro Industries, Lahore, PK</a>
    <ul style="list-style-type:none;">
-    <li>Bajwa Agro Industries, Lahore, PK</li>
-     <li><i>Assistant Manager Operations, Materials Management</i></li></ul>
+    <li>Assistant Manager Operations, Materials Management (July 2013 - July 2017)</li>
+   </ul>
  </ul>
 
   <ul style="list-style-type:none;">
-  <a style="font-family:courier; font-size:13px">April 2012 - April 2013</a>
+  <a style="font-family:courier; font-size:13px">CCL Pharmaceuticals, Lahore, PK</a>
    <ul style="list-style-type:none;">
-    <li>CCL Pharmaceuticals, Lahore, PK</li>
-     <li><i>Management Training Officer, Supply Chain Management Division</i></li></ul>
+    <li>Management Training Officer, Supply Chain Management Division (April 2012 - April 2013)</li>
+   </ul>
  </ul>
 
  <ul style="list-style-type:none;">
-  <a style="font-family:courier; font-size:13px">October 2011 - March 2012</a>
+  <a style="font-family:courier; font-size:13px">DSV Global Transport And Logistics (Formerly UTi Worldwide), Lahore, PK</a>
    <ul style="list-style-type:none;">
-    <li>DSV Global Transport And Logistics (Formerly UTi Worldwide), Lahore, PK</li>
-     <li><i>Operations Trainee, Ocean Export</i></li></ul>
+    <li><i>Operations Trainee, Ocean Export (October 2011 - March 2012)</li>
+   </ul>
  </ul>
 
 
