@@ -35,6 +35,70 @@ Address: Shangrilla Road, Sector E-8 Islamabad, Bahria University, Islamabad, PK
 ---
 
 
+<h4 style="font-family:courier">Selected Awards</h4>
+   <ul style="list-style-type:none;">
+    <a style="font-family:courier; font-size:13px">May 2019</a>
+     <ul style="list-style-type:none;">
+      <li>2019 MS-SCM Outstanding Student Award, Saint Louis University, Saint Louis, MO, USA</li>
+    </ul>
+ </ul>
+   
+   <ul style="list-style-type:none;">
+    <a style="font-family:courier; font-size:13px">2017 – 2019</a>
+     <ul style="list-style-type:none;">
+      <li>Ranked 1st among graduate students in MS-SCM, Saint Louis University, Saint Louis, MO, USA</li>
+    </ul>
+ </ul>
+
+   <ul style="list-style-type:none;">
+    <a style="font-family:courier; font-size:13px">May 2019</a>
+     <ul style="list-style-type:none;">
+      <li>Honorable Mention at Commencement Ceremony, Saint Louis University, Saint Louis, MO, USA</li>
+    </ul>
+ </ul>
+
+   <ul style="list-style-type:none;">
+    <a style="font-family:courier; font-size:13px">Spring 2019</a>
+     <ul style="list-style-type:none;">
+      <li>Center for Supply Chain Excellence Scholarship, Saint Louis University, Saint Louis, MO, USA</li>
+    </ul>
+ </ul>
+
+
+   <ul style="list-style-type:none;">
+    <a style="font-family:courier; font-size:13px">March 2019</a>
+     <ul style="list-style-type:none;">
+      <li>Beta Gamma Sigma Honor Society Induction, Saint Louis University Chapter, Saint Louis, MO, USA</li>
+    </ul>
+ </ul>
+
+   <ul style="list-style-type:none;">
+    <a style="font-family:courier; font-size:13px">Fall 2017</a>
+     <ul style="list-style-type:none;">
+      <li>Merit Scholarship for graduate program, Saint Louis University, Saint Louis, MO, USA</li>
+    </ul>
+ </ul>
+
+   <ul style="list-style-type:none;">
+    <a style="font-family:courier; font-size:13px">2007 – 2011</a>
+     <ul style="list-style-type:none;">
+      <li>Talent Scholarship for undergraduate program, Forman Christian College, Lahore, PK</li>
+    </ul>
+ </ul>
+
+   <ul style="list-style-type:none;">
+    <a style="font-family:courier; font-size:13px">Summer 2010</a>
+     <ul style="list-style-type:none;">
+      <li>Vice Rector’s List, Forman Christian College, Lahore, PK</li>
+    </ul>
+ </ul>
+
+
+<br/>
+
+---
+
+
 <h4 style="font-family:courier">ACADEMIC EXPERIENCE</h4>
 
 <ul style="list-style-type:none;">
