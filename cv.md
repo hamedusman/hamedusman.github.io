@@ -4,7 +4,7 @@ title: CURRICULUM VITAE
 ---
 Hamed Usman, Senior Lecturer, Supply Chain Management<br/>
 Management Sciences, Bahria Business School, Bahria University, Islamabad, PK<br/>
-Email: hamed.buic@bahria.edu.pk; Phone: +92-51-9260002 (Ext. 1424); Address: Shangrilla Road, Sector E-8 Islamabad, PK
+Email: hamed.buic@bahria.edu.pk; Phone: +92-51-9260002 (Ext. 1424); Address: Shangrilla Road, E-8 Islamabad, PK
 
 
 <br/>
