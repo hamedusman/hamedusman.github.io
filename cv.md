@@ -49,10 +49,10 @@ Bahria Business School, Bahria University, Islamabad, PK
 
   <ul style="list-style-type:none;">
    <a style="font-family:courier; font-size:13px">School of Management, Forman Christian College, Lahore, PK</a>
-    <ul style="list-style-type:none;">
+    <ol>
      <li>Talent Scholarship for undergraduate program (2007 – 2011)</li>
      <li>Vice Rector’s List (Summer 2010)</li>
-    </ul>
+    </ol>
   </ul>
 
 
