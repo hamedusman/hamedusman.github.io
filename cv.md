@@ -47,20 +47,13 @@ E: hamed.buic@bahria.edu.pk; P: +92-51-9260002 (Ext. 1424); A: Shangrilla Road, 
    </ul>
  </ul>
 
-  <ul style="list-style-type:none;">School of Management, Forman Christian College, Lahore, PK
-   <ul style="list-style-type:none;">
-    <a style="font-family:courier; font-size:13px">2007 – 2011</a>
-     <ul style="list-style-type:none;">
-      <li>Talent Scholarship for undergraduate program</li>
+  <ul style="list-style-type:none;">
+   <a style="font-family:courier; font-size:13px">School of Management, Forman Christian College, Lahore, PK</a>
+    <ul style="list-style-type:none;">
+     <li>Talent Scholarship for undergraduate program (2007 – 2011)</li>
+     <li>Vice Rector’s List (Summer 2010)</li>
     </ul>
- </ul>
-
-   <ul style="list-style-type:none;">
-    <a style="font-family:courier; font-size:13px">Summer 2010</a>
-     <ul style="list-style-type:none;">
-      <li>Vice Rector’s List</li>
-    </ul>
-  </ul></ul>
+  </ul><
 
 
 <br/>
