@@ -37,14 +37,14 @@ Bahria Business School, Bahria University, Islamabad, PK
 <h4 style="font-family:courier">AWARDS AND HONORS</h4>
  <ul style="list-style-type:none;">
   <a style="font-family:courier; font-size:13px">Richard A. Chaifetz School of Business, Saint Louis University, Saint Louis, MO, USA</a>
-   <ul style="list-style-type:none;">
+   <ol>
     <li>2019 MS-SCM Outstanding Student Award (May 2019)</li>
     <li>Ranked 1st among graduate students in MS-SCM (2017 – 2019)</li>
     <li>Honorable Mention at Commencement Ceremony (May 2019)</li>
     <li>Center for Supply Chain Excellence Scholarship (Spring 2019)</li>
     <li>Beta Gamma Sigma Honor Society Induction (March 2019)</li>
     <li>Merit Scholarship for graduate program (Fall 2017)</li>
-   </ul>
+   </ol>
  </ul>
 
   <ul style="list-style-type:none;">
