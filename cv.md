@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CURRICULUM VITAE
+title: HAMED USMAN - CURRICULUM VITAE
 ---
 Hamed Usman, Senior Lecturer, Supply Chain Management (SCM)<br/>
 Management Sciences, Bahria Business School, Bahria University, Islamabad, PK<br/>
