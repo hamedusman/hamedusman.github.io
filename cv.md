@@ -229,44 +229,27 @@ E: hamed.buic@bahria.edu.pk; P: +92-51-9260002 (Ext. 1424); A: Shangrilla Road, 
 <h4 style="font-family:courier">SERVICE AND LEADERSHIP ROLES</h4>
 
 <ul style="list-style-type:none;">
-  <a style="font-family:courier; font-size:13px">Fall 2023</a>
+  <a style="font-family:courier; font-size:13px">Bahria Business School, Bahria University</a>
    <ul style="list-style-type:none;">
-    <li>Student Mentor for Undergraduate Students, BS (SCM), Bahria University, Islamabad, PK</li>
+    <li>Student Mentor for Undergraduate Student in SCM (Fall 2023)</li>
+    <li>Internal Examiner for Research Thesis Final Defence (Spring 2023 - present)</li>
     </ul>
  </ul>
+
  
  <ul style="list-style-type:none;">
-  <a style="font-family:courier; font-size:13px">Spring 2023</a>
+  <a style="font-family:courier; font-size:13px">Chaifetz School of Business, Saint Louis University</a>
    <ul style="list-style-type:none;">
-    <li>Internal Examiner for Research Thesis Final Defence, Bahria University, Islamabad, PK</li>
-    </ul>
- </ul>
- 
- <ul style="list-style-type:none;">
-  <a style="font-family:courier; font-size:13px">April 2018 - May 2019</a>
-   <ul style="list-style-type:none;">
-    <li>President, Council of SCM Professionals (CSCMP), Saint Louis University, MO USA	</li>
+    <li>President, Council of SCM Professionals (CSCMP), Saint Louis University Roundtable (April 2018 - May 2019)</li>
+    <li>Student Board Member, Dean’s Student Advisory Board (August 2018 - May 2019)</li>
+    <li>International Students Ambassador, Office of International Students (January 2018 - December 2018)</li>
     </ul>
  </ul>
 
  <ul style="list-style-type:none;">
-  <a style="font-family:courier; font-size:13px">March 2018 - May 2019</a>
+  <a style="font-family:courier; font-size:13px">CSCMP Saint Louis Roundtable, Saint Louis, MO USA</a>
    <ul style="list-style-type:none;">
-    <li>SCM Students Representative, CSCMP Saint Louis Roundtable, Saint Louis, MO, USA</li>
-    </ul>
- </ul>
-
- <ul style="list-style-type:none;">
-  <a style="font-family:courier; font-size:13px">August 2018 - May 2019</a>
-   <ul style="list-style-type:none;">
-    <li>Student Board Member, Dean’s Student Advisory Board, Saint Louis University, Saint Louis, MO, USA</li>
-    </ul>
- </ul>
-
- <ul style="list-style-type:none;">
-  <a style="font-family:courier; font-size:13px">January 2018 - December 2018</a>
-   <ul style="list-style-type:none;">
-    <li>International Students Ambassador, Saint Louis University, Saint Louis, MO, USA</li>
+    <li>SCM Students Representative and Liaison (March 2018 - May 2019)</li>
     </ul>
  </ul>
 
