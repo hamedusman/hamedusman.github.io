@@ -36,7 +36,7 @@ E: hamed.buic@bahria.edu.pk; P: +92-51-9260002 (Ext. 1424); A: Shangrilla Road, 
 
 <h4 style="font-family:courier">AWARDS AND HONORS</h4>
  <ul style="list-style-type:none;">
-  <a style="font-family:courier; font-size:13px">Richard A. Chaifetz School of Business, Saint Louis University</a>
+  <a style="font-family:courier; font-size:13px">Chaifetz School of Business, Saint Louis University</a>
    <ul style="list-style-type:none;">
     <li>2019 MS-SCM Outstanding Student Award (May 2019)</li>
     <li>Ranked 1st among graduate students in MS-SCM (2017 – 2019)</li>
