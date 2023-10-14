@@ -2,7 +2,7 @@
 layout: page
 title: CURRICULUM VITAE
 ---
-Hamed Usman, Senior Lecturer, Supply Chain Management<br/>
+Hamed Usman, Senior Lecturer, Supply Chain Management (SCM)<br/>
 Management Sciences, Bahria Business School, Bahria University, Islamabad, PK<br/>
 E: hamed.buic@bahria.edu.pk; P: +92-51-9260002 (Ext. 1424); A: Shangrilla Road, E-8 Islamabad, PK
 
@@ -17,7 +17,7 @@ E: hamed.buic@bahria.edu.pk; P: +92-51-9260002 (Ext. 1424); A: Shangrilla Road, 
 <ul style="list-style-type:none;">
  <a style="font-family:courier; font-size:13px">Richard A. Chaifetz School of Business, Saint Louis University, Saint Louis, MO, USA</a>
   <ul style="list-style-type:none;">
-   <li>Master of Science (MS), <i>Supply Chain Management (SCM)</i> (2017 - 2019)</li>
+   <li>Master of Science, <i>Supply Chain Management </i> (2017 - 2019)</li>
   </ul>
 </ul>
 
