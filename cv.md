@@ -25,7 +25,7 @@ Address: Shangrilla Road, Sector E-8 Islamabad, Bahria University, Islamabad, PK
    <li><i>Bachelor of Science, Business; Emphasis: Operations Management (OM)</i></li></ul>
 </ul>
 
-<h3 style="font-family:courier">ACADEMIC EXPERIENCE</h3>
+<h4 style="font-family:courier">ACADEMIC EXPERIENCE</h4>
 
 <ul style="list-style-type:none;">
  <a style="font-family:courier; font-size:13px">2023 - present</a>
@@ -41,7 +41,7 @@ Address: Shangrilla Road, Sector E-8 Islamabad, Bahria University, Islamabad, PK
    <li><i>Junior Researcher, SCM, Center for Supply Chain Excellence (Mentor: Ik-Whan Kwon, Ph.D.)</i></li></ul>
 </ul>
 
-<h3 style="font-family:courier">RESEARCH</h3>
+<h4 style="font-family:courier">RESEARCH</h4>
   
   <ul style="list-style-type:none;"><a style="font-family:courier; font-size:13px">Journal Article</a>
    <ul style="list-style-type:none;"><li>Kwon, I. W. G., Shin, N., Kim, S. H., & <b>Usman, H.</b> (2021). Trust and commitment in supply chain during digital transformation: A case in Korea. <i>AIMS Environmental Science</i>, 8(6): 641–655</li></ul>
@@ -61,7 +61,7 @@ Address: Shangrilla Road, Sector E-8 Islamabad, Bahria University, Islamabad, PK
     </ul>
   </ul>
 
-<h3 style="font-family:courier">TEACHING</h3>
+<h4 style="font-family:courier">TEACHING</h4>
  <ul style="list-style-type:none;">Bahria Business School, Bahria University, Islamabad, PK
   
    <ul style="list-style-type:none;">
@@ -99,7 +99,7 @@ Address: Shangrilla Road, Sector E-8 Islamabad, Bahria University, Islamabad, PK
     </ul>
  </ul></ul>
 
-<h3 style="font-family:courier">PROJECTS</h3>
+<h4 style="font-family:courier">PROJECTS</h4>
 
  <ul style="list-style-type:none;">
   <a style="font-family:courier; font-size:13px">January 2019 - May 2019</a>
@@ -115,7 +115,7 @@ Address: Shangrilla Road, Sector E-8 Islamabad, Bahria University, Islamabad, PK
     <li><i>Project Team Leader, Managing Donated Goods Inventory - Community Service Project</i></li></ul>
  </ul>
 
-<h3 style="font-family:courier">INDUSTRIAL EXPERIENCE</h3>
+<h4 style="font-family:courier">INDUSTRIAL EXPERIENCE</h4>
 
  <ul style="list-style-type:none;">
   <a style="font-family:courier; font-size:13px">July 2013 - July 2017</a>
@@ -139,7 +139,7 @@ Address: Shangrilla Road, Sector E-8 Islamabad, Bahria University, Islamabad, PK
  </ul>
 
 
-<h3 style="font-family:courier">CERTIFICATIONS</h3>
+<h4 style="font-family:courier">CERTIFICATIONS</h4>
 
  <ul style="list-style-type:none;">
   <a style="font-family:courier; font-size:13px">May 2019</a>
@@ -155,7 +155,7 @@ Address: Shangrilla Road, Sector E-8 Islamabad, Bahria University, Islamabad, PK
      <li><i>Certified Six Sigma Green Belt</i></li></ul>
  </ul>
 
-<h3 style="font-family:courier">SERVICE AND LEADERSHIP ROLES</h3>
+<h4 style="font-family:courier">SERVICE AND LEADERSHIP ROLES</h4>
 
 <ul style="list-style-type:none;">
   <a style="font-family:courier; font-size:13px">Fall 2023</a>
@@ -199,7 +199,7 @@ Address: Shangrilla Road, Sector E-8 Islamabad, Bahria University, Islamabad, PK
     </ul>
  </ul>
 
-<h3 style="font-family:courier">SKILLS AND TOOLS</h3>
+<h4 style="font-family:courier">SKILLS AND TOOLS</h4>
 
  <ul style="list-style-type:none;">
   <a style="font-family:courier; font-size:13px">Econometric Research Methods using Panel Data</a>
