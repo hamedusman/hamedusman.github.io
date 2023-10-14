@@ -27,6 +27,7 @@ Email: hamed.buic@bahria.edu.pk <br/>
 Phone: +92-51-9260002 (Ext. 1424) <br/>
 <br/>
 <ul>
+  <li><a href="https://hamedusnan.github.io/cv">Curriculum vitae</a></li>
   <li><a href="https://orcid.org/0000-0003-3755-9345" target="_blank" rel="noopener noreferrer">ORCiD &#x29c9;</a></li>
   <li><a href="https://www.linkedin.com/in/hamedusman" target="_blank" rel="noopener noreferrer">LinkedIn &#x29c9;</a></li>
   <li><a href="https://scholar.google.com/citations?user=wVuB9pAAAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar &#x29c9;</a></li>
