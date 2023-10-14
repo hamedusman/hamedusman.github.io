@@ -111,7 +111,7 @@ E: hamed.buic@bahria.edu.pk; P: +92-51-9260002 (Ext. 1424); A: Shangrilla Road, 
 
 <h4 style="font-family:courier">TEACHING</h4>
  <ul style="list-style-type:none;">
-  <a style="font-family:courier; font-size:13px">Bahria Business School, Bahria University</a>
+  <a style="font-family:courier; font-size:13px">Bahria Business School, Bahria University, Islamabad Campus, Islamabad, PK</a>
    <ul style="list-style-type:none;">
     <li>SCM 707 Contemporary Issues in Supply Chain (Fall & Spring 2023; graduate level)</li>
     <li>SCM 701 Fundamentals of Supply Chain Management (Fall & Spring 2023; graduate level)</li>
@@ -203,7 +203,7 @@ E: hamed.buic@bahria.edu.pk; P: +92-51-9260002 (Ext. 1424); A: Shangrilla Road, 
 <h4 style="font-family:courier">SERVICE AND LEADERSHIP ROLES</h4>
 
 <ul style="list-style-type:none;">
-  <a style="font-family:courier; font-size:13px">Bahria Business School, Bahria University</a>
+  <a style="font-family:courier; font-size:13px">Bahria Business School, Bahria University, Islamabad Campus, Islamabad, PK</a>
    <ul style="list-style-type:none;">
     <li>Student Mentor for Undergraduate Student in SCM (Fall 2023)</li>
     <li>Internal Examiner for Research Thesis Final Defence (Spring 2023 - present)</li>
@@ -212,7 +212,7 @@ E: hamed.buic@bahria.edu.pk; P: +92-51-9260002 (Ext. 1424); A: Shangrilla Road, 
 
  
  <ul style="list-style-type:none;">
-  <a style="font-family:courier; font-size:13px">Chaifetz School of Business, Saint Louis University, Saint Louis, MO, USA</a>
+  <a style="font-family:courier; font-size:13px">Richard A. Chaifetz School of Business, Saint Louis University, Saint Louis, MO, USA</a>
    <ul style="list-style-type:none;">
     <li>President, Council of SCM Professionals (CSCMP), SLU Roundtable (April 2018 - May 2019)</li>
     <li>Student Board Member, Dean’s Student Advisory Board (August 2018 - May 2019)</li>
