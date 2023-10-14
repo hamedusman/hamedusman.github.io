@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Curriculum Vitae
+title: CURRICULUM VITAE
 ---
 Senior Lecturer, Supply Chain Management<br/>
 Bahria Business School, Bahria University, Islamabad, PK<br/>
