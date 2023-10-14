@@ -35,7 +35,8 @@ Address: Shangrilla Road, Sector E-8 Islamabad, Bahria University, Islamabad, PK
 ---
 
 
-<h4 style="font-family:courier">Selected Awards</h4>
+<h4 style="font-family:courier">AWARDS</h4>
+ <ul style="list-style-type:none;">Only selected awards are listed here.
    <ul style="list-style-type:none;">
     <a style="font-family:courier; font-size:13px">May 2019</a>
      <ul style="list-style-type:none;">
@@ -91,7 +92,7 @@ Address: Shangrilla Road, Sector E-8 Islamabad, Bahria University, Islamabad, PK
      <ul style="list-style-type:none;">
       <li>Vice Rector’s List, Forman Christian College, Lahore, PK</li>
     </ul>
- </ul>
+  </ul></ul>
 
 
 <br/>
