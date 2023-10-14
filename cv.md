@@ -35,32 +35,32 @@ E: hamed.buic@bahria.edu.pk; P: +92-51-9260002 (Ext. 1424); A: Shangrilla Road, 
 
 
 <h4 style="font-family:courier">AWARDS AND HONORS</h4>
- <ul style="list-style-type:none;">Only selected awards and honors are listed here.
+ <ul style="list-style-type:none;">Richard A. Chaifetz School of Business, Saint Louis University, Saint Louis, MO, USA
    <ul style="list-style-type:none;">
     <a style="font-family:courier; font-size:13px">May 2019</a>
      <ul style="list-style-type:none;">
-      <li>2019 MS-SCM Outstanding Student Award, Saint Louis University, Saint Louis, MO, USA</li>
+      <li>2019 MS-SCM Outstanding Student Award</li>
     </ul>
  </ul>
    
    <ul style="list-style-type:none;">
     <a style="font-family:courier; font-size:13px">2017 – 2019</a>
      <ul style="list-style-type:none;">
-      <li>Ranked 1st among graduate students in MS-SCM, Saint Louis University, Saint Louis, MO, USA</li>
+      <li>Ranked 1st among graduate students in MS-SCM</li>
     </ul>
  </ul>
 
    <ul style="list-style-type:none;">
     <a style="font-family:courier; font-size:13px">May 2019</a>
      <ul style="list-style-type:none;">
-      <li>Honorable Mention at Commencement Ceremony, Saint Louis University, Saint Louis, MO, USA</li>
+      <li>Honorable Mention at Commencement Ceremony</li>
     </ul>
  </ul>
 
    <ul style="list-style-type:none;">
     <a style="font-family:courier; font-size:13px">Spring 2019</a>
      <ul style="list-style-type:none;">
-      <li>Center for Supply Chain Excellence Scholarship, Saint Louis University, Saint Louis, MO, USA</li>
+      <li>Center for Supply Chain Excellence Scholarship</li>
     </ul>
  </ul>
 
@@ -68,28 +68,29 @@ E: hamed.buic@bahria.edu.pk; P: +92-51-9260002 (Ext. 1424); A: Shangrilla Road, 
    <ul style="list-style-type:none;">
     <a style="font-family:courier; font-size:13px">March 2019</a>
      <ul style="list-style-type:none;">
-      <li>Beta Gamma Sigma Honor Society Induction, Saint Louis University Chapter, Saint Louis, MO, USA</li>
+      <li>Beta Gamma Sigma Honor Society Induction, Saint Louis University Chapter</li>
     </ul>
  </ul>
 
    <ul style="list-style-type:none;">
     <a style="font-family:courier; font-size:13px">Fall 2017</a>
      <ul style="list-style-type:none;">
-      <li>Merit Scholarship for graduate program, Saint Louis University, Saint Louis, MO, USA</li>
+      <li>Merit Scholarship for graduate program</li>
     </ul>
- </ul>
+ </ul></ul>
 
+  <ul style="list-style-type:none;">Forman Christian College, Lahore, PK
    <ul style="list-style-type:none;">
     <a style="font-family:courier; font-size:13px">2007 – 2011</a>
      <ul style="list-style-type:none;">
-      <li>Talent Scholarship for undergraduate program, Forman Christian College, Lahore, PK</li>
+      <li>Talent Scholarship for undergraduate program</li>
     </ul>
  </ul>
 
    <ul style="list-style-type:none;">
     <a style="font-family:courier; font-size:13px">Summer 2010</a>
      <ul style="list-style-type:none;">
-      <li>Vice Rector’s List, Forman Christian College, Lahore, PK</li>
+      <li>Vice Rector’s List</li>
     </ul>
   </ul></ul>
 
