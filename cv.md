@@ -170,7 +170,7 @@ E: hamed.buic@bahria.edu.pk; P: +92-51-9260002 (Ext. 1424); A: Shangrilla Road, 
  <ul style="list-style-type:none;">
   <a style="font-family:courier; font-size:13px">DSV Global Transport And Logistics (Formerly UTi Worldwide), Lahore, PK</a>
    <ul style="list-style-type:none;">
-    <li><i>Operations Trainee, Ocean Export (October 2011 - March 2012)</li>
+    <li>Operations Trainee, Ocean Export (October 2011 - March 2012)</li>
    </ul>
  </ul>
 
