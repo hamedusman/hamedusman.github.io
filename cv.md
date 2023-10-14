@@ -183,17 +183,17 @@ E: hamed.buic@bahria.edu.pk; P: +92-51-9260002 (Ext. 1424); A: Shangrilla Road, 
 <h4 style="font-family:courier">CERTIFICATIONS</h4>
 
  <ul style="list-style-type:none;">
-  <a style="font-family:courier; font-size:13px">May 2019</a>
+  <a style="font-family:courier; font-size:13px">Center for Supply Chain Excellence, Saint Louis University, MO, USA</a>
    <ul style="list-style-type:none;">
-    <li>Center for Supply Chain Excellence, Saint Louis University, MO, USA</li>
-     <li><i>Integrated Supply Chain Management Certificate</i></li></ul>
+    <li>Integrated Supply Chain Management Certificate (May 2019)</li>
+   </ul>
  </ul>
 
   <ul style="list-style-type:none;">
-  <a style="font-family:courier; font-size:13px">December 2017</a>
+  <a style="font-family:courier; font-size:13px">American Society for Quality</a>
    <ul style="list-style-type:none;">
-    <li>American Society for Quality</li>
-     <li><i>Certified Six Sigma Green Belt</i></li></ul>
+    <li>Certified Six Sigma Green Belt (December 2017)</li>
+   </ul>
  </ul>
 
 
