@@ -15,17 +15,17 @@ E: hamed.buic@bahria.edu.pk; P: +92-51-9260002 (Ext. 1424); A: Shangrilla Road, 
 <h4 style="font-family:courier">EDUCATION</h4>
 
 <ul style="list-style-type:none;">
- <a style="font-family:courier; font-size:13px">2017 - 2019</a>
+ <a style="font-family:courier; font-size:13px">Richard A. Chaifetz School of Business, Saint Louis University, Saint Louis, MO, USA</a>
   <ul style="list-style-type:none;">
-   <li>Richard A. Chaifetz School of Business, Saint Louis University, Saint Louis, MO, USA</li>
-   <li><i>Master of Science (MS), Supply Chain Management (SCM)</i></li></ul>
+   <li><i>Master of Science (MS), Supply Chain Management (SCM) (2017 - 2019)</i></li>
+  </ul>
 </ul>
 
 <ul style="list-style-type:none;">
- <a style="font-family:courier; font-size:13px">2007 - 2011</a>
+ <a style="font-family:courier; font-size:13px">School of Management, Forman Christian College, Lahore, PK</a>
   <ul style="list-style-type:none;">
-   <li>School of Management, Forman Christian College, Lahore, PK</li>
-   <li><i>Bachelor of Science, Business; Emphasis: Operations Management (OM)</i></li></ul>
+   <li><i>Bachelor of Science, Business; Emphasis: Operations Management (OM) (2007 - 2011)</i></li>
+  </ul>
 </ul>
 
 
