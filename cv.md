@@ -304,7 +304,7 @@ E: hamed.buic@bahria.edu.pk; P: +92-51-9260002 (Ext. 1424); A: Shangrilla Road, 
  <ul style="list-style-type:none;">
   <a style="font-family:courier; font-size:13px">January 2018 - December 2018</a>
    <ul style="list-style-type:none;">
-    <li>International Students Ambassador, Office of International Services, Saint Louis University, Saint Louis, MO, USA</li>
+    <li>International Students Ambassador, Saint Louis University, Saint Louis, MO, USA</li>
     </ul>
  </ul>
 
