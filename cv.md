@@ -7,7 +7,11 @@ Bahria Business School, Bahria University, Islamabad, PK<br/>
 Email: hamed.buic@bahria.edu.pk and Phone: +92-51-9260002 (Ext. 1424)<br/>
 Address: Shangrilla Road, Sector E-8 Islamabad, Bahria University, Islamabad, PK
 
+
 <br/>
+
+---
+
 
 <h4 style="font-family:courier">EDUCATION</h4>
 
@@ -25,6 +29,12 @@ Address: Shangrilla Road, Sector E-8 Islamabad, Bahria University, Islamabad, PK
    <li><i>Bachelor of Science, Business; Emphasis: Operations Management (OM)</i></li></ul>
 </ul>
 
+
+<br/>
+
+---
+
+
 <h4 style="font-family:courier">ACADEMIC EXPERIENCE</h4>
 
 <ul style="list-style-type:none;">
@@ -40,6 +50,12 @@ Address: Shangrilla Road, Sector E-8 Islamabad, Bahria University, Islamabad, PK
    <li>Richard A. Chaifetz School of Business, Saint Louis University, Saint Louis, MO, USA</li>
    <li><i>Junior Researcher, SCM, Center for Supply Chain Excellence (Mentor: Ik-Whan Kwon, Ph.D.)</i></li></ul>
 </ul>
+
+
+<br/>
+
+---
+
 
 <h4 style="font-family:courier">RESEARCH</h4>
   
@@ -60,6 +76,12 @@ Address: Shangrilla Road, Sector E-8 Islamabad, Bahria University, Islamabad, PK
      <li>Naida Arif <i>(MS in SCM, Bahria University, Islamabad, Pakistan; Expected to graduate in Fall 2023)</i></li>
     </ul>
   </ul>
+
+
+<br/>
+
+---
+
 
 <h4 style="font-family:courier">TEACHING</h4>
  <ul style="list-style-type:none;">Bahria Business School, Bahria University, Islamabad, PK
@@ -99,6 +121,12 @@ Address: Shangrilla Road, Sector E-8 Islamabad, Bahria University, Islamabad, PK
     </ul>
  </ul></ul>
 
+
+<br/>
+
+---
+
+
 <h4 style="font-family:courier">PROJECTS</h4>
 
  <ul style="list-style-type:none;">
@@ -114,6 +142,12 @@ Address: Shangrilla Road, Sector E-8 Islamabad, Bahria University, Islamabad, PK
     <li>International Institute of Saint Louis, Saint Louis, MO, USA</li>
     <li><i>Project Team Leader, Managing Donated Goods Inventory - Community Service Project</i></li></ul>
  </ul>
+
+
+<br/>
+
+---
+
 
 <h4 style="font-family:courier">INDUSTRIAL EXPERIENCE</h4>
 
@@ -139,6 +173,11 @@ Address: Shangrilla Road, Sector E-8 Islamabad, Bahria University, Islamabad, PK
  </ul>
 
 
+<br/>
+
+---
+
+
 <h4 style="font-family:courier">CERTIFICATIONS</h4>
 
  <ul style="list-style-type:none;">
@@ -154,6 +193,12 @@ Address: Shangrilla Road, Sector E-8 Islamabad, Bahria University, Islamabad, PK
     <li>American Society for Quality</li>
      <li><i>Certified Six Sigma Green Belt</i></li></ul>
  </ul>
+
+
+<br/>
+
+---
+
 
 <h4 style="font-family:courier">SERVICE AND LEADERSHIP ROLES</h4>
 
@@ -198,6 +243,12 @@ Address: Shangrilla Road, Sector E-8 Islamabad, Bahria University, Islamabad, PK
     <li>International Students Ambassador, Office of International Services, Saint Louis University, Saint Louis, MO, USA</li>
     </ul>
  </ul>
+
+
+<br/>
+
+---
+
 
 <h4 style="font-family:courier">SKILLS AND TOOLS</h4>
 
