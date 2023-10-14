@@ -242,7 +242,7 @@ E: hamed.buic@bahria.edu.pk; P: +92-51-9260002 (Ext. 1424); A: Shangrilla Road, 
    <ul style="list-style-type:none;">
     <li>President, Council of SCM Professionals (CSCMP), SLU Roundtable (April 2018 - May 2019)</li>
     <li>Student Board Member, Dean’s Student Advisory Board (August 2018 - May 2019)</li>
-    <li>International Students Ambassador, Office of International Students (January 2018 - December 2018)</li>
+    <li>International Students Ambassador, Office of International Services (January 2018 - December 2018)</li>
     </ul>
  </ul>
 
