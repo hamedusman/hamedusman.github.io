@@ -1,6 +1,6 @@
 ---
 layout: page
-title: HAMED USMAN - CV
+title: CV - HAMED USMAN
 ---
 Email: hamed.buic@bahria.edu.pk<br/>
 Phone: +92-51-9260002 (Ext. 1424)<br/>
