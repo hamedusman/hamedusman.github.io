@@ -1,6 +1,6 @@
 ---
 layout: frontpage
-title: HAMED USMAN | Researcher and Teacher
+title: HAMED USMAN - Researcher and Teacher
 description: Hamed Usman is a Senior Lecturer at Bahria University, Islamabad, Pakistan. 
 keywords: hanedusman, hamed usman, hamed, usman, operations management, supply chain management, logistics
 ---
