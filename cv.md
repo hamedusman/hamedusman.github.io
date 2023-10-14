@@ -283,7 +283,7 @@ E: hamed.buic@bahria.edu.pk; P: +92-51-9260002 (Ext. 1424); A: Shangrilla Road, 
  <ul style="list-style-type:none;">
   <a style="font-family:courier; font-size:13px">April 2018 - May 2019</a>
    <ul style="list-style-type:none;">
-    <li>President, Council of Supply Chain Management Professionals (CSCMP), Saint Louis University, MO USA	</li>
+    <li>President, Council of SCM Professionals (CSCMP), Saint Louis University, MO USA	</li>
     </ul>
  </ul>
 
@@ -297,7 +297,7 @@ E: hamed.buic@bahria.edu.pk; P: +92-51-9260002 (Ext. 1424); A: Shangrilla Road, 
  <ul style="list-style-type:none;">
   <a style="font-family:courier; font-size:13px">August 2018 - May 2019</a>
    <ul style="list-style-type:none;">
-    <li>Student Board Member (SCM), Dean’s Student Advisory Board, Saint Louis University, Saint Louis, MO, USA</li>
+    <li>Student Board Member, Dean’s Student Advisory Board, Saint Louis University, Saint Louis, MO, USA</li>
     </ul>
  </ul>
 
