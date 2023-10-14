@@ -66,13 +66,17 @@ E: hamed.buic@bahria.edu.pk; P: +92-51-9260002 (Ext. 1424); A: Shangrilla Road, 
 <ul style="list-style-type:none;">
  <a style="font-family:courier; font-size:13px">Bahria Business School, Bahria University, Islamabad Campus, Islamabad, PK</a>
   <ul style="list-style-type:none;">
-   <li>Senior Lecturer, SCM, Department of Management Sciences (2023 - present)</li></ul>
+   <li>Senior Lecturer, SCM, Department of Management Sciences (2023 - present)</li>
+  </ul>
 </ul>
 
 <ul style="list-style-type:none;">
  <a style="font-family:courier; font-size:13px">Richard A. Chaifetz School of Business, Saint Louis University, Saint Louis, MO, USA</a>
   <ul style="list-style-type:none;">
-   <li>Junior Researcher, SCM, Center for Supply Chain Excellence (2019 - 2023)</li></ul>
+   <li>Junior Researcher, SCM, Center for Supply Chain Excellence (2019 - 2023)</li>
+    <ul style="list-style-type:none;">Mentor: Ik-Whan Kwon, Ph.D.
+    </ul>
+  </ul>
 </ul>
 
 
