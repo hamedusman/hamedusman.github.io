@@ -68,7 +68,7 @@ E: hamed.buic@bahria.edu.pk; P: +92-51-9260002 (Ext. 1424); A: Shangrilla Road, 
    <ul style="list-style-type:none;">
     <a style="font-family:courier; font-size:13px">March 2019</a>
      <ul style="list-style-type:none;">
-      <li>Beta Gamma Sigma Honor Society Induction, Saint Louis University Chapter</li>
+      <li>Beta Gamma Sigma Honor Society Induction</li>
     </ul>
  </ul>
 
