@@ -118,12 +118,12 @@ Bahria University, E-8 Islamabad, PK
  <ul style="list-style-type:none;">
   <a style="font-family:courier; font-size:13px">Bahria Business School, Bahria University, Islamabad Campus, Islamabad, PK</a>
    <ul style="list-style-type:none;">
-    <li>SCM 707 Contemporary Issues in Supply Chain (Spring 2024, 2023, Fall 2023; graduate level)</li>
-    <li>SCM 701 Fundamentals of Supply Chain Management (Spring 2024, 2023, Fall 2023; graduate level)</li>
+    <li>SCM 707 Contemporary Issues in SC (Spring 2024, 2023, Fall 2023; graduate level)</li>
+    <li>SCM 701 Fundamentals of SCM (Spring 2024, 2023, Fall 2023; graduate level)</li>
     <li>SCM 421 Globalization and Outsourcing Strategies (Fall 2023; undergraduate level)</li>
     <li>SCM 320 Import and Export Management (Spring 2023; undergraduate level)</li>
     <li>QTM 110 Business Statistics (Spring 2024; undergraduate level)</li>
-    <li>SCM 101 Introduction to Supply Chain Management (Spring 2024, 2023, Fall 2023; undergraduate level)</li>
+    <li>SCM 101 Introduction to SCM (Spring 2024, 2023, Fall 2023; undergraduate level)</li>
    </ul>
  </ul>
 
