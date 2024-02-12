@@ -2,12 +2,13 @@
 layout: page
 title: Curriculum Vitae
 ---
-<p><i>Last updated on Monday, February 12, 2024</i></p>
 Hamed Usman, MS, CSSGB<br/>
 Sr. Lecturer, Bahria Business School<br/>
 Email: hamed.buic@bahria.edu.pk<br/>
 Phone: +92-51-9260002 (Ext. 1424)<br/>
-Bahria University, E-8 Islamabad, PK
+Bahria University, E-8 Islamabad, PK<br/>
+<br/>
+<p><i>Last updated on Monday, February 12, 2024</i></p>
 
 
 <br/>
