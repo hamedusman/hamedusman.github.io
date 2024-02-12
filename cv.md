@@ -4,7 +4,7 @@ title: Curriculum Vitae
 ---
 <p><i>Last updated on Monday, February 12, 2024</i></p>
 <br/>
-<p>Hamed Usman</p>
+<p>Hamed Usman, MS, CSSGB</p>
 <br/>
 Sr. Lecturer, Bahria Business School<br/>
 Email: hamed.buic@bahria.edu.pk<br/>
