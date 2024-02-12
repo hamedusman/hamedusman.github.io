@@ -2,7 +2,7 @@
 layout: page
 title: CV - HAMED USMAN
 ---
-<p><i>Last updated on Monday February 12, 2024</i></p>
+<p><i>Last updated on Monday, February 12, 2024</i></p>
 <br/>
 Sr. Lecturer, Bahria Business School<br/>
 Email: hamed.buic@bahria.edu.pk<br/>
