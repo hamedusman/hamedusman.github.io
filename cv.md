@@ -251,6 +251,6 @@ Bahria University, E-8 Islamabad, PK
 <ul style="list-style-type:none;">
   <a style="font-family:courier; font-size:13px">Programs and Packages</a>
    <ul style="list-style-type:none;">
-    <li>Stata, Tableau, Python (NumPy, Matplotlib, Pandas),SAS, R, SPSS (AMOS), VBA, and SQL database</li>
+    <li>Stata, Tableau, Python (NumPy, Matplotlib, and Pandas), SAS, R, VBA, and SQL database</li>
     </ul>
  </ul>
