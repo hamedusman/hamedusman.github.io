@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CV - HAMED USMAN
+title: Curriculum Vitae
 ---
 <p><i>Last updated on Monday, February 12, 2024</i></p>
 <br/>
