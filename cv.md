@@ -2,7 +2,7 @@
 layout: page
 title: Curriculum Vitae
 ---
-Hamed Usman, MS, CSSGB<br/>
+Hamed Usman, MS, ISCM, CSSGB<br/>
 Sr. Lecturer, Bahria Business School<br/>
 Email: hamed.buic@bahria.edu.pk<br/>
 Phone: +92-51-9260002 (Ext. 1424)<br/>
