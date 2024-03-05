@@ -23,7 +23,7 @@ keywords: hanedusman, hamed usman, hamed, usman, operations management, supply c
 
 
 <h4>Contact</h4>
-Hamed Usman, MS<br/>
+Hamed Usman, MS, ISCM, CSSGB<br/>
 Senior Lecturer · SCM<br/>
 Email: hamed.buic@bahria.edu.pk<br/>
 Phone: +92-51-9260002 (Ext. 1424)<br/>
