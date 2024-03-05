@@ -19,7 +19,7 @@ Bahria University, E-8 Islamabad, PK<br/>
 <h4 style="font-family:courier">EDUCATION</h4>
 
 <ul style="list-style-type:none;">
- <a style="font-family:courier; font-size:13px">Richard A. Chaifetz School of Business, Saint Louis University, Saint Louis, MO, USA</a>
+ Richard A. Chaifetz School of Business, Saint Louis University, Saint Louis, MO, USA</a>
   <ul style="list-style-type:none;">
    <li>Master of Science, Supply Chain Management (2017 - 2019)</li>
   </ul>
