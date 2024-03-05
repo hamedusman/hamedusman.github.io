@@ -52,7 +52,7 @@ Bahria University, E-8 Islamabad, PK<br/>
  </ul>
 
   <ul style="list-style-type:none;">
-   <a style="font-family:courier; font-size:13px">School of Management, Forman Christian College, Lahore, PK</a>
+   School of Management, Forman Christian College, Lahore, PK
     <ol>
      <li>Talent Scholarship for undergraduate program (2007 – 2011)</li>
      <li>Vice Rector’s List (Summer 2010)</li>
@@ -68,7 +68,7 @@ Bahria University, E-8 Islamabad, PK<br/>
 <h4 style="font-family:courier">ACADEMIC EXPERIENCE</h4>
 
 <ul style="list-style-type:none;">
- <a style="font-family:courier; font-size:13px">Bahria Business School, Bahria University, Islamabad Campus, Islamabad, PK</a>
+ Bahria Business School, Bahria University, Islamabad Campus, Islamabad, PK
   <ul style="list-style-type:none;">
    <li>Senior Lecturer, SCM, Department of Management Sciences (2023 - present)</li>
   </ul>
