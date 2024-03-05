@@ -95,12 +95,12 @@ Bahria University, E-8 Islamabad, PK<br/>
    <ul style="list-style-type:none;"><li>Kwon, I. W. G., Shin, N., Kim, S. H., & <b>Usman, H.</b> (2021). Trust and commitment in supply chain during digital transformation: A case in Korea. <i>AIMS Environmental Science</i>, 8(6): 641–655</li></ul>
   </ul>
 
- <ul style="list-style-type:none;"><a style="font-family:courier; font-size:13px">Book Chapter</a>
+ <ul style="list-style-type:none;">Book Chapter
   <ul style="list-style-type:none;"><li>Kwon, I. W. G., Kim, S. H., & <b>Usman, H.</b> (2021). Vaccine Supply Chain Distribution under Covid-19 Pandemic: Stressed, Resourceful and Resilient - Lesson Learned from the United States Experiences (2021). <i>Proud Pen Limited, London, UK</i></li>
   </ul>
  </ul>
 
-  <ul style="list-style-type:none;"><a style="font-family:courier; font-size:13px">Master's Thesis Advising</a>
+  <ul style="list-style-type:none;">Master's Thesis Advising
     <ul style="list-style-type:none;">
      <li>Hira Waris <i>(MS in SCM, Bahria University, Islamabad, Pakistan; Graduated in Spring 2023)</i></li>
       <!--<ul style="list-style-type:none;"><li>- Thesis Title: <i>The relationship between inventory leanness, dynamism, and sustainability of firms: In context of US-based clean 200 companies</i></li></ul>-->
