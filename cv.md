@@ -159,21 +159,21 @@ Bahria University, E-8 Islamabad, PK<br/>
 <h4 style="font-family:courier">INDUSTRIAL EXPERIENCE</h4>
 
  <ul style="list-style-type:none;">
-  <a style="font-family:courier; font-size:13px">Bajwa Agro Industries, Lahore, PK</a>
+  Bajwa Agro Industries, Lahore, PK
    <ul style="list-style-type:none;">
     <li>Assistant Manager Operations, Materials Management (July 2013 - July 2017)</li>
    </ul>
  </ul>
 
   <ul style="list-style-type:none;">
-  <a style="font-family:courier; font-size:13px">CCL Pharmaceuticals, Lahore, PK</a>
+   CCL Pharmaceuticals, Lahore, PK
    <ul style="list-style-type:none;">
     <li>Management Training Officer, Supply Chain Management Division (April 2012 - April 2013)</li>
    </ul>
  </ul>
 
  <ul style="list-style-type:none;">
-  <a style="font-family:courier; font-size:13px">DSV Global Transport And Logistics (Formerly UTi Worldwide), Lahore, PK</a>
+  DSV Global Transport And Logistics (Formerly UTi Worldwide), Lahore, PK
    <ul style="list-style-type:none;">
     <li>Operations Trainee, Ocean Export (October 2011 - March 2012)</li>
    </ul>
@@ -188,14 +188,14 @@ Bahria University, E-8 Islamabad, PK<br/>
 <h4 style="font-family:courier">CERTIFICATIONS</h4>
 
  <ul style="list-style-type:none;">
-  <a style="font-family:courier; font-size:13px">Center for Supply Chain Excellence, Saint Louis University, MO, USA</a>
+  Center for Supply Chain Excellence, Saint Louis University, MO, USA
    <ul style="list-style-type:none;">
     <li>Integrated Supply Chain Management Certificate (May 2019)</li>
    </ul>
  </ul>
 
   <ul style="list-style-type:none;">
-  <a style="font-family:courier; font-size:13px">American Society for Quality</a>
+  American Society for Quality
    <ul style="list-style-type:none;">
     <li>Certified Six Sigma Green Belt (December 2017)</li>
    </ul>
@@ -210,7 +210,7 @@ Bahria University, E-8 Islamabad, PK<br/>
 <h4 style="font-family:courier">SERVICE AND LEADERSHIP ROLES</h4>
 
 <ul style="list-style-type:none;">
-  <a style="font-family:courier; font-size:13px">Bahria Business School, Bahria University, Islamabad Campus, Islamabad, PK</a>
+  Bahria Business School, Bahria University, Islamabad Campus, Islamabad, PK
    <ul style="list-style-type:none;">
     <li>Student Mentor for Undergraduate Students in SCM (Fall 2023 - present)</li>
     <li>Internal Examiner for Master's Research Thesis Final Defence (Spring 2023 - Fall 2023)</li>
@@ -219,7 +219,7 @@ Bahria University, E-8 Islamabad, PK<br/>
 
  
  <ul style="list-style-type:none;">
-  <a style="font-family:courier; font-size:13px">Richard A. Chaifetz School of Business, Saint Louis University, Saint Louis, MO, USA</a>
+  Richard A. Chaifetz School of Business, Saint Louis University, Saint Louis, MO, USA
    <ul style="list-style-type:none;">
     <li>President, Council of SCM Professionals (CSCMP), SLU Roundtable (April 2018 - May 2019)</li>
     <li>Student Board Member, Dean’s Student Advisory Board (August 2018 - May 2019)</li>
@@ -228,7 +228,7 @@ Bahria University, E-8 Islamabad, PK<br/>
  </ul>
 
  <ul style="list-style-type:none;">
-  <a style="font-family:courier; font-size:13px">CSCMP Saint Louis Roundtable, Saint Louis, MO USA</a>
+  CSCMP Saint Louis Roundtable, Saint Louis, MO USA
    <ul style="list-style-type:none;">
     <li>SCM Students Representative and Liaison (March 2018 - May 2019)</li>
     </ul>
@@ -243,14 +243,14 @@ Bahria University, E-8 Islamabad, PK<br/>
 <h4 style="font-family:courier">SKILLS AND TOOLS</h4>
 
  <ul style="list-style-type:none;">
-  <a style="font-family:courier; font-size:13px">Econometric Research Methods using Panel Data</a>
+  Econometric Research Methods using Panel Data
    <ul style="list-style-type:none;">
     <li>Regression, instrument variable analysis, and differences-in-differences</li>
     </ul>
  </ul>
 
 <ul style="list-style-type:none;">
-  <a style="font-family:courier; font-size:13px">Programs and Packages</a>
+  Programs and Packages
    <ul style="list-style-type:none;">
     <li>Stata, Tableau, Python (NumPy, Matplotlib, and Pandas), SAS, R, VBA, and SQL database</li>
     </ul>
