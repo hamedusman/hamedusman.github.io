@@ -75,7 +75,7 @@ Bahria University, E-8 Islamabad, PK<br/>
 </ul>
 
 <ul style="list-style-type:none;">
- <a style="font-family:courier; font-size:13px">Richard A. Chaifetz School of Business, Saint Louis University, Saint Louis, MO, USA</a>
+ Richard A. Chaifetz School of Business, Saint Louis University, Saint Louis, MO, USA
   <ul style="list-style-type:none;">
    <li>Junior Researcher, SCM, Center for Supply Chain Excellence (2019 - 2023)</li>
     <ul style="list-style-type:none;"><i>Mentor: Ik-Whan Kwon, Ph.D.</i>
@@ -91,7 +91,7 @@ Bahria University, E-8 Islamabad, PK<br/>
 
 <h4 style="font-family:courier">RESEARCH</h4>
   
-  <ul style="list-style-type:none;"><a style="font-family:courier; font-size:13px">Journal Article</a>
+  <ul style="list-style-type:none;">Journal Article
    <ul style="list-style-type:none;"><li>Kwon, I. W. G., Shin, N., Kim, S. H., & <b>Usman, H.</b> (2021). Trust and commitment in supply chain during digital transformation: A case in Korea. <i>AIMS Environmental Science</i>, 8(6): 641–655</li></ul>
   </ul>
 
