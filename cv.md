@@ -68,7 +68,7 @@ Bahria University, E-8 Islamabad, PK<br/>
 <h4 style="font-family:courier">ACADEMIC EXPERIENCE</h4>
 
 <ul style="list-style-type:none;">
- Bahria Business School, Bahria University, Islamabad Campus, Islamabad, PK
+ Bahria Business School, Bahria University, E-8 Campus, Islamabad, PK
   <ul style="list-style-type:none;">
    <li>Senior Lecturer, SCM, Department of Management Sciences (2023 - present)</li>
   </ul>
@@ -117,7 +117,7 @@ Bahria University, E-8 Islamabad, PK<br/>
 
 <h4 style="font-family:courier">TEACHING</h4>
  <ul style="list-style-type:none;">
-  Bahria Business School, Bahria University, Islamabad Campus, Islamabad, PK
+  Bahria Business School, Bahria University, E-8 Campus, Islamabad, PK
    <ul style="list-style-type:none;">
     <li>SCM 707 Contemporary Issues in SC (Spring 2024, 2023, Fall 2023; graduate level)</li>
     <li>SCM 701 Fundamentals of SCM (Spring 2024, 2023, Fall 2023; graduate level)</li>
@@ -210,7 +210,7 @@ Bahria University, E-8 Islamabad, PK<br/>
 <h4 style="font-family:courier">SERVICE AND LEADERSHIP ROLES</h4>
 
 <ul style="list-style-type:none;">
-  Bahria Business School, Bahria University, Islamabad Campus, Islamabad, PK
+  Bahria Business School, Bahria University, E-8 Campus, Islamabad, PK
    <ul style="list-style-type:none;">
     <li>Student Mentor for Undergraduate Students in SCM (Fall 2023 - present)</li>
     <li>Internal Examiner for Master's Research Thesis Final Defence (Spring 2023 - Fall 2023)</li>
