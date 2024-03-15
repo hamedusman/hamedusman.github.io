@@ -21,14 +21,14 @@ Bahria University, E-8 Islamabad, PK<br/>
 <ul style="list-style-type:none;">
  Richard A. Chaifetz School of Business, Saint Louis University, Saint Louis, MO, USA
   <ul style="list-style-type:none;">
-   <li>- Master of Science, Supply Chain Management (2017 - 2019)</li>
+   <li>Master of Science, Supply Chain Management (2017 - 2019)</li>
   </ul>
 </ul>
 
 <ul style="list-style-type:none;">
  School of Management, Forman Christian College, Lahore, PK
   <ul style="list-style-type:none;">
-   <li>- Bachelor of Science, Business; Emphasis: Operations Management (2007 - 2011)</li>
+   <li>Bachelor of Science, Business; Emphasis: Operations Management (2007 - 2011)</li>
   </ul>
 </ul>
 
@@ -42,20 +42,20 @@ Bahria University, E-8 Islamabad, PK<br/>
  <ul style="list-style-type:none;">
   Richard A. Chaifetz School of Business, Saint Louis University, Saint Louis, MO, USA
    <ol>
-    <li>- 2019 MS-SCM Outstanding Student Award (May 2019)</li>
-    <li>- Ranked 1st among graduate students in MS-SCM (2017 – 2019)</li>
-    <li>- Honorable Mention at Commencement Ceremony (May 2019)</li>
-    <li>- Center for Supply Chain Excellence Scholarship (Spring 2019)</li>
-    <li>- Beta Gamma Sigma Honor Society Induction (March 2019)</li>
-    <li>- Merit Scholarship for graduate program (Fall 2017)</li>
+    <li>2019 MS-SCM Outstanding Student Award (May 2019)</li>
+    <li>Ranked 1st among graduate students in MS-SCM (2017 – 2019)</li>
+    <li>Honorable Mention at Commencement Ceremony (May 2019)</li>
+    <li>Center for Supply Chain Excellence Scholarship (Spring 2019)</li>
+    <li>Beta Gamma Sigma Honor Society Induction (March 2019)</li>
+    <li>Merit Scholarship for graduate program (Fall 2017)</li>
    </ol>
  </ul>
 
   <ul style="list-style-type:none;">
    School of Management, Forman Christian College, Lahore, PK
     <ol>
-     <li>- Talent Scholarship for undergraduate program (2007 – 2011)</li>
-     <li>- Vice Rector’s List (Summer 2010)</li>
+     <li>Talent Scholarship for undergraduate program (2007 – 2011)</li>
+     <li>Vice Rector’s List (Summer 2010)</li>
     </ol>
   </ul>
 
@@ -70,7 +70,7 @@ Bahria University, E-8 Islamabad, PK<br/>
 <ul style="list-style-type:none;">
  Bahria Business School, Bahria University, E-8 Campus, Islamabad, PK
   <ul style="list-style-type:none;">
-   <li>- Senior Lecturer, SCM, Department of Management Sciences (2023 - present)</li>
+   <li>Senior Lecturer, SCM, Department of Management Sciences (2023 - present)</li>
   </ul>
 </ul>
 
