@@ -78,7 +78,7 @@ Bahria University, E-8 Islamabad, PK<br/>
  Richard A. Chaifetz School of Business, Saint Louis University, Saint Louis, MO, USA
   <ul style="list-style-type:square;">
    <li>Junior Researcher, SCM, Center for Supply Chain Excellence (2019 - 2023)</li>
-    <ul style="list-style-type:none;"><i>Mentor: Ik-Whan Kwon, Ph.D.</i>
+    <ul style="list-style-type:none;"><i>- Mentor: Ik-Whan Kwon, Ph.D.</i>
     </ul>
   </ul>
 </ul>
@@ -102,10 +102,10 @@ Bahria University, E-8 Islamabad, PK<br/>
 
   <ul style="list-style-type:none;">Master's Thesis Advising
     <ol>
-     <li>Hira Waris <i>(MS in SCM, Bahria University, Islamabad, Pakistan; Graduated in Spring 2023 with an A-)</i></li>
+     <li>Hira Waris <i>(MS in SCM, Bahria University, Islamabad, Pakistan; Graduated in Spring 2023)</i></li>
       <!--<ul style="list-style-type:none;"><li>- Thesis Title: <i>The relationship between inventory leanness, dynamism, and sustainability of firms: In context of US-based clean 200 companies</i></li></ul>-->
-     <li>Kanwal Iftikhar <i>(MS in SCM, Bahria University, Islamabad, Pakistan; Graduated in Fall 2023 with an A)</i></li>
-     <li>Naida Arif <i>(MS in SCM, Bahria University, Islamabad, Pakistan; Graduated in Fall 2023 with an A)</i></li>
+     <li>Kanwal Iftikhar <i>(MS in SCM, Bahria University, Islamabad, Pakistan; Graduated in Fall 2023)</i></li>
+     <li>Naida Arif <i>(MS in SCM, Bahria University, Islamabad, Pakistan; Graduated in Fall 2023)</i></li>
     </ol>
   </ul>
 
