@@ -92,21 +92,21 @@ Bahria University, E-8 Islamabad, PK<br/>
 <h4 style="font-family:courier">RESEARCH</h4>
   
   <ul style="list-style-type:none;">Journal Article
-   <ul style="list-style-type:none;"><li>Kwon, I. W. G., Shin, N., Kim, S. H., & <b>Usman, H.</b> (2021). Trust and commitment in supply chain during digital transformation: A case in Korea. <i>AIMS Environmental Science</i>, 8(6): 641–655</li></ul>
+   <ul style="list-style-type:square;"><li>Kwon, I. W. G., Shin, N., Kim, S. H., & <b>Usman, H.</b> (2021). Trust and commitment in supply chain during digital transformation: A case in Korea. <i>AIMS Environmental Science</i>, 8(6): 641–655</li></ul>
   </ul>
 
  <ul style="list-style-type:none;">Book Chapter
-  <ul style="list-style-type:none;"><li>Kwon, I. W. G., Kim, S. H., & <b>Usman, H.</b> (2021). Vaccine Supply Chain Distribution under Covid-19 Pandemic: Stressed, Resourceful and Resilient - Lesson Learned from the United States Experiences (2021). <i>Proud Pen Limited, London, UK</i></li>
+  <ul style="list-style-type:square;"><li>Kwon, I. W. G., Kim, S. H., & <b>Usman, H.</b> (2021). Vaccine Supply Chain Distribution under Covid-19 Pandemic: Stressed, Resourceful and Resilient - Lesson Learned from the United States Experiences (2021). <i>Proud Pen Limited, London, UK</i></li>
   </ul>
  </ul>
 
   <ul style="list-style-type:none;">Master's Thesis Advising
-    <ul style="list-style-type:none;">
+    <ol style="list-style-type:none;">
      <li>Hira Waris <i>(MS in SCM, Bahria University, Islamabad, Pakistan; Graduated in Spring 2023)</i></li>
       <!--<ul style="list-style-type:none;"><li>- Thesis Title: <i>The relationship between inventory leanness, dynamism, and sustainability of firms: In context of US-based clean 200 companies</i></li></ul>-->
      <li>Kanwal Iftikhar <i>(MS in SCM, Bahria University, Islamabad, Pakistan; Graduated in Fall 2023)</i></li>
      <li>Naida Arif <i>(MS in SCM, Bahria University, Islamabad, Pakistan; Graduated in Fall 2023)</i></li>
-    </ul>
+    </ol>
   </ul>
 
 
@@ -118,14 +118,14 @@ Bahria University, E-8 Islamabad, PK<br/>
 <h4 style="font-family:courier">TEACHING</h4>
  <ul style="list-style-type:none;">
   Bahria Business School, Bahria University, E-8 Campus, Islamabad, PK
-   <ul style="list-style-type:none;">
+   <ol style="list-style-type:none;">
     <li>SCM 707 Contemporary Issues in SC (Spring 2024, 2023, Fall 2023; graduate level)</li>
     <li>SCM 701 Fundamentals of SCM (Spring 2024, 2023, Fall 2023; graduate level)</li>
     <li>SCM 421 Globalization and Outsourcing Strategies (Fall 2023; undergraduate level)</li>
     <li>SCM 320 Import and Export Management (Spring 2023; undergraduate level)</li>
     <li>QTM 110 Business Statistics (Spring 2024; undergraduate level)</li>
     <li>SCM 101 Introduction to SCM (Spring 2024, 2023, Fall 2023; undergraduate level)</li>
-   </ul>
+   </ol>
  </ul>
 
 
@@ -211,27 +211,20 @@ Bahria University, E-8 Islamabad, PK<br/>
 
 <ul style="list-style-type:none;">
   Bahria Business School, Bahria University, E-8 Campus, Islamabad, PK
-   <ul style="list-style-type:none;">
+   <ol style="list-style-type:none;">
     <li>Student Mentor for Undergraduate Students in SCM (Fall 2023 - present)</li>
     <li>Internal Examiner for Master's Research Thesis Final Defence (Spring 2023 - Fall 2023)</li>
-    </ul>
+    </ol>
  </ul>
 
  
  <ul style="list-style-type:none;">
   Richard A. Chaifetz School of Business, Saint Louis University, Saint Louis, MO, USA
-   <ul style="list-style-type:none;">
+   <ol style="list-style-type:none;">
     <li>President, Council of SCM Professionals (CSCMP), SLU Roundtable (April 2018 - May 2019)</li>
     <li>Student Board Member, Dean’s Student Advisory Board (August 2018 - May 2019)</li>
     <li>International Students Ambassador, Office of International Services (January 2018 - December 2018)</li>
-    </ul>
- </ul>
-
- <ul style="list-style-type:none;">
-  CSCMP Saint Louis Roundtable, Saint Louis, MO USA
-   <ul style="list-style-type:none;">
-    <li>SCM Students Representative and Liaison (March 2018 - May 2019)</li>
-    </ul>
+    </ol>
  </ul>
 
 
