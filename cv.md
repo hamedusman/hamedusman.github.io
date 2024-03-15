@@ -101,7 +101,7 @@ Bahria University, E-8 Islamabad, PK<br/>
  </ul>
 
   <ul style="list-style-type:none;">Master's Thesis Advising
-    <ol style="list-style-type:none;">
+    <ol>
      <li>Hira Waris <i>(MS in SCM, Bahria University, Islamabad, Pakistan; Graduated in Spring 2023)</i></li>
       <!--<ul style="list-style-type:none;"><li>- Thesis Title: <i>The relationship between inventory leanness, dynamism, and sustainability of firms: In context of US-based clean 200 companies</i></li></ul>-->
      <li>Kanwal Iftikhar <i>(MS in SCM, Bahria University, Islamabad, Pakistan; Graduated in Fall 2023)</i></li>
@@ -118,7 +118,7 @@ Bahria University, E-8 Islamabad, PK<br/>
 <h4 style="font-family:courier">TEACHING</h4>
  <ul style="list-style-type:none;">
   Bahria Business School, Bahria University, E-8 Campus, Islamabad, PK
-   <ol style="list-style-type:none;">
+   <ol>
     <li>SCM 707 Contemporary Issues in SC (Spring 2024, 2023, Fall 2023; graduate level)</li>
     <li>SCM 701 Fundamentals of SCM (Spring 2024, 2023, Fall 2023; graduate level)</li>
     <li>SCM 421 Globalization and Outsourcing Strategies (Fall 2023; undergraduate level)</li>
@@ -211,7 +211,7 @@ Bahria University, E-8 Islamabad, PK<br/>
 
 <ul style="list-style-type:none;">
   Bahria Business School, Bahria University, E-8 Campus, Islamabad, PK
-   <ol style="list-style-type:none;">
+   <ol>
     <li>Student Mentor for Undergraduate Students in SCM (Fall 2023 - present)</li>
     <li>Internal Examiner for Master's Research Thesis Final Defence (Spring 2023 - Fall 2023)</li>
     </ol>
@@ -220,7 +220,7 @@ Bahria University, E-8 Islamabad, PK<br/>
  
  <ul style="list-style-type:none;">
   Richard A. Chaifetz School of Business, Saint Louis University, Saint Louis, MO, USA
-   <ol style="list-style-type:none;">
+   <ol>
     <li>President, Council of SCM Professionals (CSCMP), SLU Roundtable (April 2018 - May 2019)</li>
     <li>Student Board Member, Dean’s Student Advisory Board (August 2018 - May 2019)</li>
     <li>International Students Ambassador, Office of International Services (January 2018 - December 2018)</li>
