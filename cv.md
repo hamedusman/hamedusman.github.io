@@ -8,7 +8,7 @@ Email: hamed.buic@bahria.edu.pk<br/>
 Phone: +92-51-9260002 (Ext. 1424)<br/>
 Bahria University, E-8 Islamabad, PK<br/>
 <br/>
-<p><i>Last updated on Monday, March 04, 2024</i></p>
+<p><i>Last updated on Friday, March 15, 2024</i></p>
 
 
 <br/>
@@ -20,14 +20,14 @@ Bahria University, E-8 Islamabad, PK<br/>
 
 <ul style="list-style-type:none;">
  Richard A. Chaifetz School of Business, Saint Louis University, Saint Louis, MO, USA
-  <ul style="list-style-type:none;">
+  <ul style="list-style-type:square;">
    <li>Master of Science, Supply Chain Management (2017 - 2019)</li>
   </ul>
 </ul>
 
 <ul style="list-style-type:none;">
  School of Management, Forman Christian College, Lahore, PK
-  <ul style="list-style-type:none;">
+  <ul style="list-style-type:square;">
    <li>Bachelor of Science, Business; Emphasis: Operations Management (2007 - 2011)</li>
   </ul>
 </ul>
@@ -47,7 +47,7 @@ Bahria University, E-8 Islamabad, PK<br/>
     <li>Honorable Mention at Commencement Ceremony (May 2019)</li>
     <li>Center for Supply Chain Excellence Scholarship (Spring 2019)</li>
     <li>Beta Gamma Sigma Honor Society Induction (March 2019)</li>
-    <li>Merit Scholarship for graduate program (Fall 2017)</li>
+    <li>Merit Scholarship for graduate program (2017 - 2019)</li>
    </ol>
  </ul>
 
@@ -69,14 +69,14 @@ Bahria University, E-8 Islamabad, PK<br/>
 
 <ul style="list-style-type:none;">
  Bahria Business School, Bahria University, E-8 Campus, Islamabad, PK
-  <ul style="list-style-type:none;">
+  <ul style="list-style-type:square;">
    <li>Senior Lecturer, SCM, Department of Management Sciences (2023 - present)</li>
   </ul>
 </ul>
 
 <ul style="list-style-type:none;">
  Richard A. Chaifetz School of Business, Saint Louis University, Saint Louis, MO, USA
-  <ul style="list-style-type:none;">
+  <ul style="list-style-type:square;">
    <li>Junior Researcher, SCM, Center for Supply Chain Excellence (2019 - 2023)</li>
     <ul style="list-style-type:none;"><i>Mentor: Ik-Whan Kwon, Ph.D.</i>
     </ul>
@@ -138,14 +138,14 @@ Bahria University, E-8 Islamabad, PK<br/>
 
  <ul style="list-style-type:none;">
   Novus International, Saint Louis, MO, USA
-   <ul style="list-style-type:none;">
+   <ul style="list-style-type:square;">
     <li>Project Team Member, Product “A” Delivery Cost Reduction (January 2019 - May 2019)</li>
    </ul> 
  </ul>
 
  <ul style="list-style-type:none;">
   International Institute of Saint Louis, Saint Louis, MO, USA
-   <ul style="list-style-type:none;">
+   <ul style="list-style-type:square;">
     <li>Project Team Leader, Managing Donated Goods Inventory (August 2017 - December 2017)</li>
    </ul>
  </ul>
@@ -160,21 +160,21 @@ Bahria University, E-8 Islamabad, PK<br/>
 
  <ul style="list-style-type:none;">
   Bajwa Agro Industries, Lahore, PK
-   <ul style="list-style-type:none;">
+   <ul style="list-style-type:square;">
     <li>Assistant Manager Operations, Materials Management (July 2013 - July 2017)</li>
    </ul>
  </ul>
 
   <ul style="list-style-type:none;">
    CCL Pharmaceuticals, Lahore, PK
-   <ul style="list-style-type:none;">
+   <ul style="list-style-type:square;">
     <li>Management Training Officer, Supply Chain Management Division (April 2012 - April 2013)</li>
    </ul>
  </ul>
 
  <ul style="list-style-type:none;">
   DSV Global Transport And Logistics (Formerly UTi Worldwide), Lahore, PK
-   <ul style="list-style-type:none;">
+   <ul style="list-style-type:square;">
     <li>Operations Trainee, Ocean Export (October 2011 - March 2012)</li>
    </ul>
  </ul>
@@ -189,14 +189,14 @@ Bahria University, E-8 Islamabad, PK<br/>
 
  <ul style="list-style-type:none;">
   Center for Supply Chain Excellence, Saint Louis University, MO, USA
-   <ul style="list-style-type:none;">
+   <ul style="list-style-type:square;">
     <li>Integrated Supply Chain Management Certificate (May 2019)</li>
    </ul>
  </ul>
 
   <ul style="list-style-type:none;">
   American Society for Quality
-   <ul style="list-style-type:none;">
+   <ul style="list-style-type:square;">
     <li>Certified Six Sigma Green Belt (December 2017)</li>
    </ul>
  </ul>
