@@ -233,18 +233,8 @@ Bahria University, E-8 Islamabad, PK<br/>
 ---
 
 
-<h4 style="font-family:courier">SKILLS AND TOOLS</h4>
+<h4 style="font-family:courier">TOOLS AND LANGUAGES</h4>
 
  <ul style="list-style-type:none;">
-  Econometric Research Methods using Panel Data
-   <ul style="list-style-type:none;">
-    <li>Regression, instrument variable analysis, and differences-in-differences</li>
-    </ul>
- </ul>
-
-<ul style="list-style-type:none;">
-  Programs and Packages
-   <ul style="list-style-type:none;">
-    <li>Stata, Tableau, Python (NumPy, Matplotlib, and Pandas), SAS, R, VBA, and SQL database</li>
-    </ul>
+  Stata, Tableau, Python (NumPy, Matplotlib, and Pandas), SAS, and R
  </ul>
