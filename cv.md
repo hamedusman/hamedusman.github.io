@@ -213,7 +213,7 @@ Bahria University, E-8 Islamabad, PK<br/>
   Bahria Business School, Bahria University, E-8 Campus, Islamabad, PK
    <ol>
     <li>Student Mentor for Undergraduate Students in SCM (Fall 2023 - present)</li>
-    <li>Internal Examiner for Master's Research Thesis Final Defence (Spring 2023 - Fall 2023)</li>
+    <li>Internal Examiner for Master's Research Thesis Final Defence (Spring 2023 - present)</li>
     </ol>
  </ul>
 
