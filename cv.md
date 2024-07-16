@@ -8,7 +8,7 @@ Email: hamed.buic@bahria.edu.pk<br/>
 Phone: +92-51-9260002 (Ext. 1424)<br/>
 Bahria University, E-8 Islamabad, PK<br/>
 <br/>
-<p><i>Last updated on Friday, March 15, 2024</i></p>
+<p><i>Last updated on Tuesday, July 16, 2024</i></p>
 
 
 <br/>
@@ -136,6 +136,13 @@ Bahria University, E-8 Islamabad, PK<br/>
 
 <h4 style="font-family:courier">PROJECTS</h4>
 
+  <ul style="list-style-type:none;">
+  CAPS Research, W. P. Carey School of Business, Arizona Stata University
+   <ul style="list-style-type:square;">
+    <li>Project Assistant, Supplier Relationship Management in a Virtual Work Environment (January 2022 - December 2022)</li>
+   </ul> 
+ </ul>
+ 
  <ul style="list-style-type:none;">
   Novus International, Saint Louis, MO, USA
    <ul style="list-style-type:square;">
