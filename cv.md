@@ -5,8 +5,7 @@ title: Curriculum Vitae
 <p><i>Last updated on Thursday, August 08, 2024</i></p>
 <br/>
 
-hamed.buic@bahria.edu.pk | +92-51-9260002 (Ext. 1424) | Bahria University, E-8 Campus, Islamabad, PK<br/>
-<h4 style="font-family:courier">EDUCATION</h4>
+<h5>EDUCATION</h5>
 
 <ul style="list-style-type:none;">
  Richard A. Chaifetz School of Business, Saint Louis University, Saint Louis, MO, USA
