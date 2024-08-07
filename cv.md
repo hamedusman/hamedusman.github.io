@@ -78,7 +78,7 @@ Bahria University, E-8 Islamabad, PK<br/>
  Richard A. Chaifetz School of Business, Saint Louis University, Saint Louis, MO, USA
   <ul style="list-style-type:square;">
    <li>Junior Researcher, SCM, Center for Supply Chain Excellence (2019 - 2023)</li>
-    <ul style="list-style-type:none;"><i>- Mentor: Ik-Whan Kwon, Ph.D.</i>
+    <ul style="list-style-type:none;"><i>Mentor: Ik-Whan Kwon, Ph.D.</i>
     </ul>
   </ul>
 </ul>
