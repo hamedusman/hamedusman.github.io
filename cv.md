@@ -100,6 +100,13 @@ Bahria University, E-8 Islamabad, PK<br/>
   </ul>
  </ul>
 
+ <ul style="list-style-type:none;">Methodology
+   <ul style="list-style-type:square;"><li>Econometric models using the following databases</li></ul>
+  <li style="list-style-type:none;">Compustat, Wharton Research Data Services (WRDS) </li>
+  <li style="list-style-type:none;"> Bloomberg Data</li>
+  <li style="list-style-type:none;"> Refinitiv Eikon Datastream</li>
+  </ul>
+
   <ul style="list-style-type:none;">Master's Thesis Advising
     <ol>
      <li>Hira Waris <i>(MS in SCM, Bahria University, Islamabad, Pakistan; Graduated in Spring 2023)</i></li>
