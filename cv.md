@@ -112,21 +112,21 @@ title: CURRICULUM VITAE
 
   <ul style="list-style-type:none;">
   CAPS Research, W. P. Carey School of Business, Arizona Stata University, Tempe, AZ, USA
-   <ul style="list-style-type:none;">
+   <ul style="list-style-type:square;">
     <li>Project Assistant, Supply Management in a Virtual Environment (May 2022 - February 2023)</li>
    </ul> 
  </ul>
  
  <ul style="list-style-type:none;">
   Novus International, Saint Louis, MO, USA
-   <ul style="list-style-type:none;">
+   <ul style="list-style-type:square;">
     <li>Project Team Member, Product “A” Delivery Cost Reduction (January 2019 - May 2019)</li>
    </ul> 
  </ul>
 
  <ul style="list-style-type:none;">
   International Institute of Saint Louis, Saint Louis, MO, USA
-   <ul style="list-style-type:none;">
+   <ul style="list-style-type:square;">
     <li>Project Team Leader, Managing Donated Goods Inventory (August 2017 - December 2017)</li>
    </ul>
  </ul>
@@ -135,21 +135,21 @@ title: CURRICULUM VITAE
 
  <ul style="list-style-type:none;">
   Bajwa Agro Industries, Lahore, PK
-   <ul style="list-style-type:none;">
+   <ul style="list-style-type:square;">
     <li>Assistant Manager Operations, Materials Management (July 2013 - July 2017)</li>
    </ul>
  </ul>
 
   <ul style="list-style-type:none;">
    CCL Pharmaceuticals, Lahore, PK
-   <ul style="list-style-type:none;">
+   <ul style="list-style-type:square;">
     <li>Management Training Officer, Supply Chain Management Division (April 2012 - April 2013)</li>
    </ul>
  </ul>
 
  <ul style="list-style-type:none;">
   DSV Global Transport And Logistics (Formerly UTi Worldwide), Lahore, PK
-   <ul style="list-style-type:none;">
+   <ul style="list-style-type:square;">
     <li>Operations Trainee, Ocean Export (October 2011 - March 2012)</li>
    </ul>
  </ul>
@@ -158,14 +158,14 @@ title: CURRICULUM VITAE
 
  <ul style="list-style-type:none;">
   Center for Supply Chain Excellence, Saint Louis University, MO, USA
-   <ul style="list-style-type:none;">
+   <ul style="list-style-type:square;">
     <li>Integrated Supply Chain Management Certificate (May 2019)</li>
    </ul>
  </ul>
 
   <ul style="list-style-type:none;">
   American Society for Quality
-   <ul style="list-style-type:none;">
+   <ul style="list-style-type:square;">
     <li>Certified Six Sigma Green Belt (December 2017)</li>
    </ul>
  </ul>
