@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Curriculum Vitae
+title: CURRICULUM VITAE
 ---
 <p><i>Last updated on Thursday, August 08, 2024</i></p>
 <br/>
