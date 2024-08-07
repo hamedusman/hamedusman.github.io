@@ -36,10 +36,10 @@ title: CURRICULUM VITAE
 
   <ul style="list-style-type:none;">
    School of Management, Forman Christian College, Lahore, PK
-    <ul style="list-style-type:none;">
+    <ol>
      <li>Talent Scholarship for undergraduate program (2007 – 2011)</li>
      <li>Vice Rector’s List (Summer 2010)</li>
-    </ul>
+    </ol>
   </ul>
 
 <h5>ACADEMIC EXPERIENCE</h5>
