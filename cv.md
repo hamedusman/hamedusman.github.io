@@ -105,10 +105,10 @@ Bahria University, E-8 Islamabad, PK<br/>
     <ul style="list-style-type:none;">
      <ol>
      <li>Bloomberg Data</li>
-     <li>Compustat, Wharton Research Data Services (WRDS)</li>
+     <li>Wharton Research Data Services (Compustat)</li>
      <li>MarkLines Information Platform</li>
      <li>Refinitiv Eikon Datastream</li>
-     <li>United States Patent and Trademark Office (USPTO)</li>
+     <li>United States Patent and Trademark Office</li>
      </ol>
   </ul>
  </ul>
