@@ -71,7 +71,7 @@ title: CURRICULUM VITAE
  </ul>
 
  <ul style="list-style-type:none;">Methodology
-   <ul style="list-style-type:square;"><li>Econometric models using the following data sources: Bloomberg Data; Fresard-Hoberg-Phillips Vertical Relatedness Data Library; MarkLines Information Platform; Refinitiv Eikon Datastream; United States Patent and Trademark Office; Wharton Research Data Services (Compustat)</li></ul>
+   <ul style="list-style-type:square;"><li>Econometric models using the following data sources: Bloomberg Data, Fresard-Hoberg-Phillips Vertical Relatedness Data Library, MarkLines Information Platform, Refinitiv Eikon Datastream, United States Patent and Trademark Office, and Wharton Research Data Services (Compustat)
   </ul>
  </ul>
 
