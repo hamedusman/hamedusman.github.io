@@ -46,14 +46,14 @@ title: CURRICULUM VITAE
 
 <ul style="list-style-type:none;">
  Bahria Business School, Bahria University, E-8 Campus, Islamabad, PK
-  <ul style="list-style-type:none;">
+  <ul style="list-style-type:square;">
    <li>Senior Lecturer, SCM, Department of Management Sciences (2023 - present)</li>
   </ul>
 </ul>
 
 <ul style="list-style-type:none;">
  Richard A. Chaifetz School of Business, Saint Louis University, Saint Louis, MO, USA
-  <ul style="list-style-type:none;">
+  <ul style="list-style-type:square;">
    <li>Junior Researcher, SCM, Center for Supply Chain Excellence (2019 - 2023)</li>
     <ul style="list-style-type:none;"><i>Mentor: Ik-Whan Kwon, Ph.D.</i>
     </ul>
