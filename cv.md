@@ -72,8 +72,7 @@ title: CURRICULUM VITAE
  </ul>
 
  <ul style="list-style-type:none;">Methodology
-   <ul style="list-style-type:none;"><li>Econometric models using the following data sources</li></ul>
-    <ul style="list-style-type:none;">
+   <ul style="list-style-type:square;"><li>Econometric models using the following data sources</li></ul>
      <ol>
      <li>Bloomberg Data</li>
      <li>Fresard-Hoberg-Phillips Vertical Relatedness Data Library</li>
