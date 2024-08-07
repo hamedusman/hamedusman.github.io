@@ -56,7 +56,6 @@ title: CURRICULUM VITAE
   <ul style="list-style-type:square;">
    <li>Junior Researcher, SCM, Center for Supply Chain Excellence (2019 - 2023)</li>
     <!--<ul style="list-style-type:none;"><i>Mentor: Ik-Whan Kwon, Ph.D.</i>-->
-    </ul>
   </ul>
 </ul>
 
@@ -82,7 +81,6 @@ title: CURRICULUM VITAE
      <li>United States Patent and Trademark Office</li>
      <li>Wharton Research Data Services (Compustat)</li>
      </ol>
-    </ul>
   </ul>
  </ul>
 
