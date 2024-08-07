@@ -100,7 +100,7 @@ Bahria University, E-8 Islamabad, PK<br/>
   </ul>
  </ul>
 
- <ul style="list-style-type:none;">Methods
+ <ul style="list-style-type:none;">Methodology
    <ul style="list-style-type:square;"><li>Econometric models using the following data sources</li></ul>
     <ul style="list-style-type:none;">
      <ol>
