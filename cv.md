@@ -104,10 +104,11 @@ Bahria University, E-8 Islamabad, PK<br/>
    <ul style="list-style-type:square;"><li>Econometric models using the following databases</li></ul>
     <ul style="list-style-type:none;">
      <ol>
-     <li>Compustat, Wharton Research Data Services (WRDS) </li>
-     <li> Bloomberg Data</li>
-     <li> Refinitiv Eikon Datastream</li>
-     <li> MarkLines Information Platform</li>
+     <li>Bloomberg Data</li>
+     <li>Compustat, Wharton Research Data Services (WRDS)</li>
+     <li>MarkLines Information Platform</li>
+     <li>Refinitiv Eikon Datastream</li>
+     <li>United States Patent and Trademark Office (USPTO)</li>
      </ol>
   </ul>
  </ul>
