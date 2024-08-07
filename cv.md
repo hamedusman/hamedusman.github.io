@@ -5,9 +5,6 @@ title: CURRICULUM VITAE
 <p><i>Last updated on Thursday, August 08, 2024</i></p>
 <br/>
 
-Hamed Usman, MS, ISCM, CSSGB<br/>
-Email: hamed.buic@bahria.edu.pk<br/>
-
 <h5>EDUCATION</h5>
 
 <ul style="list-style-type:none;">
