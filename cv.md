@@ -125,7 +125,7 @@ title: CURRICULUM VITAE
 
  <ul style="list-style-type:none;">
   International Institute of Saint Louis, Saint Louis, MO, USA
-   <ul style="list-style-type:square;">
+   <ul style="list-style-type:none;">
     <li>Project Team Leader, Managing Donated Goods Inventory (August 2017 - December 2017)</li>
    </ul>
  </ul>
