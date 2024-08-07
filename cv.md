@@ -73,6 +73,7 @@ title: CURRICULUM VITAE
 
  <ul style="list-style-type:none;">Methodology
    <ul style="list-style-type:square;"><li>Econometric models using the following data sources</li></ul>
+    <ul style="list-style-type:none;">
      <ol>
      <li>Bloomberg Data</li>
      <li>Fresard-Hoberg-Phillips Vertical Relatedness Data Library</li>
@@ -81,6 +82,7 @@ title: CURRICULUM VITAE
      <li>United States Patent and Trademark Office</li>
      <li>Wharton Research Data Services (Compustat)</li>
      </ol>
+    </ul>
   </ul>
  </ul>
 
