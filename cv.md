@@ -153,7 +153,7 @@ Bahria University, E-8 Islamabad, PK<br/>
   <ul style="list-style-type:none;">
   CAPS Research, W. P. Carey School of Business, Arizona Stata University, Tempe, AZ, USA
    <ul style="list-style-type:square;">
-    <li>Project Assistant, Supplier Relationship Management in a Virtual Work Environment (December 2021 - February 2023)</li>
+    <li>Project Assistant, Supply Management in a Virtual Environment (May 2022 - February 2023)</li>
    </ul> 
  </ul>
  
