@@ -105,9 +105,9 @@ Bahria University, E-8 Islamabad, PK<br/>
     <ul style="list-style-type:none;">
      <ol>
      <li>Compustat, Wharton Research Data Services (WRDS) </li>
-     <li style="list-style-type:none;"> Bloomberg Data</li>
-     <li style="list-style-type:none;"> Refinitiv Eikon Datastream</li>
-     <li style="list-style-type:none;"> MarkLines Information Platform</li>
+     <li> Bloomberg Data</li>
+     <li> Refinitiv Eikon Datastream</li>
+     <li> MarkLines Information Platform</li>
      </ol>
   </ul>
  </ul>
