@@ -79,10 +79,10 @@ title: CURRICULUM VITAE
     <ol>
      <li>Hira Waris <i>(MS in SCM, Bahria University, Islamabad, Pakistan; Graduated in Spring 2023)</i></li>
       <!--<ul style="list-style-type:none;"><li>- Thesis Title: <i>The relationship between inventory leanness, dynamism, and sustainability of firms: In context of US-based clean 200 companies</i></li></ul>-->
-     <li>Kanwal Iftikhar <i>(MS in SCM, Bahria University, Islamabad, Pakistan; Graduated in Fall 2023)</i></li>
-     <li>Naida Arif <i>(MS in SCM, Bahria University, Islamabad, Pakistan; Graduated in Fall 2023)</i></li>
-     <li>Quratulain Marriam <i>(MS in SCM, Bahria University, Islamabad, Pakistan; Graduated in Spring 2024)</i></li>
-     <li>Quratulain Javed <i>(MS in SCM, Bahria University, Islamabad, Pakistan; Expected to Graduate in Fall 2024)</i></li>
+     <li>Kanwal Iftikhar <i>(MS in SCM, Bahria University, Islamabad, PK; Graduated in Fall 2023)</i></li>
+     <li>Naida Arif <i>(MS in SCM, Bahria University, Islamabad, PK; Graduated in Fall 2023)</i></li>
+     <li>Quratulain Marriam <i>(MS in SCM, Bahria University, Islamabad, PK; Graduated in Spring 2024)</i></li>
+     <li>Quratulain Javed <i>(MS in SCM, Bahria University, Islamabad, PK; Expected to Graduate in Fall 2024)</i></li>
     </ol>
   </ul>
 
