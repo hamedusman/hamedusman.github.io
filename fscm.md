@@ -1,1 +1,4 @@
-
+---
+layout: page
+title: FUNDAMENTALS OF SUPPLY CHAIN MANAGEMENT
+---
