@@ -2,7 +2,7 @@
 layout: page
 title: CURRICULUM VITAE
 ---
-<p><i>Last updated on Tuesday, September 03, 2024</i></p>
+<p><i>Last updated on Monday, September 09, 2024</i></p>
 <br/>
 
 <h5>EDUCATION</h5>
