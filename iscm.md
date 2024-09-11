@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Fundamentals of Supply Chain Management
+title: Introduction to Supply Chain Management
 ---
 
 Howdy! Welcome to SCM 101 Introduction to Supply Chain Management.
