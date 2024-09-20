@@ -2,13 +2,13 @@
 layout: page
 title: CURRICULUM VITAE
 ---
-<p><i>Last updated on Monday, September 09, 2024</i></p>
+<p><i>Last updated on Friday, September 20, 2024</i></p>
 <br/>
 
 <h5>EDUCATION</h5>
 
 <ul style="list-style-type:none;">
- Richard A. Chaifetz School of Business, Saint Louis University, Saint Louis, MO, USA
+ Richard A. Chaifetz School of Business, Saint Louis University (SLU), Saint Louis, MO, USA
   <ul style="list-style-type:square;">
    <li>Master of Science, Supply Chain Management (2017 - 2019)</li>
   </ul>
@@ -83,7 +83,7 @@ title: CURRICULUM VITAE
      <li>Kanwal Iftikhar <i>(MS (SCM); Graduated in Fall 2023; Final Grade: A+)</i></li>
      <li>Naida Arif <i>(MS (SCM); Graduated in Fall 2023; Final Grade: A+)</i></li>
      <li>Quratulain Marriam <i>(MS (SCM); Graduated in Spring 2024; Final Grade: A+)</i></li>
-     <li>Quratulain Javed <i>(MS (SCM); Expected to Graduate in Fall 2024)</i></li>
+     <li>Quratulain <i>(MS (SCM); Expected to Graduate in Fall 2024)</i></li>
     </ol>
    </ul>
   </ul>
