@@ -26,7 +26,7 @@ title: CURRICULUM VITAE
   Richard A. Chaifetz School of Business, Saint Louis University, Saint Louis, MO, USA
    <ol>
     <li>2019 MS-SCM Outstanding Student Award (May 2019)</li>
-    <li>Ranked 1st among graduate students in MS-SCM (2017 – 2019)</li>
+    <li>Ranked 1st among graduate students in MS-SCM (2017 - 2019)</li>
     <li>Honorable Mention at Commencement Ceremony (May 2019)</li>
     <li>Center for Supply Chain Excellence Scholarship (Spring 2019)</li>
     <li>Beta Gamma Sigma Honor Society Induction (March 2019)</li>
@@ -37,7 +37,7 @@ title: CURRICULUM VITAE
   <ul style="list-style-type:none;">
    School of Management, Forman Christian College, Lahore, PK
     <ol>
-     <li>Talent Scholarship for undergraduate program (2007 – 2011)</li>
+     <li>Talent Scholarship for undergraduate program (2007 - 2011)</li>
      <li>Vice Rector’s List (Summer 2010)</li>
     </ol>
   </ul>
