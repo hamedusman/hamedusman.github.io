@@ -10,7 +10,7 @@ title: CURRICULUM VITAE
 <ul style="list-style-type:none;">
  Richard A. Chaifetz School of Business, Saint Louis University (SLU), Saint Louis, MO, USA
   <ul style="list-style-type:square;">
-   <li>Master of Science, Supply Chain Management (2017 - 2019)</li>
+   <li>Master of Science (MS), Supply Chain Management (SCM) (2017 - 2019)</li>
   </ul>
 </ul>
 
