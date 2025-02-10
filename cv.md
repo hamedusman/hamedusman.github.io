@@ -2,7 +2,7 @@
 layout: page
 title: CURRICULUM VITAE
 ---
-<p><i>Last updated on Friday, September 20, 2024</i></p>
+<p><i>Last updated on Monday, February 03, 2025</i></p>
 <br/>
 
 <h5>EDUCATION</h5>
@@ -94,7 +94,8 @@ title: CURRICULUM VITAE
    <ol>
     <li>SCM 707 Contemporary Issues in SC (Fall 2024 and 2023; Spring 2024 and 2023; graduate level)</li>
     <li>SCM 701 Fundamentals of SCM (Fall 2024 and 2023; Spring 2024 and 2023; graduate level)</li>
-    <li>SCM 421 Globalization and Outsourcing Strategies (Fall 2023; undergraduate level)</li>
+    <li>SCM 631 Operational Planning in Supply Chain (Spring 2025; graduate level)</li>
+    <li>SCM 421 Globalization and Outsourcing Strategies (Spring 2025; Fall 2023; undergraduate level)</li>
     <li>SCM 320 Import and Export Management (Spring 2023; undergraduate level)</li>
     <li>QTM 110 Business Statistics (Fall 2024; Spring 2024; undergraduate level)</li>
     <li>SCM 101 Introduction to SCM (Fall 2024 and 2023; Spring 2024 and 2023; undergraduate level)</li>
