@@ -83,7 +83,7 @@ title: CURRICULUM VITAE
      <li>Kanwal Iftikhar <i>(MS (SCM); Graduated in Fall 2023; Final Grade: A+)</i></li>
      <li>Naida Arif <i>(MS (SCM); Graduated in Fall 2023; Final Grade: A+)</i></li>
      <li>Quratulain Marriam <i>(MS (SCM); Graduated in Spring 2024; Final Grade: A-)</i></li>
-     <li>Quratulain <i>(MS (SCM); Graduated in Fall 2024; Final Grade: A-))</i></li>
+     <li>Quratulain <i>(MS (SCM); Graduated in Fall 2024; Final Grade: A-)</i></li>
     </ol>
    </ul>
   </ul>
