@@ -82,8 +82,8 @@ title: CURRICULUM VITAE
       <!--<ul style="list-style-type:none;"><li>- Thesis Title: <i>The relationship between inventory leanness, dynamism, and sustainability of firms: In context of US-based clean 200 companies</i></li></ul>-->
      <li>Kanwal Iftikhar <i>(MS (SCM); Graduated in Fall 2023; Final Grade: A+)</i></li>
      <li>Naida Arif <i>(MS (SCM); Graduated in Fall 2023; Final Grade: A+)</i></li>
-     <li>Quratulain Marriam <i>(MS (SCM); Graduated in Spring 2024; Final Grade: A+)</i></li>
-     <li>Quratulain <i>(MS (SCM); Expected to Graduate in Fall 2024)</i></li>
+     <li>Quratulain Marriam <i>(MS (SCM); Graduated in Spring 2024; Final Grade: A-)</i></li>
+     <li>Quratulain <i>(MS (SCM); Graduated in Fall 2024; Final Grade: A-))</i></li>
     </ol>
    </ul>
   </ul>
