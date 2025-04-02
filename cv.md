@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Certified SCM Academic & Practitioner
+title: CERTIFIED SCM ACADEMIC & PRACTITIONER
 ---
 <h5>EDUCATION</h5>
 
