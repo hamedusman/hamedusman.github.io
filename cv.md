@@ -164,7 +164,7 @@ title: CURRICULUM VITAE
    </ul>
  </ul>
 
-<h5>SERVICE AND LEADERSHIP ROLES</h5>
+<h5>PROFESSIONAL ROLES</h5>
 
 <ul style="list-style-type:none;">
   Bahria Business School, Bahria University, E-8 Campus, Islamabad, PK
@@ -184,7 +184,7 @@ title: CURRICULUM VITAE
     </ol>
  </ul>
 
-<h5>ANALYTICAL SKILLS</h5>
+<h5>CORE COMPETENCIES</h5>
  <ul style="list-style-type:none;">
 
   <div class="skillbarbackground">
