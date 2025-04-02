@@ -188,7 +188,7 @@ title: CURRICULUM VITAE
  <ul style="list-style-type:none;">
 
   <div class="skillbarbackground">
-   <div class="skillrange power bi"></div></div>
+   <div class="skillrange powerbi"></div></div>
     <p>Power BI - Expert</p>
  
  <div class="skillbarbackground">
