@@ -191,5 +191,5 @@ title: CURRICULUM VITAE
     <li>SAS</li>
     <li>Python</li>
     <li>R</li>
-    <ol>
+   </ol>
  </ul>
