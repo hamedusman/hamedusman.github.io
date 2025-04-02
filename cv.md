@@ -60,9 +60,9 @@ title: CURRICULUM VITAE
 </ul>
 
 <h5>RESEARCH</h5>
-  
   <ul style="list-style-type:none;">Journal Article
-   <ul style="list-style-type:square;"><li>Kwon, I. W. G., Shin, N., Kim, S. H., & <b>Usman, H.</b> (2021). Trust and commitment in supply chain during digital transformation: A case in Korea. <i>AIMS Environmental Science</i>, 8(6): 641–655</li></ul>
+   <ul style="list-style-type:square;"><li>Kwon, I. W. G., Shin, N., Kim, S. H., & <b>Usman, H.</b> (2021). Trust and commitment in supply chain during digital transformation: A case in Korea. <i>AIMS Environmental Science</i>, 8(6): 641–655</li>
+   </ul>
   </ul>
 
  <ul style="list-style-type:none;">Book Chapter
@@ -184,8 +184,11 @@ title: CURRICULUM VITAE
     </ol>
  </ul>
 
-<h5>TOOLS AND LANGUAGES</h5>
-
- <ul style="list-style-type:none;">
-  Stata, Tableau, Python (NumPy, Matplotlib, and Pandas), SAS, and R
- </ul>
+<h5>SKILLS (TOOLS AND LANGUAGES)</h5>
+<ul style="list-style-type:none;">Analytical Tools
+   <ol>
+    <li>Stata</li>
+    <li>SAS</li>
+    <li>Python</li>
+    <li>R</li>
+  </ul>
