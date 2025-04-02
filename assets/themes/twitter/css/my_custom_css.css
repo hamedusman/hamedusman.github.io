@@ -192,7 +192,7 @@ ul {
 }
 
 li::marker {
-  color: #cc3333;
+  color: #666666;
 }
 
 * {box-sizing: border-box}
