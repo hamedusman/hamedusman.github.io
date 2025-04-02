@@ -186,19 +186,19 @@ title: CURRICULUM VITAE
 
 <h5>ANALYTICAL SKILLS</h5>
  <ul style="list-style-type:none;">
-   <div class="skillbar">
-    <div class="skills stata"></div></div>
-     <p>STATA</p>
+   <div class="skillbarbackground">
+ <div class="skillrange stata"></div></div>
+  <p>STATA</p>
   
- <div class="skillbar">
-  <div class="skills sas"></div></div>
-   <p>SAS</p>
-   
- <div class="skillbar">
-  <div class="skills python"></div></div>
-   <p>Python</p>
+<div class="skillbarbackground">
+ <div class="skillrange sas"></div></div>
+  <p>SAS</p>
 
- <div class="skillbar">
-  <div class="skills r"></div></div>
-   <p>R</p>
+<div class="skillbarbackground">
+ <div class="skillrange python"></div></div>
+  <p>Python</p>
+
+<div class="skillbarbackground">
+ <div class="skillrange r"></div></div>
+  <p>R</p>
 </ul>
