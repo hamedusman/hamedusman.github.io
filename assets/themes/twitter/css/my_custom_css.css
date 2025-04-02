@@ -212,8 +212,6 @@ ul {
 .sas {width: 75%; background-color: #4d4d4d;}
 .python {width: 65%; background-color: #4d4d4d;}
 .r {width: 40%; background-color: #4d4d4d;}
-.sql {width: 35%; background-color: #4d4d4d;}
-.vba {width: 60%; background-color: #4d4d4d;}
 
 .tooltip {
   position: relative;
@@ -222,7 +220,7 @@ ul {
 
 .tooltip .tooltiptext {
   visibility: hidden;
-  width: 150px;
+  width: 180px;
   background-color: #F5F5F5;
   color: #000000;
   text-align: center;
