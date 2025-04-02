@@ -196,27 +196,23 @@ title: CERTIFIED SCM ACADEMIC & PRACTITIONER
 
  <div class="skillbarbackground">
   <div class="skillrange r"></div></div>
-   <p>R - Novice</p>
+   <div class="tooltip"><p>Rn</p>
+    <span class="tooltiptext">R: Novice Level</span></div>
   
  <div class="skillbarbackground">
   <div class="skillrange sas"></div></div>
-   <p>SAS - Proficient</p>
- 
- <div class="skillbarbackground">
-  <div class="skillrange sql"></div></div>
-   <p>SQL - Novice</p> 
+   <div class="tooltip"><p>SAS</p>
+    <span class="tooltiptext">SAS: Proficient Level</span></div>
   
  <div class="skillbarbackground">
   <div class="skillrange stata"></div></div>
-   <p>STATA - Expert</p>
+   <div class="tooltip"><p>STATA</p>
+    <span class="tooltiptext">STATA: Expert Level</span></div>
   
   <div class="skillbarbackground">
    <div class="skillrange tableau"></div></div>
-    <p>Tableau - Expert</p>
-  
-  <div class="skillbarbackground">
-   <div class="skillrange vba"></div></div>
-    <p>VBA - Proficientt</p>
+    <div class="tooltip"><p>Tableau</p>
+    <span class="tooltiptext">Tableau: Expert Level</span></div>
 </ul>
 
 <br/>
