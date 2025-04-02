@@ -118,7 +118,7 @@ h1, h2, h3, h4, h5 {
     background-image:-webkit-gradient(linear, 0 0, 0 100%, from(#edffff), to(#f2f2f2));
     background-image:-webkit-linear-gradient(top, #edffff, #e3ffff);
     background-image:-o-linear-gradient(top, #edffff, #e3ffff);
-    background-image:linear-gradient(to bottom, #edffff, #e3ffff); /* To change the color of icon-bar on the top */
+    background-image:linear-gradient(to bottom, #ada397, #ada397); /* To change the color of icon-bar on the top */
     background-repeat:repeat-x;filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffffff', endColorstr='#ffffff', GradientType=0);
     border:0px solid #ffffff; /* To change the border around icon bar at the top */
     -webkit-border-radius:4px;
