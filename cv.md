@@ -2,7 +2,7 @@
 layout: page
 title: CERTIFIED SCM ACADEMIC & PRACTITIONER
 ---
-<h5>EDUCATION</h5>
+<h6>EDUCATION</h6>
 
 <ul style="list-style-type:none;">
  Richard A. Chaifetz School of Business, Saint Louis University (SLU), Saint Louis, MO, USA
@@ -18,7 +18,7 @@ title: CERTIFIED SCM ACADEMIC & PRACTITIONER
   </ul>
 </ul>
 
-<h5>AWARDS & HONORS</h5>
+<h6>AWARDS & HONORS</h6>
  <ul style="list-style-type:none;">
   Richard A. Chaifetz School of Business, Saint Louis University, Saint Louis, MO, USA
    <ol>
@@ -39,7 +39,7 @@ title: CERTIFIED SCM ACADEMIC & PRACTITIONER
     </ol>
   </ul>
 
-<h5>ACADEMIC EXPERIENCE</h5>
+<h6>ACADEMIC EXPERIENCE</h6>
 
 <ul style="list-style-type:none;">
  Bahria Business School, Bahria University, E-8 Campus, Islamabad, PK
@@ -56,7 +56,7 @@ title: CERTIFIED SCM ACADEMIC & PRACTITIONER
   </ul>
 </ul>
 
-<h5>RESEARCH</h5>
+<h6>RESEARCH</h6>
   <ul style="list-style-type:none;">Journal Article
    <ul style="list-style-type:square;"><li>Kwon, I. W. G., Shin, N., Kim, S. H., & <b>Usman, H.</b> (2021). Trust and commitment in supply chain during digital transformation: A case in Korea. <i>AIMS Environmental Science</i>, 8(6): 641–655</li>
    </ul>
@@ -85,7 +85,7 @@ title: CERTIFIED SCM ACADEMIC & PRACTITIONER
    </ul>
   </ul>
 
-<h5>TEACHING</h5>
+<h6>TEACHING</h6>
  <ul style="list-style-type:none;">
   Bahria Business School, Bahria University, E-8 Campus, Islamabad, PK
    <ol>
@@ -99,7 +99,7 @@ title: CERTIFIED SCM ACADEMIC & PRACTITIONER
    </ol>
  </ul>
 
-<h5>PROJECTS</h5>
+<h6>PROJECTS</h6>
 
   <ul style="list-style-type:none;">
   CAPS Research, W. P. Carey School of Business, Arizona Stata University, Tempe, AZ, USA
@@ -122,7 +122,7 @@ title: CERTIFIED SCM ACADEMIC & PRACTITIONER
    </ul>
  </ul>
 
-<h5>INDUSTRIAL EXPERIENCE</h5>
+<h6>INDUSTRIAL EXPERIENCE</h6>
 
  <ul style="list-style-type:none;">
   Bajwa Agro Industries, Lahore, PK
@@ -145,7 +145,7 @@ title: CERTIFIED SCM ACADEMIC & PRACTITIONER
    </ul>
  </ul>
 
-<h5>CERTIFICATIONS</h5>
+<h6>CERTIFICATIONS</h6>
 
  <ul style="list-style-type:none;">
   Center for Supply Chain Excellence, Saint Louis University, MO, USA
@@ -161,7 +161,7 @@ title: CERTIFIED SCM ACADEMIC & PRACTITIONER
    </ul>
  </ul>
 
-<h5>SERVICE</h5>
+<h6>SERVICE</h6>
 
 <ul style="list-style-type:none;">
   Bahria Business School, Bahria University, E-8 Campus, Islamabad, PK
@@ -181,7 +181,7 @@ title: CERTIFIED SCM ACADEMIC & PRACTITIONER
     </ol>
  </ul>
 
-<h5>SKILLS</h5>
+<h6>SKILLS</h6>
  <ul style="list-style-type:none;">
 
   <div class="skillbarbackground">
