@@ -186,19 +186,32 @@ title: CURRICULUM VITAE
 
 <h5>ANALYTICAL SKILLS</h5>
  <ul style="list-style-type:none;">
-   <div class="skillbarbackground">
- <div class="skillrange stata"></div></div>
-  <p>STATA</p>
+
+  <div class="skillbarbackground">
+   <div class="skillrange power bi"></div></div>
+    <p>Power BI - Expert</p>
+ 
+ <div class="skillbarbackground">
+  <div class="skillrange python"></div></div>
+   <p>Python - Proficient</p>
+
+ <div class="skillbarbackground">
+  <div class="skillrange r"></div></div>
+   <p>R - Novice</p>
   
-<div class="skillbarbackground">
- <div class="skillrange sas"></div></div>
-  <p>SAS</p>
-
-<div class="skillbarbackground">
- <div class="skillrange python"></div></div>
-  <p>Python</p>
-
-<div class="skillbarbackground">
- <div class="skillrange r"></div></div>
-  <p>R</p>
+ <div class="skillbarbackground">
+  <div class="skillrange sas"></div></div>
+   <p>SAS - Proficient</p>
+ 
+ <div class="skillbarbackground">
+  <div class="skillrange sql"></div></div>
+   <p>SQL - Novice</p> 
+  
+ <div class="skillbarbackground">
+  <div class="skillrange stata"></div></div>
+   <p>STATA - Expert</p>
+  
+  <div class="skillbarbackground">
+   <div class="skillrange tableau"></div></div>
+    <p>Tableau - Expert</p>
 </ul>
