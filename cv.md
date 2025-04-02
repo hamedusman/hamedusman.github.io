@@ -184,12 +184,25 @@ title: CURRICULUM VITAE
     </ol>
  </ul>
 
-<h5>SKILLS (TOOLS AND LANGUAGES)</h5>
-<ul style="list-style-type:none;">Analytical Tools
-   <ol>
-    <li>Stata</li>
-    <li>SAS</li>
-    <li>Python</li>
-    <li>R</li>
-   </ol>
- </ul>
+<h5>SKILLS</h5>
+ <ul style="list-style-type:none;">Analytical Tools
+  <p>STATA</p>
+   <div class="skillbar">
+    <div class="skills stata">90%</div>
+   </div>
+
+<p>SAS</p>
+ <div class="skillbar">
+  <div class="skills sas">80%</div>
+ </div>
+
+<p>Python</p>
+ <div class="skillbar">
+  <div class="skills python">65%</div>
+ </div>
+
+<p>R</p>
+ <div class="skillbar">
+  <div class="skills r">60%</div>
+ </div>
+</ul>
