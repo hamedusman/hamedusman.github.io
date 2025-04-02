@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CURRICULUM VITAE
+title: Supply Chain Educator and Researcher
 ---
 <h5>EDUCATION</h5>
 
