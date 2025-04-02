@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Supply Chain Educator and Researcher
+title: Certified SCM Academic & Practitioner
 ---
 <h5>EDUCATION</h5>
 
