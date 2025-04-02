@@ -190,3 +190,26 @@ ul {
  padding: 10px;
  text-align: center;
 }
+
+* {box-sizing: border-box}
+
+.skillbar {
+  width: 100%;
+  padding: 2px;
+  border: 2px solid black;
+  background-color: #ddd;
+}
+
+.skills {
+  text-align: center;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  color: black;
+}
+
+.stata {width: 90%; background-color: #000;}
+.sas {width: 80%; background-color: #000;}
+.python {width: 65%; background-color: #000;}
+.r {width: 60%; background-color: #000;}
+
+
