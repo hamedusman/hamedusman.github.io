@@ -150,14 +150,14 @@ title: CERTIFIED SCM ACADEMIC & PRACTITIONER
  <ul style="list-style-type:none;">
   Center for Supply Chain Excellence, Saint Louis University, MO, USA
    <ul style="list-style-type:square;">
-    <li>Integrated Supply Chain Management Certificate (May 2019)</li>
+    <li>Integrated Supply Chain Management Certificate (Earned: May 2019; Status: Active)</li>
    </ul>
  </ul>
 
   <ul style="list-style-type:none;">
   American Society for Quality
    <ul style="list-style-type:square;">
-    <li>Certified Six Sigma Green Belt (December 2017)</li>
+    <li>Certified Six Sigma Green Belt (Earned: December 2017; Status: Active)</li>
    </ul>
  </ul>
 
