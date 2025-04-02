@@ -207,7 +207,7 @@ li::marker {
   height: 3px;
   padding-top: 0px;
   padding-bottom: 0px;
-  color: black;
+  color: #333333;
 }
 
 .stata {width: 90%; background-color: #000;}
