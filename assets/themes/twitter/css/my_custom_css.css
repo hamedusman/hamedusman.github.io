@@ -194,13 +194,13 @@ ul {
 * {box-sizing: border-box}
 .skillbarbackground {
   width: 100%;
-  height: 5px;
+  height: 3px;
   padding: 0px;
   background-color: #ddd;
 }
 
 .skillrange {
-  height: 5px;
+  height: 3px;
   padding-top: 0px;
   padding-bottom: 0px;
   color: black;
