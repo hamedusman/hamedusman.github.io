@@ -195,8 +195,8 @@ ul {
 .skillbar {
   width: 100%;
   height: 5px;
-  padding: 2px;
-  border: 2px solid black;
+  padding: 1px;
+  border: 1px solid black;
   background-color: #ddd;
 }
 
@@ -212,5 +212,3 @@ ul {
 .sas {width: 80%; background-color: #000;}
 .python {width: 65%; background-color: #000;}
 .r {width: 60%; background-color: #000;}
-
-
