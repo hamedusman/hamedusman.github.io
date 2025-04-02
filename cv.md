@@ -186,6 +186,7 @@ title: CURRICULUM VITAE
 
 <h5>SKILLS</h5>
  <ul style="list-style-type:none;">Analytical Tools
+ <ul style="list-style-type:none;">
   <p>STATA</p>
    <div class="skillbar">
     <div class="skills stata"></div>
@@ -204,5 +205,5 @@ title: CURRICULUM VITAE
 <p>R</p>
  <div class="skillbar">
   <div class="skills r"></div>
- </div>
+ </div></ul>
 </ul>
