@@ -2,9 +2,6 @@
 layout: page
 title: CURRICULUM VITAE
 ---
-<p><i>Last updated on Monday, February 17, 2025</i></p>
-<br/>
-
 <h5>EDUCATION</h5>
 
 <ul style="list-style-type:none;">
@@ -219,3 +216,8 @@ title: CURRICULUM VITAE
    <div class="skillrange vba"></div></div>
     <p>VBA - Proficientt</p>
 </ul>
+
+<br/>
+
+
+<p><i>Last updated on Monday, February 17, 2025</i></p>
