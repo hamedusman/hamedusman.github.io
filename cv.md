@@ -189,7 +189,7 @@ title: CURRICULUM VITAE
 
   <div class="skillbarbackground">
    <div class="skillrange powerbi"></div></div>
-    <p>Power BI - Expert</p>
+    <p>Power BI - Proficientt</p>
  
  <div class="skillbarbackground">
   <div class="skillrange python"></div></div>
@@ -214,4 +214,8 @@ title: CURRICULUM VITAE
   <div class="skillbarbackground">
    <div class="skillrange tableau"></div></div>
     <p>Tableau - Expert</p>
+  
+  <div class="skillbarbackground">
+   <div class="skillrange vba"></div></div>
+    <p>VBA - Proficientt</p>
 </ul>
