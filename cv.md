@@ -186,12 +186,12 @@ title: CERTIFIED SCM ACADEMIC & PRACTITIONER
 
   <div class="skillbarbackground">
    <div class="skillrange powerbi"></div></div>
-    <p></p><div class="tooltip">Power BI
+    <p><div class="tooltip">Power BI
      <span class="tooltiptext">Proficient Level</span></div></p>
  
  <div class="skillbarbackground">
   <div class="skillrange python"></div></div>
-   <p></p><div class="tooltip">Python
+   <p><div class="tooltip">Python
     <span class="tooltiptext">Proficient Level</span></div></p>
 
  <div class="skillbarbackground">
