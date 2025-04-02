@@ -206,8 +206,8 @@ title: CERTIFIED SCM ACADEMIC & PRACTITIONER
   
  <div class="skillbarbackground">
   <div class="skillrange stata"></div></div>
-   <div class="tooltip"><p>STATA</p>
-    <span class="tooltiptext">STATA: Expert Level</span></div>
+   <div class="tooltip"><p>Stata</p>
+    <span class="tooltiptext">Stata: Expert Level</span></div>
   
   <div class="skillbarbackground">
    <div class="skillrange tableau"></div></div>
