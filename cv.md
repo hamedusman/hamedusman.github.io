@@ -21,7 +21,7 @@ title: CURRICULUM VITAE
   </ul>
 </ul>
 
-<h5>AWARDS AND HONORS</h5>
+<h5>AWARDS & HONORS</h5>
  <ul style="list-style-type:none;">
   Richard A. Chaifetz School of Business, Saint Louis University, Saint Louis, MO, USA
    <ol>
