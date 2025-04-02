@@ -1,6 +1,6 @@
 ---
 layout: frontpage
-title: HAMED USMAN - Home
+title: HAMED USMAN - Academic at BUIC
 description: Hamed Usman is a Senior Lecturer at Bahria University, Islamabad, Pakistan. 
 keywords: hanedusman, hamed usman, hamed, usman, operations management, supply chain management, logistics
 ---
