@@ -196,7 +196,7 @@ title: CERTIFIED SCM ACADEMIC & PRACTITIONER
 
  <div class="skillbarbackground">
   <div class="skillrange r"></div></div>
-   <div class="tooltip"><p>Rn</p>
+   <div class="tooltip"><p>R</p>
     <span class="tooltiptext">R: Novice Level</span></div>
   
  <div class="skillbarbackground">
