@@ -2,6 +2,7 @@
 layout: page
 title: CURRICULUM VITAE
 ---
+<p> SUPPLY CHAIN EXPERT; RESEARCHER; EDUCATOR </p>
 <h5>EDUCATION</h5>
 
 <ul style="list-style-type:none;">
