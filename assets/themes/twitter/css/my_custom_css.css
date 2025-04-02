@@ -191,6 +191,10 @@ ul {
  text-align: center;
 }
 
+li::marker {
+  color: #cc3333;
+}
+
 * {box-sizing: border-box}
 .skillbarbackground {
   width: 100%;
