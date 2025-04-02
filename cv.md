@@ -188,21 +188,21 @@ title: CURRICULUM VITAE
  <ul style="list-style-type:none;">Analytical Tools
   <p>STATA</p>
    <div class="skillbar">
-    <div class="skills stata">90%</div>
+    <div class="skills stata"></div>
    </div>
 
 <p>SAS</p>
  <div class="skillbar">
-  <div class="skills sas">80%</div>
+  <div class="skills sas"></div>
  </div>
 
 <p>Python</p>
  <div class="skillbar">
-  <div class="skills python">65%</div>
+  <div class="skills python"></div>
  </div>
 
 <p>R</p>
  <div class="skillbar">
-  <div class="skills r">60%</div>
+  <div class="skills r"></div>
  </div>
 </ul>
