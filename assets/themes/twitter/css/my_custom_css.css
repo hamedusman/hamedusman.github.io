@@ -192,17 +192,16 @@ ul {
 }
 
 * {box-sizing: border-box}
-.skillbar {
+.skillbarbackground {
   width: 100%;
   height: 5px;
-  padding-top: 0px;
-  padding-bottom: 0px;
+  padding: 1px;
   border: 1px solid black;
   background-color: #ddd;
 }
 
-.skills {
-  height: 5px;
+.skillrange {
+  height: 3px;
   text-align: center;
   padding-top: 0px;
   padding-bottom: 0px;
