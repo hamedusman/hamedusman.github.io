@@ -215,16 +215,17 @@ ul {
 
 .skillbarbackgroundmain {
   width: 100%;
-  height: 40px;
+  height: 20px;
   padding: 0px;
   background-color: #d9d9d9;
 }
 
 .skillrangemain {
-  height: 40px;
+  text-align: center;
+  height: 20px;
   padding-top: 0px;
   padding-bottom: 0px;
-  color: #4d4d4d;
+  color: #000000;
 }
 
 
