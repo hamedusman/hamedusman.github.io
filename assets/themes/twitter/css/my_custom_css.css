@@ -213,6 +213,27 @@ ul {
 .python {width: 65%; background-color: #4d4d4d;}
 .r {width: 30%; background-color: #4d4d4d;}
 
+.skillbarbackgroundmain {
+  width: 100%;
+  height: 10px;
+  padding: 0px;
+  background-color: #d9d9d9;
+}
+
+.skillrangemain {
+  height: 10px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  color: #4d4d4d;
+}
+
+
+.statamain {width: 90%; background-color: #8FBC8F;}
+.tableaumain {width: 85%; background-color: #8FBC8F;}
+.sasmain {width: 75%; background-color: #4d4d4d;}
+.pythonmain {width: 65%; background-color: #4d4d4d;}
+
+
 .tooltip {
   position: relative;
   display: inline-block;
