@@ -9,7 +9,7 @@ keywords: hanedusman, hamed usman, hamed, usman, operations management, supply c
 
 <br/>-->
 
-<div><myclick src="../assets/hu.png" alt="" width="200" height="200"/></div>
+<myclick src="../assets/hu.png" alt="" width="200" height="200"/>
 
 <div id="hu"><myclick src="../assets/hu.png"/></div><br>
 
