@@ -49,6 +49,9 @@ a:hover img {
 
 myclick:hover {
   opacity: 0.5;
+  float: left;
+  clip-path: circle(40%);
+  shape-outside: square(45%);
 }
 
 p.center {
