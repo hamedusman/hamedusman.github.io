@@ -2,7 +2,7 @@
 layout: page
 title: CERTIFIED SCM ACADEMIC & PRACTITIONER
 ---
-<img id="myclick" src="../assets/hu.png" width="125" height="125"><br/>
+<img src="../assets/hu.png" width="125" height="125"><br/>
 
 <p>A curious mind with endless quest for answers</p>
 <p>Hamed Usman, MS, ISCM, CSSGB<br/>
