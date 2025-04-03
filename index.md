@@ -58,7 +58,7 @@ Hamed Usman, MS, ISCM, CSSGB<br/>
 Sr. Lecturer, Bahria Business School<br/>
 Email: hamed.buic@bahria.edu.pk<br/>
 Phone: +92-51-9260002 (Ext. 1424)<br/>
-Bahria University, E-8 Islamabad, PK<br/>
+D3, XC, Bahria University, Islamabad<br/>
 <br/>
 <ul>
   <li><a href="https://orcid.org/0000-0003-3755-9345" target="_blank" rel="noopener noreferrer">ORCiD &#x29c9;</a></li>
