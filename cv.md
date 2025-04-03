@@ -2,6 +2,8 @@
 layout: page
 title: CERTIFIED SCM ACADEMIC & PRACTITIONER
 ---
+<img id="myclick" src="../assets/hu.png" width="75" height="75">
+<br/>
 <h6>EDUCATION</h6>
 
 <ul style="list-style-type:none;">
