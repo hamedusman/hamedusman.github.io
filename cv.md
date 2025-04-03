@@ -3,11 +3,12 @@ layout: page
 title: CERTIFIED SCM ACADEMIC & PRACTITIONER
 ---
 <img id="myclick" src="../assets/hu.png" width="100" height="100"><br/>
-<br/>Hamed Usman, MS, ISCM, CSSGB<br/>
+<p>Hamed Usman, MS, ISCM, CSSGB<br/>
 Sr. Lecturer, Bahria Business School<br/>
 Email: hamed.buic@bahria.edu.pk<br/>
 Phone: +92-51-9260002 (Ext. 1424)<br/>
-D3, XC, Bahria University, Islamabad
+D3, XC, Bahria University, Islamabad</p>
+A Curious Mind & the Endless Quest for Answers
 
 
 <br/>
