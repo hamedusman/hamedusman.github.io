@@ -47,6 +47,10 @@ a:hover img {
     border: solid 0px #ffffff;
 }
 
+myclick:hover {
+  opacity: 0.5;
+}
+
 p.center {
     text-align: center;
 }
