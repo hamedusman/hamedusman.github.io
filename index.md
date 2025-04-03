@@ -26,12 +26,12 @@ keywords: hanedusman, hamed usman, hamed, usman, operations management, supply c
 <h6>CORE COMPETENCIES</h6>
  
  <div class="skillbarbackgroundmain">
-  <div class="skillrangemain python"></div></div>
+  <div class="skillrangemain pythonmain"></div></div>
    <div class="tooltip"><p>Python</p>
     <span class="tooltiptext">Python: Proficient Level</span></div>
 
  <div class="skillbarbackgroundmain">
-  <div class="skillrangemain sas"></div></div>
+  <div class="skillrangemain sasmain"></div></div>
    <div class="tooltip"><p>SAS</p>
     <span class="tooltiptext">SAS: Proficient Level</span></div>
   
