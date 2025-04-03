@@ -7,7 +7,7 @@ title: CERTIFIED SCM ACADEMIC & PRACTITIONER
 Sr. Lecturer, Bahria Business School<br/>
 Email: hamed.buic@bahria.edu.pk<br/>
 Phone: +92-51-9260002 (Ext. 1424)<br/>
-D3, XC, Bahria University, E-8 Campus</p>
+D3, XC, Bahria University, Islamabad</p>
 
 <br/>
 
