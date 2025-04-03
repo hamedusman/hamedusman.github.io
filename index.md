@@ -25,10 +25,10 @@ keywords: hanedusman, hamed usman, hamed, usman, operations management, supply c
 
 <h6>CORE COMPETENCIES</h6>
 
-  <!--<div class="skillbarbackground">
+  <div class="skillbarbackground">
    <div class="skillrange powerbi"></div></div>
     <div class="tooltip"><p>Power BI</p>
-     <span class="tooltiptext">Power BI: Proficient Level</span></div>-->
+     <span class="tooltiptext">Power BI: Proficient Level</span></div>
  
  <div class="skillbarbackground">
   <div class="skillrange python"></div></div>
