@@ -196,7 +196,7 @@ ul {
   width: 100%;
   height: 5px;
   padding: 0px;
-  background-color: #d9d9d9;
+  background-color: #F8F8F8;
 }
 
 .skillrange {
@@ -217,7 +217,7 @@ ul {
   width: 100%;
   height: 20px;
   padding: 0px;
-  background-color: #d9d9d9;
+  background-color: #F8F8F8;
 }
 
 .skillrangemain {
@@ -232,7 +232,7 @@ ul {
 .statamain {width: 90%; background-color: #76d69f;}
 .tableaumain {width: 85%; background-color: #9de2bb;}
 .sasmain {width: 75%; background-color: #c4edd6;}
-.pythonmain {width: 70%; background-color: #ebf9f1;}
+.pythonmain {width: 70%; background-color: #F8F8F8;}
 
 
 .tooltip {
