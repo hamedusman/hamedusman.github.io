@@ -9,7 +9,7 @@ keywords: hanedusman, hamed usman, hamed, usman, operations management, supply c
 
 <br/>-->
 
-<img id="myclick" src="../assets/hu.png" width="200" height="200">
+<img id="myclick" src="../assets/hu.png" width="50" height="50">
 <br/>
 
 <!--<p><i>Note: If you are currently registered to one of my courses at Bahria Business School, please click <a href="https://101scm.github.io" target="_blank" rel="noopener noreferrer">here &#x29c9;</a> to view the latest information about your class.</i></p>-->
