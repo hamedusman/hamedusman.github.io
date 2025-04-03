@@ -195,9 +195,9 @@ title: CERTIFIED SCM ACADEMIC & PRACTITIONER
     <span class="tooltiptext">Python: Proficient Level</span></div>
 
  <div class="skillbarbackground">
-  <div class="skillrange r"></div></div>
-   <div class="tooltip"><p>R</p>
-    <span class="tooltiptext">R: Novice Level</span></div>
+  <div class="skillrange rstudio"></div></div>
+   <div class="tooltip"><p>RStudio</p>
+    <span class="tooltiptext">RStudio: Novice Level</span></div>
   
  <div class="skillbarbackground">
   <div class="skillrange sas"></div></div>
