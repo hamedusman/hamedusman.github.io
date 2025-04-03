@@ -23,7 +23,7 @@ keywords: hanedusman, hamed usman, hamed, usman, operations management, supply c
 
 
 
-<h6>CORE COMPETENCIES</h6>
+<h6>ANALYTICAL COMPETENCIES</h6>
  
  <div class="skillbarbackgroundmain">
   <div class="skillrangemain pythonmain"></div></div>
