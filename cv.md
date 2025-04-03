@@ -8,7 +8,12 @@ Sr. Lecturer, Bahria Business School<br/>
 Email: hamed.buic@bahria.edu.pk<br/>
 Phone: +92-51-9260002 (Ext. 1424)<br/>
 Bahria University, E-8 Islamabad, PK<br/>
+
 <br/>
+
+---
+
+
 <h6>EDUCATION</h6>
 
 <ul style="list-style-type:none;">
