@@ -9,11 +9,6 @@ Email: hamed.buic@bahria.edu.pk<br/>
 Phone: +92-51-9260002 (Ext. 1424)<br/>
 D3, XC, Bahria University, Islamabad</p>
 
-<br/>
-
----
-
-
 <h6>EDUCATION</h6>
 
 <ul style="list-style-type:none;">
