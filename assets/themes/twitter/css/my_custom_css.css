@@ -215,8 +215,8 @@ ul {
 
 .skillbarbackgroundmain {
   width: 100%;
-  height: 10px;
-  padding: 0px;
+  height: 40px;
+  padding: 40px;
   background-color: #d9d9d9;
 }
 
@@ -228,10 +228,10 @@ ul {
 }
 
 
-.statamain {width: 90%; background-color: #90EE90;}
-.tableaumain {width: 85%; background-color: #8FBC8F;}
-.sasmain {width: 75%; background-color: #4d4d4d;}
-.pythonmain {width: 65%; background-color: #4d4d4d;}
+.statamain {width: 90%; background-color: #319b5d;}
+.tableaumain {width: 85%; background-color: #3dc274;}
+.sasmain {width: 75%; background-color: #64ce90;}
+.pythonmain {width: 65%; background-color: #8bdaac;}
 
 
 .tooltip {
