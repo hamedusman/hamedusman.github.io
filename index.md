@@ -26,22 +26,22 @@ keywords: hanedusman, hamed usman, hamed, usman, operations management, supply c
 <h6>ANALYTICAL COMPETENCIES</h6>
  
  <div class="skillbarbackgroundmain">
-  <div class="skillrangemain pythonmain"></div></div>
+  <div class="skillrangemain pythonmain">Proficient Level</div></div>
    <div class="tooltip"><p>Python</p>
     <span class="tooltiptext">Python: Proficient Level</span></div>
 
  <div class="skillbarbackgroundmain">
-  <div class="skillrangemain sasmain"></div></div>
+  <div class="skillrangemain sasmain">Proficient Level</div></div>
    <div class="tooltip"><p>SAS</p>
     <span class="tooltiptext">SAS: Proficient Level</span></div>
   
  <div class="skillbarbackgroundmain">
-  <div class="skillrangemain statamain"></div></div>
+  <div class="skillrangemain statamain">Expert Level</div></div>
    <div class="tooltip"><p>Stata</p>
     <span class="tooltiptext">Stata: Expert Level</span></div>
   
  <div class="skillbarbackgroundmain">
-  <div class="skillrangemain tableaumain"></div></div>
+  <div class="skillrangemain tableaumain">Expert Level</div></div>
    <div class="tooltip"><p>Tableau</p>
     <span class="tooltiptext">Tableau: Expert Level</span></div>
 
