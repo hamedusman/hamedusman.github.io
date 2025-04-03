@@ -16,13 +16,14 @@ keywords: hanedusman, hamed usman, hamed, usman, operations management, supply c
 
 <p>For more information, see his brief <a href="https://hamedusman.github.io/cv">curriculum vitae</a>.</p>
 
+
 <br/>
 
 ---
 
 
+
 <h6>CORE COMPETENCIES</h6>
- <ul style="list-style-type:none;">
 
   <div class="skillbarbackground">
    <div class="skillrange powerbi"></div></div>
@@ -54,9 +55,11 @@ keywords: hanedusman, hamed usman, hamed, usman, operations management, supply c
     <div class="tooltip"><p>Tableau</p>
     <span class="tooltiptext">Tableau: Expert Level</span></div>
 
+
 <br/>
 
 ---
+
 
 
 <h6>CONTACT</h6>
