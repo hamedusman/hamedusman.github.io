@@ -16,6 +16,43 @@ keywords: hanedusman, hamed usman, hamed, usman, operations management, supply c
 
 <p>For more information, see his brief <a href="https://hamedusman.github.io/cv">curriculum vitae</a>.</p>
 
+<br/>
+
+---
+
+
+<h6>CORE COMPETENCIES</h6>
+ <ul style="list-style-type:none;">
+
+  <div class="skillbarbackground">
+   <div class="skillrange powerbi"></div></div>
+    <div class="tooltip"><p>Power BI</p>
+     <span class="tooltiptext">Power BI: Proficient Level</span></div>
+ 
+ <div class="skillbarbackground">
+  <div class="skillrange python"></div></div>
+   <div class="tooltip"><p>Python</p>
+    <span class="tooltiptext">Python: Proficient Level</span></div>
+
+ <div class="skillbarbackground">
+  <div class="skillrange r"></div></div>
+   <div class="tooltip"><p>R</p>
+    <span class="tooltiptext">R: Novice Level</span></div>
+  
+ <div class="skillbarbackground">
+  <div class="skillrange sas"></div></div>
+   <div class="tooltip"><p>SAS</p>
+    <span class="tooltiptext">SAS: Proficient Level</span></div>
+  
+ <div class="skillbarbackground">
+  <div class="skillrange stata"></div></div>
+   <div class="tooltip"><p>Stata</p>
+    <span class="tooltiptext">Stata: Expert Level</span></div>
+  
+  <div class="skillbarbackground">
+   <div class="skillrange tableau"></div></div>
+    <div class="tooltip"><p>Tableau</p>
+    <span class="tooltiptext">Tableau: Expert Level</span></div>
 
 <br/>
 
