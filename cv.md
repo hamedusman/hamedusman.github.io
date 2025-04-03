@@ -4,7 +4,7 @@ title: CERTIFIED SCM ACADEMIC & PRACTITIONER
 ---
 <img id="myclick" src="../assets/hu.png" width="100" height="100"><br/>
 
-<p>A Curious Mind with the Endless Quest for Answers</p>
+<p>I have a curious mind with endless quest for answers</p>
 <p>Hamed Usman, MS, ISCM, CSSGB<br/>
 Sr. Lecturer, Bahria Business School<br/>
 Email: hamed.buic@bahria.edu.pk<br/>
