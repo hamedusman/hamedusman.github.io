@@ -18,6 +18,11 @@ keywords: hanedusman, hamed usman, hamed, usman, operations management, supply c
 
 <i class="fa fa-github-alt" style="font-size:36px"></i>
 <i class="fa fa-linkedin" style="font-size:36px"></i>
+<i class="ai ai-google-scholar-square ai-3x"></i>
+<i class="ai ai-scopus-square ai-3x"></i>
+<i class="ai ai-orcid-square ai-3x"></i>
+<i class="ai ai-cv-square ai-3x"></i>
+
 
 <hr class="solid">
 
