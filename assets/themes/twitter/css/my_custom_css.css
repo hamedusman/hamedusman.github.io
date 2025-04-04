@@ -214,13 +214,17 @@ ul {
  text-align: center;
 }
 
-#headline ul {
+#iconbar {
+background-color: #f0fff0;
+}
+
+#iconbar ul {
 margin: 0;
 padding: 0;
 list-style: none;
 }
 
-#headline ul li {
+#iconbar ul li {
   display: inline-block;
   margin: 5px;
 }
