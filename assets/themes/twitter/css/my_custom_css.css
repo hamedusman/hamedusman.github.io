@@ -20,8 +20,8 @@ a {
 }
 
 /* Style for the main title */
-header h1 {
-  color: #003366; /* Dark Blue */
+.brand { /* The title "Hamed Usman" has the class "brand" */
+    color: #003366; /* Dark Blue */
   font-family: "Georgia", serif;
   font-size: 2.8em;
   font-weight: bold;
