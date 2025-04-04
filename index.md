@@ -16,7 +16,7 @@ keywords: hanedusman, hamed usman, hamed, usman, operations management, supply c
 
 <p>For more information, see his brief <i class="ai ai-cv-square ai-3x"></i> <a href="https://hamedusman.github.io/cv">curriculum vitae</a>.</p>
 
-
+<div class="headline">
 <ul style="list-style-type:none;">
  <li><a href="https://www.bahria.edu.pk"><i class="fa fa-github-alt" style="font-size:36px"></i></a></li>
  <li><i class="fa fa-linkedin" style="font-size:36px"></i></li>
@@ -24,6 +24,7 @@ keywords: hanedusman, hamed usman, hamed, usman, operations management, supply c
  <li><i class="ai ai-scopus-square ai-3x"></i></li>
  <li><i class="ai ai-orcid-square ai-3x"></i></li>
 </ul>
+</div>
 
 <hr class="solid">
 
