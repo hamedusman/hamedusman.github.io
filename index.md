@@ -51,3 +51,5 @@ keywords: hanedusman, hamed usman, hamed, usman, operations management, supply c
   <!--<li><a href="https://scholar.google.com/citations?user=wVuB9pAAAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar &#x29c9;</a></li>-->
   <li><a href="https://www.webofscience.com/wos/author/record/HKO-5681-2023" target="_blank" rel="noopener noreferrer">Web of Science &#x29c9;</a></li>
 </ul>
+
+<hr class="solid">
