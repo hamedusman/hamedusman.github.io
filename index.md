@@ -24,6 +24,7 @@ keywords: hanedusman, hamed usman, hamed, usman, operations management, supply c
 
 
 <h6>ANALYTICAL COMPETENCIES</h6>
+ <ul style="list-style-type:none;">
  
  <div class="skillbarbackgroundmain">
   <div class="skillrangemain pythonmain">Proficient Level</div></div>
@@ -44,6 +45,7 @@ keywords: hanedusman, hamed usman, hamed, usman, operations management, supply c
   <div class="skillrangemain tableaumain">Expert Level</div></div>
    <div class="tooltip"><p>Tableau</p>
     <span class="tooltiptext">Tableau: Expert Level</span></div>
+ </ul>
 
 
 
