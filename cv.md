@@ -226,8 +226,3 @@ SKILLS
     <div class="tooltip"><p>Tableau</p>
     <span class="tooltiptext">Tableau: Expert Level</span></div>
 </ul>
-
-<br/>
-
-
-<p><i>CV was last updated on Wednesday, April 02, 2025.</i></p>
