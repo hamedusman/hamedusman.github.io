@@ -33,7 +33,7 @@ EDUCATION
   </ul>
 </ul>
 
-<h6>AWARDS & HONORS</h6>
+AWARDS & HONORS
  <ul style="list-style-type:none;">
   Richard A. Chaifetz School of Business, Saint Louis University, Saint Louis, MO, USA
    <ol>
@@ -54,7 +54,7 @@ EDUCATION
     </ol>
   </ul>
 
-<h6>ACADEMIC EXPERIENCE</h6>
+ACADEMIC EXPERIENCE
 
 <ul style="list-style-type:none;">
  Bahria Business School, Bahria University, E-8 Campus, Islamabad, PK
@@ -71,7 +71,7 @@ EDUCATION
   </ul>
 </ul>
 
-<h6>RESEARCH</h6>
+RESEARCH
   <ul style="list-style-type:none;">Journal Article
    <ul style="list-style-type:square;"><li>Kwon, I. W. G., Shin, N., Kim, S. H., & <b>Usman, H.</b> (2021). Trust and commitment in supply chain during digital transformation: A case in Korea. <i>AIMS Environmental Science</i>, 8(6): 641–655</li>
    </ul>
@@ -100,7 +100,7 @@ EDUCATION
    </ul>
   </ul>
 
-<h6>TEACHING</h6>
+TEACHING
  <ul style="list-style-type:none;">
   Bahria Business School, Bahria University, E-8 Campus, Islamabad, PK
    <ol>
@@ -114,7 +114,7 @@ EDUCATION
    </ol>
  </ul>
 
-<h6>PROJECTS</h6>
+PROJECTS
 
   <ul style="list-style-type:none;">
   CAPS Research, W. P. Carey School of Business, Arizona Stata University, Tempe, AZ, USA
@@ -137,7 +137,7 @@ EDUCATION
    </ul>
  </ul>
 
-<h6>INDUSTRIAL EXPERIENCE</h6>
+INDUSTRIAL EXPERIENCE
 
  <ul style="list-style-type:none;">
   Bajwa Agro Industries, Lahore, PK
@@ -160,7 +160,7 @@ EDUCATION
    </ul>
  </ul>
 
-<h6>CERTIFICATIONS</h6>
+CERTIFICATIONS
 
  <ul style="list-style-type:none;">
   Center for Supply Chain Excellence, Saint Louis University, MO, USA
@@ -176,7 +176,7 @@ EDUCATION
    </ul>
  </ul>
 
-<h6>SERVICE</h6>
+SERVICE
 
 <ul style="list-style-type:none;">
   Bahria Business School, Bahria University, E-8 Campus, Islamabad, PK
@@ -196,7 +196,7 @@ EDUCATION
     </ol>
  </ul>
 
-<h6>SKILLS</h6>
+SKILLS
  <ul style="list-style-type:none;">
 
   <div class="skillbarbackground">
