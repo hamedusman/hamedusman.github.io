@@ -16,7 +16,7 @@ keywords: hanedusman, hamed usman, hamed, usman, operations management, supply c
 
 <p>For more information, see his brief <a href="https://hamedusman.github.io/cv">curriculum vitae</a>.</p>
 
-<i class="fa fa-github" style="font-size:36px"></i>
+<i class="fa fa-github-alt" style="font-size:36px"></i>
 <i class="fa fa-linkedin" style="font-size:36px"></i>
 
 <hr class="solid">
