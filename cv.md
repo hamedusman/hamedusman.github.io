@@ -4,7 +4,7 @@ title: CERTIFIED SCM ACADEMIC & PRACTITIONER
 ---
 <img src="../assets/hu.png" width="125" height="125"><br/>
 
-<p>A curious mind with endless quest for answers</p>
+<p>A curious mind with an endless quest for answers</p>
 <p>Hamed Usman, MS, ISCM, CSSGB<br/>
 Sr. Lecturer, Bahria Business School<br/>
 Email: hamed.buic@bahria.edu.pk<br/>
@@ -17,7 +17,7 @@ D3, XC, Bahria University, Islamabad</p>
 ---
 
 
-<h6>EDUCATION</h6>
+EDUCATION
 
 <ul style="list-style-type:none;">
  Richard A. Chaifetz School of Business, Saint Louis University (SLU), Saint Louis, MO, USA
