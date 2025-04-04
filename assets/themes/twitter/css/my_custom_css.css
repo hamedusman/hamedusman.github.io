@@ -21,9 +21,7 @@ a {
 
 /* Style for the main title */
 .brand { /* The title "Hamed Usman" has the class "brand" */
-  color: #000000;
-  font-family: "Georgia", serif;
-  font-size: 4em;
+  font-size: 5em;
   font-weight: bold;
 }
 
