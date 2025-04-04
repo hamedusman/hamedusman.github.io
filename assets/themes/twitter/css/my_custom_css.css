@@ -27,7 +27,7 @@ a {
 
 a:hover {
     color: #000000;
-    background-color: #f5f5f5; /* To change the hover color of hyperlinked text */
+    /*background-color: #f5f5f5; /*To change the hover color of hyperlinked text */*/
     text-decoration: none;
 }
 
