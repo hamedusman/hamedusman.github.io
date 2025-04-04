@@ -24,15 +24,12 @@ keywords: hanedusman, hamed usman, hamed, usman, operations management, supply c
 <i class="ai ai-cv-square ai-3x"></i>
 
 <h6>ACADEMIC LINKS</h6>
-<span class="fa-stack" style="vertical-align: top;">
-  <i class="far fa-square fa-stack-3x"></i>
-  <i class="ai ai-google-scholar ai-stack-3x"></i>
-</span>
-
-<span class="fa-stack" style="vertical-align: top;">
-  <i class="far fa-square fa-stack-3x"></i>
-  <i class="ai ai-google-scholar ai-stack-3x"></i>
-</span>
+<ul class="fa-ul" style="font-size: 2em;">
+  <li><span class="fa-li"><i class="ai ai-africarxiv-square"></i></span>List icons can</li>
+  <li><span class="fa-li"><i class="ai ai-arxiv-square"></i></span>be used to</li>
+  <li><span class="fa-li"><i class="ai ai-biorxiv-square"></i></span>replace bullets</li>
+  <li><span class="fa-li"><i class="ai ai-psyarxiv-square"></i></span>in lists</li>
+</ul>
 
 <hr class="solid">
 
