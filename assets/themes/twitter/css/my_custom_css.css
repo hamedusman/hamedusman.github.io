@@ -123,13 +123,21 @@ h1, h2, h3, h4, h5 {
     min-height:39px;
     padding-left:20px;
     padding-right:20px;
-    background-color:none;
-    background-image:-moz-linear-gradient(top, #edffff, #e3ffff);
+    background-color: #f0f0f0 !important; /* Use !important to ensure it overrides other background styles */
+    background-image: none !important; /* Remove any gradient images */
+    -moz-linear-gradient: none !important; /* Remove Mozilla gradient */
+    -webkit-gradient: none !important; /* Remove older WebKit gradient */
+    -webkit-linear-gradient: none !important; /* Remove WebKit gradient */
+    -o-linear-gradient: none !important; /* Remove Opera gradient */
+    linear-gradient: none !important; /* Remove standard gradient */
+  
+    /*background-image:-moz-linear-gradient(top, #edffff, #e3ffff);
     background-image:-webkit-gradient(linear, 0 0, 0 100%, from(#edffff), to(#f2f2f2));
     background-image:-webkit-linear-gradient(top, #edffff, #e3ffff);
     background-image:-o-linear-gradient(top, #edffff, #e3ffff);
-    background-image:linear-gradient(to bottom, #f5f5f5, #f5f5f5); /* To change the color of navbar on the top */
-    background-repeat:repeat-x;filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffffff', endColorstr='#ffffff', GradientType=0);
+    background-image:linear-gradient(to bottom, #f5f5f5, #f5f5f5); To change the color of navbar on the top
+    background-repeat:repeat-x;filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffffff', endColorstr='#ffffff', GradientType=0); */
+    
     border:0px solid #ffffff; /* To change the border around icon bar at the top */
     -webkit-border-radius:4px;
     -moz-border-radius:4px;
