@@ -8,6 +8,8 @@ keywords: hanedusman, hamed usman, hamed, usman, operations management, supply c
 
 <br/>
 
+<hr class="solid">
+
 <!--<p><i>Note: If you are currently registered to one of my courses at Bahria Business School, please click <a href="https://101scm.github.io" target="_blank" rel="noopener noreferrer">here &#x29c9;</a> to view the latest information about your class.</i></p>-->
 <p>Hamed Usman is a Senior Lecturer at Bahria Business School, <a href="https://www.bahria.edu.pk">Bahria University</a>, Islamabad, Pakistan. Prior to joining Bahria Business School, he was a Junior Researcher at <a href="https://www.slu.edu/business">Richard A. Chaifetz School of Business</a>, <a href="https://www.slu.edu">Saint Louis University</a>.</p>
 <p>His academic achievements have been recognized by various awards including 2019 Supply Chain Management Outstanding Graduate Student Award at Saint Louis University; honorable mention at Saint Louis University's Commencement Ceremony; and lifetime induction in <a href="https://www.betagammasigma.org">Beta Gamma Sigma Honor Society</a>. He has also accomplished many academic scholarships such as <a href="https://www.slu.edu/business/centers/supply-chain-excellence/index.php">Center for Supply Chain Excellence</a> Scholarship at Saint Louis University and Full Talent Scholarship at <a href="https://www.fccollege.edu.pk">Forman Christian College (A Chartered University)</a>.</p>
