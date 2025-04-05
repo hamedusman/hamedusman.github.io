@@ -233,8 +233,7 @@ SKILLS
     <span class="tooltiptext">Tableau: Expert Level</span></div>
 </ul>
 
-<!--
-<p>Hamed Usman is a Senior Lecturer of supply chain management at Bahria Business School, <a href="https://www.bahria.edu.pk">Bahria University</a>, Islamabad, Pakistan. Prior to joining Bahria Business School, he was a Junior Researcher at <a href="https://www.slu.edu/business">Richard A. Chaifetz School of Business</a>, <a href="https://www.slu.edu">Saint Louis University</a>.</p>
+<!-- <p>Hamed Usman is a Senior Lecturer of supply chain management at Bahria Business School, <a href="https://www.bahria.edu.pk">Bahria University</a>, Islamabad, Pakistan. Prior to joining Bahria Business School, he was a Junior Researcher at <a href="https://www.slu.edu/business">Richard A. Chaifetz School of Business</a>, <a href="https://www.slu.edu">Saint Louis University</a>.</p>
 <p>His academic achievements have been recognized by various awards including 2019 Supply Chain Management Outstanding Graduate Student Award at Saint Louis University; honorable mention at Saint Louis University's Commencement Ceremony; and lifetime induction in <a href="https://www.betagammasigma.org">Beta Gamma Sigma Honor Society</a>. He has also accomplished many academic scholarships such as <a href="https://www.slu.edu/business/centers/supply-chain-excellence/index.php">Center for Supply Chain Excellence</a> Scholarship at Saint Louis University and Full Talent Scholarship at <a href="https://www.fccollege.edu.pk">Forman Christian College (A Chartered University)</a>.</p>
 <p>He received his <a href="https://www.slu.edu/business/graduate/supply-chain-management">Master of Science in Supply Chain Management</a> from Richard A. Chaifetz School of Business, Saint Louis University and <a href="https://www.fccollege.edu.pk/baccalaureate-in-business/">Baccalaureate in Business (Operations Management)</a> from School of Management, Forman Christian College (A Chartered University). He worked on projects with <a href="https://www.capsresearch.org">CAPS Research</a> at <a href="https://wpcarey.asu.edu/">W. P. Carey School of Business</a> <a href="https://www.asu.edu">(Arizona Stata University)</a>, <a href="https://www.novusint.com">Novus International</a> and <a href="https://www.iistl.org">International Institute of Saint Louis</a>.</p>
 
@@ -272,5 +271,4 @@ SKILLS
   <li><a href="https://www.linkedin.com/in/hamedusman" target="_blank" rel="noopener noreferrer">LinkedIn &#x29c9;</a></li>
   <!--<li><a href="https://scholar.google.com/citations?user=wVuB9pAAAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar &#x29c9;</a></li>-->
   <li><a href="https://www.webofscience.com/wos/author/record/HKO-5681-2023" target="_blank" rel="noopener noreferrer">Web of Science &#x29c9;</a></li>
-</ul>
--->
+</ul> -->
