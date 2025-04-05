@@ -10,7 +10,7 @@ keywords: hanedusman, hamed usman, hamed, usman, operations management, supply c
  <div class="myimg">
   <img src="../assets/hu.png" style="width:75px;height:75px;">
  </div>
-  <div class="mytxt">Hamed Usman, Sr. Lecturer, SCM, Bahria University
+  <div class="mytxt">Hamed Usman, Sr. Lecturer, SCM, Bahria University, Islamabad, PK
   </div>
 </div></p>
 
