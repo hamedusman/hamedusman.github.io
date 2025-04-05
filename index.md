@@ -8,7 +8,7 @@ keywords: hanedusman, hamed usman, hamed, usman, operations management, supply c
 
 <br/>
 
-<div class="imgntxt"><img src="../assets/hu.png" style="width:125px;height:125px;margin-right:12px;">
+<div class="imgntxt"><img src="../assets/hu.png" style="width:100px;height:100px;margin-right:10px;">
   Hamed Usman, MS, ISCM, CSSGB<br/>
   Sr. Lecturer, Bahria Business School<br/>
   Email: hamed.buic@bahria.edu.pk<br/>
