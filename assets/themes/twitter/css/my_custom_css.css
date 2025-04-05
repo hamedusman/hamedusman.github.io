@@ -36,6 +36,10 @@ a:hover {
     text-decoration: none;
 }
 
+img {
+  float: left;
+}
+
 a img {
     border: solid 0px white;
 }
@@ -48,7 +52,7 @@ a img {
   margin-left: auto;
   width: 39px;
   height: 39px;
-  /*float: left;*/
+  float: none;
 }
 
 a:hover img {
@@ -214,9 +218,9 @@ ul {
 }
 
 .imgntxt {
- background-color: #ffffff;
- padding: 5px;
- text-align: right;
+ background-color: #ffffcc;
+ padding: 0px;
+ text-align: left;
 }
 
 .iconbar {
