@@ -45,7 +45,7 @@ a img {
 }
 
 #hu {
-  *display: block;
+  display: block;
   margin-top: 0px;
   margin-right: auto;
   margin-bottom: 0px;
@@ -218,7 +218,7 @@ ul {
 }
 
 .imgntxt {
- background-color: #ffffcc;
+ background-color: #ffffff;
  padding: 0px;
  text-align: left;
 }
