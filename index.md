@@ -9,11 +9,7 @@ keywords: hanedusman, hamed usman, hamed, usman, operations management, supply c
 <br/>
 
 <div class="imgntxt"><img src="../assets/hu.png" style="width:100px;height:100px;margin-right:10px;">
-  Hamed Usman, MS, ISCM, CSSGB<br/>
-  Sr. Lecturer, Bahria Business School<br/>
-  Email: hamed.buic@bahria.edu.pk<br/>
-  Phone: +92-51-9260002 (Ext. 1424)<br/>
-  D3, XC, Bahria University, Islamabad<br/>
+  Hamed Usman | hamed.buic@bahria.edu.pk | Bahria University, Islamabad
 </div>
 
 <hr class="solid">
