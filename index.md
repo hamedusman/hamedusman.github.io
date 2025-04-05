@@ -5,14 +5,14 @@ description: Hamed Usman is a Senior Lecturer at Bahria University, Islamabad, P
 keywords: hanedusman, hamed usman, hamed, usman, operations management, supply chain management, logistics
 ---
 <div class="headline"><strong>Howdy!</strong> I am a highly qualified academic affiliated with a higher education institution. For more information, see my <a href="https://www.linkedin.com/in/hamedusman" target="_blank" rel="noopener noreferrer">LinkedIn &#x29c9;</a></div>
-
-<div class="imgntxt">
+<p></p>
+<p><div class="imgntxt">
  <div class="myimg">
   <img src="../assets/hu.png" style="width:75px;height:75px;">
  </div>
   <div class="mytxt">Hamed Usman, Senior Lecturer, Bahria University
   </div>
-</div>
+</div></p>
 
 <hr class="solid">
 
