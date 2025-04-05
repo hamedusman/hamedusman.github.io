@@ -6,8 +6,6 @@ keywords: hanedusman, hamed usman, hamed, usman, operations management, supply c
 ---
 <div class="headline"><strong>Howdy!</strong> I am a highly qualified academic affiliated with a higher education institution. For more information, see my <a href="https://www.linkedin.com/in/hamedusman" target="_blank" rel="noopener noreferrer">LinkedIn &#x29c9;</a></div>
 
-<br/>
-
 <div class="imgntxt">
  <div class="myimg">
   <img src="../assets/hu.png" style="width:75px;height:75px;">
