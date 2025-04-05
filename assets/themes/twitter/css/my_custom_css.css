@@ -223,21 +223,6 @@ ul {
  text-align: left;
 }
 
-.iconbar {
-background-color: #f0fff0;
-}
-
-#iconbar ul {
-margin: 0;
-padding: 0;
-list-style: none;
-}
-
-#iconbar ul li {
-  display: inline-block;
-  margin: 5px;
-}
-
 .skillbarbackground {
   width: 100%;
   height: 5px;
