@@ -213,6 +213,12 @@ ul {
  text-align: center;
 }
 
+.imgntxt {
+ background-color: #ffffff;
+ padding: 5px;
+ text-align: right;
+}
+
 .iconbar {
 background-color: #f0fff0;
 }
