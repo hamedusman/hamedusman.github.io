@@ -219,10 +219,8 @@ ul {
 
 .imgntxt {
  background-color: #ffffff;
- display: grid;
+ display: flex;
  align-items: center; 
- grid-template-columns: 0.5fr 2.2fr 0.001fr;
- column-gap: 20px;
 }
 
 .myimg {
