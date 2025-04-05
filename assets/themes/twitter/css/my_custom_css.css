@@ -36,6 +36,10 @@ a:hover {
     text-decoration: none;
 }
 
+.img {
+  float: left;
+}
+
 a img {
     border: solid 0px white;
 }
