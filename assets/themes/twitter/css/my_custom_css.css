@@ -218,12 +218,14 @@ ul {
 }
 
 .imgntxt {
- background-color: #ffffcc;
- padding-right: 0px;
- padding-left: 0px;
- padding-top: 50px;
- padding-bottom: 50px;
- text-align: left;
+ display: grid;
+ align-items: center; 
+ grid-template-columns: 1fr 1fr 1fr;
+ column-gap: 5px;
+}
+
+.mytxt {
+  font-size: 70px;
 }
 
 .skillbarbackground {
