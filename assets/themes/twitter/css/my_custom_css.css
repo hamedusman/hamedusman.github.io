@@ -36,10 +36,6 @@ a:hover {
     text-decoration: none;
 }
 
-img {
-  float: left;
-}
-
 a img {
     border: solid 0px white;
 }
@@ -219,7 +215,10 @@ ul {
 
 .imgntxt {
  background-color: #ffffff;
- padding: 0px;
+ padding-right: 0px;
+ padding-left: 0px;
+ padding-top: 75px;
+ padding-bottom: 75px;
  text-align: left;
 }
 
