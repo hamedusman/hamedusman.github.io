@@ -8,7 +8,7 @@ keywords: hanedusman, hamed usman, hamed, usman, operations management, supply c
 
 <br/>
 
-<img src="../assets/hu.png" width="125" height="125"><br/>
+<div class="imgntxt"><strong><img src="../assets/hu.png" width="125" height="125"></div>
 
 <p>A curious mind with an endless quest for answers</p>
 
