@@ -10,7 +10,9 @@ keywords: hanedusman, hamed usman, hamed, usman, operations management, supply c
  <div class="myimg">
   <img src="../assets/hu.png" style="width:75px;height:75px;">
  </div>
-  <div class="mytxt">Hamed Usman, CSSGB, ISCM, MS, BS
+  <div class="mytxt">
+   <p>Hamed Usman, CSSGB, ISCM, MS, BS</p>
+   <p></p><hamed.buic@bahria.edu.pk</p>
   </div>
 </div></p>
 
