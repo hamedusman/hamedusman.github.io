@@ -13,6 +13,7 @@ keywords: hanedusman, hamed usman, hamed, usman, operations management, supply c
   <div class="mytxt"><p>Hamed Usman
    <br>CSSGB, ISCM, MS, BS
    <br>hamed.buic@bahria.edu.pk</p>
+   <br>+92 51 9260002
   </div>
 </div>
 
