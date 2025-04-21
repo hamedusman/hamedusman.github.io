@@ -12,7 +12,7 @@ keywords: hanedusman, hamed usman, hamed, usman, operations management, supply c
  </div>
   <div class="mytxt">
    <p>Hamed Usman, CSSGB, ISCM, MS, BS</p>
-   <p></p><hamed.buic@bahria.edu.pk</p>
+   <p><hamed.buic@bahria.edu.pk</p>
   </div>
 </div></p>
 
