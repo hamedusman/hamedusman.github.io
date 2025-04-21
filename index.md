@@ -6,7 +6,7 @@ keywords: hanedusman, hamed usman, hamed, usman, operations management, supply c
 ---
 <div class="headline"><strong>Howdy!</strong> I am an instructor of operations and supply chain management at a university. For more information, see my <a href="https://www.linkedin.com/in/hamedusman" target="_blank" rel="noopener noreferrer">LinkedIn &#x29c9;</a></div>
 <p></p>
-<p><div class="imgntxt">
+<div class="imgntxt">
  <div class="myimg">
   <img src="../assets/hu.png" style="width:75px;height:75px;">
  </div>
@@ -14,7 +14,7 @@ keywords: hanedusman, hamed usman, hamed, usman, operations management, supply c
     <br>hamed.buic@bahria.edu.pk
     <br>Bahria University, Islamabad, PK</p>
   </div>
-</div></p>
+</div>
 
 <hr class="solid">
 
