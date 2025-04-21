@@ -4,7 +4,7 @@ title: HAMED USMAN - Academic at BUIC
 description: Hamed Usman is a Senior Lecturer at Bahria University, Islamabad, Pakistan. 
 keywords: hanedusman, hamed usman, hamed, usman, operations management, supply chain management, logistics
 ---
-<div class="headline"><strong>Howdy!</strong> I am senior lecturer of supply chain management at Bahria University, Islamabad, PK. For more information, see my <a href="https://www.linkedin.com/in/hamedusman" target="_blank" rel="noopener noreferrer">LinkedIn &#x29c9;</a></div>
+<div class="headline"><strong>Howdy!</strong> I am an instructor of operations and supply chain management at a university. For more information, see my <a href="https://www.linkedin.com/in/hamedusman" target="_blank" rel="noopener noreferrer">LinkedIn &#x29c9;</a></div>
 <p></p>
 <p><div class="imgntxt">
  <div class="myimg">
