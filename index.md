@@ -74,12 +74,12 @@ ACADEMIC EXPERIENCE
 
 RESEARCH
   <ul style="list-style-type:none;">Journal Article
-   <ul style="list-style-type:square;"><li>Kwon, I. W. G., Shin, N., Kim, S. H., & <b>Usman, H.</b> (2021). Trust and commitment in supply chain during digital transformation: A case in Korea. <i>AIMS Environmental Science</i>, 8(6): 641–655</li>
+   <ul style="list-style-type:square;"><li>Kwon, I. W. G., Shin, N., Kim, S. H., & Usman, H. (2021). Trust and commitment in supply chain during digital transformation: A case in Korea. <i>AIMS Environmental Science</i>, 8(6): 641–655</li>
    </ul>
   </ul>
 
  <ul style="list-style-type:none;">Book Chapter
-  <ul style="list-style-type:square;"><li>Kwon, I. W. G., Kim, S. H., & <b>Usman, H.</b> (2021). Vaccine Supply Chain Distribution under Covid-19 Pandemic: Stressed, Resourceful and Resilient - Lesson Learned from the United States Experiences (2021). <i>Proud Pen Limited, London, UK</i></li>
+  <ul style="list-style-type:square;"><li>Kwon, I. W. G., Kim, S. H., & Usman, H. (2021). Vaccine Supply Chain Distribution under Covid-19 Pandemic: Stressed, Resourceful and Resilient - Lesson Learned from the United States Experiences (2021). <i>Proud Pen Limited, London, UK</i></li>
   </ul>
  </ul>
 
