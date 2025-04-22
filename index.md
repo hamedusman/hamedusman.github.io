@@ -166,7 +166,7 @@ CERTIFICATIONS
  <ul style="list-style-type:none;">
   Center for Supply Chain Excellence, Saint Louis University, MO, USA
    <ul style="list-style-type:square;">
-    <li>Integrated Supply Chain Management Certificate (Earned: May 2019; Status: Active)</li>
+    <li>Integrated Supply Chain Management (Earned: May 2019; Status: Active)</li>
    </ul>
  </ul>
 
