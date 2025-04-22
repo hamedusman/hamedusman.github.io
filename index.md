@@ -91,7 +91,7 @@ RESEARCH
   <ul style="list-style-type:none;">Master's Thesis Advising
    <ul style="list-style-type:none;">Bahria Business School, Bahria University, E-8 Campus, Islamabad, PK
     <ol>
-     <li>Hira Waris <i>(MS (SCM); Graduated in Spring 2023; Final Grade: A-)</i></li>
+     <li>Hira Waris (MS (SCM); Graduated in Spring 2023; Final Grade: A-)</li>
       <!--<ul style="list-style-type:none;"><li>- Thesis Title: <i>The relationship between inventory leanness, dynamism, and sustainability of firms: In context of US-based clean 200 companies</i></li></ul>-->
      <li>Kanwal Iftikhar (MS (SCM); Graduated in Fall 2023; Final Grade: A+)</li>
      <li>Naida Arif (MS (SCM); Graduated in Fall 2023; Final Grade: A+)</li>
