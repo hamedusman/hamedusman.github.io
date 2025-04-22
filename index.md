@@ -155,7 +155,7 @@ INDUSTRIAL EXPERIENCE
  </ul>
 
  <ul style="list-style-type:none;">
-  DSV Global Transport And Logistics (Formerly UTi Worldwide), Lahore, PK
+  DSV Global Transport and Logistics (Formerly UTi Worldwide), Lahore, PK
    <ul style="list-style-type:square;">
     <li>Operations Trainee, Ocean Export (October 2011 - March 2012)</li>
    </ul>
