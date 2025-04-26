@@ -13,7 +13,7 @@ keywords: hanedusman, hamed usman, hamed, usman, operations management, supply c
   <div class="mytxt">Hamed Usman
    <br>CSSGB, ISCM
    <br>usmanh@slu.edu
-   <br><a href="https://drive.google.com/file/d/1XxNsUr3d_1BexxI4fS-ZJC_zD-fM22qs" target="_blank" rel="noopener noreferrer">Download</a><i class="fa-sharp-duotone fa-thin fa-file-pdf"></i> my CV
+   <br><a href="https://drive.google.com/file/d/1XxNsUr3d_1BexxI4fS-ZJC_zD-fM22qs" target="_blank" rel="noopener noreferrer">Download&#xf1c1;</a> my CV
   </div>
 </div>
 
