@@ -230,4 +230,7 @@ SKILLS
     <div class="tooltip"><p>Tableau</p>
     <span class="tooltiptext">Tableau: Expert Level</span></div>
 </ul>
-<p>The references are available upon request.</p>
+
+NOTES
+<ul style="list-style-type:none;">
+ The references are available upon request.</UL>
