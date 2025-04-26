@@ -182,8 +182,8 @@ SERVICE
 <ul style="list-style-type:none;">
   Bahria Business School, Bahria University, E-8 Campus, Islamabad, PK
    <ol>
-    <li>Student Mentor for Undergraduate Students in SCM (Fall 2023 - present)</li>
-    <li>Internal Examiner for Master's Research Thesis Final Defence (Spring 2023 - present)</li>
+    <li>Student mentor for undergraduate students in SCM (Fall 2023 - present)</li>
+    <li>Internal examiner for master's research thesis final defense (Spring 2023 - present)</li>
     </ol>
  </ul>
 
@@ -192,8 +192,8 @@ SERVICE
   Richard A. Chaifetz School of Business, Saint Louis University, Saint Louis, MO, USA
    <ol>
     <li>President, Council of SCM Professionals (CSCMP), SLU Roundtable (April 2018 - May 2019)</li>
-    <li>Student Board Member, Dean’s Student Advisory Board (August 2018 - May 2019)</li>
-    <li>International Students Ambassador, Office of International Services (January 2018 - December 2018)</li>
+    <li>Student board member, Dean’s Student Advisory Board (August 2018 - May 2019)</li>
+    <li>International students ambassador, Office of International Services (January 2018 - December 2018)</li>
     </ol>
  </ul>
 
