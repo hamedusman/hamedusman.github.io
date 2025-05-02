@@ -13,7 +13,7 @@ keywords: hanedusman, hamed usman, hamed, usman, operations management, supply c
   <div class="mytxt">Hamed Usman
    <br>CSSGB, ISCM
    <br>hamed.usman@slu.edu
-   <br>Download my <a href="https://drive.google.com/file/d/1XxNsUr3d_1BexxI4fS-ZJC_zD-fM22qs" target="_blank" rel="noopener noreferrer">resume</a>
+   <br>Download my <a href="https://drive.google.com/file/d/1XxNsUr3d_1BexxI4fS-ZJC_zD-fM22qs" target="_blank" rel="noopener noreferrer">resume&#x29c9;</a>
   </div>
 </div>
 
@@ -85,7 +85,7 @@ RESEARCH
  </ul>
 
  <ul style="list-style-type:none;">Methodology
-   <ul style="list-style-type:square;"><li>Econometric models using the following data sources: Bloomberg Data, Fresard-Hoberg-Phillips Vertical Relatedness Data Library, MarkLines Information Platform, LSEG Refinitiv, United States Patent and Trademark Office, and Wharton Research Data Services (Compustat)</li>
+   <ul style="list-style-type:square;"><li>Econometric models using the various data sources such as Bloomberg Data, Fresard-Hoberg-Phillips Vertical Relatedness Data Library, MarkLines Information Platform, Refinitiv by London Stock Exchange Group, United States Patent and Trademark Office, and Wharton Research Data Services (Compustat).</li>
   </ul>
  </ul>
 
