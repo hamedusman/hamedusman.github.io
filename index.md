@@ -8,7 +8,7 @@ keywords: hanedusman, hamed usman, hamed, usman, operations management, supply c
 <p></p>
 <div class="imgntxt">
  <div class="myimg">
-  <img src="../assets/hu.png" style="width:75px;height:75px;">
+  <img src="../assets/hu.png">
  </div>
   <div class="mytxt">Hamed Usman
    <br>CSSGB, ISCM
