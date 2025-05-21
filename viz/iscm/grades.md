@@ -3,7 +3,7 @@
 
 
 <tableau-viz id="tableauViz"       
-  src='https://public.tableau.com/app/profile/hamedusman/viz/iscm/grades_embedded_800x800/Overview'      
+  src='https://public.tableau.com/app/profile/hamedusman/viz/iscm/grades'      
   toolbar="bottom" hide-tabs>
 </tableau-viz>
 
