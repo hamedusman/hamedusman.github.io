@@ -4,341 +4,556 @@ title: Course Plan for SCM101
 description: Course Plan
 ---
 
-<html xmlns:v="urn:schemas-microsoft-com:vml"
-xmlns:o="urn:schemas-microsoft-com:office:office"
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
 xmlns:x="urn:schemas-microsoft-com:office:excel"
 xmlns="http://www.w3.org/TR/REC-html40">
 
 <head>
-<meta name="Excel Workbook Frameset">
 <meta http-equiv=Content-Type content="text/html; charset=utf-8">
 <meta name=ProgId content=Excel.Sheet>
 <meta name=Generator content="Microsoft Excel 15">
 <link rel=File-List href="course.fld/filelist.xml">
-<![if !supportTabStrip]>
-<link id="shLink" href="course.fld/sheet001.htm">
-<link id="shLink" href="course.fld/sheet002.htm">
-
-<link id="shLink">
-
-<script language="JavaScript">
-<!--
- var g_iIEVer=0;
- 
- var c_lTabs=2;
-
- var c_rgszSh=new Array(c_lTabs);
- c_rgszSh[0] = "Active";
- c_rgszSh[1] = "SPRING 2023";
-
-
- var c_rgszClr=new Array(8);
- c_rgszClr[0]="window";
- c_rgszClr[1]="buttonface";
- c_rgszClr[2]="windowframe";
- c_rgszClr[3]="windowtext";
- c_rgszClr[4]="threedlightshadow";
- c_rgszClr[5]="threedhighlight";
- c_rgszClr[6]="threeddarkshadow";
- c_rgszClr[7]="threedshadow";
-
- var g_iShCur;
- var g_rglTabX=new Array(c_lTabs);
-
-function fnBuildFrameset()
-{
- var szHTML="<frameset rows=\"*,18\" border=0 width=0 frameborder=no framespacing=0>"+
-  "<frame src=\""+document.all.item("shLink")[0].href+"\" name=\"frSheet\" noresize>"+
-  "<frameset cols=\"54,*\" border=0 width=0 frameborder=no framespacing=0>"+
-  "<frame src=\"\" name=\"frScroll\" marginwidth=0 marginheight=0 scrolling=no>"+
-  "<frame src=\"\" name=\"frTabs\" marginwidth=0 marginheight=0 scrolling=no>"+
-  "</frameset></frameset><plaintext>";
-
-document.open("text/html","replace");
-document.write(szHTML);
-document.close();
-
- fnBuildTabStrip();
-}
-
-function fnBuildTabStrip()
-{
- var szHTML=
-  "<html><head><style>.clScroll {font:8pt Courier New;color:"+c_rgszClr[2]+";cursor:default;line-height:10pt;}"+
-  ".clScroll2 {font:10pt Arial;color:"+c_rgszClr[2]+";cursor:default;line-height:11pt;}</style></head>"+
-  "<body onclick=\"event.returnValue=false;\" ondragstart=\"event.returnValue=false;\" onselectstart=\"event.returnValue=false;\" bgcolor="+c_rgszClr[4]+" topmargin=0 leftmargin=0><table cellpadding=0 cellspacing=0 width=100%>"+
-  "<tr><td colspan=6 height=1 bgcolor="+c_rgszClr[2]+"></td></tr>"+
-  "<tr><td style=\"font:1pt\">&nbsp;<td>"+
-  "<td valign=top id=tdScroll class=\"clScroll\" onclick=\"parent.fnFastScrollTabs(0);\" onmouseover=\"parent.fnMouseOverScroll(0);\" onmouseout=\"parent.fnMouseOutScroll(0);\"><a>&#171;</a></td>"+
-  "<td valign=top id=tdScroll class=\"clScroll2\" onclick=\"parent.fnScrollTabs(0);\" ondblclick=\"parent.fnScrollTabs(0);\" onmouseover=\"parent.fnMouseOverScroll(1);\" onmouseout=\"parent.fnMouseOutScroll(1);\"><a>&lt</a></td>"+
-  "<td valign=top id=tdScroll class=\"clScroll2\" onclick=\"parent.fnScrollTabs(1);\" ondblclick=\"parent.fnScrollTabs(1);\" onmouseover=\"parent.fnMouseOverScroll(2);\" onmouseout=\"parent.fnMouseOutScroll(2);\"><a>&gt</a></td>"+
-  "<td valign=top id=tdScroll class=\"clScroll\" onclick=\"parent.fnFastScrollTabs(1);\" onmouseover=\"parent.fnMouseOverScroll(3);\" onmouseout=\"parent.fnMouseOutScroll(3);\"><a>&#187;</a></td>"+
-  "<td style=\"font:1pt\">&nbsp;<td></tr></table></body></html>";
-
-frames['frScroll'].document.open("text/html","replace");
-frames['frScroll'].document.write(szHTML);
-frames['frScroll'].document.close();
-
- szHTML =
-  "<html><head>"+
-  "<style>A:link,A:visited,A:active {text-decoration:none;"+"color:"+c_rgszClr[3]+";}"+
-  ".clTab {cursor:hand;background:"+c_rgszClr[1]+";font:8pt Arial;padding-left:3px;padding-right:3px;text-align:center;}"+
-  ".clBorder {background:"+c_rgszClr[2]+";font:1pt;}"+
-  "</style></head><body onload=\"parent.fnInit();\" onselectstart=\"event.returnValue=false;\" ondragstart=\"event.returnValue=false;\" bgcolor="+c_rgszClr[4]+
-  " topmargin=0 leftmargin=0><table id=tbTabs cellpadding=0 cellspacing=0>";
-
- var iCellCount=(c_lTabs+1)*2;
-
- var i;
- for (i=0;i<iCellCount;i+=2)
-  szHTML+="<col width=1><col>";
-
- var iRow;
- for (iRow=0;iRow<6;iRow++) {
-
-  szHTML+="<tr>";
-
-  if (iRow==5)
-   szHTML+="<td colspan="+iCellCount+"></td>";
-  else {
-   if (iRow==0) {
-    for(i=0;i<iCellCount;i++)
-     szHTML+="<td height=1 class=\"clBorder\"></td>";
-   } else if (iRow==1) {
-    for(i=0;i<c_lTabs;i++) {
-     szHTML+="<td height=1 nowrap class=\"clBorder\">&nbsp;</td>";
-     szHTML+=
-      "<td id=tdTab height=1 nowrap class=\"clTab\" onmouseover=\"parent.fnMouseOverTab("+i+");\" onmouseout=\"parent.fnMouseOutTab("+i+");\">"+
-      "<a href=\""+document.all.item("shLink")[i].href+"\" target=\"frSheet\" id=aTab>&nbsp;"+c_rgszSh[i]+"&nbsp;</a></td>";
-    }
-    szHTML+="<td id=tdTab height=1 nowrap class=\"clBorder\"><a id=aTab>&nbsp;</a></td><td width=100%></td>";
-   } else if (iRow==2) {
-    for (i=0;i<c_lTabs;i++)
-     szHTML+="<td height=1></td><td height=1 class=\"clBorder\"></td>";
-    szHTML+="<td height=1></td><td height=1></td>";
-   } else if (iRow==3) {
-    for (i=0;i<iCellCount;i++)
-     szHTML+="<td height=1></td>";
-   } else if (iRow==4) {
-    for (i=0;i<c_lTabs;i++)
-     szHTML+="<td height=1 width=1></td><td height=1></td>";
-    szHTML+="<td height=1 width=1></td><td></td>";
-   }
-  }
-  szHTML+="</tr>";
- }
-
- szHTML+="</table></body></html>";
-
-frames['frTabs'].document.open("text/html","replace");
-frames['frTabs'].document.charset=document.charset;
-frames['frTabs'].document. write(szHTML);
-frames['frTabs'].document.close();
-
-}
-
-function fnInit()
-{
- if (parent.window.g_iIEVer>=4) {
-  if (document.readyState=="complete"
-   && frames['frTabs'].document.readyState=="complete")
-    {
-     g_rglTabX[0]=0;
-     var i;
-     for (i=1;i<=c_lTabs;i++)
-      with (frames['frTabs'].document.all.tbTabs.rows[1].cells[fnTabToCol(i-1)])
-       g_rglTabX[i]=offsetLeft+offsetWidth-6;
-    }
-    else
-     window.setTimeout("fnInit()",150);
-   }
-}
-
-function fnGetIEVer()
-{
- var stzAgent=navigator.userAgent;
- var iVer=parseInt(navigator.appVersion);
- if (stzAgent.indexOf("MSIE")!=-1 && iVer<4)
-  g_iIEVer=3;
- else if (stzAgent.indexOf("MSIE 4")!=-1)
-  g_iIEVer=4;
- else
-  g_iIEVer=5;
-}
-
-function fnTabToCol(iTab)
-{
- return 2*iTab+1;
-}
-
-function fnNextTab(fDir)
-{
- var iNextTab=-1;
- var i;
-
- with (frames['frTabs'].document.body) {
-  if (fDir==0) {
-   if (scrollLeft>0) {
-    for (i=0;i<c_lTabs&&g_rglTabX[i]<scrollLeft;i++);
-    if (i<c_lTabs)
-     iNextTab=i-1;
-   }
-  } else {
-   if (g_rglTabX[c_lTabs]+6>offsetWidth+scrollLeft) {
-    for (i=0;i<c_lTabs&&g_rglTabX[i]<=scrollLeft;i++);
-    if (i<c_lTabs)
-     iNextTab=i;
-   }
-  }
- }
- return iNextTab;
-}
-
-function fnScrollTabs(fDir)
-{
- var iNextTab=fnNextTab(fDir);
-
- if (iNextTab>=0) {
-  frames['frTabs'].scroll(g_rglTabX[iNextTab],0);
-  return true;
- } else
-  return false;
-}
-
-function fnFastScrollTabs(fDir)
-{
- if (c_lTabs>16)
-  frames['frTabs'].scroll(g_rglTabX[fDir?c_lTabs-1:0],0);
- else
-  if (fnScrollTabs(fDir)>0) window.setTimeout("fnFastScrollTabs("+fDir+");",5);
-}
-
-function fnSetTabProps(iTab,fActive)
-{
- var iCol=fnTabToCol(iTab);
- var i;
-
- if (iTab>=0) {
-  with (frames['frTabs'].document.all) {
-   with (tbTabs) {
-    for (i=0;i<=4;i++) {
-     with (rows[i]) {
-      if (i==0)
-       cells[iCol].style.background=c_rgszClr[fActive?0:2];
-      else if (i>0 && i<4) {
-       if (fActive) {
-        cells[iCol-1].style.background=c_rgszClr[2];
-        cells[iCol].style.background=c_rgszClr[0];
-        cells[iCol+1].style.background=c_rgszClr[2];
-       } else {
-        if (i==1) {
-         cells[iCol-1].style.background=c_rgszClr[2];
-         cells[iCol].style.background=c_rgszClr[1];
-         cells[iCol+1].style.background=c_rgszClr[2];
-        } else {
-         cells[iCol-1].style.background=c_rgszClr[4];
-         cells[iCol].style.background=c_rgszClr[(i==2)?2:4];
-         cells[iCol+1].style.background=c_rgszClr[4];
-        }
-       }
-      } else
-       cells[iCol].style.background=c_rgszClr[fActive?2:4];
-     }
-    }
-   }
-   with (aTab[iTab].style) {
-    cursor=(fActive?"default":"hand");
-    color=c_rgszClr[3];
-   }
-  }
- }
-}
-
-function fnMouseOverScroll(iCtl)
-{
- frames['frScroll'].document.all.tdScroll[iCtl].style.color=c_rgszClr[5];
-}
-
-function fnMouseOutScroll(iCtl)
-{
- frames['frScroll'].document.all.tdScroll[iCtl].style.color=c_rgszClr[2];
-}
-
-function fnMouseOverTab(iTab)
-{
- if (iTab!=g_iShCur) {
-  var iCol=fnTabToCol(iTab);
-  with (frames['frTabs'].document.all) {
-   tdTab[iTab].style.background=c_rgszClr[5];
-  }
- }
-}
-
-function fnMouseOutTab(iTab)
-{
- if (iTab>=0) {
-  var elFrom=frames['frTabs'].event.srcElement;
-  var elTo=frames['frTabs'].event.toElement;
-
-  if ((!elTo) ||
-   (elFrom.tagName==elTo.tagName) ||
-   (elTo.tagName=="A" && elTo.parentElement!=elFrom) ||
-   (elFrom.tagName=="A" && elFrom.parentElement!=elTo)) {
-
-   if (iTab!=g_iShCur) {
-    with (frames['frTabs'].document.all) {
-     tdTab[iTab].style.background=c_rgszClr[1];
-    }
-   }
-  }
- }
-}
-
-function fnSetActiveSheet(iSh)
-{
- if (iSh!=g_iShCur) {
-  fnSetTabProps(g_iShCur,false);
-  fnSetTabProps(iSh,true);
-  g_iShCur=iSh;
- }
-}
- fnGetIEVer();
- fnBuildFrameset();
-//-->
-</script>
-<![endif]><!--[if gte mso 9]><xml>
- <x:ExcelWorkbook>
-  <x:ExcelWorksheets>
-   <x:ExcelWorksheet>
-    <x:Name>Active</x:Name>
-    <x:WorksheetSource HRef="course.fld/sheet001.htm"/>
-   </x:ExcelWorksheet>
-   <x:ExcelWorksheet>
-    <x:Name>SPRING 2023</x:Name>
-    <x:WorksheetSource HRef="course.fld/sheet002.htm"/>
-   </x:ExcelWorksheet>
-  </x:ExcelWorksheets>
-  <x:Stylesheet HRef="course.fld/stylesheet.css"/>
-  <x:WindowHeight>18000</x:WindowHeight>
-  <x:WindowWidth>28800</x:WindowWidth>
-  <x:WindowTopX>32767</x:WindowTopX>
-  <x:WindowTopY>32767</x:WindowTopY>
-  <x:ProtectStructure>False</x:ProtectStructure>
-  <x:ProtectWindows>False</x:ProtectWindows>
- </x:ExcelWorkbook>
-</xml><![endif]-->
+<style id="course_17100_Styles">
+<!--table
+	{mso-displayed-decimal-separator:"\.";
+	mso-displayed-thousand-separator:"\,";}
+@page
+	{margin:.75in .7in .75in .7in;
+	mso-header-margin:.3in;
+	mso-footer-margin:.3in;
+	mso-page-orientation:landscape;}
+tr
+	{mso-height-source:auto;}
+col
+	{mso-width-source:auto;}
+br
+	{mso-data-placement:same-cell;}
+.style16
+	{color:#0563C1;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-style-name:Hyperlink;
+	mso-style-id:8;}
+a:link
+	{color:#0563C1;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;}
+a:visited
+	{color:#954F72;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;}
+.style0
+	{mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	white-space:nowrap;
+	mso-rotate:0;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	color:black;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	border:none;
+	mso-protection:locked visible;
+	mso-style-name:Normal;
+	mso-style-id:0;}
+td
+	{mso-style-parent:style0;
+	padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	border:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:locked visible;
+	white-space:nowrap;
+	mso-rotate:0;}
+.xl65
+	{mso-style-parent:style0;
+	font-size:11.0pt;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;}
+.xl66
+	{mso-style-parent:style0;
+	font-size:11.0pt;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	text-align:left;}
+.xl67
+	{mso-style-parent:style0;
+	font-size:11.0pt;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"Medium Date";
+	text-align:left;}
+.xl68
+	{mso-style-parent:style0;
+	font-size:11.0pt;
+	font-style:italic;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	vertical-align:middle;}
+.xl69
+	{mso-style-parent:style0;
+	font-size:11.0pt;
+	font-style:italic;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:0%;}
+.xl70
+	{mso-style-parent:style0;
+	font-size:11.0pt;
+	font-style:italic;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	text-align:right;}
+.xl71
+	{mso-style-parent:style16;
+	font-size:11.0pt;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;}
+.xl72
+	{mso-style-parent:style0;
+	font-size:11.0pt;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	text-align:right;}
+.xl73
+	{mso-style-parent:style0;
+	font-size:11.0pt;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"\[ENG\]\[$-409\]mmmm\\ d\\\,\\ yyyy\;\@";
+	text-align:left;}
+.xl74
+	{mso-style-parent:style16;
+	color:#0563C1;
+	font-size:11.0pt;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;}
+.xl75
+	{mso-style-parent:style0;
+	font-size:10.0pt;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	text-align:left;
+	vertical-align:middle;
+	border-top:.5pt solid windowtext;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;}
+.xl76
+	{mso-style-parent:style0;
+	font-size:10.0pt;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	text-align:left;
+	vertical-align:middle;}
+.xl77
+	{mso-style-parent:style0;
+	font-size:10.0pt;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"\[ENG\]\[$-409\]mmmm\\ d\\\,\\ yyyy\;\@";
+	text-align:left;
+	vertical-align:middle;}
+.xl78
+	{mso-style-parent:style0;
+	font-size:10.0pt;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	text-align:left;
+	vertical-align:middle;
+	white-space:normal;}
+.xl79
+	{mso-style-parent:style0;
+	font-size:10.0pt;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	text-align:left;
+	vertical-align:middle;
+	background:#73FEFF;
+	mso-pattern:black none;}
+.xl80
+	{mso-style-parent:style0;
+	font-size:10.0pt;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"\[ENG\]\[$-409\]mmmm\\ d\\\,\\ yyyy\;\@";
+	text-align:left;
+	vertical-align:middle;
+	background:#73FEFF;
+	mso-pattern:black none;}
+.xl81
+	{mso-style-parent:style0;
+	font-size:10.0pt;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	vertical-align:middle;
+	background:#73FEFF;
+	mso-pattern:black none;}
+.xl82
+	{mso-style-parent:style0;
+	font-size:10.0pt;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	vertical-align:middle;}
+.xl83
+	{mso-style-parent:style0;
+	font-size:10.0pt;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	text-align:left;
+	vertical-align:middle;
+	background:#E7E6E6;
+	mso-pattern:black none;
+	white-space:normal;}
+.xl84
+	{mso-style-parent:style0;
+	font-size:10.0pt;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"\[ENG\]\[$-409\]mmmm\\ d\\\,\\ yyyy\;\@";
+	text-align:left;
+	vertical-align:middle;
+	background:#E7E6E6;
+	mso-pattern:black none;}
+.xl85
+	{mso-style-parent:style0;
+	font-size:10.0pt;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	text-align:left;
+	vertical-align:middle;
+	background:#E7E6E6;
+	mso-pattern:black none;}
+.xl86
+	{mso-style-parent:style0;
+	font-size:10.0pt;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	vertical-align:middle;
+	white-space:normal;}
+.xl87
+	{mso-style-parent:style0;
+	font-size:10.0pt;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	text-align:left;
+	vertical-align:middle;
+	border-top:none;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	background:#73FEFF;
+	mso-pattern:black none;}
+.xl88
+	{mso-style-parent:style0;
+	font-size:10.0pt;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"\[ENG\]\[$-409\]mmmm\\ d\\\,\\ yyyy\;\@";
+	text-align:left;
+	vertical-align:middle;
+	border-top:none;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	background:#73FEFF;
+	mso-pattern:black none;}
+.xl89
+	{mso-style-parent:style0;
+	font-size:10.0pt;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"Medium Date";
+	vertical-align:middle;
+	border-top:none;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	background:#73FEFF;
+	mso-pattern:black none;}
+-->
+</style>
 </head>
 
-<frameset rows="*,39" border=0 width=0 frameborder=no framespacing=0>
- <frame src="course.fld/sheet001.htm" name="frSheet">
- <frame src="course.fld/tabstrip.htm" name="frTabs" marginwidth=0 marginheight=0>
- <noframes>
-  <body>
-   <p>This page uses frames, but your browser doesn't support them.</p>
-  </body>
- </noframes>
-</frameset>
-</html>
+<body link="#0563C1" vlink="#954F72" class=xl65>
+<!--[if !excel]>&nbsp;&nbsp;<![endif]-->
+<!--The following information was generated by Microsoft Excel's Publish as Web
+Page wizard.-->
+<!--If the same item is republished from Excel, all information between the DIV
+tags will be replaced.-->
+<!----------------------------->
+<!--START OF OUTPUT FROM EXCEL PUBLISH AS WEB PAGE WIZARD -->
+<!----------------------------->
 
-course.htm
-Displaying course.htm.
+<div id="course_17100" align=center x:publishsource="Excel">
+
+<table border=0 cellpadding=0 cellspacing=0 width=916 style='border-collapse:
+ collapse;table-layout:fixed;width:687pt'>
+ <col class=xl65 width=416 style='mso-width-source:userset;mso-width-alt:13312;
+ width:312pt'>
+ <col class=xl65 width=140 style='mso-width-source:userset;mso-width-alt:4480;
+ width:105pt'>
+ <col class=xl65 width=88 style='mso-width-source:userset;mso-width-alt:2816;
+ width:66pt'>
+ <col class=xl65 width=272 style='mso-width-source:userset;mso-width-alt:8704;
+ width:204pt'>
+ <tr height=23 style='mso-height-source:userset;height:17.0pt'>
+  <td height=23 class=xl75 width=416 style='height:17.0pt;width:312pt'>CONTENTS</td>
+  <td class=xl75 width=140 style='width:105pt'>DATE</td>
+  <td class=xl75 width=88 style='width:66pt'>CLASS</td>
+  <td class=xl75 width=272 style='width:204pt'>REMARKS</td>
+ </tr>
+ <tr height=19 style='height:14.0pt'>
+  <td height=19 class=xl76 style='height:14.0pt'>Introduction to Basics of SCM</td>
+  <td class=xl77>February 26, 2023</td>
+  <td class=xl76>Class 01</td>
+  <td class=xl76></td>
+ </tr>
+ <tr height=19 style='height:14.0pt'>
+  <td height=19 class=xl76 style='height:14.0pt'>Chapter 1 and Chapter 2 (from
+  Reference Textbook)</td>
+  <td class=xl77>March 5, 2023</td>
+  <td class=xl76>Class 02</td>
+  <td class=xl76></td>
+ </tr>
+ <tr height=19 style='height:14.0pt'>
+  <td height=19 class=xl76 style='height:14.0pt'>Chapter 1: Introduction to
+  Operations and SCM</td>
+  <td class=xl77>March 12, 2023</td>
+  <td class=xl76>Class 03</td>
+  <td class=xl76></td>
+ </tr>
+ <tr height=19 style='height:14.0pt'>
+  <td height=19 class=xl76 style='height:14.0pt'>Class cancelled (need a
+  make-up class)</td>
+  <td class=xl77>March 19, 2023</td>
+  <td class=xl76>No class</td>
+  <td class=xl76>Assignment I posted on LMS</td>
+ </tr>
+ <tr height=19 style='height:14.0pt'>
+  <td height=19 class=xl76 style='height:14.0pt'>Chapter 2: Operations and
+  Supply Chain Strategies</td>
+  <td class=xl77>March 26, 2023</td>
+  <td class=xl76>Class 04</td>
+  <td class=xl76></td>
+ </tr>
+ <tr height=19 style='height:14.0pt'>
+  <td height=19 class=xl78 width=416 style='height:14.0pt;width:312pt'>Chapter
+  3 (Part A) : Process Choice and Layout...</td>
+  <td class=xl77>April 2, 2023</td>
+  <td class=xl76>Class 05</td>
+  <td class=xl76>Assignment I due</td>
+ </tr>
+ <tr height=19 style='height:14.0pt'>
+  <td height=19 class=xl79 style='height:14.0pt'>Midterm Examination</td>
+  <td class=xl80>April 7, 2023</td>
+  <td class=xl79>&nbsp;</td>
+  <td class=xl81>Exam Time: Session III</td>
+ </tr>
+ <tr height=19 style='height:14.0pt'>
+  <td height=19 class=xl76 style='height:14.0pt'>Week is off due to Midterm
+  Examination</td>
+  <td class=xl77>April 9, 2023</td>
+  <td class=xl76>No class</td>
+  <td class=xl82>Official Holiday</td>
+ </tr>
+ <tr height=19 style='height:14.0pt'>
+  <td height=19 class=xl78 width=416 style='height:14.0pt;width:312pt'>Midterm
+  Review; Lecture on Literature Review</td>
+  <td class=xl77>April 16, 2023</td>
+  <td class=xl76>Class 06</td>
+  <td class=xl82></td>
+ </tr>
+ <tr height=19 style='height:14.0pt'>
+  <td height=19 class=xl78 width=416 style='height:14.0pt;width:312pt'>Fundamentals
+  of SCM with Guest Speaker - Online Session</td>
+  <td class=xl77>April 19, 2023</td>
+  <td class=xl76>Class 07</td>
+  <td class=xl82>Make-up class for March 19, 2023</td>
+ </tr>
+ <tr height=20 style='mso-height-source:userset;height:15.0pt'>
+  <td rowspan=2 height=39 class=xl83 width=416 style='height:29.0pt;width:312pt'>Happy
+  Eid - Official Holidays</td>
+  <td class=xl84>April 23, 2023</td>
+  <td class=xl85>No class</td>
+  <td class=xl85>&nbsp;</td>
+ </tr>
+ <tr height=19 style='height:14.0pt'>
+  <td height=19 class=xl84 style='height:14.0pt'>April 30, 2023</td>
+  <td class=xl85>No class</td>
+  <td class=xl85>&nbsp;</td>
+ </tr>
+ <tr height=19 style='height:14.0pt'>
+  <td height=19 class=xl76 style='height:14.0pt'>Chapter 3 (Part B) : Process
+  Choice and Layout...</td>
+  <td class=xl77>May 7, 2023</td>
+  <td class=xl76>Class 08</td>
+  <td class=xl82></td>
+ </tr>
+ <tr height=19 style='height:14.0pt'>
+  <td height=19 class=xl76 style='height:14.0pt'>Chapter 4: Business Processes</td>
+  <td class=xl77>May 14, 2023</td>
+  <td class=xl76>Class 09</td>
+  <td class=xl82>Assignment II posted on LMS</td>
+ </tr>
+ <tr height=19 style='height:14.0pt'>
+  <td height=19 class=xl76 style='height:14.0pt'>Chapter 5 (Part A): Managing
+  Quality</td>
+  <td class=xl77>May 21, 2023</td>
+  <td class=xl76>Class 10</td>
+  <td class=xl76>In-class quiz I</td>
+ </tr>
+ <tr height=19 style='height:14.0pt'>
+  <td height=19 class=xl76 style='height:14.0pt'>Chapter 5 (Part B): Managing
+  Quality</td>
+  <td class=xl77>May 28, 2023</td>
+  <td class=xl76>Class 11</td>
+  <td class=xl82>Assignment II due by May 28, 2023</td>
+ </tr>
+ <tr height=19 style='height:14.0pt'>
+  <td height=19 class=xl78 width=416 style='height:14.0pt;width:312pt'>Chapter
+  11 (Part A): Managing Inventory</td>
+  <td class=xl77>June 4, 2023</td>
+  <td class=xl76>Class 12</td>
+  <td class=xl76>In-class quiz II</td>
+ </tr>
+ <tr height=19 style='height:14.0pt'>
+  <td height=19 class=xl78 width=416 style='height:14.0pt;width:312pt'>Chapter
+  11 (Part B): Managing Inventory</td>
+  <td class=xl77>June 10, 2023</td>
+  <td class=xl76>Class 13</td>
+  <td class=xl86 width=272 style='width:204pt'>Project report (.docx) due by
+  June 09</td>
+ </tr>
+ <tr height=20 style='mso-height-source:userset;height:15.0pt'>
+  <td height=20 class=xl76 style='height:15.0pt'>Final Project Presentations
+  (Round I): 9 AM ― 11 AM</td>
+  <td rowspan=2 class=xl77>June 11, 2023</td>
+  <td class=xl76>Class 14</td>
+  <td rowspan=2 class=xl78 width=272 style='width:204pt'>Presentation (.pptx)
+  due by June 11</td>
+ </tr>
+ <tr height=19 style='height:14.0pt'>
+  <td height=19 class=xl76 style='height:14.0pt'>Final Project Presentations
+  (Round II): 11 AM ― 1 PM</td>
+  <td class=xl76>Class 15</td>
+ </tr>
+ <tr height=19 style='height:14.0pt'>
+  <td height=19 class=xl78 width=416 style='height:14.0pt;width:312pt'>Final
+  Review of the Course</td>
+  <td class=xl77>June 18, 2023</td>
+  <td class=xl76>Class 16</td>
+  <td class=xl82></td>
+ </tr>
+ <tr height=19 style='height:14.0pt'>
+  <td height=19 class=xl87 style='height:14.0pt'>Final Examination ― CONFIRMED</td>
+  <td class=xl88>June 23, 2023</td>
+  <td class=xl89>No class</td>
+  <td class=xl89>Exam Time: 1730 ― 1930 (Session III)</td>
+ </tr>
+ <tr height=19 style='height:14.0pt'>
+  <td height=19 class=xl66 style='height:14.0pt'></td>
+  <td class=xl67></td>
+  <td class=xl66></td>
+  <td class=xl66></td>
+ </tr>
+ <tr height=19 style='height:14.0pt'>
+  <td height=19 class=xl68 style='height:14.0pt'>Quizzes must be held in class
+  with close books and notes.</td>
+  <td class=xl67></td>
+  <td class=xl69></td>
+  <td class=xl70>Quizzes (2)<span style='mso-spacerun:yes'>     </span>10%</td>
+ </tr>
+ <tr height=19 style='height:14.0pt'>
+  <td height=19 class=xl68 colspan=2 style='height:14.0pt;mso-ignore:colspan'>Project
+  report and assignments must be submitted to LMS in .docx format.</td>
+  <td class=xl69></td>
+  <td class=xl70>Assignments (2)<span style='mso-spacerun:yes'>  </span>+
+  Project (1)<span style='mso-spacerun:yes'>     </span>20%</td>
+ </tr>
+ <tr height=19 style='height:14.0pt'>
+  <td height=19 class=xl66 style='height:14.0pt'></td>
+  <td class=xl67></td>
+  <td class=xl69></td>
+  <td class=xl70>Midterm Exam (1)<span style='mso-spacerun:yes'>     </span>30%</td>
+ </tr>
+ <tr height=19 style='height:14.0pt'>
+  <td height=19 class=xl71 style='height:14.0pt'>View your grades:</td>
+  <td class=xl65></td>
+  <td class=xl69></td>
+  <td class=xl70>Final Exam (1)<span style='mso-spacerun:yes'>     </span>40%</td>
+ </tr>
+ <tr height=19 style='height:14.0pt'>
+  <td height=19 class=xl74 colspan=2 style='height:14.0pt;mso-ignore:colspan'><a
+  href="https://drive.google.com/file/d/1YWr3qShbdJbqh1If-Z6Xn-qx8c_8h6Cl"
+  target="_parent" title="Link for grades"><span style='font-size:11.0pt;
+  font-family:Arial, sans-serif;mso-font-charset:0'>https://drive.google.com/file/d/1YWr3qShbdJbqh1If-Z6Xn-qx8c_8h6Cl</span></a></td>
+  <td class=xl65></td>
+  <td class=xl65></td>
+ </tr>
+ <tr height=19 style='height:14.0pt'>
+  <td height=19 class=xl65 style='height:14.0pt'></td>
+  <td class=xl65></td>
+  <td class=xl65></td>
+  <td class=xl65></td>
+ </tr>
+ <tr height=19 style='height:14.0pt'>
+  <td height=19 class=xl72 style='height:14.0pt'>Last updated on</td>
+  <td class=xl73>June 11, 2025</td>
+  <td class=xl65></td>
+  <td class=xl65></td>
+ </tr>
+ <![if supportMisalignedColumns]>
+ <tr height=0 style='display:none'>
+  <td width=416 style='width:312pt'></td>
+  <td width=140 style='width:105pt'></td>
+  <td width=88 style='width:66pt'></td>
+  <td width=272 style='width:204pt'></td>
+ </tr>
+ <![endif]>
+</table>
+
+</div>
+
+
+<!----------------------------->
+<!--END OF OUTPUT FROM EXCEL PUBLISH AS WEB PAGE WIZARD-->
+<!----------------------------->
+</body>
+
+</html>
