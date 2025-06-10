@@ -299,7 +299,6 @@ td
 	mso-pattern:black none;}
 -->
 </style>
-</head>
 
 <body link="#0563C1" vlink="#954F72" class=xl65>
 
@@ -532,5 +531,3 @@ td
 </div>
 
 </body>
-
-</html>
