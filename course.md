@@ -4,7 +4,7 @@ title: Course Plan for SCM101
 description: Course Plan
 ---
 
-<style id="course_17100_Styles">
+
 <!--table
 	{mso-displayed-decimal-separator:"\.";
 	mso-displayed-thousand-separator:"\,";}
