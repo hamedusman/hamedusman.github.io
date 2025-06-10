@@ -8,14 +8,14 @@ description: Course Plan
 
 <table border=0 cellpadding=0 cellspacing=0 width=546 style='border-collapse:
  collapse;table-layout:fixed;width:409pt'>
- <col class=xl65 width=85 style='mso-width-source:userset;mso-width-alt:2730;
- width:64pt'>
- <col class=xl65 width=123 style='mso-width-source:userset;mso-width-alt:3925;
- width:92pt'>
- <col class=xl65 width=175 style='mso-width-source:userset;mso-width-alt:5589;
- width:131pt'>
- <col class=xl65 width=163 style='mso-width-source:userset;mso-width-alt:5205;
- width:122pt'>
+ <col class="xl65" width="85" style="mso-width-source:userset;mso-width-alt:2730;
+ width:64pt">
+ <col class="xl65" style="mso-width-source:userset;mso-width-alt:3925;
+ width:95pt;" width="123">
+ <col class="xl65" width="175" style="mso-width-source:userset;mso-width-alt:5589;
+ width:131pt">
+ <col class="xl65" width="163" style="mso-width-source:userset;mso-width-alt:5205;
+ width:132pt;">
  <tr height=21 style='height:16.0pt'>
   <td height=21 class=xl65 width=85 style='height:16.0pt;width:64pt'>CLASS</td>
   <td class=xl65 width=123 style='width:92pt'>CONTENTS</td>
