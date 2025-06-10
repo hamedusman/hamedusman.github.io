@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Course Plan
-permalink:
+permalink: none
 ---
 
 <b>Course Plan:</b> SCM101.
