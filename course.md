@@ -8,9 +8,9 @@ description: Course Plan
 
 <table border=0 cellpadding=0 cellspacing=0 width=642 style='border-collapse:
  collapse;table-layout:fixed;width:482pt'>
- <col width=81 style='mso-width-source:userset;mso-width-alt:2602;width:61pt'>
- <col width=381 style='mso-width-source:userset;mso-width-alt:12202;width:286pt'>
- <col width=180 style='mso-width-source:userset;mso-width-alt:5760;width:135pt'>
+ <col width="80" style="mso-width-source:userset;mso-width-alt:2602;width:60pt">
+ <col width="380" style="mso-width-source:userset;mso-width-alt:12202;width:300pt">
+ <col width="180" style="mso-width-source:userset;mso-width-alt:5760;width:150pt;">
  <tr height=21 style='height:16.0pt'>
   <td height=21 width=81 style='height:16.0pt;width:61pt'>CLASS</td>
   <td width=381 style='width:286pt'>CONTENTS</td>
