@@ -1,30 +1,52 @@
----
-layout: frontpage
-title: Hamed Usman - Academic & Researcher
-description: Hamed Usman is an instructor of operations and supply chain management at a university. 
-keywords: hanedusman, hamed usman, hamed, usman, operations management, supply chain management, logistics, scm
----
-
-<html xmlns:o="urn:schemas-microsoft-com:office:office"
-xmlns:x="urn:schemas-microsoft-com:office:excel"
-xmlns="http://www.w3.org/TR/REC-html40">
-
-<head>
-<meta name=Generator content="Microsoft Excel 15">
-<style id="example_25868_Styles">
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns="http://www.w3.org/TR/REC-html40"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="ProgId" content="Excel.Sheet">
+<meta name="Generator" content="Microsoft Excel 15">
+<link rel="File-List" href="file:///Users/hu/Desktop/FSCM-Course-Plan-Spring-2023.fld/filelist.xml">
+<style id="FSCM-Course-Plan-Spring-2023_5507_Styles">
 <!--table
 	{mso-displayed-decimal-separator:"\.";
 	mso-displayed-thousand-separator:"\,";}
 @page
 	{margin:.75in .7in .75in .7in;
 	mso-header-margin:.3in;
-	mso-footer-margin:.3in;}
+	mso-footer-margin:.3in;
+	mso-page-orientation:landscape;}
 tr
 	{mso-height-source:auto;}
 col
 	{mso-width-source:auto;}
 br
 	{mso-data-placement:same-cell;}
+.style16
+	{color:#0563C1;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-style-name:Hyperlink;
+	mso-style-id:8;}
+a:link
+	{color:#0563C1;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;}
+a:visited
+	{color:#954F72;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;}
 .style0
 	{mso-number-format:General;
 	text-align:general;
@@ -44,13 +66,11 @@ br
 	mso-protection:locked visible;
 	mso-style-name:Normal;
 	mso-style-id:0;}
-.style16
-	{mso-number-format:0%;
-	mso-style-name:Percent;
-	mso-style-id:5;}
 td
 	{mso-style-parent:style0;
-	padding:0px;
+	padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
 	mso-ignore:padding;
 	color:black;
 	font-size:12.0pt;
@@ -74,287 +94,178 @@ td
 	font-family:Arial, sans-serif;
 	mso-font-charset:0;
 	text-align:center;
-	vertical-align:middle;
-	border-top:.5pt solid windowtext;
-	border-right:.5pt solid windowtext;
-	border-bottom:none;
-	border-left:.5pt solid windowtext;
-	white-space:normal;}
+	vertical-align:middle;}
 .xl66
 	{mso-style-parent:style0;
 	font-size:11.0pt;
 	font-family:Arial, sans-serif;
 	mso-font-charset:0;
-	text-align:center;
-	vertical-align:middle;
-	border-top:.5pt solid windowtext;
-	border-right:none;
-	border-bottom:none;
-	border-left:.5pt solid windowtext;
-	white-space:normal;}
+	text-align:left;
+	vertical-align:middle;}
 .xl67
 	{mso-style-parent:style0;
 	font-size:11.0pt;
 	font-family:Arial, sans-serif;
 	mso-font-charset:0;
-	text-align:center;
-	vertical-align:middle;
-	border-top:none;
-	border-right:.5pt solid windowtext;
-	border-bottom:.5pt solid windowtext;
-	border-left:none;
-	white-space:normal;}
+	mso-number-format:"\[ENG\]\[$-409\]mmmm\\ d\\\,\\ yyyy\;\@";
+	text-align:left;
+	vertical-align:middle;}
 .xl68
 	{mso-style-parent:style0;
 	font-size:11.0pt;
 	font-family:Arial, sans-serif;
 	mso-font-charset:0;
-	text-align:center;
+	text-align:left;
 	vertical-align:middle;
-	border-top:none;
-	border-right:.5pt solid windowtext;
-	border-bottom:none;
-	border-left:.5pt solid windowtext;}
+	white-space:normal;}
 .xl69
 	{mso-style-parent:style0;
 	font-size:11.0pt;
 	font-family:Arial, sans-serif;
 	mso-font-charset:0;
-	text-align:center;
-	vertical-align:middle;
-	border-top:none;
-	border-right:.5pt solid windowtext;
-	border-bottom:.5pt solid windowtext;
-	border-left:.5pt solid windowtext;}
+	vertical-align:middle;}
 .xl70
 	{mso-style-parent:style0;
 	font-size:11.0pt;
 	font-family:Arial, sans-serif;
 	mso-font-charset:0;
-	text-align:center;
 	vertical-align:middle;
-	border-top:none;
-	border-right:none;
-	border-bottom:none;
-	border-left:.5pt solid windowtext;}
+	white-space:normal;}
 .xl71
 	{mso-style-parent:style0;
 	font-size:11.0pt;
 	font-family:Arial, sans-serif;
 	mso-font-charset:0;
-	text-align:center;
+	text-align:left;
 	vertical-align:middle;
-	border-top:none;
-	border-right:.5pt solid windowtext;
-	border-bottom:none;
-	border-left:none;}
+	background:#73FEFF;
+	mso-pattern:black none;}
 .xl72
 	{mso-style-parent:style0;
 	font-size:11.0pt;
 	font-family:Arial, sans-serif;
 	mso-font-charset:0;
-	text-align:center;
-	vertical-align:middle;}
+	mso-number-format:"\[ENG\]\[$-409\]mmmm\\ d\\\,\\ yyyy\;\@";
+	text-align:left;
+	vertical-align:middle;
+	background:#73FEFF;
+	mso-pattern:black none;}
 .xl73
 	{mso-style-parent:style0;
 	font-size:11.0pt;
 	font-family:Arial, sans-serif;
 	mso-font-charset:0;
-	text-align:center;
+	mso-number-format:"Medium Date";
 	vertical-align:middle;
-	border-top:none;
-	border-right:none;
-	border-bottom:.5pt solid windowtext;
-	border-left:.5pt solid windowtext;}
+	background:#73FEFF;
+	mso-pattern:black none;}
 .xl74
 	{mso-style-parent:style0;
 	font-size:11.0pt;
 	font-family:Arial, sans-serif;
-	mso-font-charset:0;
-	text-align:center;
-	vertical-align:middle;
-	border-top:none;
-	border-right:.5pt solid windowtext;
-	border-bottom:.5pt solid windowtext;
-	border-left:none;}
+	mso-font-charset:0;}
 .xl75
 	{mso-style-parent:style0;
 	font-size:11.0pt;
 	font-family:Arial, sans-serif;
 	mso-font-charset:0;
-	text-align:center;
-	vertical-align:middle;
-	border-top:none;
-	border-right:none;
-	border-bottom:.5pt solid windowtext;
-	border-left:.5pt solid windowtext;
-	white-space:normal;}
+	text-align:left;}
 .xl76
 	{mso-style-parent:style0;
 	font-size:11.0pt;
 	font-family:Arial, sans-serif;
 	mso-font-charset:0;
-	text-align:center;
-	vertical-align:middle;
-	border-top:none;
-	border-right:.5pt solid windowtext;
-	border-bottom:.5pt solid windowtext;
-	border-left:.5pt solid windowtext;
-	white-space:normal;}
+	mso-number-format:"Medium Date";
+	text-align:left;}
 .xl77
 	{mso-style-parent:style0;
 	font-size:11.0pt;
+	font-style:italic;
 	font-family:Arial, sans-serif;
 	mso-font-charset:0;
-	text-align:left;
-	vertical-align:middle;
-	border-top:none;
-	border-right:.5pt solid windowtext;
-	border-bottom:none;
-	border-left:none;}
+	vertical-align:middle;}
 .xl78
 	{mso-style-parent:style0;
 	font-size:11.0pt;
+	font-style:italic;
 	font-family:Arial, sans-serif;
 	mso-font-charset:0;
-	text-align:left;
-	vertical-align:middle;
-	border-top:none;
-	border-right:.5pt solid windowtext;
-	border-bottom:.5pt solid windowtext;
-	border-left:none;}
+	mso-number-format:0%;}
 .xl79
 	{mso-style-parent:style0;
 	font-size:11.0pt;
+	font-style:italic;
 	font-family:Arial, sans-serif;
 	mso-font-charset:0;
-	text-align:center;
-	vertical-align:middle;
-	border-top:.5pt solid windowtext;
-	border-right:.5pt solid windowtext;
-	border-bottom:none;
-	border-left:.5pt solid windowtext;}
+	text-align:right;}
 .xl80
-	{mso-style-parent:style0;
+	{mso-style-parent:style16;
 	font-size:11.0pt;
 	font-family:Arial, sans-serif;
-	mso-font-charset:0;
-	text-align:center;
-	vertical-align:middle;
-	border-top:none;
-	border-right:none;
-	border-bottom:.5pt solid windowtext;
-	border-left:none;}
+	mso-font-charset:0;}
 .xl81
 	{mso-style-parent:style0;
 	font-size:11.0pt;
 	font-family:Arial, sans-serif;
 	mso-font-charset:0;
-	text-align:center;
-	vertical-align:middle;
-	border-top:none;
-	border-right:none;
-	border-bottom:.5pt solid windowtext;
-	border-left:none;
-	white-space:normal;}
+	text-align:right;}
 .xl82
-	{mso-style-parent:style16;
+	{mso-style-parent:style0;
 	font-size:11.0pt;
 	font-family:Arial, sans-serif;
 	mso-font-charset:0;
-	text-align:center;
-	vertical-align:middle;
-	border-top:none;
-	border-right:.5pt solid windowtext;
-	border-bottom:none;
-	border-left:.5pt solid windowtext;
-	white-space:normal;}
+	mso-number-format:"\[ENG\]\[$-409\]mmmm\\ d\\\,\\ yyyy\;\@";
+	text-align:left;}
 .xl83
 	{mso-style-parent:style0;
 	font-size:11.0pt;
 	font-family:Arial, sans-serif;
 	mso-font-charset:0;
-	text-align:center;
+	text-align:left;
 	vertical-align:middle;
-	border-top:.5pt solid windowtext;
-	border-right:.5pt solid windowtext;
-	border-bottom:none;
-	border-left:none;
+	background:#E7E6E6;
+	mso-pattern:black none;
 	white-space:normal;}
 .xl84
 	{mso-style-parent:style0;
 	font-size:11.0pt;
 	font-family:Arial, sans-serif;
 	mso-font-charset:0;
-	text-align:center;
+	mso-number-format:"\[ENG\]\[$-409\]mmmm\\ d\\\,\\ yyyy\;\@";
+	text-align:left;
 	vertical-align:middle;
-	border-top:.5pt solid windowtext;
-	border-right:none;
-	border-bottom:none;
-	border-left:none;
-	white-space:normal;}
+	background:#E7E6E6;
+	mso-pattern:black none;}
 .xl85
 	{mso-style-parent:style0;
 	font-size:11.0pt;
 	font-family:Arial, sans-serif;
 	mso-font-charset:0;
-	mso-number-format:"\@";
-	text-align:center;
+	text-align:left;
 	vertical-align:middle;
-	border-top:none;
-	border-right:none;
-	border-bottom:none;
-	border-left:.5pt solid windowtext;}
+	background:#E7E6E6;
+	mso-pattern:black none;}
 .xl86
 	{mso-style-parent:style0;
 	font-size:11.0pt;
 	font-family:Arial, sans-serif;
 	mso-font-charset:0;
-	mso-number-format:"\@";
-	text-align:center;
 	vertical-align:middle;
-	border-top:none;
-	border-right:none;
-	border-bottom:.5pt solid windowtext;
-	border-left:.5pt solid windowtext;}
+	background:#73FEFF;
+	mso-pattern:black none;}
 .xl87
-	{mso-style-parent:style0;
+	{mso-style-parent:style16;
+	color:#0563C1;
 	font-size:11.0pt;
+	text-decoration:underline;
+	text-underline-style:single;
 	font-family:Arial, sans-serif;
-	mso-font-charset:0;
-	text-align:center;
-	vertical-align:middle;
-	border-top:.5pt solid windowtext;
-	border-right:none;
-	border-bottom:.5pt solid windowtext;
-	border-left:.5pt solid windowtext;}
-.xl88
-	{mso-style-parent:style0;
-	font-size:11.0pt;
-	font-family:Arial, sans-serif;
-	mso-font-charset:0;
-	text-align:center;
-	vertical-align:middle;
-	border-top:.5pt solid windowtext;
-	border-right:none;
-	border-bottom:.5pt solid windowtext;
-	border-left:none;}
-.xl89
-	{mso-style-parent:style0;
-	font-size:11.0pt;
-	font-family:Arial, sans-serif;
-	mso-font-charset:0;
-	text-align:center;
-	vertical-align:middle;
-	border-top:.5pt solid windowtext;
-	border-right:.5pt solid windowtext;
-	border-bottom:.5pt solid windowtext;
-	border-left:none;}
+	mso-font-charset:0;}
 -->
 </style>
 </head>
 
-<body link="#0563C1" vlink="#954F72" class=xl72>
+<body link="#0563C1" vlink="#954F72" class="xl74">
 <!--[if !excel]>&nbsp;&nbsp;<![endif]-->
 <!--The following information was generated by Microsoft Excel's Publish as Web
 Page wizard.-->
@@ -364,367 +275,235 @@ tags will be replaced.-->
 <!--START OF OUTPUT FROM EXCEL PUBLISH AS WEB PAGE WIZARD -->
 <!----------------------------->
 
-<div id="example_25868" align=center x:publishsource="Excel">
+<div id="FSCM-Course-Plan-Spring-2023_5507" align="center" x:publishsource="Excel">
 
-<table border=0 cellpadding=0 cellspacing=0 width=684 style='border-collapse:
- collapse;table-layout:fixed;width:511pt'>
- <col class=xl72 width=113 style='mso-width-source:userset;mso-width-alt:3626;
- width:85pt'>
- <col class=xl72 width=87 span=2 style='width:65pt'>
- <col class=xl72 width=79 style='mso-width-source:userset;mso-width-alt:2517;
- width:59pt'>
- <col class=xl72 width=63 span=2 style='mso-width-source:userset;mso-width-alt:
- 2005;width:47pt'>
- <col class=xl72 width=55 span=2 style='mso-width-source:userset;mso-width-alt:
- 1749;width:41pt'>
- <col class=xl72 width=31 style='mso-width-source:userset;mso-width-alt:981;
- width:23pt'>
- <col class=xl72 width=51 style='mso-width-source:userset;mso-width-alt:1621;
- width:38pt'>
- <tr height=19 style='height:14.0pt'>
-  <td colspan=10 height=19 class=xl87 width=684 style='border-right:.5pt solid black;
-  height:14.0pt;width:511pt'><a name="Print_Area">Unofficial Result - SPRING
-  2023 -<span style='mso-spacerun:yes'>  </span>FUNDAMENTALS OF SCM - MS (SCM)
-  1 (A) EVENING</a></td>
+<table border="0" cellpadding="0" cellspacing="0" width="922" style="border-collapse:
+ collapse;table-layout:fixed;width:691pt">
+ <colgroup><col class="xl74" width="435" style="mso-width-source:userset;mso-width-alt:13909;
+ width:326pt">
+ <col class="xl74" width="131" style="mso-width-source:userset;mso-width-alt:4181;
+ width:98pt">
+ <col class="xl74" width="84" style="mso-width-source:userset;mso-width-alt:2688;
+ width:63pt">
+ <col class="xl74" width="272" style="mso-width-source:userset;mso-width-alt:8704;
+ width:204pt">
+ </colgroup><tbody><tr height="40" style="mso-height-source:userset;height:30.0pt">
+  <td colspan="4" height="40" class="xl65" width="922" style="height:30.0pt;width:691pt">COURSE
+  PLAN FOR SPRING 2023 - FUNDAMENTALS OF SCM - MS (SCM) 1 (A) EVENING</td>
  </tr>
- <tr height=20 style='mso-height-source:userset;height:15.0pt'>
-  <td rowspan=2 height=39 class=xl65 width=113 style='border-bottom:.5pt solid black;
-  height:29.0pt;border-top:none;width:85pt'>ENROLLMENT NUMBER</td>
-  <td class=xl65 width=87 style='border-top:none;border-left:none;width:65pt'>FINAL<span
-  style='mso-spacerun:yes'> </span></td>
-  <td class=xl65 width=87 style='border-top:none;border-left:none;width:65pt'>MIDTERM</td>
-  <td class=xl66 width=79 style='border-top:none;border-left:none;width:59pt'>PROJECT</td>
-  <td colspan=2 class=xl66 width=126 style='width:94pt'>ASSIGNMENTS</td>
-  <td colspan=2 class=xl66 width=110 style='border-right:.5pt solid black;
-  width:82pt'>QUIZZES</td>
-  <td colspan=2 rowspan=2 class=xl66 width=82 style='border-right:.5pt solid black;
-  border-bottom:.5pt solid black;width:61pt'>FINAL GRADE</td>
+ <tr height="19" style="height:14.0pt">
+  <td height="19" class="xl66" style="height:14.0pt">CONTENTS</td>
+  <td class="xl66">DATE</td>
+  <td class="xl66">CLASS</td>
+  <td class="xl66">REMARKS</td>
  </tr>
- <tr height=19 style='height:14.0pt'>
-  <td height=19 class=xl82 width=87 style='height:14.0pt;border-left:none;
-  width:65pt'>40</td>
-  <td class=xl76 width=87 style='border-left:none;width:65pt'>30</td>
-  <td class=xl75 width=79 style='border-left:none;width:59pt'>10</td>
-  <td class=xl75 width=63 style='width:47pt'>I (5)</td>
-  <td class=xl81 width=63 style='width:47pt'>II (5)</td>
-  <td class=xl75 width=55 style='width:41pt'>I (5)</td>
-  <td class=xl67 width=55 style='width:41pt'>II (5)</td>
+ <tr height="19" style="height:14.0pt">
+  <td height="19" class="xl66" style="height:14.0pt">Introduction to Basics of SCM</td>
+  <td class="xl67">February 26, 2023</td>
+  <td class="xl66">Class 01</td>
+  <td class="xl66"></td>
  </tr>
- <tr height=19 style='height:14.0pt'>
-  <td height=19 class=xl85 style='height:14.0pt'>0001</td>
-  <td class=xl79>30</td>
-  <td class=xl71>22</td>
-  <td class=xl79 style='border-top:none;border-left:none'>8</td>
-  <td class=xl70 style='border-left:none'>4</td>
-  <td class=xl72>3</td>
-  <td class=xl70>4</td>
-  <td class=xl71>3</td>
-  <td class=xl72></td>
-  <td class=xl77>B</td>
+ <tr height="19" style="height:14.0pt">
+  <td height="19" class="xl66" style="height:14.0pt">Chapter 1 and Chapter 2 (from
+  Reference Textbook)</td>
+  <td class="xl67">March 5, 2023</td>
+  <td class="xl66">Class 02</td>
+  <td class="xl66"></td>
  </tr>
- <tr height=19 style='height:14.0pt'>
-  <td height=19 class=xl85 style='height:14.0pt'>0002</td>
-  <td class=xl68>18.5</td>
-  <td class=xl71>26</td>
-  <td class=xl68 style='border-left:none'>10</td>
-  <td class=xl70 style='border-left:none'>3</td>
-  <td class=xl72>4</td>
-  <td class=xl70>3</td>
-  <td class=xl71>1</td>
-  <td class=xl72></td>
-  <td class=xl77>C+</td>
+ <tr height="19" style="height:14.0pt">
+  <td height="19" class="xl66" style="height:14.0pt">Chapter 1: Introduction to
+  Operations and SCM</td>
+  <td class="xl67">March 12, 2023</td>
+  <td class="xl66">Class 03</td>
+  <td class="xl66"></td>
  </tr>
- <tr height=19 style='height:14.0pt'>
-  <td height=19 class=xl85 style='height:14.0pt'>0003</td>
-  <td class=xl68>26</td>
-  <td class=xl71>26</td>
-  <td class=xl68 style='border-left:none'>10</td>
-  <td class=xl70 style='border-left:none'>2</td>
-  <td class=xl72>3</td>
-  <td class=xl70>4</td>
-  <td class=xl71>4</td>
-  <td class=xl72></td>
-  <td class=xl77>B+</td>
+ <tr height="19" style="height:14.0pt">
+  <td height="19" class="xl66" style="height:14.0pt">Class cancelled (need a
+  make-up class)</td>
+  <td class="xl67">March 19, 2023</td>
+  <td class="xl66">No class</td>
+  <td class="xl66">Assignment I posted on LMS</td>
  </tr>
- <tr height=19 style='height:14.0pt'>
-  <td height=19 class=xl85 style='height:14.0pt'>0004</td>
-  <td class=xl68>35</td>
-  <td class=xl71>30</td>
-  <td class=xl68 style='border-left:none'>10</td>
-  <td class=xl70 style='border-left:none'>2</td>
-  <td class=xl72>4</td>
-  <td class=xl70>3</td>
-  <td class=xl71>4</td>
-  <td class=xl72></td>
-  <td class=xl77>A</td>
+ <tr height="19" style="height:14.0pt">
+  <td height="19" class="xl66" style="height:14.0pt">Chapter 2: Operations and
+  Supply Chain Strategies</td>
+  <td class="xl67">March 26, 2023</td>
+  <td class="xl66">Class 04</td>
+  <td class="xl66"></td>
  </tr>
- <tr height=19 style='height:14.0pt'>
-  <td height=19 class=xl85 style='height:14.0pt'>0005</td>
-  <td class=xl68>28</td>
-  <td class=xl71>28</td>
-  <td class=xl68 style='border-left:none'>10</td>
-  <td class=xl70 style='border-left:none'>4</td>
-  <td class=xl72>4</td>
-  <td class=xl70>2</td>
-  <td class=xl71>2</td>
-  <td class=xl72></td>
-  <td class=xl77>B+</td>
+ <tr height="20" style="height:15.0pt">
+  <td height="20" class="xl68" width="435" style="height:15.0pt;width:326pt">Chapter
+  3 (Part A) : Process Choice and Layout...</td>
+  <td class="xl67">April 2, 2023</td>
+  <td class="xl66">Class 05</td>
+  <td class="xl66">Assignment I due</td>
  </tr>
- <tr height=19 style='height:14.0pt'>
-  <td height=19 class=xl85 style='height:14.0pt'>0006</td>
-  <td class=xl68>38</td>
-  <td class=xl71>16</td>
-  <td class=xl68 style='border-left:none'>8</td>
-  <td class=xl70 style='border-left:none'>4</td>
-  <td class=xl72>5</td>
-  <td class=xl70>3</td>
-  <td class=xl71>2</td>
-  <td class=xl72></td>
-  <td class=xl77>B+</td>
+ <tr height="19" style="height:14.0pt">
+  <td height="19" class="xl71" style="height:14.0pt">Midterm Examination</td>
+  <td class="xl72">April 7, 2023</td>
+  <td class="xl71">&nbsp;</td>
+  <td class="xl86">Exam Time: Session III</td>
  </tr>
- <tr height=19 style='height:14.0pt'>
-  <td height=19 class=xl85 style='height:14.0pt'>0007</td>
-  <td class=xl68>37</td>
-  <td class=xl71>30</td>
-  <td class=xl68 style='border-left:none'>8</td>
-  <td class=xl70 style='border-left:none'>4</td>
-  <td class=xl72>5</td>
-  <td class=xl70>3</td>
-  <td class=xl71>2</td>
-  <td class=xl72></td>
-  <td class=xl77>A</td>
+ <tr height="19" style="height:14.0pt">
+  <td height="19" class="xl66" style="height:14.0pt">Week is off due to Midterm
+  Examination</td>
+  <td class="xl67">April 9, 2023</td>
+  <td class="xl66">No class</td>
+  <td class="xl69">Official Holiday</td>
  </tr>
- <tr height=19 style='height:14.0pt'>
-  <td height=19 class=xl85 style='height:14.0pt'>0008</td>
-  <td class=xl68>30</td>
-  <td class=xl71>28</td>
-  <td class=xl68 style='border-left:none'>7</td>
-  <td class=xl70 style='border-left:none'>2</td>
-  <td class=xl72>3</td>
-  <td class=xl70>2</td>
-  <td class=xl71>2</td>
-  <td class=xl72></td>
-  <td class=xl77>B</td>
+ <tr height="20" style="height:15.0pt">
+  <td height="20" class="xl68" width="435" style="height:15.0pt;width:326pt">Midterm
+  Review; Lecture on Literature Review</td>
+  <td class="xl67">April 16, 2023</td>
+  <td class="xl66">Class 06</td>
+  <td class="xl69"></td>
  </tr>
- <tr height=19 style='height:14.0pt'>
-  <td height=19 class=xl85 style='height:14.0pt'>0009</td>
-  <td class=xl68>34</td>
-  <td class=xl71>28</td>
-  <td class=xl68 style='border-left:none'>7</td>
-  <td class=xl70 style='border-left:none'>4</td>
-  <td class=xl72>3</td>
-  <td class=xl70>2</td>
-  <td class=xl71>3</td>
-  <td class=xl72></td>
-  <td class=xl77>A-</td>
+ <tr height="20" style="height:15.0pt">
+  <td height="20" class="xl68" width="435" style="height:15.0pt;width:326pt">Fundamentals
+  of SCM with Guest Speaker - Online Session</td>
+  <td class="xl67">April 19, 2023</td>
+  <td class="xl66">Class 07</td>
+  <td class="xl69">Make-up class for March 19, 2023</td>
  </tr>
- <tr height=19 style='height:14.0pt'>
-  <td height=19 class=xl85 style='height:14.0pt'>0010</td>
-  <td class=xl68>16.5</td>
-  <td class=xl71>29</td>
-  <td class=xl68 style='border-left:none'>8</td>
-  <td class=xl70 style='border-left:none'>3</td>
-  <td class=xl72>3</td>
-  <td class=xl70>3</td>
-  <td class=xl71>3</td>
-  <td class=xl72></td>
-  <td class=xl77>C+</td>
+ <tr height="20" style="mso-height-source:userset;height:15.0pt">
+  <td rowspan="2" height="39" class="xl83" width="435" style="height:29.0pt;width:326pt">Happy
+  Eid - Official Holidays</td>
+  <td class="xl84">April 23, 2023</td>
+  <td class="xl85">No class</td>
+  <td class="xl85">&nbsp;</td>
  </tr>
- <tr height=19 style='height:14.0pt'>
-  <td height=19 class=xl85 style='height:14.0pt'>0011</td>
-  <td class=xl68>25.5</td>
-  <td class=xl71>27.5</td>
-  <td class=xl68 style='border-left:none'>10</td>
-  <td class=xl70 style='border-left:none'>4</td>
-  <td class=xl72>4</td>
-  <td class=xl70>3</td>
-  <td class=xl71>3</td>
-  <td class=xl72></td>
-  <td class=xl77>B+</td>
+ <tr height="19" style="height:14.0pt">
+  <td height="19" class="xl84" style="height:14.0pt">April 30, 2023</td>
+  <td class="xl85">No class</td>
+  <td class="xl85">&nbsp;</td>
  </tr>
- <tr height=19 style='height:14.0pt'>
-  <td height=19 class=xl85 style='height:14.0pt'>0012</td>
-  <td class=xl68>33</td>
-  <td class=xl71>30</td>
-  <td class=xl68 style='border-left:none'>8</td>
-  <td class=xl70 style='border-left:none'>4</td>
-  <td class=xl72>5</td>
-  <td class=xl70>5</td>
-  <td class=xl71>4</td>
-  <td class=xl72></td>
-  <td class=xl77>A</td>
+ <tr height="19" style="height:14.0pt">
+  <td height="19" class="xl66" style="height:14.0pt">Chapter 3 (Part B) : Process
+  Choice and Layout...</td>
+  <td class="xl67">May 7, 2023</td>
+  <td class="xl66">Class 08</td>
+  <td class="xl69"></td>
  </tr>
- <tr height=19 style='height:14.0pt'>
-  <td height=19 class=xl85 style='height:14.0pt'>0013</td>
-  <td class=xl68>22</td>
-  <td class=xl71>24</td>
-  <td class=xl68 style='border-left:none'>10</td>
-  <td class=xl70 style='border-left:none'>4</td>
-  <td class=xl72>5</td>
-  <td class=xl70>3</td>
-  <td class=xl71>3</td>
-  <td class=xl72></td>
-  <td class=xl77>B</td>
+ <tr height="19" style="height:14.0pt">
+  <td height="19" class="xl66" style="height:14.0pt">Chapter 4: Business Processes</td>
+  <td class="xl67">May 14, 2023</td>
+  <td class="xl66">Class 09</td>
+  <td class="xl69">Assignment II posted on LMS</td>
  </tr>
- <tr height=19 style='height:14.0pt'>
-  <td height=19 class=xl85 style='height:14.0pt'>0014</td>
-  <td class=xl68>35</td>
-  <td class=xl71>30</td>
-  <td class=xl68 style='border-left:none'>10</td>
-  <td class=xl70 style='border-left:none'>4</td>
-  <td class=xl72>5</td>
-  <td class=xl70>4</td>
-  <td class=xl71>4</td>
-  <td class=xl72></td>
-  <td class=xl77>A</td>
+ <tr height="19" style="height:14.0pt">
+  <td height="19" class="xl66" style="height:14.0pt">Chapter 5 (Part A): Managing
+  Quality</td>
+  <td class="xl67">May 21, 2023</td>
+  <td class="xl66">Class 10</td>
+  <td class="xl66">In-class quiz I</td>
  </tr>
- <tr height=19 style='height:14.0pt'>
-  <td height=19 class=xl85 style='height:14.0pt'>0015</td>
-  <td class=xl68>17.5</td>
-  <td class=xl71>21.5</td>
-  <td class=xl68 style='border-left:none'>8</td>
-  <td class=xl70 style='border-left:none'>2</td>
-  <td class=xl72>4</td>
-  <td class=xl70>3</td>
-  <td class=xl71>4</td>
-  <td class=xl72></td>
-  <td class=xl77>C</td>
+ <tr height="19" style="height:14.0pt">
+  <td height="19" class="xl66" style="height:14.0pt">Chapter 5 (Part B): Managing
+  Quality</td>
+  <td class="xl67">May 28, 2023</td>
+  <td class="xl66">Class 11</td>
+  <td class="xl69">Assignment II due by May 28, 2023</td>
  </tr>
- <tr height=19 style='height:14.0pt'>
-  <td height=19 class=xl85 style='height:14.0pt'>0016</td>
-  <td class=xl68>23.5</td>
-  <td class=xl71>26</td>
-  <td class=xl68 style='border-left:none'>7</td>
-  <td class=xl70 style='border-left:none'>3</td>
-  <td class=xl72>3</td>
-  <td class=xl70>3</td>
-  <td class=xl71>1</td>
-  <td class=xl72></td>
-  <td class=xl77>C+</td>
+ <tr height="20" style="height:15.0pt">
+  <td height="20" class="xl68" width="435" style="height:15.0pt;width:326pt">Chapter
+  11 (Part A): Managing Inventory</td>
+  <td class="xl67">June 4, 2023</td>
+  <td class="xl66">Class 12</td>
+  <td class="xl66">In-class quiz II</td>
  </tr>
- <tr height=19 style='height:14.0pt'>
-  <td height=19 class=xl85 style='height:14.0pt'>0017</td>
-  <td class=xl68>25</td>
-  <td class=xl71>25</td>
-  <td class=xl68 style='border-left:none'>7</td>
-  <td class=xl70 style='border-left:none'>2</td>
-  <td class=xl72>3</td>
-  <td class=xl70>2</td>
-  <td class=xl71>3</td>
-  <td class=xl72></td>
-  <td class=xl77>C+</td>
+ <tr height="20" style="height:15.0pt">
+  <td height="20" class="xl68" width="435" style="height:15.0pt;width:326pt">Chapter
+  11 (Part B): Managing Inventory</td>
+  <td class="xl67">June 10, 2023</td>
+  <td class="xl66">Class 13</td>
+  <td class="xl70" width="272" style="width:204pt">Project report (.docx) due by
+  June 09</td>
  </tr>
- <tr height=19 style='height:14.0pt'>
-  <td height=19 class=xl85 style='height:14.0pt'>0018</td>
-  <td class=xl68>19</td>
-  <td class=xl71>27</td>
-  <td class=xl68 style='border-left:none'>10</td>
-  <td class=xl70 style='border-left:none'>2</td>
-  <td class=xl72>4</td>
-  <td class=xl70>2</td>
-  <td class=xl71>2</td>
-  <td class=xl72></td>
-  <td class=xl77>C+</td>
+ <tr height="20" style="mso-height-source:userset;height:15.0pt">
+  <td height="20" class="xl66" style="height:15.0pt">Final Project Presentations
+  (Round I): 9 AM ― 11 AM</td>
+  <td rowspan="2" class="xl67">June 11, 2023</td>
+  <td class="xl66">Class 14</td>
+  <td rowspan="2" class="xl68" width="272" style="width:204pt">Presentation (.pptx)
+  due by June 11</td>
  </tr>
- <tr height=19 style='height:14.0pt'>
-  <td height=19 class=xl85 style='height:14.0pt'>0019</td>
-  <td class=xl68>25.5</td>
-  <td class=xl71>28</td>
-  <td class=xl68 style='border-left:none'>8</td>
-  <td class=xl70 style='border-left:none'>4</td>
-  <td class=xl72>3</td>
-  <td class=xl70>2</td>
-  <td class=xl71>3</td>
-  <td class=xl72></td>
-  <td class=xl77>B</td>
+ <tr height="19" style="height:14.0pt">
+  <td height="19" class="xl66" style="height:14.0pt">Final Project Presentations
+  (Round II): 11 AM ― 1 PM</td>
+  <td class="xl66">Class 15</td>
  </tr>
- <tr height=19 style='height:14.0pt'>
-  <td height=19 class=xl85 style='height:14.0pt'>0020</td>
-  <td class=xl68>16</td>
-  <td class=xl71>28</td>
-  <td class=xl68 style='border-left:none'>10</td>
-  <td class=xl70 style='border-left:none'>3</td>
-  <td class=xl72>3</td>
-  <td class=xl70>3</td>
-  <td class=xl71>2</td>
-  <td class=xl72></td>
-  <td class=xl77>C+</td>
+ <tr height="20" style="height:15.0pt">
+  <td height="20" class="xl68" width="435" style="height:15.0pt;width:326pt">Final
+  Review of the Course</td>
+  <td class="xl67">June 18, 2023</td>
+  <td class="xl66">Class 16</td>
+  <td class="xl69"></td>
  </tr>
- <tr height=19 style='height:14.0pt'>
-  <td height=19 class=xl85 style='height:14.0pt'>0021</td>
-  <td class=xl68>25</td>
-  <td class=xl71>27</td>
-  <td class=xl68 style='border-left:none'>8</td>
-  <td class=xl70 style='border-left:none'>3</td>
-  <td class=xl72>2</td>
-  <td class=xl70>3</td>
-  <td class=xl71>2</td>
-  <td class=xl72></td>
-  <td class=xl77>B-</td>
+ <tr height="19" style="height:14.0pt">
+  <td height="19" class="xl71" style="height:14.0pt">Final Examination ― CONFIRMED</td>
+  <td class="xl72">June 23, 2023</td>
+  <td class="xl73">No class</td>
+  <td class="xl73">Exam Time: 1730 ― 1930 (Session III)</td>
  </tr>
- <tr height=19 style='height:14.0pt'>
-  <td height=19 class=xl85 style='height:14.0pt'>0022</td>
-  <td class=xl68>31</td>
-  <td class=xl71>27</td>
-  <td class=xl68 style='border-left:none'>10</td>
-  <td class=xl70 style='border-left:none'>4</td>
-  <td class=xl72>5</td>
-  <td class=xl70>4</td>
-  <td class=xl71>4</td>
-  <td class=xl72></td>
-  <td class=xl77>A</td>
+ <tr height="19" style="height:14.0pt">
+  <td height="19" class="xl75" style="height:14.0pt"></td>
+  <td class="xl76"></td>
+  <td class="xl75"></td>
+  <td class="xl75"></td>
  </tr>
- <tr height=19 style='height:14.0pt'>
-  <td height=19 class=xl85 style='height:14.0pt'>0023</td>
-  <td class=xl68>28</td>
-  <td class=xl71>28</td>
-  <td class=xl68 style='border-left:none'>10</td>
-  <td class=xl70 style='border-left:none'>4</td>
-  <td class=xl72>5</td>
-  <td class=xl70>4</td>
-  <td class=xl71>4</td>
-  <td class=xl72></td>
-  <td class=xl77>A-</td>
+ <tr height="19" style="height:14.0pt">
+  <td height="19" class="xl77" style="height:14.0pt">Quizzes must be held in class
+  with close books and notes.</td>
+  <td class="xl76"></td>
+  <td class="xl78"></td>
+  <td class="xl79">Quizzes (2)<span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp; </span>10%</td>
  </tr>
- <tr height=19 style='height:14.0pt'>
-  <td height=19 class=xl85 style='height:14.0pt'>0024</td>
-  <td class=xl68>23.5</td>
-  <td class=xl71>28</td>
-  <td class=xl68 style='border-left:none'>8</td>
-  <td class=xl70 style='border-left:none'>3</td>
-  <td class=xl72>3</td>
-  <td class=xl70>3</td>
-  <td class=xl71>3</td>
-  <td class=xl72></td>
-  <td class=xl77>B</td>
+ <tr height="19" style="height:14.0pt">
+  <td height="19" class="xl77" colspan="2" style="height:14.0pt;mso-ignore:colspan">Project
+  report and assignments must be submitted to LMS in .docx format.</td>
+  <td class="xl78"></td>
+  <td class="xl79">Assignments (2)<span style="mso-spacerun:yes">&nbsp; </span>+
+  Project (1)<span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp; </span>20%</td>
  </tr>
- <tr height=19 style='height:14.0pt'>
-  <td height=19 class=xl86 style='height:14.0pt'>0025</td>
-  <td class=xl69>33</td>
-  <td class=xl74>30</td>
-  <td class=xl69 style='border-left:none'>10</td>
-  <td class=xl73 style='border-left:none'>4</td>
-  <td class=xl80>4</td>
-  <td class=xl73>2</td>
-  <td class=xl74>4</td>
-  <td class=xl80>&nbsp;</td>
-  <td class=xl78>A</td>
+ <tr height="19" style="height:14.0pt">
+  <td height="19" class="xl75" style="height:14.0pt"></td>
+  <td class="xl76"></td>
+  <td class="xl78"></td>
+  <td class="xl79">Midterm Exam (1)<span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp; </span>30%</td>
  </tr>
- <![if supportMisalignedColumns]>
- <tr height=0 style='display:none'>
-  <td width=113 style='width:85pt'></td>
-  <td width=87 style='width:65pt'></td>
-  <td width=87 style='width:65pt'></td>
-  <td width=79 style='width:59pt'></td>
-  <td width=63 style='width:47pt'></td>
-  <td width=63 style='width:47pt'></td>
-  <td width=55 style='width:41pt'></td>
-  <td width=55 style='width:41pt'></td>
-  <td width=31 style='width:23pt'></td>
-  <td width=51 style='width:38pt'></td>
+ <tr height="19" style="height:14.0pt">
+  <td height="19" class="xl80" style="height:14.0pt">View your grades:</td>
+  <td class="xl74"></td>
+  <td class="xl78"></td>
+  <td class="xl79">Final Exam (1)<span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp; </span>40%</td>
  </tr>
- <![endif]>
-</table>
+ <tr height="19" style="height:14.0pt">
+  <td height="19" class="xl87" colspan="2" style="height:14.0pt;mso-ignore:colspan"><a href="https://drive.google.com/file/d/1YWr3qShbdJbqh1If-Z6Xn-qx8c_8h6Cl" title="Link for grades"><span style="font-size:11.0pt;font-family:Arial, sans-serif;
+  mso-font-charset:0">https://drive.google.com/file/d/1YWr3qShbdJbqh1If-Z6Xn-qx8c_8h6Cl</span></a></td>
+  <td class="xl74"></td>
+  <td class="xl74"></td>
+ </tr>
+ <tr height="19" style="height:14.0pt">
+  <td height="19" class="xl74" style="height:14.0pt"></td>
+  <td class="xl74"></td>
+  <td class="xl74"></td>
+  <td class="xl74"></td>
+ </tr>
+ <tr height="19" style="height:14.0pt">
+  <td height="19" class="xl81" style="height:14.0pt">Last updated on</td>
+  <td class="xl82">June 11, 2025</td>
+  <td class="xl74"></td>
+  <td class="xl74"></td>
+ </tr>
+ <!--[if supportMisalignedColumns]-->
+ <tr height="0" style="display:none">
+  <td width="435" style="width:326pt"></td>
+  <td width="131" style="width:98pt"></td>
+  <td width="84" style="width:63pt"></td>
+  <td width="272" style="width:204pt"></td>
+ </tr>
+ <!--[endif]-->
+</tbody></table>
 
 </div>
 
@@ -732,6 +511,7 @@ tags will be replaced.-->
 <!----------------------------->
 <!--END OF OUTPUT FROM EXCEL PUBLISH AS WEB PAGE WIZARD-->
 <!----------------------------->
-</body>
 
-</html>
+
+
+</body></html>
