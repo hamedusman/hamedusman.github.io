@@ -157,13 +157,11 @@ description: Course Plan
   href="https://drive.google.com/file/d/1YWr3qShbdJbqh1If-Z6Xn-qx8c_8h6Cl"
   title="Link for grades">https://drive.google.com/file/d/1YWr3qShbdJbqh1If-Z6Xn-qx8c_8h6Cl</a></td>
  </tr>
- <![if supportMisalignedColumns]>
  <tr height=0 style='display:none'>
   <td width=81 style='width:61pt'></td>
   <td width=381 style='width:286pt'></td>
   <td width=180 style='width:135pt'></td>
  </tr>
- <![endif]>
 </table>
 
 </div>
