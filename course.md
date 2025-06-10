@@ -4,7 +4,7 @@ title: Course Plan
 permalink:
 ---
 
-<b>404 Course Plan:</b> SCM101.
+<b>Course Plan:</b> SCM101.
 
 
 <html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns="http://www.w3.org/TR/REC-html40"><head>
