@@ -4,10 +4,6 @@ title: Course Plan for SCM101
 description: Course Plan
 ---
 
-
-
-<head>
-<meta name=Generator content="Microsoft Excel 15">
 <style id="course_17100_Styles">
 <!--table
 	{mso-displayed-decimal-separator:"\.";
