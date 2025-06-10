@@ -10,7 +10,6 @@ xmlns="http://www.w3.org/TR/REC-html40">
 
 <head>
 <meta name=Generator content="Microsoft Excel 15">
-<link rel=File-List href="course.fld/filelist.xml">
 <style id="course_17100_Styles">
 <!--table
 	{mso-displayed-decimal-separator:"\.";
