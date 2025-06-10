@@ -11,7 +11,6 @@ description: Course Plan
 <meta name="ProgId" content="Excel.Sheet">
 <meta name="Generator" content="Microsoft Excel 15">
 <link rel="File-List" href="file:///Users/hu/Desktop/FSCM-Course-Plan-Spring-2023.fld/filelist.xml">
-<style id="FSCM-Course-Plan-Spring-2023_5507_Styles">
 <!--table
 	{mso-displayed-decimal-separator:"\.";
 	mso-displayed-thousand-separator:"\,";}
