@@ -4,7 +4,6 @@ title: Course Plan for course101
 description: Course Plan
 ---
 
-
 <div id="course101_22939" align=center x:publishsource="Excel">
 
 <table border=0 cellpadding=0 cellspacing=0 width=642 style='border-collapse:
