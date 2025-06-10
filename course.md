@@ -4,163 +4,197 @@ title: Course Plan for course101
 description: Course Plan
 ---
 
-<div id="course101_22939" align=left x:publishsource="Excel">
+<div id="scm101_2551" align=left x:publishsource="Excel">
 
 <table border=0 cellpadding=0 cellspacing=0 width=862 style='border-collapse:
- collapse;table-layout:fixed;width:500pt'>
- <col width="80" style="mso-width-source:userset;mso-width-alt:2602;width:55pt">
- <col width="380" style="mso-width-source:userset;mso-width-alt:12202;width:295pt">
- <col width="180" style="mso-width-source:userset;mso-width-alt:5760;width:150pt;">
+ collapse;table-layout:fixed;width:411pt'>
+ <col class=xl65 width=88 style='mso-width-source:userset;mso-width-alt:2816;
+ width:66pt'>
+ <col class=xl65 width=123 style='mso-width-source:userset;mso-width-alt:3925;
+ width:92pt'>
+ <col class=xl65 width=175 style='mso-width-source:userset;mso-width-alt:5589;
+ width:131pt'>
+ <col class=xl65 width=163 style='mso-width-source:userset;mso-width-alt:5205;
+ width:122pt'>
  <tr height=21 style='height:16.0pt'>
-  <td height=21 width=81 style='height:16.0pt;width:61pt'>CLASS</td>
-  <td width=381 style='width:286pt'>CONTENTS</td>
-  <td width=180 style='width:135pt'>DATE</td>
+  <td height=21 class=xl65 width=88 style='height:16.0pt;width:66pt'>CLASS</td>
+  <td class=xl65 width=123 style='width:92pt'>CONTENTS</td>
+  <td class=xl65 width=175 style='width:131pt'>DATE</td>
+  <td class=xl65 width=163 style='width:122pt'>REMARKS</td>
  </tr>
  <tr height=21 style='height:16.0pt'>
-  <td height=21 style='height:16.0pt'>Class 01</td>
-  <td>Introduction to Basics of SCM</td>
-  <td>Sunday, February 26, 2023</td>
+  <td height=21 class=xl65 style='height:16.0pt'>Class 01</td>
+  <td class=xl65>Chapter 1</td>
+  <td class=xl66>September 9, 2025</td>
+  <td class=xl65>Beginning of the classes</td>
  </tr>
  <tr height=21 style='height:16.0pt'>
-  <td height=21 style='height:16.0pt'>Class 02</td>
-  <td>Chapter 1 and Chapter 2 (from Reference Textbook)</td>
-  <td>Sunday, March 5, 2023</td>
+  <td height=21 class=xl65 style='height:16.0pt'>Class 02</td>
+  <td class=xl65>Chapter 2</td>
+  <td class=xl66>September 16, 2025</td>
+  <td class=xl65></td>
  </tr>
  <tr height=21 style='height:16.0pt'>
-  <td height=21 style='height:16.0pt'>Class 03</td>
-  <td>Chapter 1: Introduction to Operations and SCM</td>
-  <td>Sunday, March 12, 2023</td>
+  <td height=21 class=xl65 style='height:16.0pt'>Class 03</td>
+  <td class=xl65>Chapter 3</td>
+  <td class=xl66>September 23, 2025</td>
+  <td class=xl65></td>
  </tr>
  <tr height=21 style='height:16.0pt'>
-  <td height=21 style='height:16.0pt'>Class 04</td>
-  <td>Fundamentals of SCM with Guest Speaker</td>
-  <td>Sunday, March 19, 2023</td>
+  <td height=21 class=xl65 style='height:16.0pt'>Class 04</td>
+  <td class=xl65>Chapter 4</td>
+  <td class=xl66>September 30, 2025</td>
+  <td class=xl65></td>
  </tr>
  <tr height=21 style='height:16.0pt'>
-  <td height=21 style='height:16.0pt'>Class 05</td>
-  <td>Chapter 2: Operations and Supply Chain Strategies</td>
-  <td>Sunday, March 26, 2023</td>
+  <td height=21 class=xl65 style='height:16.0pt'>Class 05</td>
+  <td class=xl65>Chapter 5</td>
+  <td class=xl66>October 7, 2025</td>
+  <td class=xl65></td>
  </tr>
  <tr height=21 style='height:16.0pt'>
-  <td height=21 style='height:16.0pt'>Class 06</td>
-  <td>Chapter 3 (Part A) : Process Choice and Layout...</td>
-  <td>Sunday, April 2, 2023</td>
+  <td height=21 class=xl65 style='height:16.0pt'>Class 06</td>
+  <td class=xl65>Chapter 6</td>
+  <td class=xl66>October 14, 2025</td>
+  <td class=xl65></td>
  </tr>
  <tr height=21 style='height:16.0pt'>
-  <td height=21 style='height:16.0pt'>Class 07</td>
-  <td>Week is off due to Midterm Examination</td>
-  <td>Sunday, April 9, 2023</td>
+  <td height=21 class=xl65 style='height:16.0pt'>Class 07</td>
+  <td class=xl65>Chapter 7</td>
+  <td class=xl66>October 21, 2025</td>
+  <td class=xl65></td>
  </tr>
  <tr height=21 style='height:16.0pt'>
-  <td height=21 style='height:16.0pt'>Class 08</td>
-  <td>Midterm Review; Lecture on Literature Review</td>
-  <td>Sunday, April 16, 2023</td>
+  <td height=21 class=xl65 style='height:16.0pt'>Class 08</td>
+  <td class=xl65>Chapter 8</td>
+  <td class=xl66>October 28, 2025</td>
+  <td class=xl65></td>
  </tr>
  <tr height=21 style='height:16.0pt'>
-  <td height=21 style='height:16.0pt'>No class</td>
-  <td>Happy Eid - Official Holidays</td>
-  <td>Sunday, April 23, 2023</td>
+  <td height=21 class=xl65 style='height:16.0pt'>Class 09</td>
+  <td class=xl65>Chapter 9</td>
+  <td class=xl66>November 4, 2025</td>
+  <td class=xl65></td>
  </tr>
  <tr height=21 style='height:16.0pt'>
-  <td height=21 style='height:16.0pt'>No class</td>
-  <td>Happy Eid - Official Holidays</td>
-  <td>Sunday, April 30, 2023</td>
+  <td height=21 class=xl65 style='height:16.0pt'>Class 10</td>
+  <td class=xl65>Chapter 10</td>
+  <td class=xl66>November 11, 2025</td>
+  <td class=xl65></td>
  </tr>
  <tr height=21 style='height:16.0pt'>
-  <td height=21 style='height:16.0pt'>Class 09</td>
-  <td>Chapter 3 (Part B) : Process Choice and Layout...</td>
-  <td>Sunday, May 7, 2023</td>
+  <td height=21 class=xl65 style='height:16.0pt'>Class 11</td>
+  <td class=xl65>Chapter 11</td>
+  <td class=xl66>November 18, 2025</td>
+  <td class=xl65></td>
  </tr>
  <tr height=21 style='height:16.0pt'>
-  <td height=21 style='height:16.0pt'>Class 10</td>
-  <td>Chapter 4: Business Processes</td>
-  <td>Sunday, May 14, 2023</td>
+  <td height=21 class=xl65 style='height:16.0pt'>Class 12</td>
+  <td class=xl65>Chapter 12</td>
+  <td class=xl66>November 25, 2025</td>
+  <td class=xl65></td>
  </tr>
  <tr height=21 style='height:16.0pt'>
-  <td height=21 style='height:16.0pt'>Class 11</td>
-  <td>Chapter 5 (Part A): Managing Quality</td>
-  <td>Sunday, May 21, 2023</td>
+  <td height=21 class=xl65 style='height:16.0pt'>Class 13</td>
+  <td class=xl65>Chapter 13</td>
+  <td class=xl66>December 2, 2025</td>
+  <td class=xl65></td>
  </tr>
  <tr height=21 style='height:16.0pt'>
-  <td height=21 style='height:16.0pt'>Class 12</td>
-  <td>Chapter 5 (Part B): Managing Quality</td>
-  <td>Sunday, May 28, 2023</td>
+  <td height=21 class=xl65 style='height:16.0pt'>Class 14</td>
+  <td class=xl65>Chapter 14</td>
+  <td class=xl66>December 9, 2025</td>
+  <td class=xl65></td>
  </tr>
  <tr height=21 style='height:16.0pt'>
-  <td height=21 style='height:16.0pt'>Class 13</td>
-  <td>Chapter 11 (Part A): Managing Inventory</td>
-  <td>Sunday, June 4, 2023</td>
+  <td height=21 class=xl65 style='height:16.0pt'>Class 15</td>
+  <td class=xl65>Chapter 15</td>
+  <td class=xl66>December 16, 2025</td>
+  <td class=xl65></td>
  </tr>
  <tr height=21 style='height:16.0pt'>
-  <td height=21 style='height:16.0pt'>Class 14</td>
-  <td>Chapter 11 (Part B): Managing Inventory</td>
-  <td>Saturday, June 10, 2023</td>
+  <td height=21 class=xl65 style='height:16.0pt'>Class 16</td>
+  <td class=xl65>Chapter 16</td>
+  <td class=xl66>December 23, 2025</td>
+  <td class=xl65>End of the classes</td>
  </tr>
  <tr height=21 style='height:16.0pt'>
-  <td height=21 style='height:16.0pt'>Class 15</td>
-  <td>Final Project Presentations</td>
-  <td>Sunday, June 11, 2023</td>
+  <td height=21 class=xl65 style='height:16.0pt'></td>
+  <td class=xl65></td>
+  <td class=xl65></td>
+  <td class=xl65></td>
  </tr>
  <tr height=21 style='height:16.0pt'>
-  <td height=21 style='height:16.0pt'>Class 16</td>
-  <td>Final Review of the Course</td>
-  <td>Sunday, June 18, 2023</td>
+  <td height=21 class=xl65 style='height:16.0pt'>GRADE</td>
+  <td class=xl65>ASSESSMENT</td>
+  <td class=xl65></td>
+  <td class=xl65></td>
  </tr>
  <tr height=21 style='height:16.0pt'>
-  <td height=21 colspan=3 style='height:16.0pt;mso-ignore:colspan'></td>
+  <td height=21 class=xl67 style='height:16.0pt'>10%</td>
+  <td class=xl65>Quizzes (2)</td>
+  <td class=xl65></td>
+  <td class=xl65></td>
  </tr>
  <tr height=21 style='height:16.0pt'>
-  <td height=21 style='height:16.0pt'></td>
-  <td>Quizzes (2)</td>
-  <td class=xl65>10%</td>
+  <td height=21 class=xl67 style='height:16.0pt'>20%</td>
+  <td class=xl65>Assignments (4)</td>
+  <td class=xl65></td>
+  <td class=xl65></td>
  </tr>
  <tr height=21 style='height:16.0pt'>
-  <td height=21 style='height:16.0pt'></td>
-  <td>Assignments (4)</td>
-  <td class=xl65>20%</td>
+  <td height=21 class=xl67 style='height:16.0pt'>30%</td>
+  <td class=xl65>Midterm Exam (1)</td>
+  <td class=xl65></td>
+  <td class=xl65></td>
  </tr>
  <tr height=21 style='height:16.0pt'>
-  <td height=21 style='height:16.0pt'></td>
-  <td>Midterm Exam (1)</td>
-  <td class=xl65>30%</td>
+  <td height=21 class=xl67 style='height:16.0pt'>40%</td>
+  <td class=xl65>Final Exam (1)</td>
+  <td class=xl65></td>
+  <td class=xl65></td>
  </tr>
  <tr height=21 style='height:16.0pt'>
-  <td height=21 style='height:16.0pt'></td>
-  <td>Final Exam (1)</td>
-  <td class=xl65>40%</td>
+  <td height=21 class=xl65 style='height:16.0pt'></td>
+  <td class=xl65></td>
+  <td class=xl65></td>
+  <td class=xl65></td>
  </tr>
  <tr height=21 style='height:16.0pt'>
-  <td height=21 colspan=3 style='height:16.0pt;mso-ignore:colspan'></td>
+  <td height=21 class=xl65 colspan=2 style='height:16.0pt;mso-ignore:colspan'>Quizzes
+  must be held in class.</td>
+  <td class=xl65></td>
+  <td class=xl65></td>
  </tr>
  <tr height=21 style='height:16.0pt'>
-  <td height=21 style='height:16.0pt'></td>
-  <td>Quizzes must be held in class.</td>
-  <td></td>
+  <td height=21 class=xl65 colspan=3 style='height:16.0pt;mso-ignore:colspan'>Assignments
+  must be submitted to LMS.</td>
+  <td class=xl65></td>
  </tr>
  <tr height=21 style='height:16.0pt'>
-  <td height=21 style='height:16.0pt'></td>
-  <td>Assignments must be submitted to LMS.</td>
-  <td></td>
+  <td height=21 class=xl65 style='height:16.0pt'></td>
+  <td class=xl65></td>
+  <td class=xl65></td>
+  <td class=xl65></td>
  </tr>
  <tr height=21 style='height:16.0pt'>
-  <td height=21 colspan=3 style='height:16.0pt;mso-ignore:colspan'></td>
+  <td height=21 class=xl65 colspan=2 style='height:16.0pt;mso-ignore:colspan'>View
+  your grades:</td>
+  <td class=xl65></td>
+  <td class=xl65></td>
  </tr>
  <tr height=21 style='height:16.0pt'>
-  <td height=21 style='height:16.0pt'></td>
-  <td>View your grades:</td>
-  <td></td>
- </tr>
- <tr height=21 style='height:16.0pt'>
-  <td height=21 style='height:16.0pt'></td>
-  <td class=xl66 colspan=2 style='mso-ignore:colspan'><a
+  <td height=21 class=xl68 colspan=4 style='height:16.0pt;mso-ignore:colspan'><a
   href="https://drive.google.com/file/d/1YWr3qShbdJbqh1If-Z6Xn-qx8c_8h6Cl"
   title="Link for grades">https://drive.google.com/file/d/1YWr3qShbdJbqh1If-Z6Xn-qx8c_8h6Cl</a></td>
  </tr>
  <tr height=0 style='display:none'>
-  <td width=81 style='width:61pt'></td>
-  <td width=381 style='width:286pt'></td>
-  <td width=180 style='width:135pt'></td>
+  <td width=88 style='width:66pt'></td>
+  <td width=123 style='width:92pt'></td>
+  <td width=175 style='width:131pt'></td>
+  <td width=163 style='width:122pt'></td>
  </tr>
 </table>
 
 </div>
+<br/>
