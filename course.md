@@ -1,3 +1,11 @@
+---
+layout: frontpage
+title: Hamed Usman - Academic & Researcher
+description: Hamed Usman is an instructor of operations and supply chain management at a university. 
+keywords: hanedusman, hamed usman, hamed, usman, operations management, supply chain management, logistics, scm
+---
+
+
 <div id="example_25868" align="center" x:publishsource="Excel">
 
 <table border="0" cellpadding="0" cellspacing="0" width="684" style="border-collapse:
