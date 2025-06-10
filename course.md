@@ -10,10 +10,7 @@ xmlns:x="urn:schemas-microsoft-com:office:excel"
 xmlns="http://www.w3.org/TR/REC-html40">
 
 <head>
-<meta http-equiv=Content-Type content="text/html; charset=utf-8">
-<meta name=ProgId content=Excel.Sheet>
 <meta name=Generator content="Microsoft Excel 15">
-<link rel=File-List href="example.fld/filelist.xml">
 <style id="example_25868_Styles">
 <!--table
 	{mso-displayed-decimal-separator:"\.";
