@@ -56,8 +56,8 @@ description: Course Plan
     <td>Homework III</td>
   </tr>
   <tr>
+    <td>Class 08</td>
     <td>Review of the course for midterms</td>
-    <td>Paperclips exercise for control charts</td>
     <td>October 28, 2025</td>
     <td>Goodluck for midterms</td>
   </tr>
