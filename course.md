@@ -17,7 +17,7 @@ description: Course Plan
     <td>Germany</td>
   </tr>
   <tr>
-    <td>CClass 02</td>
+    <td>Class 02</td>
     <td>Chapter 02</td>
     <td>Mexico</td>
   </tr>
