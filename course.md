@@ -12,33 +12,33 @@ description: Course Plan
     <th>REMARKS</th>
   </tr>
   <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
+    <td>Class 01</td>
+    <td>Chapter 01</td>
     <td>Germany</td>
   </tr>
   <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
+    <td>CClass 02</td>
+    <td>Chapter 02</td>
     <td>Mexico</td>
   </tr>
   <tr>
-    <td>Ernst Handel</td>
-    <td>Roland Mendel</td>
+    <td>Class 03</td>
+    <td>Chapter 03</td>
     <td>Austria</td>
   </tr>
   <tr>
-    <td>Island Trading</td>
-    <td>Helen Bennett</td>
+    <td>Class 04</td>
+    <td>Chapter 04</td>
     <td>UK</td>
   </tr>
   <tr>
-    <td>Laughing Bacchus Winecellars</td>
-    <td>Yoshi Tannamuri</td>
+    <td>Class 05</td>
+    <td>Chapter 05</td>
     <td>Canada</td>
   </tr>
   <tr>
-    <td>Magazzini Alimentari Riuniti</td>
-    <td>Giovanni Rovelli</td>
+    <td>Class 06</td>
+    <td>Chapter 06</td>
     <td>Italy</td>
   </tr>
 </table>
