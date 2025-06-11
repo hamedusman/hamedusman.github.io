@@ -4,7 +4,7 @@ title: Course Plan for course101
 description: Course Plan
 ---
 
-<table>
+<courseplantable>
   <tr>
     <th>Company</th>
     <th>Contact</th>
@@ -40,4 +40,4 @@ description: Course Plan
     <td>Giovanni Rovelli</td>
     <td>Italy</td>
   </tr>
-</table>
+</courseplantable>
