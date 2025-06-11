@@ -13,7 +13,7 @@ description: Course Plan
   </tr>
   <tr>
     <td>Class 01</td>
-    <td>Introduction to the Course </td>
+    <td>Introduction to the Course and Project</td>
     <td>September 9, 2025</td>
     <td>Beginning of the classes</td>
   </tr>
