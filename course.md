@@ -59,7 +59,7 @@ description: Course Plan
     <td>Class 08</td>
     <td>Review of the course for midterms</td>
     <td>October 28, 2025</td>
-    <td>Good luck for midterms</td>
+    <td>Good luck for midterms!</td>
   </tr>
   <tr>
     <td>Class 09</td>
@@ -107,6 +107,6 @@ description: Course Plan
     <td>Class 16</td>
     <td>Review of the course for midterms</td>
     <td>October 14, 2025</td>
-    <td>Good luck for finals</td>
+    <td>Good luck for finals!</td>
   </tr>
 </table>
