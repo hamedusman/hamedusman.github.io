@@ -111,6 +111,8 @@ description: Course Plan
   </tr>
 </table>
 
+<hr class="solid">
+
 <h5>ASSESSMENT</h5>
   <ul style="list-style-type:none;">
    <li>10% Quizzes (2)</li>
