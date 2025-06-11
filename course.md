@@ -27,7 +27,7 @@ description: Course Plan
     <td>Class 03</td>
     <td>Process Choice and Layout Decisions </td>
     <td>September 23, 2025</td>
-    <td></td>
+    <td>Assignment I posted on LMS</td>
   </tr>
   <tr>
     <td>Class 04</td>
