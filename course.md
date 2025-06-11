@@ -13,32 +13,32 @@ description: Course Plan
   </tr>
   <tr>
     <td>Class 01</td>
-    <td>Chapter 01</td>
+    <td>Introduction to the Course </td>
     <td>Germany</td>
   </tr>
   <tr>
     <td>Class 02</td>
-    <td>Chapter 02</td>
+    <td>Introduction to Operations and SCM</td>
     <td>Mexico</td>
   </tr>
   <tr>
     <td>Class 03</td>
-    <td>Chapter 03</td>
+    <td>Process Choice and Layout Decisions </td>
     <td>Austria</td>
   </tr>
   <tr>
     <td>Class 04</td>
-    <td>Chapter 04</td>
+    <td>Business Processes</td>
     <td>UK</td>
   </tr>
   <tr>
     <td>Class 05</td>
-    <td>Chapter 05</td>
+    <td>Managing Quality</td>
     <td>Canada</td>
   </tr>
   <tr>
     <td>Class 06</td>
-    <td>Chapter 06</td>
+    <td>Managing Supply</td>
     <td>Italy</td>
   </tr>
 </table>
