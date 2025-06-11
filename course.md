@@ -33,7 +33,7 @@ description: Course Plan
     <td>Class 04</td>
     <td>Business Processes</td>
     <td>September 30, 2025 	</td>
-    <td></td>
+    <td>In-class quiz I</td>
   </tr>
   <tr>
     <td>Class 05</td>
