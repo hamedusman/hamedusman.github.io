@@ -110,3 +110,28 @@ description: Course Plan
     <td>Good luck for finals!</td>
   </tr>
 </table>
+
+<table>
+  <tr>
+    <th>PERCENTAGE</th>
+    <th>ASSESSMENT</th>
+  </tr>
+  <tr>
+    <td>10%</td>
+    <td>Quizzes (2)</td>
+  </tr>
+  <tr>
+    <td>20%</td>
+    <td>Project (1) and Assignments (2)</td>
+  </tr>
+  <tr>
+    <td>25%</td>
+    <td>Midterm Exam (1))</td>
+  </tr>
+  <tr>
+    <td>40%</td>
+    <td>Final Exam (1))</td>
+  </tr>
+</table>
+
+
