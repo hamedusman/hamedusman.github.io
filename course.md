@@ -111,27 +111,10 @@ description: Course Plan
   </tr>
 </table>
 
-<table>
-  <tr>
-    <th>PERCENTAGE</th>
-    <th>ASSESSMENT</th>
-  </tr>
-  <tr>
-    <td>10%</td>
-    <td>Quizzes (2)</td>
-  </tr>
-  <tr>
-    <td>20%</td>
-    <td>Project (1) and Assignments (2)</td>
-  </tr>
-  <tr>
-    <td>25%</td>
-    <td>Midterm Exam (1))</td>
-  </tr>
-  <tr>
-    <td>40%</td>
-    <td>Final Exam (1))</td>
-  </tr>
-</table>
+<h5>ASSESSMENT</h5>
+  10% Quizzes (2)
+  20% Project (1) and Assignments (2)</td>
+  25% Midterm Exam (1)
+  40% Final Exam (1)
 
 
