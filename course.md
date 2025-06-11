@@ -113,10 +113,10 @@ description: Course Plan
 
 <h5>ASSESSMENT</h5>
   <ul style="list-style-type:none;">
-   10% Quizzes (2)
-   20% Project (1) and Assignments (2)</td>
-   25% Midterm Exam (1)
-   40% Final Exam (1)
+   <li>10% Quizzes (2)</li>
+   <li>20% Project (1) and Assignments (2)</li>
+   <li>25% Midterm Exam (1)</li>
+   <li>40% Final Exam (1)</li>
   </ul>
 
 
