@@ -121,4 +121,6 @@ description: Course Plan
    <li>40% Final Exam (1)</li>
   </ul>
 
+  Gades: https://drive.google.com/file/d/1YWr3qShbdJbqh1If-Z6Xn-qx8c_8h6Cl
+
 
