@@ -28,7 +28,7 @@ description: Course Plan
     <td>Class 03</td>
     <td>Process choice and layout decisions </td>
     <td>September 23, 2025</td>
-    <td>Assignment I posted on LMS</td>
+    <td>Assignment I is due.</td>
   </tr>
   <tr>
     <td>Class 04</td>
@@ -71,7 +71,7 @@ description: Course Plan
     <td>Class 10</td>
     <td>Logistics</td>
     <td>October 14, 2025</td>
-    <td>Assignment II</td>
+    <td>Assignment II is due.</td>
   </tr>
   <tr>
     <td>Class 11</td>
@@ -95,7 +95,7 @@ description: Course Plan
     <td>Class 14</td>
     <td>Project presentations</td>
     <td>October 14, 2025</td>
-    <td>Project files are due</td>
+    <td>Project files are due.</td>
   </tr>
   <tr>
     <td>Class 15</td>
