@@ -38,7 +38,7 @@ description: Course Plan
   </tr>
   <tr>
     <td>Class 05</td>
-    <td>Advanced Linear Programming</td>
+    <td>Advanced linear programming</td>
     <td>October 7, 2025</td>
     <td>Homework II</td>
     <td></td>
