@@ -113,7 +113,7 @@ description: Course Plan
 
 <hr class="solid">
 
-<h5>ASSESSMENT <a href="https://drive.google.com/file/d/1YWr3qShbdJbqh1If-Z6Xn-qx8c_8h6Cl)">View your grades</a></h5>
+<h5>Assessment: <a href="https://drive.google.com/file/d/1YWr3qShbdJbqh1If-Z6Xn-qx8c_8h6Cl)">View your grades</a></h5>
   <ul style="list-style-type:square;">
    <li>15% Quizzes (3)</li>
    <li>20% Project (1) and Assignments (2)</li>
