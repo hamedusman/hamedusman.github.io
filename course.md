@@ -6,10 +6,10 @@ description: Course Plan
 
 <table>
   <tr>
-    <th>CLASS</th>
-    <th>CONTENTS</th>
-    <th>DATE</th>
-    <th>REMARKS</th>
+    <td>CLASS</td>
+    <td>CONTENTS</td>
+    <td>DATE</td>
+    <td>REMARKS</td>
   </tr>
   <tr>
     <td>Class 01</td>
