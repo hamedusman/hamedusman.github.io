@@ -14,31 +14,31 @@ description: Course Plan
   <tr>
     <td>Class 01</td>
     <td>Introduction to the Course </td>
-    <td>Germany</td>
+    <td>September 9, 2025</td>
   </tr>
   <tr>
     <td>Class 02</td>
     <td>Introduction to Operations and SCM</td>
-    <td>Mexico</td>
+    <td>September 16, 2025</td>
   </tr>
   <tr>
     <td>Class 03</td>
     <td>Process Choice and Layout Decisions </td>
-    <td>Austria</td>
+    <td>September 23, 2025</td>
   </tr>
   <tr>
     <td>Class 04</td>
     <td>Business Processes</td>
-    <td>UK</td>
+    <td>September 30, 2025 	</td>
   </tr>
   <tr>
     <td>Class 05</td>
     <td>Managing Quality</td>
-    <td>Canada</td>
+    <td>October 7, 2025</td>
   </tr>
   <tr>
     <td>Class 06</td>
     <td>Managing Supply</td>
-    <td>Italy</td>
+    <td>October 14, 2025</td>
   </tr>
 </table>
