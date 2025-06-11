@@ -6,9 +6,10 @@ description: Course Plan
 
 <table>
   <tr>
-    <th>Company</th>
-    <th>Contact</th>
-    <th>Country</th>
+    <th>CLASS</th>
+    <th>CONTENTS</th>
+    <th>DATE</th>
+    <th>REMARKS</th>
   </tr>
   <tr>
     <td>Alfreds Futterkiste</td>
