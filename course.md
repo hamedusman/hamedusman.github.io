@@ -49,4 +49,64 @@ description: Course Plan
     <td>October 14, 2025</td>
     <td>In-class quiz II</td>
   </tr>
+  <tr>
+    <td>Class 07</td>
+    <td>Paperclips exercise for control charts</td>
+    <td>October 14, 2025</td>
+    <td>In-class quiz II</td>
+  </tr>
+  <tr>
+    <td>Class 08</td>
+    <td>Paperclips exercise for control charts</td>
+    <td>October 14, 2025</td>
+    <td>In-class quiz II</td>
+  </tr>
+  <tr>
+    <td>Class 09</td>
+    <td>Paperclips exercise for control charts</td>
+    <td>October 14, 2025</td>
+    <td>In-class quiz II</td>
+  </tr>
+  <tr>
+    <td>Class 10</td>
+    <td>Paperclips exercise for control charts</td>
+    <td>October 14, 2025</td>
+    <td>In-class quiz II</td>
+  </tr>
+  <tr>
+    <td>Class 11</td>
+    <td>Paperclips exercise for control charts</td>
+    <td>October 14, 2025</td>
+    <td>In-class quiz II</td>
+  </tr>
+  <tr>
+    <td>Class 12</td>
+    <td>Paperclips exercise for control charts</td>
+    <td>October 14, 2025</td>
+    <td>In-class quiz II</td>
+  </tr>
+  <tr>
+    <td>Class 13</td>
+    <td>Paperclips exercise for control charts</td>
+    <td>October 14, 2025</td>
+    <td>In-class quiz II</td>
+  </tr>
+  <tr>
+    <td>Class 14</td>
+    <td>Paperclips exercise for control charts</td>
+    <td>October 14, 2025</td>
+    <td>In-class quiz II</td>
+  </tr>
+  <tr>
+    <td>Class 15</td>
+    <td>Paperclips exercise for control charts</td>
+    <td>October 14, 2025</td>
+    <td>In-class quiz II</td>
+  </tr>
+  <tr>
+    <td>Class 16</td>
+    <td>Paperclips exercise for control charts</td>
+    <td>October 14, 2025</td>
+    <td>In-class quiz II</td>
+  </tr>
 </table>
