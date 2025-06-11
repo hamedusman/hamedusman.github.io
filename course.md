@@ -59,54 +59,54 @@ description: Course Plan
     <td>Class 08</td>
     <td>Review of the course for midterms</td>
     <td>October 28, 2025</td>
-    <td>Goodluck for midterms</td>
+    <td>Good luck for midterms</td>
   </tr>
   <tr>
     <td>Class 09</td>
     <td>Managing supply</td>
     <td>October 14, 2025</td>
-    <td>In-class quiz II</td>
+    <td>Homework III</td>
   </tr>
   <tr>
     <td>Class 10</td>
-    <td>Paperclips exercise for control charts</td>
+    <td>Logistics</td>
     <td>October 14, 2025</td>
-    <td>In-class quiz II</td>
+    <td>Assignment II</td>
   </tr>
   <tr>
     <td>Class 11</td>
-    <td>Paperclips exercise for control charts</td>
+    <td>Managing inventory</td>
     <td>October 14, 2025</td>
-    <td>In-class quiz II</td>
+    <td>In-class quiz III</td>
   </tr>
   <tr>
     <td>Class 12</td>
-    <td>Paperclips exercise for control charts</td>
+    <td>Forecasting</td>
     <td>October 14, 2025</td>
-    <td>In-class quiz II</td>
+    <td>Homework IV</td>
   </tr>
   <tr>
     <td>Class 13</td>
-    <td>Paperclips exercise for control charts</td>
+    <td>Contemporary issues in supply chain</td>
     <td>October 14, 2025</td>
-    <td>In-class quiz II</td>
+    <td>Project Q&A session</td>
   </tr>
   <tr>
     <td>Class 14</td>
-    <td>Paperclips exercise for control charts</td>
+    <td>Project presentations</td>
     <td>October 14, 2025</td>
-    <td>In-class quiz II</td>
+    <td>Project files are due</td>
   </tr>
   <tr>
     <td>Class 15</td>
-    <td>Paperclips exercise for control charts</td>
+    <td>Future trends in supply chain</td>
     <td>October 14, 2025</td>
-    <td>In-class quiz II</td>
+    <td>In-class quiz IV</td>
   </tr>
   <tr>
     <td>Class 16</td>
-    <td>Paperclips exercise for control charts</td>
+    <td>Review of the course for midterms</td>
     <td>October 14, 2025</td>
-    <td>In-class quiz II</td>
+    <td>Good luck for finals</td>
   </tr>
 </table>
