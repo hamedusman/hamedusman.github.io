@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Course Plan for course101
+title: Course Plan
 description: Course Plan
 ---
 
