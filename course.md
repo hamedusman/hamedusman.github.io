@@ -38,20 +38,20 @@ description: Course Plan
   </tr>
   <tr>
     <td>Class 05</td>
-    <td>Managing quality</td>
+    <td>Advanced Linear Programming</td>
     <td>October 7, 2025</td>
     <td>Homework II</td>
     <td></td>
   </tr>
   <tr>
     <td>Class 06</td>
-    <td>Paperclips exercise for control charts</td>
+    <td>Managing quality</td>
     <td>October 14, 2025</td>
     <td>In-class quiz II</td>
   </tr>
   <tr>
     <td>Class 07</td>
-    <td>Managing supply</td>
+    <td>Paperclips exercise for control charts</td>
     <td>October 21, 2025</td>
     <td>Homework III</td>
   </tr>
@@ -63,7 +63,7 @@ description: Course Plan
   </tr>
   <tr>
     <td>Class 09</td>
-    <td>Paperclips exercise for control charts</td>
+    <td>Managing supply</td>
     <td>October 14, 2025</td>
     <td>In-class quiz II</td>
   </tr>
