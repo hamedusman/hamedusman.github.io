@@ -65,7 +65,7 @@ description: Course Plan
     <td>Class 09</td>
     <td>Managing supply</td>
     <td>October 14, 2025</td>
-    <td>Homework III</td>
+    <td>Homework IV</td>
   </tr>
   <tr>
     <td>Class 10</td>
@@ -83,7 +83,7 @@ description: Course Plan
     <td>Class 12</td>
     <td>Forecasting</td>
     <td>October 14, 2025</td>
-    <td>Homework IV</td>
+    <td>Homework V</td>
   </tr>
   <tr>
     <td>Class 13</td>
