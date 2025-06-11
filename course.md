@@ -114,8 +114,8 @@ description: Course Plan
 <hr class="solid">
 
 <h5>ASSESSMENT</h5>
-  <ul style="list-style-type:none;">
-   <li>10% Quizzes (2)</li>
+  <ul style="list-style-type:square;">
+   <li>15% Quizzes (3)</li>
    <li>20% Project (1) and Assignments (2)</li>
    <li>25% Midterm Exam (1)</li>
    <li>40% Final Exam (1)</li>
