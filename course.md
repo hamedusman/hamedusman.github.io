@@ -51,15 +51,15 @@ description: Course Plan
   </tr>
   <tr>
     <td>Class 07</td>
-    <td>Paperclips exercise for control charts</td>
-    <td>October 14, 2025</td>
-    <td>In-class quiz II</td>
+    <td>Managing supply</td>
+    <td>October 21, 2025</td>
+    <td>Homework III</td>
   </tr>
   <tr>
-    <td>Class 08</td>
+    <td>Review of the course for midterms</td>
     <td>Paperclips exercise for control charts</td>
-    <td>October 14, 2025</td>
-    <td>In-class quiz II</td>
+    <td>October 28, 2025</td>
+    <td>Goodluck for midterms</td>
   </tr>
   <tr>
     <td>Class 09</td>
