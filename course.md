@@ -45,5 +45,6 @@ description: Course Plan
     <td>Class 06</td>
     <td>Managing Supply</td>
     <td>October 14, 2025</td>
+    <td>In-class quiz II</td>
   </tr>
 </table>
