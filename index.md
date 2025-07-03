@@ -5,7 +5,7 @@ description: Hamed Usman is an instructor of operations and supply chain managem
 keywords: hanedusman, hamed usman, hamed, usman, operations management, supply chain management, logistics, scm
 ---
 <div class="headline">Hello! I am an instructor of operations and supply chain management at a university. For more information, see my <a href="https://www.linkedin.com/in/hamedusman" target="_blank" rel="noopener noreferrer">LinkedIn&#x29c9;</a>.</div>
-<p></p>
+<hr class="solid">
 <div class="imgntxt">
  <div class="myimg">
   <img src="../assets/hamedusman.svg" width="60" height="60">
