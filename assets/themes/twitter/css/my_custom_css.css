@@ -223,7 +223,8 @@ ul {
 .imgntxt {
  background-color: #ffffff;
  display: flex;
- align-items: center; 
+ align-items: center;
+ margin-top: 5px;
 }
 
 .myimg {
