@@ -1,7 +1,7 @@
 ---
 layout: page
-title: LIST OF COURSES
-description: course
+title: Teaching
+description: There is list of courses taught by Hamed Usman.
 ---
 Bahria Business School, Bahria University, E-8 Campus, Islamabad, PK 
 <ul style="list-style-type:none;">
