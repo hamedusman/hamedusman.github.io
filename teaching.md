@@ -19,6 +19,6 @@ Bahria Business School, Bahria University, E-8 Campus, Islamabad, PK
    <li>SCM 421 Globalization and Outsourcing Strategies</li>
     <li>SCM 320 Import and Export Management</li>
     <li>QTM 110 Business Statistics</li>
-    <li>SCM 101 Introduction to Supply Chain Management (<a href="https://hamedusman.github.io/teaching">Course Plan</a>)</li>
+    <li>SCM 101 Introduction to Supply Chain Management (<a href="https://hamedusman.github.io/teaching/scm101">Course Plan</a>)</li>
    </ol>
 </ul>
