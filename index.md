@@ -116,7 +116,8 @@ TEACHING
       <li>SCM 701 Fundamentals of SCM (Fall 2024 & 2023; Spring 2024 & 2023; graduate level)</li>
       <li>SCM 320 Import and Export Management (Spring 2023; undergraduate level)</li>
       <li>QTM 110 Business Statistics (Fall 2024; Spring 2024; undergraduate level)</li>
-   </ol>
+     </ol>
+   </ul> 
  </ul>
 
 PROJECTS
