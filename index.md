@@ -107,7 +107,7 @@ TEACHING
     Active Courses (Fall 2025)
      <ol>
       <li><a href="https://hamedusman.github.io/c/scm707" target="_blank" rel="noopener noreferrer">SCM 707 Contemporary Issues in SC&#x29c9;</a> (Fall 2025, 2024 & 2023; Spring 2025, 2024 & 2023; graduate level)</li>
-      <li>SCM 631 Operational Planning in Supply Chain (Fall 2025; Spring 2025; graduate level)</li>
+      <li><a href="https://hamedusman.github.io/c/scm631" target="_blank" rel="noopener noreferrer">SCM 631 Operational Planning in Supply Chain&#x29c9;</a> (Fall 2025; Spring 2025; graduate level)</li>
       <li>SCM 421 Globalization and Outsourcing Strategies (Fall 2025 & 2023; Spring 2025; undergraduate level)</li>
       <li>SCM 101 Introduction to SCM (Fall 2025, 2024 & 2023; Spring 2025, 2024 & 2023; undergraduate level)</li>
      </ol>
