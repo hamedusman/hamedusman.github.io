@@ -306,11 +306,23 @@ table {
 }
 
 td, th {
+  border: 1px solid #ddd;
+  padding: 8px;
   text-align: left;
 }
 
 tr:nth-child(even) {
   background-color: #F0F0F0;
+}
+
+tr:hover {
+  background-color: #ddd;
+}
+
+th {
+  text-align: left;
+  background-color: #04AA6D;
+  color: white;
 }
 /* Course plan table ends here...*/
 
