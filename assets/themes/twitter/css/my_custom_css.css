@@ -306,7 +306,6 @@ table {
 }
 
 td, th {
-  border: 1px solid #ddd;
   text-align: left;
 }
 
@@ -316,12 +315,6 @@ tr:nth-child(odd) {
 
 tr:hover {
   background-color: #ddd;
-}
-
-th {
-  text-align: left;
-  background-color: #04AA6D;
-  color: white;
 }
 /* Course plan table ends here...*/
 
