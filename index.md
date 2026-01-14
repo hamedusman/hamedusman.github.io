@@ -111,9 +111,9 @@ TEACHING
      </ol>
     Closed Courses
      <ol>
-      <li><a href="https://hamedusman.github.io/c/scm707" target="_blank" rel="noopener noreferrer">SCM 707 Contemporary Issues in SC&#x29c9;</a> (Fall 2025, 2024 & 2023; Spring 2025, 2024 & 2023; graduate level)</li>
+      <li>SCM 707 Contemporary Issues in SC (Fall 2025, 2024 & 2023; Spring 2025, 2024 & 2023; graduate level)</li>
       <li>SCM 701 Fundamentals of SCM (Fall 2024 & 2023; Spring 2024 & 2023; graduate level)</li>
-      <li><a href="https://hamedusman.github.io/c/scm631" target="_blank" rel="noopener noreferrer">SCM 631 Operational Planning in Supply Chain&#x29c9;</a> (Fall 2025; Spring 2025; graduate level)</li>
+      <li>SCM 631 Operational Planning in Supply Chain (Fall 2025; Spring 2025; graduate level)</li>
       <li>SCM 320 Import and Export Management (Spring 2023; undergraduate level)</li>
       <li>QTM 110 Business Statistics (Fall 2024; Spring 2024; undergraduate level)</li>
      </ol>
