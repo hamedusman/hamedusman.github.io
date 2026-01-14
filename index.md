@@ -104,16 +104,16 @@ TEACHING
  <ul style="list-style-type:none;">
   Bahria Business School, Bahria University, E-8 Campus, Islamabad, PK
    <ul style="list-style-type:none;">
-    Active Courses (Fall 2025)
+    Open Courses
      <ol>
-      <li><a href="https://hamedusman.github.io/c/scm707" target="_blank" rel="noopener noreferrer">SCM 707 Contemporary Issues in SC&#x29c9;</a> (Fall 2025, 2024 & 2023; Spring 2025, 2024 & 2023; graduate level)</li>
-      <li><a href="https://hamedusman.github.io/c/scm631" target="_blank" rel="noopener noreferrer">SCM 631 Operational Planning in Supply Chain&#x29c9;</a> (Fall 2025; Spring 2025; graduate level)</li>
       <li><a href="https://hamedusman.github.io/c/scm421" target="_blank" rel="noopener noreferrer">SCM 421 Globalization and Outsourcing Strategies&#x29c9;</a> (Fall 2025 & 2023; Spring 2025; undergraduate level)</li>
       <li><a href="https://hamedusman.github.io/c/scm101" target="_blank" rel="noopener noreferrer">SCM 101 Introduction to SCM&#x29c9;</a> (Fall 2025, 2024 & 2023; Spring 2025, 2024 & 2023; undergraduate level)</li>
      </ol>
-    More Courses
+    Closed Courses
      <ol>
+      <li><a href="https://hamedusman.github.io/c/scm707" target="_blank" rel="noopener noreferrer">SCM 707 Contemporary Issues in SC&#x29c9;</a> (Fall 2025, 2024 & 2023; Spring 2025, 2024 & 2023; graduate level)</li>
       <li>SCM 701 Fundamentals of SCM (Fall 2024 & 2023; Spring 2024 & 2023; graduate level)</li>
+      <li><a href="https://hamedusman.github.io/c/scm631" target="_blank" rel="noopener noreferrer">SCM 631 Operational Planning in Supply Chain&#x29c9;</a> (Fall 2025; Spring 2025; graduate level)</li>
       <li>SCM 320 Import and Export Management (Spring 2023; undergraduate level)</li>
       <li>QTM 110 Business Statistics (Fall 2024; Spring 2024; undergraduate level)</li>
      </ol>
