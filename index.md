@@ -104,7 +104,7 @@ TEACHING
  <ul style="list-style-type:none;">
   Bahria Business School, Bahria University, E-8 Campus, Islamabad, PK
    <ul style="list-style-type:none;">
-    Open Courses
+    Open Courses for Spring 2026
      <ol>
       <li><a href="https://hamedusman.github.io/c/scm421" target="_blank" rel="noopener noreferrer">SCM 421 Globalization and Outsourcing Strategies&#x29c9;</a> (Fall 2025 & 2023; Spring 2025; undergraduate level)</li>
       <li><a href="https://hamedusman.github.io/c/scm101" target="_blank" rel="noopener noreferrer">SCM 101 Introduction to SCM&#x29c9;</a> (Fall 2025, 2024 & 2023; Spring 2025, 2024 & 2023; undergraduate level)</li>
