@@ -17,7 +17,7 @@ keywords: hanedusman, hamed usman, hamed, usman, operations management, supply c
 
 <hr class="solid">
 
-<a href="https://hamedusman.github.io/assets/print.pdf" target="_blank" rel="noopener noreferrer">View as Printer Friendly PDF&#x29c9;</a>
+<a href="https://hamedusman.github.io/print.pdf" target="_blank" rel="noopener noreferrer">View as Printer Friendly PDF&#x29c9;</a>
 
 EDUCATION
 
