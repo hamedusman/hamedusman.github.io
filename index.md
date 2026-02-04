@@ -16,7 +16,7 @@ keywords: hanedusman, hamed usman, hamed, usman, operations management, supply c
 </div>
 
 <hr class="solid">
-
+View as Printer Friendly PDF&#8236;
 EDUCATION
 
 <ul style="list-style-type:none;">
