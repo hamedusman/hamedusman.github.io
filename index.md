@@ -108,6 +108,7 @@ TEACHING
      <ol>
        <li><a href="https://hamedusman.github.io/c/scm632" target="_blank" rel="noopener noreferrer">SCM 632 Execution and Control of Operations in SCM&#x29c9;</a> (Spring 2026)</li>
       <li><a href="https://hamedusman.github.io/c/scm421" target="_blank" rel="noopener noreferrer">SCM 421 Globalization and Outsourcing Strategies&#x29c9;</a> (Fall 2025, 2023; Spring 2025, 2026)</li>
+      <li><a href="https://hamedusman.github.io/c/scm201" target="_blank" rel="noopener noreferrer">SCM 201 Introduction to Procurement Management&#x29c9;</a> (Spring 2026)</li>
       <li><a href="https://hamedusman.github.io/c/scm101" target="_blank" rel="noopener noreferrer">SCM 101 Introduction to SCM&#x29c9;</a> (Fall 2025, 2024, 2023; Spring 2026, 2025, 2024, 2023)</li>
      </ol>
     Closed Courses
