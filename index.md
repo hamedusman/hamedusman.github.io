@@ -104,20 +104,21 @@ TEACHING
  <ul style="list-style-type:none;">
   Bahria Business School, Bahria University, E-8 Campus, Islamabad, PK
    <ul style="list-style-type:none;">
-    Open Courses for Spring 2026
-     <ol>
-       <li><a href="https://hamedusman.github.io/c/scm632" target="_blank" rel="noopener noreferrer">SCM 632 Execution and Control of Operations in SCM&#x29c9;</a> (Spring 2026)</li>
-      <li><a href="https://hamedusman.github.io/c/scm421" target="_blank" rel="noopener noreferrer">SCM 421 Globalization and Outsourcing Strategies&#x29c9;</a> (Fall 2025, 2023; Spring 2025, 2026)</li>
-      <li><a href="https://hamedusman.github.io/c/scm201" target="_blank" rel="noopener noreferrer">SCM 201 Introduction to Procurement Management&#x29c9;</a> (Spring 2026)</li>
-      <li><a href="https://hamedusman.github.io/c/scm101" target="_blank" rel="noopener noreferrer">SCM 101 Introduction to SCM&#x29c9;</a> (Fall 2025, 2024, 2023; Spring 2026, 2025, 2024, 2023)</li>
+    Open Courses
+     <ol>  
+      <li>There are no open courses at this moment.</li>
      </ol>
     Closed Courses
      <ol>
       <li>SCM 707 Contemporary Issues in SC (Fall 2025, 2024, 2023; Spring 2025, 2024, 2023; graduate level)</li>
       <li>SCM 701 Fundamentals of SCM (Fall 2024, 2023; Spring 2024, 2023; graduate level)</li>
+      <i>SCM 632 Execution and Control of Operations in SCM&#x29c9;</a> (Spring 2026)</li>
       <li>SCM 631 Operational Planning in Supply Chain (Fall 2025; Spring 2025; graduate level)</li>
+      <i>SCM 421 Globalization and Outsourcing Strategies&#x29c9;</a> (Fall 2025, 2023; Spring 2025, 2026)</li>
       <li>SCM 320 Import and Export Management (Spring 2023; undergraduate level)</li>
+      <i>SCM 201 Introduction to Procurement Management&#x29c9;</a> (Spring 2026)</li>
       <li>QTM 110 Business Statistics (Fall 2024; Spring 2024; undergraduate level)</li>
+      <i>SCM 101 Introduction to SCM&#x29c9;</a> (Fall 2025, 2024, 2023; Spring 2026, 2025, 2024, 2023)</li>
      </ol>
    </ul> 
  </ul>
