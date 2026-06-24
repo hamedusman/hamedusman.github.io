@@ -106,9 +106,8 @@ TEACHING
   Bahria Business School, Bahria University, E-8 Campus, Islamabad, PK
    <ul style="list-style-type:square;">
     Open Courses
-     <ol>  
       <li>There are no open courses at this moment.</li>
-     </ol>
+     </ul>
     Closed Courses
      <ol>
       <li>SCM 707 Contemporary Issues in SC (Fall 2025, 2024, 2023; Spring 2025, 2024, 2023; graduate level)</li>
