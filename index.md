@@ -106,7 +106,6 @@ TEACHING
   Bahria Business School, Bahria University, E-8 Campus, Islamabad, PK
    <ul style="list-style-type:none;">
     Open Courses: There are no open courses at this moment.
-   </ul>
    <ul style="list-style-type:none;">  
   Closed Courses
      <ol>
@@ -120,7 +119,7 @@ TEACHING
       <li>QTM 110 Business Statistics (Fall 2024; Spring 2024; undergraduate level)</li>
       <li>SCM 101 Introduction to SCM (Fall 2025, 2024, 2023; Spring 2026, 2025, 2024, 2023)</li>
      </ol>
-   </ul> 
+   </ul></ul> 
  </ul>
 
 PROJECTS
