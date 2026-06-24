@@ -112,13 +112,13 @@ TEACHING
      <ol>
       <li>SCM 707 Contemporary Issues in SC (Fall 2025, 2024, 2023; Spring 2025, 2024, 2023; graduate level)</li>
       <li>SCM 701 Fundamentals of SCM (Fall 2024, 2023; Spring 2024, 2023; graduate level)</li>
-      <i>SCM 632 Execution and Control of Operations in SCM (Spring 2026)</li>
+      <li>SCM 632 Execution and Control of Operations in SCM (Spring 2026)</li>
       <li>SCM 631 Operational Planning in Supply Chain (Fall 2025; Spring 2025; graduate level)</li>
-      <i>SCM 421 Globalization and Outsourcing Strategies (Fall 2025, 2023; Spring 2025, 2026)</li>
+      <li>SCM 421 Globalization and Outsourcing Strategies (Fall 2025, 2023; Spring 2025, 2026)</li>
       <li>SCM 320 Import and Export Management (Spring 2023; undergraduate level)</li>
-      <i>SCM 201 Introduction to Procurement Management (Spring 2026)</li>
+      <li>SCM 201 Introduction to Procurement Management (Spring 2026)</li>
       <li>QTM 110 Business Statistics (Fall 2024; Spring 2024; undergraduate level)</li>
-      <i>SCM 101 Introduction to SCM (Fall 2025, 2024, 2023; Spring 2026, 2025, 2024, 2023)</li>
+      <li>SCM 101 Introduction to SCM (Fall 2025, 2024, 2023; Spring 2026, 2025, 2024, 2023)</li>
      </ol>
    </ul> 
  </ul>
