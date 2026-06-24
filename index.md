@@ -91,11 +91,12 @@ RESEARCH
    <ul style="list-style-type:none;">Bahria Business School, Bahria University, E-8 Campus, Islamabad, PK
     <ol>
      <li>Hira Waris (MS (SCM); Graduated in Spring 2023; Final Grade: A-)</li>
-      <!--<ul style="list-style-type:none;"><li>- Thesis Title: <i>The relationship between inventory leanness, dynamism, and sustainability of firms: In context of US-based clean 200 companies</i></li></ul>-->
      <li>Kanwal Iftikhar (MS (SCM); Graduated in Fall 2023; Final Grade: A+)</li>
      <li>Naida Arif (MS (SCM); Graduated in Fall 2023; Final Grade: A+)</li>
      <li>Quratulain Marriam (MS (SCM); Graduated in Spring 2024; Final Grade: A-)</li>
      <li>Quratulain (MS (SCM); Graduated in Fall 2024; Final Grade: A-)</li>
+     <li>M Jazib (MS (SCM); Graduated in Spring 2025; Final Grade: A-)</li>
+     <li>Muwadit Ahmed (MS (SCM); Graduated in Spring 2025; Final Grade: A-)</li>
     </ol>
    </ul>
   </ul>
@@ -103,7 +104,7 @@ RESEARCH
 TEACHING
  <ul style="list-style-type:none;">
   Bahria Business School, Bahria University, E-8 Campus, Islamabad, PK
-   <ul style="list-style-type:none;">
+   <ul style="list-style-type:square;">
     Open Courses
      <ol>  
       <li>There are no open courses at this moment.</li>
