@@ -107,7 +107,9 @@ TEACHING
    <ul style="list-style-type:square;">
     Open Courses
       <li>There are no open courses at this moment.</li>
-    Closed Courses
+    </ul>
+  <ul style="list-style-type:none;">  
+  Closed Courses
      <ol>
       <li>SCM 707 Contemporary Issues in SC (Fall 2025, 2024, 2023; Spring 2025, 2024, 2023; graduate level)</li>
       <li>SCM 701 Fundamentals of SCM (Fall 2024, 2023; Spring 2024, 2023; graduate level)</li>
