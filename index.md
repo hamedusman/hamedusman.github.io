@@ -104,10 +104,12 @@ RESEARCH
 TEACHING
  <ul style="list-style-type:none;">
   Bahria Business School, Bahria University, E-8 Campus, Islamabad, PK
-   <ul style="list-style-type:square;">
+   <ul style="list-style-type:none;">
     Open Courses
+    <ol>
     <li>There are no open courses at this moment.</li>
-   </ul>
+    </ol>
+    </ul>
    <ul style="list-style-type:none;">  
   Closed Courses
      <ol>
