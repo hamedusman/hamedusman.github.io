@@ -19,7 +19,7 @@ TCS New York City Marathon
 
 CARRER
 Become a university professor (tenure-track position)
-&#9881; &#10227; ⏳ Senior Lecturer (in the process)
+&#10004; &#9881; &#10227; ⏳ Senior Lecturer (in the process)
 Attain at least one academic degree from an international university at a different continent
 &#9989; MS (SCM) from Saint Louis University, Saint Louis, MO, USA (August 2019)
 PhD is in the process
