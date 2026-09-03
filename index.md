@@ -63,14 +63,6 @@ ACADEMIC EXPERIENCE
   </ul>
 </ul>
 
-<ul style="list-style-type:none;">
- Richard A. Chaifetz School of Business, Saint Louis University, Saint Louis, MO, USA
-  <ul style="list-style-type:square;">
-   <li>Junior Researcher, SCM, Center for Supply Chain Excellence (2019 - 2023)</li>
-    <!--<ul style="list-style-type:none;"><i>Mentor: Ik-Whan Kwon, Ph.D.</i>-->
-  </ul>
-</ul>
-
 RESEARCH
   <ul style="list-style-type:none;">Journal Article
    <ul style="list-style-type:square;"><li>Kwon, I. W. G., Shin, N., Kim, S. H., & Usman, H. (2021). Trust and commitment in supply chain during digital transformation: A case in Korea. <i>AIMS Environmental Science</i>, 8(6): 641–655</li>
